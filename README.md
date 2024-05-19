@@ -3,6 +3,7 @@ awesome list of AI-Driven Development.
 
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline)
 - [autogen](https://github.com/microsoft/autogen)
+- [ChatDev](https://github.com/OpenBMB/ChatDev)
 - [crewAI](https://github.com/joaomdmoura/crewAI)
 - [MetaGPT](https://github.com/geekan/MetaGPT/)
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage)
