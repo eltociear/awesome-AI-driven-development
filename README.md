@@ -4,10 +4,10 @@
 
 A curated list of awesome AI-Driven development.
 
-- [AIGenPipeline](https://github.com/stoerr/AIGenPipeline)
+- [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover)
 - [autogen](https://github.com/microsoft/autogen)
-- [ChatDev](https://github.com/OpenBMB/ChatDev)
+- [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
 - [crewAI](https://github.com/joaomdmoura/crewAI)
 - [devika](https://github.com/stitionai/devika)
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
