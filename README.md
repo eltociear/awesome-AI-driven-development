@@ -10,6 +10,7 @@ A curated list of awesome AI-Driven development.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
+- [Devon](https://github.com/entropy-research/Devon) - An open-source pair programmer
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - [MetaGPT](https://github.com/geekan/MetaGPT/)
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage)
