@@ -8,6 +8,7 @@ A curated list of awesome AI-Driven development.
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
 - [autogen](https://github.com/microsoft/autogen)
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
+- [cover-agent](https://github.com/Codium-ai/cover-agent) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
 - [Devon](https://github.com/entropy-research/Devon) - An open-source pair programmer
