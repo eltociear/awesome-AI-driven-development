@@ -13,6 +13,7 @@ A curated list of awesome AI-Driven development.
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
 - [Devon](https://github.com/entropy-research/Devon) - An open-source pair programmer
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
+- [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [MetaGPT](https://github.com/geekan/MetaGPT/)
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage)
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent)
