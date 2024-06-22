@@ -15,7 +15,7 @@ A curated list of awesome AI-Driven development.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin)
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
-- [MetaGPT](https://github.com/geekan/MetaGPT/)
+- [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage)
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent)
 - [zoltraak](https://github.com/dai-motoki/zoltraak)
