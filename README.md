@@ -4,6 +4,7 @@
 
 A curated list of awesome AI-Driven development.
 
+- [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
 - [autogen](https://github.com/microsoft/autogen)
