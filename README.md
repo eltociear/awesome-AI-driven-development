@@ -8,8 +8,9 @@ A curated list of awesome AI-Driven development.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
-- [autogen](https://github.com/microsoft/autogen)
+- [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
+- [copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - Github copilot chat in emacs
 - [cover-agent](https://github.com/Codium-ai/cover-agent) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
