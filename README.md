@@ -12,6 +12,7 @@ A curated list of awesome AI-Driven development.
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
 - [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
+- [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
 - [copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - Github copilot chat in emacs
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
