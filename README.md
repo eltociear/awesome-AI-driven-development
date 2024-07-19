@@ -8,6 +8,7 @@ A curated list of awesome AI-Driven development.
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
+- [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - The AI and Human powered ticket system to manage your AI based code generation with tickets
 - [AutoAgents](https://github.com/Link-AGI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
 - [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI.
