@@ -36,15 +36,15 @@ A curated list of awesome AI-Driven development.
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
+- [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
+- [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - a platform for autonomous software engineers, powered by AI and LLMs
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
-- [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI.
