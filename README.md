@@ -50,6 +50,7 @@ A curated list of awesome AI-Driven development.
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI.
+- [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
