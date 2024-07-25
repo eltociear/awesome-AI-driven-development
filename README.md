@@ -35,6 +35,7 @@ A curated list of awesome AI-Driven development.
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
 - [Devon](https://github.com/entropy-research/Devon) - An open-source pair programmer
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
+- [gpt-all-star](https://github.com/kyaukyuai/gpt-all-star) - AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
