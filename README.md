@@ -48,6 +48,7 @@ A curated list of awesome AI-Driven development.
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
+- [pr-pilot-cli](https://github.com/PR-Pilot-AI/pr-pilot-cli) - Command-line interface for PR Pilot.
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI.
