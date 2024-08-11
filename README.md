@@ -41,6 +41,7 @@ A curated list of awesome AI-Driven development.
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
 - [merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
