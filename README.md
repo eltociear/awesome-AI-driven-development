@@ -6,6 +6,7 @@ A curated list of awesome AI-Driven development.
 
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - an agentless approach to automatically solve software development problems
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development.
+- [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - Incorporating Agile methodology into agents to create complex real-world softwares
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
 - [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
