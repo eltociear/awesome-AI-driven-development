@@ -23,6 +23,7 @@ A curated list of awesome AI-Driven development.
 - [CodeGeeX4](https://github.com/THUDM/CodeGeeX4) -  versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
 - [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE
+- [comandi](https://github.com/datavorous/comandi) - A Free API-Keyless AI-powered CLI for Programming Support, Error Debugging and Automated Instruction Translations.
 - [commit](https://github.com/wajeht/commit) - generate conventional commits with ai
 - [continue](https://github.com/continuedev/continue) - the leading open-source AI code assistant.
 - [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
