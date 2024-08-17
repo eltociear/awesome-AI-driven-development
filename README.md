@@ -18,6 +18,7 @@ A curated list of awesome AI-Driven development.
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - an interactive command-line interface (CLI) to assist with software development tasks.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
+- [ClaudeAssistant](https://github.com/itodobien/ClaudeAssistant) - AI Coding Assistant
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) - An Open Multilingual Code Generation Model
 - [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - A More Powerful Multilingual Code Generation Model
