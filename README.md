@@ -51,6 +51,7 @@ A curated list of awesome AI-Driven development.
 - [lazycommit](https://github.com/m7medVision/lazycommit) - using AI to generate commit message suggestions
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
+- [melty](https://github.com/meltylabs/melty) - Open source AI code editor.
 - [merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
