@@ -20,6 +20,7 @@ A curated list of awesome AI-Driven development.
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - an interactive command-line interface (CLI) to assist with software development tasks.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
+- [chatgpt.nvim](https://github.com/jackmort/chatgpt.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [ClaudeAssistant](https://github.com/itodobien/ClaudeAssistant) - AI Coding Assistant
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) - An Open Multilingual Code Generation Model
@@ -33,6 +34,7 @@ A curated list of awesome AI-Driven development.
 - [continue](https://github.com/continuedev/continue) - the leading open-source AI code assistant.
 - [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
+- [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - Github copilot chat in emacs
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
 - [cover-agent](https://github.com/Codium-ai/cover-agent) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
