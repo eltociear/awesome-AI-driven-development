@@ -50,6 +50,7 @@ A curated list of awesome AI-Driven development.
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents.
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
+- [kodu-coder](https://github.com/kodu-ai/kodu-coder) - an autonomous coding agent that lives in your IDE.
 - [lazycommit](https://github.com/m7medVision/lazycommit) - using AI to generate commit message suggestions
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
