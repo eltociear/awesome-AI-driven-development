@@ -76,9 +76,11 @@ A curated list of awesome AI-Driven development.
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [turbopilot](https://github.com/ravenscroftj/turbopilot) - an open source large-language-model based code completion engine that runs locally on CPU
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 - [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [void](https://github.com/voideditor/void) - Void is the open-source Cursor alternative.
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows.
+- [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
 - [zoltraak](https://github.com/dai-motoki/zoltraak) - a prompt compiler system that converts natural language into an execution language
