@@ -64,6 +64,7 @@ A curated list of awesome AI-Driven development.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - a platform for autonomous software engineers, powered by AI and LLMs
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+- [o1-engineer](https://github.com/Doriandarko/o1-engineer) - a command-line tool designed to assist developers in managing and interacting with their projects efficiently.
 - [pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
 - [Perpetual](https://github.com/DarkCaster/Perpetual) - LLM-driven software development helper.
 - [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal.
