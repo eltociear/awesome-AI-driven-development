@@ -43,6 +43,7 @@ A curated list of awesome AI-Driven development.
 - [cover-agent](https://github.com/Codium-ai/cover-agent) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
 - [development-workforce](https://github.com/Grusinator/development-workforce) - experimentation on how to integrate ai agents into existing software development setup.
 - [DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code togheter, right now!
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
