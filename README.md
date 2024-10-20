@@ -11,6 +11,7 @@ A curated list of awesome AI-Driven development.
 - [aider-github-action](https://github.com/mirrajabi/aider-github-action) - Run Aider AI assistant in your Github Workflows!
 - [aider-github-workflows](https://github.com/mirrajabi/aider-github-workflows) - Workflows that use aider-github-action
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
+- [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - Code Large Language Model
 - [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - The AI and Human powered ticket system to manage your AI based code generation with tickets
 - [amplication](https://github.com/amplication/amplication) - The Only Production-Ready AI-Powered Backend Code Generation
