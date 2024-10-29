@@ -41,6 +41,7 @@ A curated list of awesome AI-Driven development.
 - [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - Github copilot chat in emacs
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
+- [coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs.
 - [cover-agent](https://github.com/Codium-ai/cover-agent) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
