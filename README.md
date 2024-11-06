@@ -91,6 +91,7 @@ A curated list of awesome AI-Driven development.
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 - [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [void](https://github.com/voideditor/void) - Void is the open-source Cursor alternative.
+- [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows.
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
