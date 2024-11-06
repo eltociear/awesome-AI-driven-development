@@ -20,6 +20,7 @@ A curated list of awesome AI-Driven development.
 - [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI.
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - an interactive command-line interface (CLI) to assist with software development tasks.
+- [bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
 - [chatgpt.nvim](https://github.com/jackmort/chatgpt.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [ClaudeAssistant](https://github.com/itodobien/ClaudeAssistant) - AI Coding Assistant
