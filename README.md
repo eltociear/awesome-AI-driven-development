@@ -34,6 +34,7 @@ A curated list of awesome AI-Driven development.
 - [codemapper](https://github.com/shaneholloman/codemapper) - a python script that creates a comprehensive Markdown document representing the structure and contents of a given directory
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust
 - [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
+- [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase.
 - [coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE
 - [comandi](https://github.com/datavorous/comandi) - A Free API-Keyless AI-powered CLI for Programming Support, Error Debugging and Automated Instruction Translations.
 - [commit](https://github.com/wajeht/commit) - generate conventional commits with ai
