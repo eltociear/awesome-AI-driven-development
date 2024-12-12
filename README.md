@@ -85,6 +85,7 @@ A curated list of awesome AI-Driven development.
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
 - [pr-pilot-cli](https://github.com/PR-Pilot-AI/pr-pilot-cli) - Command-line interface for PR Pilot.
+- [QodeAssist](https://github.com/Palm1r/QodeAssist) - an AI-powered coding assistant plugin for Qt Creator
 - [qodo-cover](https://github.com/qodo-ai/qodo-cover) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - the code version of Qwen2.5
 - [rift](https://github.com/morph-labs/rift) - an AI-native language server for your personal AI software engineer
