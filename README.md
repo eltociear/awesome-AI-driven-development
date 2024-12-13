@@ -89,6 +89,7 @@ A curated list of awesome AI-Driven development.
 - [QodeAssist](https://github.com/Palm1r/QodeAssist) - an AI-powered coding assistant plugin for Qt Creator
 - [qodo-cover](https://github.com/qodo-ai/qodo-cover) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - the code version of Qwen2.5
+- [RA.Aid](https://github.com/ai-christianson/RA.Aid) - a powerful AI-driven command-line tool that integrates aider (https://aider.chat/) within a LangChain ReAct agent loop.
 - [rift](https://github.com/morph-labs/rift) - an AI-native language server for your personal AI software engineer
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
