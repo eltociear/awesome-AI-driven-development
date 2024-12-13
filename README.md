@@ -72,6 +72,7 @@ A curated list of awesome AI-Driven development.
 - [merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
+- [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [oneShotCodeGen](https://github.com/vivek100/oneShotCodeGen) - Create full stack webapps with single prompt
 - [oi](https://github.com/oi-overide/oi) - an open-source cli tool that works on top of codellama and generates code in any editor without extensions.
