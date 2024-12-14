@@ -78,6 +78,7 @@ A curated list of awesome AI-Driven development.
 - [oi](https://github.com/oi-overide/oi) - an open-source cli tool that works on top of codellama and generates code in any editor without extensions.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - a platform for autonomous software engineers, powered by AI and LLMs
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+- [O1-CODER](https://github.com/ADaM-BJTU/O1-CODER) - AN O1 REPLICATION FOR CODING
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - a command-line tool designed to assist developers in managing and interacting with their projects efficiently.
 - [pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
 - [Perpetual](https://github.com/DarkCaster/Perpetual) - LLM-driven software development helper.
