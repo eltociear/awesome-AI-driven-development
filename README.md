@@ -51,6 +51,7 @@ A curated list of awesome AI-Driven development.
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
+- [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows.
 - [development-workforce](https://github.com/Grusinator/development-workforce) - experimentation on how to integrate ai agents into existing software development setup.
 - [DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code togheter, right now!
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
