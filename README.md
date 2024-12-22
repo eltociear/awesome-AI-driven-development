@@ -41,7 +41,8 @@ A curated list of awesome AI-Driven development.
 - [comandi](https://github.com/datavorous/comandi) - A Free API-Keyless AI-powered CLI for Programming Support, Error Debugging and Automated Instruction Translations.
 - [commit](https://github.com/wajeht/commit) - generate conventional commits with ai
 - [continue](https://github.com/continuedev/continue) - the leading open-source AI code assistant.
-- [CopilotForXcode](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
+- [CopilotForXcode(@github)](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
+- [CopilotForXcode(@intitni)](https://github.com/intitni/CopilotForXcode) - The missing GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension
 - [copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - Github copilot chat in emacs
