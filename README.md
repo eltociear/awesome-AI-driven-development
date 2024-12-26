@@ -99,6 +99,7 @@ A curated list of awesome AI-Driven development.
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - a powerful AI-driven command-line tool that integrates aider (https://aider.chat/) within a LangChain ReAct agent loop.
 - [rift](https://github.com/morph-labs/rift) - an AI-native language server for your personal AI software engineer
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+- [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI.
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
