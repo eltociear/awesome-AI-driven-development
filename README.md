@@ -53,6 +53,7 @@ A curated list of awesome AI-Driven development.
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs.
 - [cover-agent](https://github.com/Codium-ai/cover-agent) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
+- [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - Generate fully functional crews based on the crew's purpose and desired output data
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
 - [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows.
@@ -68,6 +69,7 @@ A curated list of awesome AI-Driven development.
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [gp.nvim](https://github.com/robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents.
+- [jarvis](https://github.com/danilofalcao/jarvis) - an intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions.
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - an autonomous coding agent that lives in your IDE.
 - [lazycommit](https://github.com/m7medVision/lazycommit) - using AI to generate commit message suggestions
