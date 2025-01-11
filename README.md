@@ -78,6 +78,7 @@ A curated list of awesome AI-Driven development.
 - [kwaak](https://github.com/bosun-ai/kwaak) - Run a team of autonomous AI agents on your code, right from your terminal!
 - [lazycommit](https://github.com/m7medVision/lazycommit) - using AI to generate commit message suggestions
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Inference code of Lingma SWE-GPT
+- [llamacoder](https://github.com/Nutlope/llamacoder) - An open source Claude Artifacts – generate small apps with one prompt.
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
 - [melty](https://github.com/meltylabs/melty) - Open source AI code editor.
