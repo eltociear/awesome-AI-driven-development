@@ -57,6 +57,7 @@ A curated list of awesome AI-Driven development.
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - Generate fully functional crews based on the crew's purpose and desired output data
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
+- [cursor_agent](https://github.com/zalab-inc/cursor_agent) - A TypeScript library for creating structured task sequences for Cursor AI agents.
 - [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows.
 - [development-workforce](https://github.com/Grusinator/development-workforce) - experimentation on how to integrate ai agents into existing software development setup.
 - [DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code togheter, right now!
