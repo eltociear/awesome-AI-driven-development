@@ -111,6 +111,7 @@ A curated list of awesome AI-Driven development.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI.
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.
+- [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - a simple yet effective solution for addressing real-world GitHub issues by training open-source LLMs.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [turbopilot](https://github.com/ravenscroftj/turbopilot) - an open source large-language-model based code completion engine that runs locally on CPU
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
