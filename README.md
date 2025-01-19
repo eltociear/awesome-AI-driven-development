@@ -84,6 +84,7 @@ A curated list of awesome AI-Driven development.
 - [melty](https://github.com/meltylabs/melty) - Open source AI code editor.
 - [merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - Minuet offers AI code completion from popular LLMs including OpenAI, Gemini, Claude, Codestral, and more.
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
