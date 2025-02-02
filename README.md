@@ -54,6 +54,7 @@ A curated list of awesome AI-Driven development.
 - [copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond.
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs.
+- [couscous](https://github.com/ARAldhafeeri/couscous) - a VS Code extension that uses AI to analyze your code quality against best practices and team conventions.
 - [cover-agent](https://github.com/Codium-ai/cover-agent) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement!
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents.
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - Generate fully functional crews based on the crew's purpose and desired output data
