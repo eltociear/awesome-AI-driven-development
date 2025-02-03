@@ -119,6 +119,7 @@ A curated list of awesome AI-Driven development.
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - a simple yet effective solution for addressing real-world GitHub issues by training open-source LLMs.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
+- [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world’s first open-source testing agent, built to handle the toughest testing tasks so you don’t have to. It turns simple, easy-to-write Gherkin steps into fully automated end to end tests—no coding skills needed.
 - [turbopilot](https://github.com/ravenscroftj/turbopilot) - an open source large-language-model based code completion engine that runs locally on CPU
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 - [VectorCode](https://github.com/Davidyz/VectorCode) - a code repository indexing tool. It helps you write better prompt for your coding LLMs by indexing and providing information about the code repository you're working on.
