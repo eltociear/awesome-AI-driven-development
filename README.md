@@ -70,6 +70,7 @@ A curated list of awesome AI-Driven development.
 - [Devon](https://github.com/entropy-research/Devon) - An open-source pair programmer
 - [DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
+- [genjs-cli](https://github.com/vaibav03/genjs-cli) - a command-line tool that interacts with the Anthropic API to generate code templates based on custom prompts.
 - [gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
 - [gitpack-ai](https://github.com/gitpack-ai/gitpack-ai) - Automate Pull Request Reviews with AI
 - [gpt-all-star](https://github.com/kyaukyuai/gpt-all-star) - AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
