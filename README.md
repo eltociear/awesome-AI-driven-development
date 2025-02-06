@@ -64,6 +64,7 @@ A curated list of awesome AI-Driven development.
 - [cursor_agent](https://github.com/zalab-inc/cursor_agent) - A TypeScript library for creating structured task sequences for Cursor AI agents.
 - [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows.
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - provides a chat interface for the DeepSeek-R1 model.
+- [devblahblah](https://github.com/devblahblah/devblahblah) - Just a simple tool to help out with development tasks using LLM APIs
 - [development-workforce](https://github.com/Grusinator/development-workforce) - experimentation on how to integrate ai agents into existing software development setup.
 - [DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code togheter, right now!
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
