@@ -88,7 +88,6 @@ A curated list of awesome AI-Driven development.
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
 - [melty](https://github.com/meltylabs/melty) - Open source AI code editor.
-- [merlinn](https://github.com/merlinn-co/merlinn) - Open source AI on-call developer
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - Minuet offers AI code completion from popular LLMs including OpenAI, Gemini, Claude, Codestral, and more.
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
@@ -125,6 +124,7 @@ A curated list of awesome AI-Driven development.
 - [turbopilot](https://github.com/ravenscroftj/turbopilot) - an open source large-language-model based code completion engine that runs locally on CPU
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 - [VectorCode](https://github.com/Davidyz/VectorCode) - a code repository indexing tool. It helps you write better prompt for your coding LLMs by indexing and providing information about the code repository you're working on.
+- [vespper](https://github.com/vespperhq/vespper) - open-source AI on-call developer
 - [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [void](https://github.com/voideditor/void) - Void is the open-source Cursor alternative.
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
