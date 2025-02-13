@@ -10,8 +10,10 @@ A curated list of awesome AI-Driven development.
 - [aiCoder](https://github.com/mmiscool/aiCoder) - A tool to write JS libraries using AI.
 - [AiDE](https://github.com/FixingPixels/AiDE) - a structured approach to developing projects with AI assistance.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
+- [aidermacs](https://github.com/MatthewZMD/aidermacs) - Aider AI Pair Programming in Emacs
 - [aider-github-action](https://github.com/mirrajabi/aider-github-action) - Run Aider AI assistant in your Github Workflows!
 - [aider-github-workflows](https://github.com/mirrajabi/aider-github-workflows) - Workflows that use aider-github-action
+- [aider.el](https://github.com/tninja/aider.el) - aider (AI Pair Programming) Inside Emacs
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
 - [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - Code Large Language Model
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - A CLI tool that generates AI-based git commit messages.
@@ -23,6 +25,7 @@ A curated list of awesome AI-Driven development.
 - [AutoCoder](https://github.com/bin123apple/AutoCoder) - Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
 - [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI.
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
+- [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest
 - [avante.nvim](https://github.com/yetone/avante.nvim) - a Neovim plugin designed to emulate the behaviour of the Cursor AI IDE.
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - an interactive command-line interface (CLI) to assist with software development tasks.
 - [bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
