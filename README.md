@@ -131,6 +131,7 @@ A curated list of awesome AI-Driven development.
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - Learning to Generate Unit Tests for Automated Debugging
 - [VectorCode](https://github.com/Davidyz/VectorCode) - a code repository indexing tool. It helps you write better prompt for your coding LLMs by indexing and providing information about the code repository you're working on.
 - [vespper](https://github.com/vespperhq/vespper) - open-source AI on-call developer
+- [VimLM](https://github.com/JosefAlbers/VimLM) - LLM-powered coding companion for Vim, inspired by GitHub Copilot/Cursor.
 - [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [void](https://github.com/voideditor/void) - Void is the open-source Cursor alternative.
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
