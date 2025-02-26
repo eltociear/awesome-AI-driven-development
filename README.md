@@ -32,6 +32,7 @@ A curated list of awesome AI-Driven development.
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
 - [chatgpt.nvim](https://github.com/jackmort/chatgpt.nvim) - Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [ClaudeAssistant](https://github.com/itodobien/ClaudeAssistant) - AI Coding Assistant
+- [claude-code](https://github.com/anthropics/claude-code) - an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [Clean-Coder-AI](https://github.com/Grigorij-Dudnik/Clean-Coder-AI) - AI coder that thinks before doing.
 - [cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
