@@ -43,6 +43,7 @@ A curated list of awesome AI-Driven development.
 - [CodeGeeX4](https://github.com/THUDM/CodeGeeX4) -  versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
 - [codemapper](https://github.com/shaneholloman/codemapper) - a python script that creates a comprehensive Markdown document representing the structure and contents of a given directory
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust
+- [codeselect](https://github.com/maynetee/codeselect) - A simple, interactive tool to select and share code with AI assistants like Claude and ChatGPT.
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase.
 - [code-converter](https://github.com/JoKerDii/code-converter) - An AI tool converting python code to C++
 - [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
