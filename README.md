@@ -120,6 +120,7 @@ A curated list of awesome AI-Driven development.
 - [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - the code version of Qwen2.5
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - a powerful AI-driven command-line tool that integrates aider (https://aider.chat/) within a LangChain ReAct agent loop.
 - [rift](https://github.com/morph-labs/rift) - an AI-native language server for your personal AI software engineer
+- [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - A lean Roo Code config for VS Code, blending Claude Pro and OpenRouter to cut token costs (from €60/day to €20-30/day).
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - an AI-powered autonomous coding agent that lives in your editor.
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
