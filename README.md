@@ -18,6 +18,7 @@ A curated list of awesome AI-Driven development.
 - [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - Code Large Language Model
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - A CLI tool that generates AI-based git commit messages.
 - [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
+- [AI-Setup](https://github.com/ctavolazzi/ai-setup) - a toolkit for setting up AI-assisted development environments and managing work efforts.
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - The AI and Human powered ticket system to manage your AI based code generation with tickets
 - [amplication](https://github.com/amplication/amplication) - The Only Production-Ready AI-Powered Backend Code Generation
 - [arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps.
