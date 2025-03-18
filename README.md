@@ -28,6 +28,7 @@ A curated list of awesome AI-Driven development.
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement.
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest
 - [avante.nvim](https://github.com/yetone/avante.nvim) - a Neovim plugin designed to emulate the behaviour of the Cursor AI IDE.
+- [Basic Memory](https://github.com/basicmachines-co/basic-memory) - a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants.
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - an interactive command-line interface (CLI) to assist with software development tasks.
 - [bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea
