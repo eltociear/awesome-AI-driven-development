@@ -126,6 +126,7 @@ A curated list of awesome AI-Driven development.
 - [rift](https://github.com/morph-labs/rift) - an AI-native language server for your personal AI software engineer
 - [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - A lean Roo Code config for VS Code, blending Claude Pro and OpenRouter to cut token costs (from €60/day to €20-30/day).
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - an AI-powered autonomous coding agent that lives in your editor.
+- [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - This template provides a robust and adaptable framework of rules designed to enhance the performance of AI coding assistants like Cursor and CLINE.
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
