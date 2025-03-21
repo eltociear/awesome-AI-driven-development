@@ -81,6 +81,7 @@ A curated list of awesome AI-Driven development.
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
 - [genjs-cli](https://github.com/vaibav03/genjs-cli) - a command-line tool that interacts with the Anthropic API to generate code templates based on custom prompts.
 - [gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
+- [GitLab-MCP-Server](https://github.com/owayo/gitlab-mcp-server) - Model Context Protocol (MCP) server that provides integration with GitLab.
 - [gitpack-ai](https://github.com/gitpack-ai/gitpack-ai) - Automate Pull Request Reviews with AI
 - [gpt-all-star](https://github.com/kyaukyuai/gpt-all-star) - AI-powered code generation tool for scratch development of web applications with a team collaboration of autonomous AI agents.
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
