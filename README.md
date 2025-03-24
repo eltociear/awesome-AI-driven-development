@@ -115,6 +115,7 @@ A curated list of awesome AI-Driven development.
 - [pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
 - [Perpetual](https://github.com/DarkCaster/Perpetual) - LLM-driven software development helper.
 - [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal.
+- [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
