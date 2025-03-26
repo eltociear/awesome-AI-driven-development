@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development.
+A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - an agentless approach to automatically solve software development problems
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development.
