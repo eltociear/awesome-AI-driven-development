@@ -1,4 +1,4 @@
-# 🤖Awesome AI-driven development
+# 🤖 Awesome AI-driven development
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
@@ -45,6 +45,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - A More Powerful Multilingual Code Generation Model
 - [CodeGeeX4](https://github.com/THUDM/CodeGeeX4) -  versatile model for all AI software development scenarios, including code completion, code interpreter, web search, function calling, repository-level Q&A and much more.
 - [codemapper](https://github.com/shaneholloman/codemapper) - a python script that creates a comprehensive Markdown document representing the structure and contents of a given directory
+- [CodePanda](https://github.com/jjleng/code-panda) - an AI-powered coding tool that helps you build full-stack web applications through natural language interaction.
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust
 - [codeselect](https://github.com/maynetee/codeselect) - A simple, interactive tool to select and share code with AI assistants like Claude and ChatGPT.
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase.
