@@ -16,6 +16,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [aider.el](https://github.com/tninja/aider.el) - aider (AI Pair Programming) Inside Emacs
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
 - [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - Code Large Language Model
+- [ai-app-builder](https://github.com/fireproof-storage/ai-app-builder) - The most forkable AI app generator, deployed as single page app
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - A CLI tool that generates AI-based git commit messages.
 - [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities.
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - a toolkit for setting up AI-assisted development environments and managing work efforts.
