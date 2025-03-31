@@ -132,6 +132,8 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - A command-line tool to scan a project directory, identify files that are not ignored by .gitignore rules, and concatenate their contents into a single text file ("scribe" them).
 - [rift](https://github.com/morph-labs/rift) - an AI-native language server for your personal AI software engineer
 - [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - A lean Roo Code config for VS Code, blending Claude Pro and OpenRouter to cut token costs (from €60/day to €20-30/day).
+- [RooFlow](https://github.com/GreatScottyMac/RooFlow) -  Enhanced Memory Bank System with ☢️Footgun Power☢️ Next-gen Memory Bank system with five integrated modes and system-level customization.
+- [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - a template for applying Rooflow to Roocode in an easy way.
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - an AI-powered autonomous coding agent that lives in your editor.
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - This template provides a robust and adaptable framework of rules designed to enhance the performance of AI coding assistants like Cursor and CLINE.
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
