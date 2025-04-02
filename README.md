@@ -139,6 +139,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - an AI-powered autonomous coding agent that lives in your editor.
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - This template provides a robust and adaptable framework of rules designed to enhance the performance of AI coding assistants like Cursor and CLINE.
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
+- [Serena](https://github.com/oraios/serena) - a powerful coding agent with semantic retrieval and editing capabilities (MCP server)
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI.
