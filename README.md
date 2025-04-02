@@ -73,6 +73,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
 - [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) - A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models.
 - [cursor_agent](https://github.com/zalab-inc/cursor_agent) - A TypeScript library for creating structured task sequences for Cursor AI agents.
+- [DAFC (The Fuck?) CLI](https://github.com/AviSantoso/dafc) - a command-line tool and a methodology designed to leverage the massive context windows of modern Large Language Models (LLMs) like Gemini 2.5 Pro.
 - [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows.
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - provides a chat interface for the DeepSeek-R1 model.
 - [devblahblah](https://github.com/devblahblah/devblahblah) - Just a simple tool to help out with development tasks using LLM APIs
