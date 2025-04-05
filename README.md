@@ -166,5 +166,6 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows.
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
+- [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - Structured AI-Assisted Development Workflow Guide
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
 - [zoltraak](https://github.com/dai-motoki/zoltraak) - a prompt compiler system that converts natural language into an execution language
