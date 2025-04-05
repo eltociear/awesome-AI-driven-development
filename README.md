@@ -141,6 +141,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [RooFlow](https://github.com/GreatScottyMac/RooFlow) -  Enhanced Memory Bank System with ☢️Footgun Power☢️ Next-gen Memory Bank system with five integrated modes and system-level customization.
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - a template for applying Rooflow to Roocode in an easy way.
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - an AI-powered autonomous coding agent that lives in your editor.
+- [Roo Commander](https://github.com/jezweb/roo-commander) - Think of it like having a virtual, specialized software development team right inside your editor, orchestrated by the 👑 Roo Commander, powered by Roo Code on VS Code
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - This template provides a robust and adaptable framework of rules designed to enhance the performance of AI coding assistants like Cursor and CLINE.
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - local-first semantic code search engine
 - [Serena](https://github.com/oraios/serena) - a powerful coding agent with semantic retrieval and editing capabilities (MCP server)
