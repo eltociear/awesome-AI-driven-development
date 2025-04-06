@@ -85,6 +85,8 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
 - [Dyad](https://github.com/dyad-sh/dyad) - an open-source, standalone AI tool that levels up your coding skills and helps you build real-world software.
+- [GitHub MCP Server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
+- [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - A powerful VS Code extension for analyzing and exporting codebases to LLM-friendly formats.
 - [Gemini Code](https://github.com/raizamartin/gemini-code) - A powerful AI coding assistant for your terminal, powered by Gemini 2.5 Pro with support for other LLM models.
 - [genjs-cli](https://github.com/vaibav03/genjs-cli) - a command-line tool that interacts with the Anthropic API to generate code templates based on custom prompts.
 - [gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
