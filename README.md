@@ -106,6 +106,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.
+- [MCP Go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [melty](https://github.com/meltylabs/melty) - Open source AI code editor.
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - Minuet offers AI code completion from popular LLMs including OpenAI, Gemini, Claude, Codestral, and more.
