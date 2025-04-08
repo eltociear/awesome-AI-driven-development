@@ -4,6 +4,7 @@
 
 A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
+- [Aegis](https://github.com/BuildSomethingAI/aegis-framework) - a powerful framework that combines AI capabilities with structured project management.
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - an agentless approach to automatically solve software development problems
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development.
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - Incorporating Agile methodology into agents to create complex real-world softwares
