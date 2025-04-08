@@ -74,6 +74,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
 - [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) - A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models.
 - [cursor_agent](https://github.com/zalab-inc/cursor_agent) - A TypeScript library for creating structured task sequences for Cursor AI agents.
+- [Custom Roo Code Modes](https://github.com/jtgsystems/Custom-Modes-Roo-Code) - This project serves as a central place to store, manage, and share custom mode definitions for the Roo Code AI agent within Visual Studio Code.
 - [DAFC (The Fuck?) CLI](https://github.com/AviSantoso/dafc) - a command-line tool and a methodology designed to leverage the massive context windows of modern Large Language Models (LLMs) like Gemini 2.5 Pro.
 - [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows.
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.
