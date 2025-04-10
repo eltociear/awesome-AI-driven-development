@@ -23,6 +23,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - a toolkit for setting up AI-assisted development environments and managing work efforts.
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - The AI and Human powered ticket system to manage your AI based code generation with tickets
 - [amplication](https://github.com/amplication/amplication) - The Only Production-Ready AI-Powered Backend Code Generation
+- [ANON KODE](https://github.com/dnakov/anon-kode) - Terminal-based AI coding tool that can use any model that supports the OpenAI-style API.
 - [arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps.
 - [AutoAgents](https://github.com/Link-AGI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
 - [AutoCoder](https://github.com/bin123apple/AutoCoder) - Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.
