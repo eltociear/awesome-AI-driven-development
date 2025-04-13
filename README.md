@@ -115,6 +115,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaEdit is a code editor with AI autocompletion powered by LLamaCPP and CodeMirror.
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
+- [ManusMCP](https://github.com/mantrakp04/manusmcp) - An AI agent framework using Flowise to deploy AI team members with specialized capabilities.
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.
 - [MCP Go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
 - [melty](https://github.com/meltylabs/melty) - Open source AI code editor.
