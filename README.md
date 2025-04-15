@@ -80,6 +80,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [DAFC (The Fuck?) CLI](https://github.com/AviSantoso/dafc) - a command-line tool and a methodology designed to leverage the massive context windows of modern Large Language Models (LLMs) like Gemini 2.5 Pro.
 - [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows.
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.
+- [Deebo](https://github.com/snagasuri/deebo-prototype) - an autonomous debugging system built for integration into coding agent workflows using the Model Context Protocol (MCP).
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - provides a chat interface for the DeepSeek-R1 model.
 - [devblahblah](https://github.com/devblahblah/devblahblah) - Just a simple tool to help out with development tasks using LLM APIs
 - [development-workforce](https://github.com/Grusinator/development-workforce) - experimentation on how to integrate ai agents into existing software development setup.
