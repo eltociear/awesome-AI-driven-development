@@ -179,6 +179,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [vespper](https://github.com/vespperhq/vespper) - open-source AI on-call developer
 - [vibelint](https://github.com/mithranm/vibelint) - Make codebases more LLM friendly.
 - [Vibe Check MCP](https://github.com/PV-Bhat/vibe-check-mcp-server) - The definitive Vibe Coder's sanity check MCP server
+- [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Coding Full-stack App Starter Template
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - A curated collection of .windsurfrules files designed to guide AI coding assistants (like Codeium's Cascade) in generating code that adheres to various best practices, architectural patterns, language idioms, and framework conventions.
 - [VimLM](https://github.com/JosefAlbers/VimLM) - LLM-powered coding companion for Vim, inspired by GitHub Copilot/Cursor.
 - [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
