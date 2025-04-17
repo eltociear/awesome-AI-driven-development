@@ -51,6 +51,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [CodePanda](https://github.com/jjleng/code-panda) - an AI-powered coding tool that helps you build full-stack web applications through natural language interaction.
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust
 - [codeselect](https://github.com/maynetee/codeselect) - A simple, interactive tool to select and share code with AI assistants like Claude and ChatGPT.
+- [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase.
 - [code-converter](https://github.com/JoKerDii/code-converter) - An AI tool converting python code to C++
 - [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
