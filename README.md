@@ -165,6 +165,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - a code generator for Swift language, built on top of Apple's own SwiftSyntax.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI.
 - [sparc2](https://github.com/agenticsorg/sparc2) - SPARC 2.0, agentic code analysis and generation, is an intelligent coding agent framework built to automate and streamline software development.
+- [SprintCore](https://github.com/spicewoodlabs/sprintcore) - Fix bugs, create user stories, create PRDs, manage sprints - by AI.
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - Connect your Supabase projects to Cursor, Claude, Windsurf, and other AI assistants.
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.
