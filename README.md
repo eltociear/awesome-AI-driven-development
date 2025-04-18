@@ -182,6 +182,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [VectorCode](https://github.com/Davidyz/VectorCode) - a code repository indexing tool. It helps you write better prompt for your coding LLMs by indexing and providing information about the code repository you're working on.
 - [vespper](https://github.com/vespperhq/vespper) - open-source AI on-call developer
 - [vibelint](https://github.com/mithranm/vibelint) - Make codebases more LLM friendly.
+- [vibes.diy](https://github.com/fireproof-storage/vibes.diy) - Generate shareable apps in seconds with the most forkable AI app generator, deployed as single page app
 - [Vibe Check MCP](https://github.com/PV-Bhat/vibe-check-mcp-server) - The definitive Vibe Coder's sanity check MCP server
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Coding Full-stack App Starter Template
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - A curated collection of .windsurfrules files designed to guide AI coding assistants (like Codeium's Cascade) in generating code that adheres to various best practices, architectural patterns, language idioms, and framework conventions.
