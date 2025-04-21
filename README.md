@@ -65,6 +65,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs.
 - [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - Github copilot chat in emacs
+- [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Configuration for Neovim
 - [copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond.
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs.
@@ -172,6 +173,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice.
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - a simple yet effective solution for addressing real-world GitHub issues by training open-source LLMs.
+- [Symphony v0.2](https://github.com/sincover/Symphony) - a sophisticated multi-agent software development framework designed to orchestrate AI agents in a structured, efficient workflow.
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world’s first open-source testing agent, built to handle the toughest testing tasks so you don’t have to. It turns simple, easy-to-write Gherkin steps into fully automated end to end tests—no coding skills needed.
 - [TremAi](https://github.com/SamuelHenriqueDeMoraisVitrio/TreinAI) - A CLI tool to help you to Code and execute command highly inspired on Copilot and Cursor
