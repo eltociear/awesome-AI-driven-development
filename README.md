@@ -124,6 +124,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow.
 - [MCP Hub](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin that integrates MCP (Model Context Protocol) servers into your workflow.
 - [MCP Go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+- [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - the easiest way to interact with mcp servers with custom agents
 - [melty](https://github.com/meltylabs/melty) - Open source AI code editor.
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - Minuet offers AI code completion from popular LLMs including OpenAI, Gemini, Claude, Codestral, and more.
