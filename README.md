@@ -58,6 +58,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE
 - [comandi](https://github.com/datavorous/comandi) - A Free API-Keyless AI-powered CLI for Programming Support, Error Debugging and Automated Instruction Translations.
 - [commit](https://github.com/wajeht/commit) - generate conventional commits with ai
+- [Context7 MCP](https://github.com/upstash/context7) - Up-to-date documentation for LLMs and AI code editors
 - [continue](https://github.com/continuedev/continue) - the leading open-source AI code assistant.
 - [CoolCline](https://github.com/coolcline/CoolCline) - a proactive programming assistant that combines the best features of Cline, Roo Code, and Bao Cline(thanks to all contributors of the `Clines` projects!).
 - [CopilotForXcode(@github)](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot
