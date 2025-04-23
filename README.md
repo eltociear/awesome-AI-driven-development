@@ -179,6 +179,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world’s first open-source testing agent, built to handle the toughest testing tasks so you don’t have to. It turns simple, easy-to-write Gherkin steps into fully automated end to end tests—no coding skills needed.
 - [TremAi](https://github.com/SamuelHenriqueDeMoraisVitrio/TreinAI) - A CLI tool to help you to Code and execute command highly inspired on Copilot and Cursor
 - [turbopilot](https://github.com/ravenscroftj/turbopilot) - an open source large-language-model based code completion engine that runs locally on CPU
+- [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but completely free and 100% private.
 - [unvibe](https://github.com/santinic/unvibe) - Generate code from unit-tests
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - Learning to Generate Unit Tests for Automated Debugging
