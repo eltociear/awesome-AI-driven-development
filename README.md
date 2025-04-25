@@ -110,6 +110,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents.
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
 - [jarvis](https://github.com/danilofalcao/jarvis) - an intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions.
+- [Jinni](https://github.com/smat-dev/jinni) - Bring your project into LLM context - tool and MCP server
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - an autonomous coding agent that lives in your IDE.
 - [kube-copilot](https://github.com/feiskyer/kube-copilot) - Kubernetes Copilot powered by OpenAI
@@ -119,6 +120,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Inference code of Lingma SWE-GPT
 - [llamacoder](https://github.com/Nutlope/llamacoder) - An open source Claude Artifacts – generate small apps with one prompt.
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaEdit is a code editor with AI autocompletion powered by LLamaCPP and CodeMirror.
+- [Localforge](https://github.com/rockbite/localforge) - Runs in a local web UI and autonomously works on your files alongside you.
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
 - [ManusMCP](https://github.com/mantrakp04/manusmcp) - An AI agent framework using Flowise to deploy AI team members with specialized capabilities.
@@ -195,6 +197,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [VimLM](https://github.com/JosefAlbers/VimLM) - LLM-powered coding companion for Vim, inspired by GitHub Copilot/Cursor.
 - [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim.
 - [void](https://github.com/voideditor/void) - Void is the open-source Cursor alternative.
+- [VoltAgent](https://github.com/voltagent/voltagent) - an open source TypeScript framework for building and orchestrating AI agents.
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows.
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
