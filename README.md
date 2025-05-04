@@ -54,7 +54,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase.
 - [code-converter](https://github.com/JoKerDii/code-converter) - An AI tool converting python code to C++
-- [code-to-clipboard-for-llms](https://github.com/yigitkonur/code-to-clipboard-for-llms/) - Intelligently package your project's code context for LLMs.
+- [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - Intelligently package your project's code context for LLMs.
 - [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE
 - [comandi](https://github.com/datavorous/comandi) - A Free API-Keyless AI-powered CLI for Programming Support, Error Debugging and Automated Instruction Translations.
