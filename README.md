@@ -202,6 +202,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [VoltAgent](https://github.com/voltagent/voltagent) - an open source TypeScript framework for building and orchestrating AI agents.
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows.
+- [Winx Code Agent](https://github.com/rokytory/winx-code-agent) - A high-performance code agent written in Rust, combining the best features of WCGW and Serena for maximum efficiency and semantic capabilities.
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - Structured AI-Assisted Development Workflow Guide
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - a series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters.
