@@ -114,6 +114,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Jinni](https://github.com/smat-dev/jinni) - Bring your project into LLM context - tool and MCP server
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - an autonomous coding agent that lives in your IDE.
+- [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - an AI powered kubernetes agent that runs in your terminal.
 - [kube-copilot](https://github.com/feiskyer/kube-copilot) - Kubernetes Copilot powered by OpenAI
 - [kwaak](https://github.com/bosun-ai/kwaak) - Run a team of autonomous AI agents on your code, right from your terminal!
 - [K8sWhisperer-](https://github.com/ARAldhafeeri/K8sWhisperer-) - An AI-powered Kubernetes Operator that lets users query logs and read them as natural language.
