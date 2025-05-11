@@ -101,6 +101,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
 - [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - A powerful VS Code extension for analyzing and exporting codebases to LLM-friendly formats.
 - [Gemini Code](https://github.com/raizamartin/gemini-code) - A powerful AI coding assistant for your terminal, powered by Gemini 2.5 Pro with support for other LLM models.
+- [GenDB](https://github.com/CNimmo16/genDB) - Generate an entire database in seconds using AI
 - [genjs-cli](https://github.com/vaibav03/genjs-cli) - a command-line tool that interacts with the Anthropic API to generate code templates based on custom prompts.
 - [gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
 - [GitLab-MCP-Server](https://github.com/owayo/gitlab-mcp-server) - Model Context Protocol (MCP) server that provides integration with GitLab.
