@@ -8,6 +8,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - an agentless approach to automatically solve software development problems
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development.
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - Incorporating Agile methodology into agents to create complex real-world softwares
+- [AiCode](https://github.com/paul-nameless/aicode) - AI-powered CLI agent for software engineering tasks
 - [aiCoder](https://github.com/mmiscool/aiCoder) - A tool to write JS libraries using AI.
 - [AiDE](https://github.com/FixingPixels/AiDE) - a structured approach to developing projects with AI assistance.
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
@@ -92,6 +93,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [devika](https://github.com/stitionai/devika) - Agentic AI Software Engineer.
 - [Devon](https://github.com/entropy-research/Devon) - An open-source pair programmer
 - [DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin) - a plugin for IntelliJ IDEA that uses local LLM's (Ollama, LMStudio, GPT4All and Llama.cpp) and Cloud based LLMs to help review, test, explain your project code.
+- [Devseeker](https://github.com/iBz-04/Devseeker) - a coding agent inspired by claude code and aider
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
 - [Dyad](https://github.com/dyad-sh/dyad) - an open-source, standalone AI tool that levels up your coding skills and helps you build real-world software.
 - [ctx](https://github.com/context-hub/generator) - a tool made to solve a big problem when chatting with LLMs like ChatGPT or Claude: giving them enough context about your project.
