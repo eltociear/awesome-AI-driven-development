@@ -25,6 +25,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - The AI and Human powered ticket system to manage your AI based code generation with tickets
 - [amplication](https://github.com/amplication/amplication) - The Only Production-Ready AI-Powered Backend Code Generation
 - [ANON KODE](https://github.com/dnakov/anon-kode) - Terminal-based AI coding tool that can use any model that supports the OpenAI-style API.
+- [Arconia Framework](https://github.com/arconia-io/arconia) - a framework designed to build modern enterprise applications using Java and Spring Boot, emphasizing developer experience and cloud native architectures.
 - [arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps.
 - [AutoAgents](https://github.com/Link-AGI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks.
 - [AutoBE](https://github.com/wrtnlabs/autobe) - AI Vibe Coding Agent of TS backend server, enhanced by compiler skills
