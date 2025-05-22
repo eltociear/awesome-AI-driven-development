@@ -89,6 +89,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases.
 - [Deebo](https://github.com/snagasuri/deebo-prototype) - an autonomous debugging system built for integration into coding agent workflows using the Model Context Protocol (MCP).
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - provides a chat interface for the DeepSeek-R1 model.
+- [Desktop Commander MCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 - [devblahblah](https://github.com/devblahblah/devblahblah) - Just a simple tool to help out with development tasks using LLM APIs
 - [development-workforce](https://github.com/Grusinator/development-workforce) - experimentation on how to integrate ai agents into existing software development setup.
 - [DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code togheter, right now!
