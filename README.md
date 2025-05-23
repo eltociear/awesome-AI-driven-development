@@ -215,6 +215,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [void](https://github.com/voideditor/void) - Void is the open-source Cursor alternative.
 - [VoltAgent](https://github.com/voltagent/voltagent) - an open source TypeScript framework for building and orchestrating AI agents.
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
+- [VulnViper](https://github.com/anshulyadav1976/VulnViper) - an intelligent security auditing tool designed to help developers identify and understand potential vulnerabilities in their Python codebases.
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows.
 - [Winx Code Agent](https://github.com/rokytory/winx-code-agent) - A high-performance code agent written in Rust, combining the best features of WCGW and Serena for maximum efficiency and semantic capabilities.
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
