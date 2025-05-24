@@ -117,6 +117,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [gp.nvim](https://github.com/robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents.
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
+- [interactive-mcp](https://github.com/ttommyth/interactive-mcp) - Local, cross-platform MCP server for interact with your AI Agent
 - [jarvis](https://github.com/danilofalcao/jarvis) - an intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions.
 - [Jinni](https://github.com/smat-dev/jinni) - Bring your project into LLM context - tool and MCP server
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
