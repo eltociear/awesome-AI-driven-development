@@ -150,6 +150,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Obsidian MCP Tool Server](https://github.com/Rwb3n/obsidian-mcp) - This project provides a Model Context Protocol (MCP) server that exposes tools for interacting with an Obsidian vault.
 - [ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
 - [oneShotCodeGen](https://github.com/vivek100/oneShotCodeGen) - Create full stack webapps with single prompt
+- [Onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers – an Open-Source, Visual-First Code Editor
 - [oi](https://github.com/oi-overide/oi) - an open-source cli tool that works on top of codellama and generates code in any editor without extensions.
 - [OpenCode](https://github.com/opencode-ai/opencode) - A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - a platform for autonomous software engineers, powered by AI and LLMs
