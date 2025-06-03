@@ -106,6 +106,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease.
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - A Model Context Protocol (MCP) for analyzing and querying GitHub repositories using the GitHub Chat API.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs, enabling advanced automation and interaction capabilities for developers and tools.
+- [Github Semantic Search MCP Server](https://github.com/edelauna/github-semantic-search-mcp) - This repo hosts a remote MCP server to facilitate a RAG query against an indexed GitHub repo.
 - [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - A powerful VS Code extension for analyzing and exporting codebases to LLM-friendly formats.
 - [Gemini Code](https://github.com/raizamartin/gemini-code) - A powerful AI coding assistant for your terminal, powered by Gemini 2.5 Pro with support for other LLM models.
 - [GenDB](https://github.com/CNimmo16/genDB) - Generate an entire database in seconds using AI
