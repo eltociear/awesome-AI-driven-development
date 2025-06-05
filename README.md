@@ -130,6 +130,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [kwaak](https://github.com/bosun-ai/kwaak) - Run a team of autonomous AI agents on your code, right from your terminal!
 - [K8sWhisperer-](https://github.com/ARAldhafeeri/K8sWhisperer-) - An AI-powered Kubernetes Operator that lets users query logs and read them as natural language.
 - [lazycommit](https://github.com/m7medVision/lazycommit) - using AI to generate commit message suggestions
+- [lgtm-ai](https://github.com/elementsinteractive/lgtm-ai) - Your AI-powered code review companion
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Inference code of Lingma SWE-GPT
 - [llamacoder](https://github.com/Nutlope/llamacoder) - An open source Claude Artifacts – generate small apps with one prompt.
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaEdit is a code editor with AI autocompletion powered by LLamaCPP and CodeMirror.
