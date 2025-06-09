@@ -178,6 +178,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - a powerful AI-driven command-line tool that integrates aider (https://aider.chat/) within a LangChain ReAct agent loop.
 - [RepoGPT](https://github.com/mbarinov/repogpt) - AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly.
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - A command-line tool to scan a project directory, identify files that are not ignored by .gitignore rules, and concatenate their contents into a single text file ("scribe" them).
+- [reqtext](https://github.com/fred-terzi/reqtext) - a Git-native, CLI first requirements and documentation framework meant to bring requirement management directly into your workflow.
 - [rift](https://github.com/morph-labs/rift) - an AI-native language server for your personal AI software engineer
 - [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - A lean Roo Code config for VS Code, blending Claude Pro and OpenRouter to cut token costs (from €60/day to €20-30/day).
 - [RooFlow](https://github.com/GreatScottyMac/RooFlow) -  Enhanced Memory Bank System with ☢️Footgun Power☢️ Next-gen Memory Bank system with five integrated modes and system-level customization.
