@@ -101,6 +101,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Devseeker](https://github.com/iBz-04/Devseeker) - a coding agent inspired by claude code and aider
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
 - [Dyad](https://github.com/dyad-sh/dyad) - an open-source, standalone AI tool that levels up your coding skills and helps you build real-world software.
+- [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - The power of Gemini + Claude Code working as one. Augments Claude's extended thinking with Gemini's perspective.
 - [ctx](https://github.com/context-hub/generator) - a tool made to solve a big problem when chatting with LLMs like ChatGPT or Claude: giving them enough context about your project.
 - [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - an Model Context Protocol server for allowing LLMs to autonomously reverse engineer applications.
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease.
