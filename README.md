@@ -135,6 +135,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Inference code of Lingma SWE-GPT
 - [llamacoder](https://github.com/Nutlope/llamacoder) - An open source Claude Artifacts – generate small apps with one prompt.
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaEdit is a code editor with AI autocompletion powered by LLamaCPP and CodeMirror.
+- [LLM Agent X](https://github.com/cvaz1306/llm_agent_x) - a task execution framework that leverages language models to perform complex tasks by splitting them into subtasks and using tools like web search.
 - [Localforge](https://github.com/rockbite/localforge) - Runs in a local web UI and autonomously works on your files alongside you.
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity.
