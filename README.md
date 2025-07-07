@@ -35,6 +35,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest
 - [avante.nvim](https://github.com/yetone/avante.nvim) - a Neovim plugin designed to emulate the behaviour of the Cursor AI IDE.
 - [Web Accessibility-Testing MCP Server](https://github.com/ronantakizawa/a11ymcp) - an MCP (Model Context Protocol) server that gives LLMs access to web accessibility testing APIs.
+- [Backlog.md](https://github.com/MrLesk/Backlog.md) - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - a knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants.
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - an interactive command-line interface (CLI) to assist with software development tasks.
 - [The BMAD-Method 3.1](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
