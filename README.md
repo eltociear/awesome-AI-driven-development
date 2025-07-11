@@ -159,7 +159,8 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [oneShotCodeGen](https://github.com/vivek100/oneShotCodeGen) - Create full stack webapps with single prompt
 - [Onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers – an Open-Source, Visual-First Code Editor
 - [oi](https://github.com/oi-overide/oi) - an open-source cli tool that works on top of codellama and generates code in any editor without extensions.
-- [OpenCode](https://github.com/opencode-ai/opencode) - A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
+- [OpenCode(@opencode-ai)](https://github.com/opencode-ai/opencode) - A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal.
+- [opencode(@sst)](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - a platform for autonomous software engineers, powered by AI and LLMs
 - [open-repoprompt](https://github.com/wildberry-source/open-repoprompt) - a fast, lightweight Go tool that helps you feed your code and documentation to LLMs like Claude, GPT-4, and Grok without hitting token limits or waiting forever.
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - This repository serves as a central place to store, organize, and share effective prompts for various AI models.
