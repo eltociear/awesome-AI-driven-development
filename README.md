@@ -154,6 +154,7 @@ A curated list of awesome AI-Driven development. Inspired by [AI駆動開発(AI-
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [Obsidian MCP Tool Server](https://github.com/Rwb3n/obsidian-mcp) - This project provides a Model Context Protocol (MCP) server that exposes tools for interacting with an Obsidian vault.
+- [Octocode MCP](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
 - [ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
 - [oneShotCodeGen](https://github.com/vivek100/oneShotCodeGen) - Create full stack webapps with single prompt
 - [Onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers – an Open-Source, Visual-First Code Editor
