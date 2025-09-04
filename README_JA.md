@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **258個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **263個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -34,6 +34,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Onlook](https://github.com/onlook-dev/onlook) - デザイナー向けCursor - オープンソースのビジュアルファーストコードエディタ
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaCPPとCodeMirrorによるAI自動補完搭載のコードエディタ
 - [CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - v0.dev、cursor、bolt.new、windsurf、retool、roocode、kilo、lovable.devの無料でオープンソースの代替案。制限なしのAIソフトウェア開発
+- [Monkey Code](https://github.com/chaitin/MonkeyCode) - プライベートオフライン展開をサポートし、サードパーティおよびローカライズされた大規模言語モデルと互換性があり、エンタープライズグレードの管理ダッシュボードとコードセキュリティ機能を備えたエンタープライズグレードAIプログラミングアシスタント
 
 ## ターミナルベースのコーディングエージェント
 
@@ -181,6 +182,7 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - AIアシスタントに構造化されたデータベースアクセスを提供するModel Context Protocol（MCP）実装の強力なマルチデータベースサーバー
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - SupabaseプロジェクトをCursor、Claude、Windsurf、その他のAIアシスタントに接続
 - [claude-context](https://github.com/zilliztech/claude-context) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに
+- [Kodit](https://github.com/helixml/kodit) - 外部リポジトリをインデックス化するMCPサーバー
 - [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - GeminiとClaude Codeの連携。ClaudeのExtended ThinkingにGeminiの視点で補強
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - GitHub Chat APIを使用してGitHubリポジトリを分析・クエリするModel Context Protocol（MCP）
 - [Github Semantic Search MCP Server](https://github.com/edelauna/github-semantic-search-mcp) - インデックス化されたGitHubリポジトリに対するRAGクエリを促進するリモートMCPサーバー
@@ -282,6 +284,7 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [codemapper](https://github.com/shaneholloman/codemapper) - 指定ディレクトリの構造と内容を表現する包括的Markdownドキュメントを作成するpythonスクリプト
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - コードベース内容を含む包括的Markdownファイル生成により、大規模言語モデル（LLM）へのコンテキスト提供プロセスを簡素化する強力なコマンドラインツール
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - LLM向けプロジェクトのコードコンテキストをインテリジェントにパッケージ化
+- [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Claude Codeセッションをローカル解析し生産性レポートを生成するオープンソースCLI
 - [codeselect](https://github.com/maynetee/codeselect) - ClaudeやChatGPTなどのAIアシスタントとコードを選択・共有するシンプル・インタラクティブツール
 - [shotgun_code](https://github.com/glebkudr/shotgun_code) - 大規模言語モデルワークフロー向けワンクリックコードベース「ブラスト」
 - [open-repoprompt](https://github.com/wildberry-source/open-repoprompt) - トークン制限に達することなく、Claude、GPT-4、Grokなどにコード・ドキュメントを供給する高速・軽量Goツール
@@ -345,6 +348,7 @@ AIコーディングアシスタントを強化するツールと設定。
 
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - AI支援開発環境のセットアップと作業管理向けツールキット
 - [AiDE](https://github.com/FixingPixels/AiDE) - AI支援でプロジェクト開発への構造化アプローチ
+- [AiderDesk](https://github.com/hotovo/aider-desk) - Aider AIアシスタント向けデスクトップアプリケーション
 - [Aegis](https://github.com/BuildSomethingAI/aegis-framework) - AI機能と構造化プロジェクト管理を組み合わせた強力なフレームワーク
 - [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - 専門コマンド、認知ペルソナ、開発手法でClaude Codeを強化する設定フレームワーク
 - [Claude Code Custom Slash Commands](https://github.com/qdhenry/Claude-Command-Suite) - 一般的なソフトウェア開発業務向け専門ワークフローを提供するClaude Code向けカスタムスラッシュコマンド

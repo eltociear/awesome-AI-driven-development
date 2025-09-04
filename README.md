@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **258 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **263 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -34,6 +34,7 @@ Full-featured AI-powered code editors and IDEs.
 - [Onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers – an Open-Source, Visual-First Code Editor
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaEdit is a code editor with AI autocompletion powered by LLamaCPP and CodeMirror
 - [CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Free, open-source alternative to v0.dev, cursor, bolt.new, windsurf, retool, roocode, kilo & lovable.dev. AI software development without limits
+- [Monkey Code](https://github.com/chaitin/MonkeyCode) - Enterprise-grade AI programming assistant, supporting private offline deployment, compatible with third-party and localised large language models, featuring an enterprise-grade management dashboard and equipped with code security functionality.
 
 ## Terminal-Based Coding Agents
 
@@ -181,6 +182,7 @@ Tools and servers implementing the Model Context Protocol for enhanced AI capabi
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - Connect your Supabase projects to Cursor, Claude, Windsurf, and other AI assistants
 - [claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [Kodit](https://github.com/helixml/kodit) - MCP server to index external repositories
 - [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - The power of Gemini + Claude Code working as one. Augments Claude's extended thinking with Gemini's perspective
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - A Model Context Protocol (MCP) for analyzing and querying GitHub repositories using the GitHub Chat API
 - [Github Semantic Search MCP Server](https://github.com/edelauna/github-semantic-search-mcp) - This repo hosts a remote MCP server to facilitate a RAG query against an indexed GitHub repo
@@ -282,6 +284,7 @@ Tools for searching, analyzing, and understanding codebases.
 - [codemapper](https://github.com/shaneholloman/codemapper) - A python script that creates a comprehensive Markdown document representing the structure and contents of a given directory
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - Intelligently package your project's code context for LLMs
+- [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Open-source CLI for analyzing Claude Code sessions locally and generating productivity reports
 - [codeselect](https://github.com/maynetee/codeselect) - A simple, interactive tool to select and share code with AI assistants like Claude and ChatGPT
 - [shotgun_code](https://github.com/glebkudr/shotgun_code) - One‑click codebase "blast" for Large‑Language‑Model workflows
 - [open-repoprompt](https://github.com/wildberry-source/open-repoprompt) - A fast, lightweight Go tool that helps you feed your code and documentation to LLMs like Claude, GPT-4, and Grok without hitting token limits or waiting forever
@@ -350,6 +353,7 @@ Tools and configurations for enhancing AI coding assistants.
 - [Claude Code Custom Slash Commands](https://github.com/qdhenry/Claude-Command-Suite) - This repository contains custom slash commands for Claude Code that provide specialized workflows for common software development tasks
 - [ClaudeAssistant](https://github.com/itodobien/ClaudeAssistant) - AI Coding Assistant
 - [Clean-Coder-AI](https://github.com/Grigorij-Dudnik/Clean-Coder-AI) - AI coder that thinks before doing
+- [AiderDesk](https://github.com/hotovo/aider-desk) - Desktop application for Aider AI assistant and much more
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
 - [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) - A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - Provides a chat interface for the DeepSeek-R1 model
