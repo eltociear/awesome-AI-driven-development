@@ -351,5 +351,3 @@ Tools and configurations for enhancing AI coding assistants.
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - A powerful AI-driven command-line tool that integrates aider within a LangChain ReAct agent loop
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs
-
----
