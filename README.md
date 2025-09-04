@@ -32,6 +32,7 @@ Full-featured AI-powered code editors and IDEs.
 - [pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue
 - [Onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers – an Open-Source, Visual-First Code Editor
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaEdit is a code editor with AI autocompletion powered by LLamaCPP and CodeMirror
+- [CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - Free, open-source alternative to v0.dev, cursor, bolt.new, windsurf, retool, roocode, kilo & lovable.dev. AI software development without limits
 
 ## Terminal-Based Coding Agents
 
@@ -48,6 +49,9 @@ AI coding assistants that work directly in your terminal.
 - [AiCode](https://github.com/paul-nameless/aicode) - AI-powered CLI agent for software engineering tasks
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - An interactive command-line interface (CLI) to assist with software development tasks
 - [comandi](https://github.com/datavorous/comandi) - A Free API-Keyless AI-powered CLI for Programming Support, Error Debugging and Automated Instruction Translations
+- [Qwen Code](https://github.com/QwenLM/qwen-code) - AI-powered command-line workflow tool for developers
+- [Grok CLI](https://github.com/superagent-ai/grok-cli) - A conversational AI CLI tool powered by Grok with intelligent text editor capabilities and tool usage.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [MyCoder](https://github.com/drivecore/mycoder) - Simple to install, powerful command-line based AI agent system for coding
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - A command-line tool designed to assist developers in managing and interacting with their projects efficiently
 - [p90](https://github.com/Ichigo-Labs/p90-cli) - A minimal CLI coding agent for quick prototypes, learning, and hackability
@@ -175,6 +179,7 @@ Tools and servers implementing the Model Context Protocol for enhanced AI capabi
 - [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - The easiest way to interact with mcp servers with custom agents
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - Connect your Supabase projects to Cursor, Claude, Windsurf, and other AI assistants
+- [claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - The power of Gemini + Claude Code working as one. Augments Claude's extended thinking with Gemini's perspective
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - A Model Context Protocol (MCP) for analyzing and querying GitHub repositories using the GitHub Chat API
 - [Github Semantic Search MCP Server](https://github.com/edelauna/github-semantic-search-mcp) - This repo hosts a remote MCP server to facilitate a RAG query against an indexed GitHub repo
@@ -204,6 +209,7 @@ Tools for automating pull request reviews and code analysis.
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
 - [pr-pilot-cli](https://github.com/PR-Pilot-AI/pr-pilot-cli) - Command-line interface for PR Pilot
 - [Review Gate for Cursor IDE ゲート](https://github.com/LakshmanTurlapati/Review-Gate) - A powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests
+- [kodus](https://github.com/kodustech/kodus-ai) - Open source AI code reviews — just like your senior dev would do.
 
 ## Project Management & Documentation
 
@@ -216,6 +222,7 @@ Tools for managing AI-driven development projects and documentation.
 - [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
 - [reqtext](https://github.com/fred-terzi/reqtext) - A Git-native, CLI first requirements and documentation framework meant to bring requirement management directly into your workflow
 - [Vibook](https://github.com/pinqy520/roo-code-vibook) - AI-friendly project documentation for continuous maintenance through AI assistance (Roo Code)
+- [Claude Code PM](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - A knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - A command-line tool to scan a project directory, identify files that are not ignored by .gitignore rules, and concatenate their contents into a single text file
 
@@ -249,6 +256,7 @@ Tools and frameworks for managing AI-assisted development workflows.
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - Open Source Autonomous Software Development System
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - A project structure aware autonomous software engineer aiming for autonomous program improvement
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - A simple yet effective solution for addressing real-world GitHub issues by training open-source LLMs
+- [Spec Kit](https://github.com/github/spec-kit) - Toolkit to help you get started with Spec-Driven Development
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - An agentless approach to automatically solve software development problems
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - Incorporating Agile methodology into agents to create complex real-world softwares
 - [sparc2](https://github.com/agenticsorg/sparc2) - SPARC 2.0, agentic code analysis and generation, is an intelligent coding agent framework built to automate and streamline software development

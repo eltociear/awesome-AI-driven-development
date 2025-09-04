@@ -32,6 +32,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [pearai-app](https://github.com/trypear/pearai-app) - オープンソースのAI搭載コードエディタ。VSCodeとContinueのフォーク
 - [Onlook](https://github.com/onlook-dev/onlook) - デザイナー向けCursor - オープンソースのビジュアルファーストコードエディタ
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaCPPとCodeMirrorによるAI自動補完搭載のコードエディタ
+- [CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - v0.dev、cursor、bolt.new、windsurf、retool、roocode、kilo、lovable.devの無料でオープンソースの代替案。制限なしのAIソフトウェア開発
 
 ## ターミナルベースのコーディングエージェント
 
@@ -48,6 +49,9 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [AiCode](https://github.com/paul-nameless/aicode) - ソフトウェアエンジニアリング業務向けAI搭載CLIエージェント
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - ソフトウェア開発業務を支援するインタラクティブなCLI
 - [comandi](https://github.com/datavorous/comandi) - プログラミングサポート、エラーデバッグ、自動翻訳機能を持つ無料・APIキー不要のAI搭載CLI
+- [Qwen Code](https://github.com/QwenLM/qwen-code) - 開発者向けAI搭載コマンドラインワークフローツール
+- [Grok CLI](https://github.com/superagent-ai/grok-cli) - インテリジェントなテキストエディタ機能とツール使用機能を備えたGrok搭載会話型AI CLIツール
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Geminiの力を直接ターミナルに持ち込むオープンソースAIエージェント
 - [MyCoder](https://github.com/drivecore/mycoder) - インストールが簡単で強力なコマンドラインベースのAIエージェントシステム
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - プロジェクト管理とやりとりを効率的に行うコマンドラインツール
 - [p90](https://github.com/Ichigo-Labs/p90-cli) - 迅速なプロトタイプ開発、学習、ハッカビリティ向けのミニマルCLIコーディングエージェント
@@ -175,6 +179,7 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - カスタムエージェントでmcpサーバーとやりとりする最も簡単な方法
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - AIアシスタントに構造化されたデータベースアクセスを提供するModel Context Protocol（MCP）実装の強力なマルチデータベースサーバー
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - SupabaseプロジェクトをCursor、Claude、Windsurf、その他のAIアシスタントに接続
+- [claude-context](https://github.com/zilliztech/claude-context) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに
 - [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - GeminiとClaude Codeの連携。ClaudeのExtended ThinkingにGeminiの視点で補強
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - GitHub Chat APIを使用してGitHubリポジトリを分析・クエリするModel Context Protocol（MCP）
 - [Github Semantic Search MCP Server](https://github.com/edelauna/github-semantic-search-mcp) - インデックス化されたGitHubリポジトリに対するRAGクエリを促進するリモートMCPサーバー
@@ -204,6 +209,7 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - コードベースの検索・操作、インターネット閲覧、Githubイシュー・プルリクエストとのやりとりが可能な開発ワークフロー向けAIエージェント
 - [pr-pilot-cli](https://github.com/PR-Pilot-AI/pr-pilot-cli) - PR Pilot向けコマンドラインインターフェース
 - [Review Gate for Cursor IDE ゲート](https://github.com/LakshmanTurlapati/Review-Gate) - 月間リクエストから最大5倍の価値を得られるCursor IDE向け強力なルール
+- [kodus](https://github.com/kodustech/kodus-ai) - シニア開発者のようなオープンソースAIコードレビュー
 
 ## プロジェクト管理・ドキュメント
 
@@ -216,6 +222,7 @@ AI駆動開発プロジェクトとドキュメント管理向けツール。
 - [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - AIでコードベースを分かりやすいチュートリアルに変換
 - [reqtext](https://github.com/fred-terzi/reqtext) - 要求管理をワークフローに直接持ち込むGitネイティブ・CLIファースト要求・ドキュメンテーションフレームワーク
 - [Vibook](https://github.com/pinqy520/roo-code-vibook) - AI支援による継続的メンテナンス向けAIフレンドリープロジェクトドキュメント（Roo Code）
+- [Claude Code PM](https://github.com/automazeio/ccpm) - GitHub IssuesとGit worktreeを使用した並列エージェント実行によるClaude Code向けプロジェクト管理システム
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - AIアシスタントとの会話から永続的セマンティックグラフを構築できる知識管理システム
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - プロジェクトディレクトリをスキャンし、.gitignoreルールで無視されないファイルを特定し、内容を単一テキストファイルに連結するコマンドラインツール
 
@@ -249,6 +256,7 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [SuperCoder](https://github.com/TransformerOptimus/SuperCoder) - オープンソース自律ソフトウェア開発システム
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - 自律プログラム改善を目指すプロジェクト構造認識型自律ソフトウェアエンジニア
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - オープンソースLLMをトレーニングすることで現実世界のGitHubイシューに対処するシンプルで効果的なソリューション
+- [Spec Kit](https://github.com/github/spec-kit) - 仕様駆動開発を始めるためのツールキット
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - ソフトウェア開発問題を自動解決するエージェントレスアプローチ
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - 複雑な現実世界のソフトウェア作成にアジャイル手法をエージェントに組み込む
 - [sparc2](https://github.com/agenticsorg/sparc2) - ソフトウェア開発の自動化・合理化向けインテリジェントコーディングエージェントフレームワーク、SPARC 2.0エージェント型コード解析・生成
