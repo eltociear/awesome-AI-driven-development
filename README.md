@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **258 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -20,6 +20,7 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 - [Code Search & Analysis](#code-search--analysis)
 - [Specialized Tools](#specialized-tools)
 - [Learning & Tutorials](#learning--tutorials)
+- [Configuration & Enhancement](#configuration--enhancement)
 
 ## AI Code Editors
 

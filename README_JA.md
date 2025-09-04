@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **258個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -20,6 +20,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [コード検索・解析](#コード検索解析)
 - [特殊ツール](#特殊ツール)
 - [学習・チュートリアル](#学習チュートリアル)
+- [設定・機能強化](#設定機能強化)
 
 ## AIコードエディタ
 
@@ -340,7 +341,7 @@ AI駆動開発実践・手法の学習向けリソース。
 
 ## 設定・機能強化
 
-AIコーディングアシスタント強化向けツールと設定。
+AIコーディングアシスタントを強化するツールと設定。
 
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - AI支援開発環境のセットアップと作業管理向けツールキット
 - [AiDE](https://github.com/FixingPixels/AiDE) - AI支援でプロジェクト開発への構造化アプローチ
