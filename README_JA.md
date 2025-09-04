@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **263個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **264個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -260,6 +260,7 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [auto-code-rover](https://github.com/nus-apr/auto-code-rover) - 自律プログラム改善を目指すプロジェクト構造認識型自律ソフトウェアエンジニア
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - オープンソースLLMをトレーニングすることで現実世界のGitHubイシューに対処するシンプルで効果的なソリューション
 - [Spec Kit](https://github.com/github/spec-kit) - 仕様駆動開発を始めるためのツールキット
+- [Disciplined AI Software Development - Collaborative](https://github.com/Varietyz/Disciplined-AI-Software-Development) - AI開発プロジェクトでの構造化アプローチ。コード肥大化、アーキテクチャドリフト、コンテキスト希釈などの一般的問題に体系的な制約で対処する手法
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - ソフトウェア開発問題を自動解決するエージェントレスアプローチ
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - 複雑な現実世界のソフトウェア作成にアジャイル手法をエージェントに組み込む
 - [sparc2](https://github.com/agenticsorg/sparc2) - ソフトウェア開発の自動化・合理化向けインテリジェントコーディングエージェントフレームワーク、SPARC 2.0エージェント型コード解析・生成
