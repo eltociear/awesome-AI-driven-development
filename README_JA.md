@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **277個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **287個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -36,6 +36,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - v0.dev、cursor、bolt.new、windsurf、retool、roocode、kilo、lovable.devの無料でオープンソースの代替案。制限なしのAIソフトウェア開発
 - [Monkey Code](https://github.com/chaitin/MonkeyCode) - プライベートオフライン展開をサポートし、サードパーティおよびローカライズされた大規模言語モデルと互換性があり、エンタープライズグレードの管理ダッシュボードとコードセキュリティ機能を備えたエンタープライズグレードAIプログラミングアシスタント
 - [Libra AI](https://github.com/nextify-limited/libra) - V0/Lovableのオープンソース代替
+- [NPC Studio](https://github.com/npc-worldwide/npc-studio) - 研究のためのIDE、AI統合を基盤から構築
 
 ## ターミナルベースのコーディングエージェント
 
@@ -124,6 +125,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - AutoGenとCrewAIなどを組み合わせたマルチエージェントLLMシステムの構築・管理向けローコードソリューション
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) - Claude Code、Aider、Codex、OpenCode、Ampなど複数のAIターミナルエージェントを管理
 - [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) - エンタープライズグレードアーキテクチャ、高度スウォーム知能、Claude Codeシームレス統合でゼロから構築
+- [Activepieces](https://github.com/activepieces/activepieces) - AIエージェント＆MCP＆AIワークフロー自動化 • AIエージェント用約400個MCPサーバー • MCP付きAI自動化/AIエージェント • AIワークフロー＆AIエージェント • AIエージェント用MCP
+- [Heurist Agent Framework](https://github.com/heurist-network/heurist-agent-framework) - 推論、ツール使用、メモリ、深度研究、ブロックチェーンインタラクション、MCP、エージェント・アズ・ア・サービスでエージェントを構築する柔軟なマルチインターフェースAIエージェントフレームワーク
 - [nous](https://github.com/TrafficGuard/nous) - 自律AIエージェントとLLMベースワークフロー向けオープンソースTypeScriptプラットフォーム
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - クルーの目的と希望する出力データに基づいて完全に機能するクルーを生成
 - [Symphony v0.2](https://github.com/sincover/Symphony) - 構造化された効率的なワークフローでAIエージェントを調整する洗練されたマルチエージェントソフトウェア開発フレームワーク
@@ -167,6 +170,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
 - [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
+- [OpenDeRisk](https://github.com/derisk-ai/OpenDerisk) - AIネイティブリスク情報システム、OpenDeRisk——アプリケーションシステムリスクインテリジェント管理者が7×24時間包括的で深度な保護を提供
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Webテスト AIエージェント - 仕様を書くと残りを実行
 - [arbigent](https://github.com/takahirom/arbigent) - Android、iOS、Webアプリテスト向けAIエージェント
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - コーディング中のバグ発見を支援するAIアシスタント
@@ -188,6 +192,11 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - SupabaseプロジェクトをCursor、Claude、Windsurf、その他のAIアシスタントに接続
 - [claude-context](https://github.com/zilliztech/claude-context) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに
 - [Kodit](https://github.com/helixml/kodit) - 外部リポジトリをインデックス化するMCPサーバー
+- [PageSpeed Insights MCP Server](https://github.com/ruslanlap/pagespeed-insights-mcp) - Google PageSpeed Insights APIのMCPサーバー、Claudeから直接Webページパフォーマンス解析を可能にする
+- [Browser Control MCP](https://github.com/eyalzh/browser-control-mcp) - ブラウザ拡張機能と連携してAIエージェントがユーザーのブラウザを制御できるMCPサーバー
+- [LINE Bot MCP Server](https://github.com/line/line-bot-mcp-server) - LINE Messaging APIを統合してAIエージェントをLINE公式アカウントに接続するMCPサーバー
+- [Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server) - KubernetesとOpenShift用Model Context Protocol（MCP）サーバー
+- [Computer Control MCP](https://github.com/AB498/computer-control-mcp) - PyAutoGUI、RapidOCR、ONNXRuntimeを使用してマウス、キーボード、OCRなどのコンピューター制御機能を提供するMCPサーバー。AnthropicのComputer-useと類似、外部依存関係ゼロ
 - [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - GeminiとClaude Codeの連携。ClaudeのExtended ThinkingにGeminiの視点で補強
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - GitHub Chat APIを使用してGitHubリポジトリを分析・クエリするModel Context Protocol（MCP）
 - [Github Semantic Search MCP Server](https://github.com/edelauna/github-semantic-search-mcp) - インデックス化されたGitHubリポジトリに対するRAGクエリを促進するリモートMCPサーバー
@@ -295,6 +304,7 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - LLM向けプロジェクトのコードコンテキストをインテリジェントにパッケージ化
 - [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Claude Codeセッションをローカル解析し生産性レポートを生成するオープンソースCLI
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - 予測と警告を備えたリアルタイムClaude Code使用量モニター
+- [Telegram Search](https://github.com/groupultra/telegram-search) - 🔍 ベクトル検索とセマンティックマッチング機能を備えた強力なTelegramチャット検索ツール
 - [codeselect](https://github.com/maynetee/codeselect) - ClaudeやChatGPTなどのAIアシスタントとコードを選択・共有するシンプル・インタラクティブツール
 - [shotgun_code](https://github.com/glebkudr/shotgun_code) - 大規模言語モデルワークフロー向けワンクリックコードベース「ブラスト」
 - [open-repoprompt](https://github.com/wildberry-source/open-repoprompt) - トークン制限に達することなく、Claude、GPT-4、Grokなどにコード・ドキュメントを供給する高速・軽量Goツール
