@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **286 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **298 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -37,6 +37,8 @@ Full-featured AI-powered code editors and IDEs.
 - [Monkey Code](https://github.com/chaitin/MonkeyCode) - Enterprise-grade AI programming assistant, supporting private offline deployment, compatible with third-party and localised large language models, featuring an enterprise-grade management dashboard and equipped with code security functionality.
 - [Libra AI](https://github.com/nextify-limited/libra) - Open Source Alternative to V0/Lovable
 - [NPC Studio](https://github.com/npc-worldwide/npc-studio) - the IDE for research, built from the ground up with AI integrations
+- [Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
+- [Chara Codes](https://github.com/chara-codes/chara) - An AI-powered development environment that brings joy to coding through intelligent assistance, real-time collaboration, and seamless workflow management.
 
 ## Terminal-Based Coding Agents
 
@@ -127,6 +129,8 @@ Frameworks and tools for orchestrating multiple AI agents in development workflo
 - [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) - Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.
 - [Activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [Heurist Agent Framework](https://github.com/heurist-network/heurist-agent-framework) - A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.
+- [GitAGU (Git Agent Unblock)](https://github.com/microsoft/gitagu) - A centralized platform for discovering, configuring, and integrating AI agents into your development workflow. Simplifies AI adoption across the entire Software Development Life Cycle
+- [Floki](https://github.com/FinnaAI/floki) - Floki creates a new paradigm for working with multiple AI coding agents in parallel, letting you build better software, faster with AI-powered assistance.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - Generate fully functional crews based on the crew's purpose and desired output data
 - [Symphony v0.2](https://github.com/sincover/Symphony) - A sophisticated multi-agent software development framework designed to orchestrate AI agents in a structured, efficient workflow
@@ -157,6 +161,7 @@ Tools for generating code, applications, and project templates.
 - [coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - A template for applying Rooflow to Roocode in an easy way
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Coding Full-stack App Starter Template
+- [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - A REST API for managing superheroes, implemented with Node.js and TypeScript. This project provides a simple backend for the "Tour of Heroes" application with endpoints to get, create, update, and delete hero data.
 
 ## Testing & Quality Assurance
 
@@ -196,6 +201,8 @@ Tools and servers implementing the Model Context Protocol for enhanced AI capabi
 - [LINE Bot MCP Server](https://github.com/line/line-bot-mcp-server) - MCP server that integrates the LINE Messaging API to connect an AI Agent to the LINE Official Account.
 - [Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 - [Computer Control MCP](https://github.com/AB498/computer-control-mcp) - MCP server that provides computer control capabilities, like mouse, keyboard, OCR, etc. using PyAutoGUI, RapidOCR, ONNXRuntime. Similar to 'computer-use' by Anthropic. With Zero External Dependencies.
+- [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - An MCP server to stop hallucinations with token efficient search over public and private documentation.
+- [DockaShell](https://github.com/anzax/dockashell) - DockaShell is an MCP server that gives AI agents isolated Docker containers to work in. MCP tools for shell access, file operations, and full audit trail.
 - [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - The power of Gemini + Claude Code working as one. Augments Claude's extended thinking with Gemini's perspective
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - A Model Context Protocol (MCP) for analyzing and querying GitHub repositories using the GitHub Chat API
 - [Github Semantic Search MCP Server](https://github.com/edelauna/github-semantic-search-mcp) - This repo hosts a remote MCP server to facilitate a RAG query against an indexed GitHub repo
@@ -277,6 +284,8 @@ Tools and frameworks for managing AI-assisted development workflows.
 - [Disciplined AI Software Development - Collaborative](https://github.com/Varietyz/Disciplined-AI-Software-Development) - A structured approach for working with AI on development projects. This methodology addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints.
 - [gac (Git Auto Commit)](https://github.com/cellwebb/gac) - AI-powered git commit message generator that produces high-quality commit messages based on your staged changes automatically.
 - [Memov](https://github.com/memovai/mem) - AI coding version control on top of Git. Track not just what changed, but why it changed.
+- [OpenEvolve](https://github.com/codelion/openevolve) - Turn your LLMs into autonomous code optimizers that discover breakthrough algorithms
+- [gwq](https://github.com/d-kuro/gwq) - Git worktree manager with fuzzy finder - Work on multiple branches simultaneously, perfect for parallel AI coding workflows
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - An agentless approach to automatically solve software development problems
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - Incorporating Agile methodology into agents to create complex real-world softwares
 - [sparc2](https://github.com/agenticsorg/sparc2) - SPARC 2.0, agentic code analysis and generation, is an intelligent coding agent framework built to automate and streamline software development
@@ -377,6 +386,8 @@ Tools and configurations for enhancing AI coding assistants.
 - [VibeKit](https://github.com/superagent-ai/vibekit) - Run Claude Code, Gemini, Codex — or any coding agent — in a clean, isolated sandbox with sensitive data redaction and observability baked in.
 - [opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [Claude Code Templates (aitmpl.com)](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 10x-Tool-Calls is a lightweight rules file designed to help you maximize the value of your monthly AI coding tool calls, enabling you to get more done with fewer requests.
+- [zcc](https://github.com/Git-on-my-level/zcc) - Transform Claude Code from a basic AI assistant into a project-aware, context-intelligent development powerhouse.
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
 - [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) - A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - Provides a chat interface for the DeepSeek-R1 model
@@ -387,3 +398,4 @@ Tools and configurations for enhancing AI coding assistants.
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - A powerful AI-driven command-line tool that integrates aider within a LangChain ReAct agent loop
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs
+- [DeepEvolve](https://github.com/liugangcode/deepevolve) - a research and coding agent for new algorithm discovery in different science domains with Deep Research and AlphaEvolve.

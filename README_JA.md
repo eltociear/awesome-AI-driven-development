@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **286個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **298個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -37,6 +37,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Monkey Code](https://github.com/chaitin/MonkeyCode) - プライベートオフライン展開をサポートし、サードパーティおよびローカライズされた大規模言語モデルと互換性があり、エンタープライズグレードの管理ダッシュボードとコードセキュリティ機能を備えたエンタープライズグレードAIプログラミングアシスタント
 - [Libra AI](https://github.com/nextify-limited/libra) - V0/Lovableのオープンソース代替
 - [NPC Studio](https://github.com/npc-worldwide/npc-studio) - 研究のためのIDE、AI統合を基盤から構築
+- [Claudable](https://github.com/opactorai/Claudable) - Claude Code、Codex、Gemini CLI、Qwen Code、Cursor AgentなどローカCLIエージェントを活用し、製品を簡単に構築・デプロイするオープンソースWebビルダー
+- [Chara Codes](https://github.com/chara-codes/chara) - インテリジェントアシスタンス、リアルタイムコラボレーション、シームレスワークフロー管理でコーディングに喜びをもたらすAI搭載開発環境
 
 ## ターミナルベースのコーディングエージェント
 
@@ -133,6 +135,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [VoltAgent](https://github.com/voltagent/voltagent) - AIエージェントの構築と調整向けオープンソースTypeScriptフレームワーク
 - [LLM Agent X](https://github.com/cvaz1306/llm_agent_x) - タスクをサブタスクに分割し、Web検索などのツールを使用して複雑なタスクを実行する言語モデル活用タスク実行フレームワーク
 - [ManusMCP](https://github.com/mantrakp04/manusmcp) - 専門能力を持つAIチームメンバーをデプロイするFlowiseを使用したAIエージェントフレームワーク
+- [GitAGU (Git Agent Unblock)](https://github.com/microsoft/gitagu) - 開発ワークフローにAIエージェントを発見、設定、統合するための一元プラットフォーム。ソフトウェア開発ライフサイクル全体にわたるAI導入を簡素化
+- [Floki](https://github.com/FinnaAI/floki) - 複数のAIコーディングエージェントを並行して使用する新しいパラダイムを創造し、AI搭載アシスタンスでより良いソフトウェアをより速く構築
 - [Giselle](https://github.com/giselles-ai/giselle) - AI駆動ソリューションを簡単に作成できるエージェント型ワークフロービルダー
 - [development-workforce](https://github.com/Grusinator/development-workforce) - AIエージェントを既存のソフトウェア開発セットアップに統合する実験
 - [agentok](https://github.com/hughlv/agentok) - マルチエージェント開発向けビジュアルツール
@@ -155,6 +159,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [code-converter](https://github.com/JoKerDii/code-converter) - PythonコードをC++に変換するAIツール
 - [unvibe](https://github.com/santinic/unvibe) - ユニットテストからコードを生成
 - [coffee](https://github.com/Coframe/coffee) - AI使用により自分のIDEでUI構築・反復を10倍高速化
+- [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - スーパーヒーローを管理するREST API、Node.jsとTypeScriptで実装。ヒーローデータの取得、作成、更新、削除のエンドポイントを備えた「Tour of Heroes」アプリケーション用シンプルバックエンド
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
 
@@ -213,6 +218,8 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - WebAssemblyプラグインによって機能を拡張する高速・セキュアなMCPサーバー
 - [interactive-mcp](https://github.com/ttommyth/interactive-mcp) - AIエージェントとやりとりするためのローカル・クロスプラットフォームMCPサーバー
 - [Jinni](https://github.com/smat-dev/jinni) - プロジェクトをLLMコンテキストに持ち込む - ツールとMCPサーバー
+- [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
+- [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 
 ## プルリクエスト・コードレビュー
 
@@ -278,6 +285,8 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [gac (Git Auto Commit)](https://github.com/cellwebb/gac) - ステージされた変更に基づき高品質なコミットメッセージを自動生成するAI搭載gitコミットメッセージ生成器
 - [Memov](https://github.com/memovai/mem) - Git上のAIコーディングバージョン管理。何が変更されただけでなく、なぜ変更されたかを追跡
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - ソフトウェア開発問題を自動解決するエージェントレスアプローチ
+- [OpenEvolve](https://github.com/codelion/openevolve) - 画期的なアルゴリズムを発見する自律コード最適化器にLLMを変換
+- [gwq](https://github.com/d-kuro/gwq) - ファジーファインダー付きGit worktreeマネージャー - 複数のブランチで同時作業、並列AIコーディングワークフローに最適
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - 複雑な現実世界のソフトウェア作成にアジャイル手法をエージェントに組み込む
 - [sparc2](https://github.com/agenticsorg/sparc2) - ソフトウェア開発の自動化・合理化向けインテリジェントコーディングエージェントフレームワーク、SPARC 2.0エージェント型コード解析・生成
 - [Kilo Code](https://github.com/Kilo-Org/kilocode) - 計画、構築、コード修正向けオープンソースAIコーディングアシスタント
@@ -372,6 +381,8 @@ AIコーディングアシスタントを強化するツールと設定。
 - [VibeKit](https://github.com/superagent-ai/vibekit) - Claude Code、Gemini、Codexなどのコーディングエージェントをクリーンで隔離されたサンドボックスで実行。機密データのマスキングと観測可能性を内蔵
 - [opcode](https://github.com/getAsterisk/opcode) - Claude Code向け強力なGUIアプリとツールキット - カスタムエージェント作成、インタラクティブClaude Codeセッション管理、セキュアバックグラウンドエージェント実行など
 - [Claude Code Templates (aitmpl.com)](https://github.com/davila7/claude-code-templates) - Claude Code設定・監視用CLIツール
+- [10x-Tool-Calls](https://github.com/perrypixel/10x-Tool-Calls) - 月間AIコーディングツール呼び出しの価値を最大化し、より少ないリクエストでより多くを実現するために設計された軽量ルールファイル
+- [zcc](https://github.com/Git-on-my-level/zcc) - Claude Codeを基本的なAIアシスタントからプロジェクト認識・コンテキストインテリジェントな開発パワーハウスに変換
 - [Aegis](https://github.com/BuildSomethingAI/aegis-framework) - AI機能と構造化プロジェクト管理を組み合わせた強力なフレームワーク
 - [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - 専門コマンド、認知ペルソナ、開発手法でClaude Codeを強化する設定フレームワーク
 - [Claude Code Custom Slash Commands](https://github.com/qdhenry/Claude-Command-Suite) - 一般的なソフトウェア開発業務向け専門ワークフローを提供するClaude Code向けカスタムスラッシュコマンド
@@ -379,6 +390,7 @@ AIコーディングアシスタントを強化するツールと設定。
 - [Clean-Coder-AI](https://github.com/Grigorij-Dudnik/Clean-Coder-AI) - 行動前に思考するAIコーダー
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - あらゆるものの調整によるプログラミング支援
 - [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) - Cursor IDEのComposerでDeepSeekとOpenRouterの言語モデル使用を可能にする専用設計の高性能HTTP/2対応プロキシサーバー
+- [DeepEvolve](https://github.com/liugangcode/deepevolve) - Deep ResearchとAlphaEvolveを用いて異なる科学分野での新アルゴリズム発見向け研究・コーディングエージェント
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - DeepSeek-R1モデルのチャットインターフェースを提供
 - [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - Claude ProとOpenRouterを組み合わせてトークンコストを削減するVS Code向けリーンRoo Code設定
 - [RooFlow](https://github.com/GreatScottyMac/RooFlow) - ☢️Footgun Power☢️による強化メモリーバンクシステム 5つの統合モードとシステムレベルカスタマイゼーションを持つ次世代メモリーバンクシステム
