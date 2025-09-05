@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **287個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **286個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -162,8 +162,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 
 テスト、品質保証、コードカバレッジ向けAI搭載ツール。
 
-- [cover-agent](https://github.com/Codium-ai/cover-agent) - 自動テスト生成とコードカバレッジ向上向けAI搭載ツール！
-- [qodo-cover](https://github.com/qodo-ai/qodo-cover) - 自動テスト生成とコードカバレッジ向上向けAI搭載ツール！
+- [qodo-cover](https://github.com/qodo-ai/qodo-cover) - 自動テスト生成とコードカバレッジ向上向けAI搭載ツール！💻🤖🧪🐞
 - [shortest](https://github.com/anti-work/shortest) - 自然言語AIテストによるQA
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - オープンソース、言語非依存自動テスト生成 + LLMミューテーションテスト
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 最も困難なテスト業務を処理する世界初のオープンソーステストエージェント、Hercules
