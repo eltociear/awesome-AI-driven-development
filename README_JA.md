@@ -2,7 +2,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **264個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **277個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -35,6 +35,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [llamaedit](https://github.com/openconstruct/llamaedit) - LLamaCPPとCodeMirrorによるAI自動補完搭載のコードエディタ
 - [CodingIT](https://github.com/Gerome-Elassaad/CodingIT) - v0.dev、cursor、bolt.new、windsurf、retool、roocode、kilo、lovable.devの無料でオープンソースの代替案。制限なしのAIソフトウェア開発
 - [Monkey Code](https://github.com/chaitin/MonkeyCode) - プライベートオフライン展開をサポートし、サードパーティおよびローカライズされた大規模言語モデルと互換性があり、エンタープライズグレードの管理ダッシュボードとコードセキュリティ機能を備えたエンタープライズグレードAIプログラミングアシスタント
+- [Libra AI](https://github.com/nextify-limited/libra) - V0/Lovableのオープンソース代替
 
 ## ターミナルベースのコーディングエージェント
 
@@ -54,6 +55,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - 開発者向けAI搭載コマンドラインワークフローツール
 - [Grok CLI](https://github.com/superagent-ai/grok-cli) - インテリジェントなテキストエディタ機能とツール使用機能を備えたGrok搭載会話型AI CLIツール
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Geminiの力を直接ターミナルに持ち込むオープンソースAIエージェント
+- [VibeTunnel](https://github.com/amantus-ai/vibetunnel) - 任意のブラウザをターミナルに変換し、外出先でエージェントを制御
 - [MyCoder](https://github.com/drivecore/mycoder) - インストールが簡単で強力なコマンドラインベースのAIエージェントシステム
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - プロジェクト管理とやりとりを効率的に行うコマンドラインツール
 - [p90](https://github.com/Ichigo-Labs/p90-cli) - 迅速なプロトタイプ開発、学習、ハッカビリティ向けのミニマルCLIコーディングエージェント
@@ -120,6 +122,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [gpt-all-star](https://github.com/kyaukyuai/gpt-all-star) - 自律AIエージェントのチーム連携によるWebアプリケーションのスクラッチ開発向けAI搭載コード生成ツール
 - [AutoAgents](https://github.com/Link-AGI/AutoAgents) - 複雑なタスクに対して協調エンティティを形成するためのGPT向け異なる役割を生成
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - AutoGenとCrewAIなどを組み合わせたマルチエージェントLLMシステムの構築・管理向けローコードソリューション
+- [Claude Squad](https://github.com/smtg-ai/claude-squad) - Claude Code、Aider、Codex、OpenCode、Ampなど複数のAIターミナルエージェントを管理
+- [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) - エンタープライズグレードアーキテクチャ、高度スウォーム知能、Claude Codeシームレス統合でゼロから構築
 - [nous](https://github.com/TrafficGuard/nous) - 自律AIエージェントとLLMベースワークフロー向けオープンソースTypeScriptプラットフォーム
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - クルーの目的と希望する出力データに基づいて完全に機能するクルーを生成
 - [Symphony v0.2](https://github.com/sincover/Symphony) - 構造化された効率的なワークフローでAIエージェントを調整する洗練されたマルチエージェントソフトウェア開発フレームワーク
@@ -162,6 +166,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 最も困難なテスト業務を処理する世界初のオープンソーステストエージェント、Hercules
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
+- [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Webテスト AIエージェント - 仕様を書くと残りを実行
 - [arbigent](https://github.com/takahirom/arbigent) - Android、iOS、Webアプリテスト向けAIエージェント
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - コーディング中のバグ発見を支援するAIアシスタント
@@ -226,6 +231,7 @@ AI駆動開発プロジェクトとドキュメント管理向けツール。
 - [reqtext](https://github.com/fred-terzi/reqtext) - 要求管理をワークフローに直接持ち込むGitネイティブ・CLIファースト要求・ドキュメンテーションフレームワーク
 - [Vibook](https://github.com/pinqy520/roo-code-vibook) - AI支援による継続的メンテナンス向けAIフレンドリープロジェクトドキュメント（Roo Code）
 - [Claude Code PM](https://github.com/automazeio/ccpm) - GitHub IssuesとGit worktreeを使用した並列エージェント実行によるClaude Code向けプロジェクト管理システム
+- [Claude Conductor](https://github.com/superbasicstudio/claude-conductor) - AI支援開発でClaude Code向けに設計された軽量・モジュラードキュメンテーションフレームワーク
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - AIアシスタントとの会話から永続的セマンティックグラフを構築できる知識管理システム
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - プロジェクトディレクトリをスキャンし、.gitignoreルールで無視されないファイルを特定し、内容を単一テキストファイルに連結するコマンドラインツール
 
@@ -261,6 +267,8 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - オープンソースLLMをトレーニングすることで現実世界のGitHubイシューに対処するシンプルで効果的なソリューション
 - [Spec Kit](https://github.com/github/spec-kit) - 仕様駆動開発を始めるためのツールキット
 - [Disciplined AI Software Development - Collaborative](https://github.com/Varietyz/Disciplined-AI-Software-Development) - AI開発プロジェクトでの構造化アプローチ。コード肥大化、アーキテクチャドリフト、コンテキスト希釈などの一般的問題に体系的な制約で対処する手法
+- [gac (Git Auto Commit)](https://github.com/cellwebb/gac) - ステージされた変更に基づき高品質なコミットメッセージを自動生成するAI搭載gitコミットメッセージ生成器
+- [Memov](https://github.com/memovai/mem) - Git上のAIコーディングバージョン管理。何が変更されただけでなく、なぜ変更されたかを追跡
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - ソフトウェア開発問題を自動解決するエージェントレスアプローチ
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - 複雑な現実世界のソフトウェア作成にアジャイル手法をエージェントに組み込む
 - [sparc2](https://github.com/agenticsorg/sparc2) - ソフトウェア開発の自動化・合理化向けインテリジェントコーディングエージェントフレームワーク、SPARC 2.0エージェント型コード解析・生成
@@ -286,6 +294,7 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - コードベース内容を含む包括的Markdownファイル生成により、大規模言語モデル（LLM）へのコンテキスト提供プロセスを簡素化する強力なコマンドラインツール
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - LLM向けプロジェクトのコードコンテキストをインテリジェントにパッケージ化
 - [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Claude Codeセッションをローカル解析し生産性レポートを生成するオープンソースCLI
+- [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - 予測と警告を備えたリアルタイムClaude Code使用量モニター
 - [codeselect](https://github.com/maynetee/codeselect) - ClaudeやChatGPTなどのAIアシスタントとコードを選択・共有するシンプル・インタラクティブツール
 - [shotgun_code](https://github.com/glebkudr/shotgun_code) - 大規模言語モデルワークフロー向けワンクリックコードベース「ブラスト」
 - [open-repoprompt](https://github.com/wildberry-source/open-repoprompt) - トークン制限に達することなく、Claude、GPT-4、Grokなどにコード・ドキュメントを供給する高速・軽量Goツール
@@ -350,6 +359,10 @@ AIコーディングアシスタントを強化するツールと設定。
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - AI支援開発環境のセットアップと作業管理向けツールキット
 - [AiDE](https://github.com/FixingPixels/AiDE) - AI支援でプロジェクト開発への構造化アプローチ
 - [AiderDesk](https://github.com/hotovo/aider-desk) - Aider AIアシスタント向けデスクトップアプリケーション
+- [Crystal](https://github.com/stravu/crystal) - 並列gitワークツリーで複数のClaude Code AIセッションを実行。アプローチをテスト・比較し、AI支援開発ワークフローを一つのデスクトップアプリで管理
+- [VibeKit](https://github.com/superagent-ai/vibekit) - Claude Code、Gemini、Codexなどのコーディングエージェントをクリーンで隔離されたサンドボックスで実行。機密データのマスキングと観測可能性を内蔵
+- [opcode](https://github.com/getAsterisk/opcode) - Claude Code向け強力なGUIアプリとツールキット - カスタムエージェント作成、インタラクティブClaude Codeセッション管理、セキュアバックグラウンドエージェント実行など
+- [Claude Code Templates (aitmpl.com)](https://github.com/davila7/claude-code-templates) - Claude Code設定・監視用CLIツール
 - [Aegis](https://github.com/BuildSomethingAI/aegis-framework) - AI機能と構造化プロジェクト管理を組み合わせた強力なフレームワーク
 - [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - 専門コマンド、認知ペルソナ、開発手法でClaude Codeを強化する設定フレームワーク
 - [Claude Code Custom Slash Commands](https://github.com/qdhenry/Claude-Command-Suite) - 一般的なソフトウェア開発業務向け専門ワークフローを提供するClaude Code向けカスタムスラッシュコマンド
