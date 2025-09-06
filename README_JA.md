@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **302個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **293個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -70,6 +70,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [kwaak](https://github.com/bosun-ai/kwaak) - ターミナル上でコードに対して自律AIエージェントのチームを実行
 - [oi](https://github.com/oi-overide/oi) - codellamaの上で動作し、拡張機能なしでエディタ上でコードを生成するオープンソースCLIツール
 - [GenAIcode](https://github.com/gtanczyk/genaicode) - TypeScript/Node.js/Reactで完全実装されたマルチモーダルコーディングアシスタント。複数のLLMで動作し、CLIツールまたはGUI（ローカルWeb）として使用可能
+- [SHAI](https://github.com/ovh/shai) - ターミナル上で動作するコーディングエージェント、ペアプログラミングバディ。rustで愛を込めて書かれた <3
+- [Codexa](https://github.com/mikeoller82/codexa) - AI搭載CLIコーディングアシスタント＆開発パートナー
 
 ## IDEプラグイン・拡張機能
 
@@ -222,6 +224,8 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - WebAssemblyプラグインによって機能を拡張する高速・セキュアなMCPサーバー
 - [interactive-mcp](https://github.com/ttommyth/interactive-mcp) - AIエージェントとやりとりするためのローカル・クロスプラットフォームMCPサーバー
 - [Jinni](https://github.com/smat-dev/jinni) - プロジェクトをLLMコンテキストに持ち込む - ツールとMCPサーバー
+- [Kratos MCP](https://github.com/ceorkm/kratos-mcp) - プロジェクト分離の完璧さ、95.8%のコンテキスト精度、Four Pillarsフレームワークを備えたMCPサーバー
+- [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 AI駆動開発向けインテリジェントタスク管理 - 複雑なプロジェクトを管理可能なタスクに分解し、セッション間でコンテキストを維持し、開発ワークフローを加速
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 
@@ -396,6 +400,8 @@ AIコーディングアシスタントを強化するツールと設定。
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - あらゆるものの調整によるプログラミング支援
 - [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) - Cursor IDEのComposerでDeepSeekとOpenRouterの言語モデル使用を可能にする専用設計の高性能HTTP/2対応プロキシサーバー
 - [DeepEvolve](https://github.com/liugangcode/deepevolve) - Deep ResearchとAlphaEvolveを用いて異なる科学分野での新アルゴリズム発見向け研究・コーディングエージェント
+- [cursorrules 「v5」](https://github.com/kinopeee/cursorrules) - Cursor Agent に最適化されたカスタムインストラクションです
+- [.windsurfrules 'v5'](https://github.com/kinopeee/windsurfrules) - Windsurf向けカスタム指示ファイル（.windsurfrules）。Windsurf Cascade向けcursorrulesの最適化適応
 - [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - DeepSeek-R1モデルのチャットインターフェースを提供
 - [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - Claude ProとOpenRouterを組み合わせてトークンコストを削減するVS Code向けリーンRoo Code設定
 - [RooFlow](https://github.com/GreatScottyMac/RooFlow) - ☢️Footgun Power☢️による強化メモリーバンクシステム 5つの統合モードとシステムレベルカスタマイゼーションを持つ次世代メモリーバンクシステム
@@ -404,4 +410,3 @@ AIコーディングアシスタントを強化するツールと設定。
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangChain ReActエージェントループ内でaiderを統合する強力なAI駆動コマンドラインツール
 - [ManasAI](https://github.com/yashpokar/ManasAI) - 業務自動化、コード品質向上、生産性向上を目指す
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - LLM制御の宣言的方法
-- [DeepEvolve](https://github.com/liugangcode/deepevolve) - Deep ResearchとAlphaEvolveを用いて異なる科学分野での新アルゴリズム発見向け研究・コーディングエージェント

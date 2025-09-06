@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **302 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **293 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -70,6 +70,8 @@ AI coding assistants that work directly in your terminal.
 - [kwaak](https://github.com/bosun-ai/kwaak) - Run a team of autonomous AI agents on your code, right from your terminal!
 - [oi](https://github.com/oi-overide/oi) - An open-source cli tool that works on top of codellama and generates code in any editor without extensions
 - [GenAIcode](https://github.com/gtanczyk/genaicode) - a multi modal coding assistant implemented entirely in TypeScript/Node.js/React. It works with multiple LLMs. It can be used as a CLI tool or via GUI(local web)
+- [SHAI](https://github.com/ovh/shai) - a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3
+- [Codexa](https://github.com/mikeoller82/codexa) - AI-Powered CLI Coding Assistant & Development Partner
 
 ## IDE Plugins & Extensions
 
@@ -224,6 +226,8 @@ Tools and servers implementing the Model Context Protocol for enhanced AI capabi
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp) - A fast, secure MCP server that extends its capabilities through WebAssembly plugins
 - [interactive-mcp](https://github.com/ttommyth/interactive-mcp) - Local, cross-platform MCP server for interact with your AI Agent
 - [Jinni](https://github.com/smat-dev/jinni) - Bring your project into LLM context - tool and MCP server
+- [Kratos MCP](https://github.com/ceorkm/kratos-mcp) - MCP server with perfect project isolation, 95.8% context accuracy, and the Four Pillars Framework.
+- [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 Intelligent task management for AI-powered development - Break down complex projects into manageable tasks, maintain context across sessions, and accelerate your development workflow.
 
 ## Pull Request & Code Review
 
@@ -404,3 +408,5 @@ Tools and configurations for enhancing AI coding assistants.
 - [ManasAI](https://github.com/yashpokar/ManasAI) - It aims to automate tasks, improve code quality, and boost productivity
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - A declarative way to control LLMs
 - [DeepEvolve](https://github.com/liugangcode/deepevolve) - a research and coding agent for new algorithm discovery in different science domains with Deep Research and AlphaEvolve.
+- [cursorrules 「v5」](https://github.com/kinopeee/cursorrules) - Custom instructions optimised for Cursor Agent
+- [.windsurfrules 'v5'](https://github.com/kinopeee/windsurfrules) - custom instruction files (.windsurfrules) for Windsurf. It's an optimized adaptation of cursorrules for Windsurf Cascade.
