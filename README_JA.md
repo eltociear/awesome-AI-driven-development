@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **298個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **302個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています。
 
 ## 目次
 
@@ -69,6 +69,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [jarvis](https://github.com/danilofalcao/jarvis) - 複数の最新言語モデルを活用したコード生成、変更、技術的議論を支援するインテリジェントなコーディングアシスタント
 - [kwaak](https://github.com/bosun-ai/kwaak) - ターミナル上でコードに対して自律AIエージェントのチームを実行
 - [oi](https://github.com/oi-overide/oi) - codellamaの上で動作し、拡張機能なしでエディタ上でコードを生成するオープンソースCLIツール
+- [GenAIcode](https://github.com/gtanczyk/genaicode) - TypeScript/Node.js/Reactで完全実装されたマルチモーダルコーディングアシスタント。複数のLLMで動作し、CLIツールまたはGUI（ローカルWeb）として使用可能
 
 ## IDEプラグイン・拡張機能
 
@@ -86,6 +87,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - WizardCoder向けVisual Studio Code拡張機能
 - [Custom Roo Code Modes](https://github.com/jtgsystems/Custom-Modes-Roo-Code) - Visual Studio Code内のRoo Code AIエージェント向けカスタムモード定義の保存・管理・共有の中央場所
 - [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - コードベースの分析とLLMフレンドリー形式へのエクスポート機能を持つ強力なVS Code拡張機能
+- [Vibe Coding (VICO)](https://github.com/asepindrak/vibe-coding-extension) - プログラミング中に支援するアシスタント付きチャット拡張機能 - 404ストレスなし
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
@@ -161,6 +163,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [unvibe](https://github.com/santinic/unvibe) - ユニットテストからコードを生成
 - [coffee](https://github.com/Coframe/coffee) - AI使用により自分のIDEでUI構築・反復を10倍高速化
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - スーパーヒーローを管理するREST API、Node.jsとTypeScriptで実装。ヒーローデータの取得、作成、更新、削除のエンドポイントを備えた「Tour of Heroes」アプリケーション用シンプルバックエンド
+- [Legacy2Modern (L2M)](https://github.com/astrio-ai/legacy2modern) - レガシーCOBOLコードを現代的でメンテナンス可能なPythonアプリケーションに変換するオープンソースエンジン
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
 
@@ -233,6 +236,7 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - コードベースの検索・操作、インターネット閲覧、Githubイシュー・プルリクエストとのやりとりが可能な開発ワークフロー向けAIエージェント
 - [pr-pilot-cli](https://github.com/PR-Pilot-AI/pr-pilot-cli) - PR Pilot向けコマンドラインインターフェース
 - [Review Gate for Cursor IDE ゲート](https://github.com/LakshmanTurlapati/Review-Gate) - 月間リクエストから最大5倍の価値を得られるCursor IDE向け強力なルール
+- [PR-Agent](https://github.com/qodo-ai/pr-agent) - AI搭載 🤖 自動プルリクエスト分析、フィードバック、提案などのツール！ 💻🔍
 - [kodus](https://github.com/kodustech/kodus-ai) - シニア開発者のようなオープンソースAIコードレビュー
 
 ## プロジェクト管理・ドキュメント
@@ -400,3 +404,4 @@ AIコーディングアシスタントを強化するツールと設定。
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangChain ReActエージェントループ内でaiderを統合する強力なAI駆動コマンドラインツール
 - [ManasAI](https://github.com/yashpokar/ManasAI) - 業務自動化、コード品質向上、生産性向上を目指す
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - LLM制御の宣言的方法
+- [DeepEvolve](https://github.com/liugangcode/deepevolve) - Deep ResearchとAlphaEvolveを用いて異なる科学分野での新アルゴリズム発見向け研究・コーディングエージェント

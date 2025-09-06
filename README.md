@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **298 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **302 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -69,6 +69,7 @@ AI coding assistants that work directly in your terminal.
 - [jarvis](https://github.com/danilofalcao/jarvis) - An intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions
 - [kwaak](https://github.com/bosun-ai/kwaak) - Run a team of autonomous AI agents on your code, right from your terminal!
 - [oi](https://github.com/oi-overide/oi) - An open-source cli tool that works on top of codellama and generates code in any editor without extensions
+- [GenAIcode](https://github.com/gtanczyk/genaicode) - a multi modal coding assistant implemented entirely in TypeScript/Node.js/React. It works with multiple LLMs. It can be used as a CLI tool or via GUI(local web)
 
 ## IDE Plugins & Extensions
 
@@ -86,6 +87,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
 - [Custom Roo Code Modes](https://github.com/jtgsystems/Custom-Modes-Roo-Code) - This project serves as a central place to store, manage, and share custom mode definitions for the Roo Code AI agent within Visual Studio Code
 - [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - A powerful VS Code extension for analyzing and exporting codebases to LLM-friendly formats
+- [Vibe Coding (VICO)](https://github.com/asepindrak/vibe-coding-extension) - a chat extension with an assistant designed to help you while programming - 404 Stress Not Found
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -160,6 +162,7 @@ Tools for generating code, applications, and project templates.
 - [code-converter](https://github.com/JoKerDii/code-converter) - An AI tool converting python code to C++
 - [unvibe](https://github.com/santinic/unvibe) - Generate code from unit-tests
 - [coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE
+- [Legacy2Modern (L2M)](https://github.com/astrio-ai/legacy2modern) - an open-source engine for transforming legacy COBOL code into modern, maintainable Python applications
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - A template for applying Rooflow to Roocode in an easy way
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Coding Full-stack App Starter Template
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - A REST API for managing superheroes, implemented with Node.js and TypeScript. This project provides a simple backend for the "Tour of Heroes" application with endpoints to get, create, update, and delete hero data.
@@ -233,6 +236,7 @@ Tools for automating pull request reviews and code analysis.
 - [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
 - [pr-pilot-cli](https://github.com/PR-Pilot-AI/pr-pilot-cli) - Command-line interface for PR Pilot
 - [Review Gate for Cursor IDE ゲート](https://github.com/LakshmanTurlapati/Review-Gate) - A powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests
+- [PR-Agent](https://github.com/qodo-ai/pr-agent) - An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [kodus](https://github.com/kodustech/kodus-ai) - Open source AI code reviews — just like your senior dev would do.
 
 ## Project Management & Documentation
