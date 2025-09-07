@@ -7,25 +7,25 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 
 ## Contents
 
-- [AI Code Editors](#ai-code-editors)
-- [Terminal-Based Coding Agents](#terminal-based-coding-agents)
-- [IDE Plugins & Extensions](#ide-plugins--extensions)
-- [Multi-Agent Systems](#multi-agent-systems)
-- [Code Generation & Templates](#code-generation--templates)
-- [Testing & Quality Assurance](#testing--quality-assurance)
-- [Model Context Protocol (MCP)](#model-context-protocol-mcp)
-- [Pull Request & Code Review](#pull-request--code-review)
-- [Project Management & Documentation](#project-management--documentation)
-- [Language Models for Code](#language-models-for-code)
-- [Development Workflows](#development-workflows)
-- [Code Search & Analysis](#code-search--analysis)
-- [Specialized Tools](#specialized-tools)
-- [Learning & Tutorials](#learning--tutorials)
-- [Configuration & Enhancement](#configuration--enhancement)
+- [AI Code Editors & IDEs](#ai-code-editors--ides)
+- [Terminal & CLI Agents](#terminal--cli-agents)
+- [IDE Extensions](#ide-extensions)
+- [Multi-Agent & Orchestration](#multi-agent--orchestration)
+- [Code Generation & Automation](#code-generation--automation)
+- [Testing & Security](#testing--security)
+- [MCP Servers & Integrations](#mcp-servers--integrations)
+- [Code Review & Collaboration](#code-review--collaboration)
+- [Project & Knowledge Management](#project--knowledge-management)
+- [Language Models & Engines](#language-models--engines)
+- [Development Workflows & Agents](#development-workflows--agents)
+- [Code Analysis & Search](#code-analysis--search)
+- [Domain-Specific Tools](#domain-specific-tools)
+- [Frameworks & Libraries](#frameworks--libraries)
+- [Learning Resources](#learning-resources)
 
-## AI Code Editors
+## AI Code Editors & IDEs
 
-Full-featured AI-powered code editors and IDEs.
+Full-featured AI-powered code editors and integrated development environments.
 
 - [cursor](https://github.com/getcursor/cursor) - The AI Code Editor
 - [bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
@@ -41,9 +41,9 @@ Full-featured AI-powered code editors and IDEs.
 - [Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [Chara Codes](https://github.com/chara-codes/chara) - An AI-powered development environment that brings joy to coding through intelligent assistance, real-time collaboration, and seamless workflow management.
 
-## Terminal-Based Coding Agents
+## Terminal & CLI Agents
 
-AI coding assistants that work directly in your terminal.
+AI coding assistants and agents that work directly in your terminal or command line.
 
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
 - [Claude Code (Research Preview)](https://github.com/anthropics/claude-code) - An agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands
@@ -74,7 +74,7 @@ AI coding assistants that work directly in your terminal.
 - [Codexa](https://github.com/mikeoller82/codexa) - AI-Powered CLI Coding Assistant & Development Partner
 - [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - A Python-based AI coding assistant that uses the Gemini API for code generation, file manipulation, and interactive software development support via CLI.
 
-## IDE Plugins & Extensions
+## IDE Extensions
 
 Plugins and extensions for popular IDEs and text editors.
 
@@ -120,9 +120,9 @@ Plugins and extensions for popular IDEs and text editors.
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows
 
-## Multi-Agent Systems
+## Multi-Agent & Orchestration
 
-Frameworks and tools for orchestrating multiple AI agents in development workflows.
+Frameworks and tools for orchestrating and managing multiple AI agents in development workflows.
 
 - [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents
@@ -148,9 +148,9 @@ Frameworks and tools for orchestrating multiple AI agents in development workflo
 - [development-workforce](https://github.com/Grusinator/development-workforce) - Experimentation on how to integrate ai agents into existing software development setup
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development
 
-## Code Generation & Templates
+## Code Generation & Automation
 
-Tools for generating code, applications, and project templates.
+Tools for generating code, automating development tasks, and creating project templates.
 
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it
 - [amplication](https://github.com/amplication/amplication) - The Only Production-Ready AI-Powered Backend Code Generation
@@ -171,9 +171,9 @@ Tools for generating code, applications, and project templates.
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Coding Full-stack App Starter Template
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - A REST API for managing superheroes, implemented with Node.js and TypeScript. This project provides a simple backend for the "Tour of Heroes" application with endpoints to get, create, update, and delete hero data.
 
-## Testing & Quality Assurance
+## Testing & Security
 
-AI-powered tools for testing, quality assurance, and code coverage.
+AI-powered tools for testing, quality assurance, security analysis, and code coverage.
 
 - [qodo-cover](https://github.com/qodo-ai/qodo-cover) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
@@ -192,9 +192,9 @@ AI-powered tools for testing, quality assurance, and code coverage.
 - [vibelint](https://github.com/mithranm/vibelint) - Make codebases more LLM friendly
 - [Vibe Security](https://github.com/astoj/vibe-security) - A comprehensive security checklist for vibe coders
 
-## Model Context Protocol (MCP)
+## MCP Servers & Integrations
 
-Tools and servers implementing the Model Context Protocol for enhanced AI capabilities.
+Model Context Protocol servers and integrations for enhanced AI capabilities.
 
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow
@@ -234,9 +234,9 @@ Tools and servers implementing the Model Context Protocol for enhanced AI capabi
 - [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
 - [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service providing semantic memory search and persistent storage for AI assistants.
 
-## Pull Request & Code Review
+## Code Review & Collaboration
 
-Tools for automating pull request reviews and code analysis.
+Tools for code review, pull request automation, and team collaboration.
 
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
 - [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities
@@ -248,9 +248,9 @@ Tools for automating pull request reviews and code analysis.
 - [PR-Agent](https://github.com/qodo-ai/pr-agent) - An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [kodus](https://github.com/kodustech/kodus-ai) - Open source AI code reviews — just like your senior dev would do.
 
-## Project Management & Documentation
+## Project & Knowledge Management
 
-Tools for managing AI-driven development projects and documentation.
+Tools for project management, documentation, and knowledge organization in AI-driven development.
 
 - [Backlog.md](https://github.com/MrLesk/Backlog.md) - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - The AI and Human powered ticket system to manage your AI based code generation with tickets
@@ -264,9 +264,9 @@ Tools for managing AI-driven development projects and documentation.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - A knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - A command-line tool to scan a project directory, identify files that are not ignored by .gitignore rules, and concatenate their contents into a single text file
 
-## Language Models for Code
+## Language Models & Engines
 
-Specialized language models and AI systems designed for coding tasks.
+Specialized language models and AI engines designed for coding and development tasks.
 
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) - An Open Multilingual Code Generation Model
 - [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - A More Powerful Multilingual Code Generation Model
@@ -283,9 +283,9 @@ Specialized language models and AI systems designed for coding tasks.
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - An open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them
 - [rift](https://github.com/morph-labs/rift) - An AI-native language server for your personal AI software engineer
 
-## Development Workflows
+## Development Workflows & Agents
 
-Tools and frameworks for managing AI-assisted development workflows.
+Tools, frameworks, and autonomous agents for managing AI-assisted development workflows.
 
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - A platform for autonomous software engineers, powered by AI and LLMs
@@ -316,9 +316,9 @@ Tools and frameworks for managing AI-assisted development workflows.
 - [CoaCoA](https://github.com/im-shashanks/CoaCoA) - a production-ready framework that integrates AI agents into your development workflow to deliver high-quality, tested code with enterprise-grade compliance.
 - [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - A Generative AI Assistant with advance agentic capabilities. Codebuddy uses machine learning to generate code, complete tasks, and streamline coding tasks workflow.
 
-## Code Search & Analysis
+## Code Analysis & Search
 
-Tools for searching, analyzing, and understanding codebases.
+Tools for analyzing, searching, and understanding codebases.
 
 - [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - Local-first semantic code search engine
@@ -337,9 +337,9 @@ Tools for searching, analyzing, and understanding codebases.
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI
 - [RepoGPT](https://github.com/mbarinov/repogpt) - AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly
 
-## Specialized Tools
+## Domain-Specific Tools
 
-Specialized AI tools for specific development tasks and domains.
+Specialized AI tools for specific development domains and tasks.
 
 ### Git & Version Control
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - A CLI tool that generates AI-based git commit messages
@@ -376,9 +376,9 @@ Specialized AI tools for specific development tasks and domains.
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Configuration for Neovim
 
-## Learning & Tutorials
+## Learning Resources
 
-Resources for learning AI-driven development practices and methodologies.
+Tutorials, best practices, and resources for learning AI-driven development.
 
 - [The BMAD-Method 3.1](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - Structured AI-Assisted Development Workflow Guide
@@ -387,9 +387,9 @@ Resources for learning AI-driven development practices and methodologies.
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - A curated collection of .windsurfrules files designed to guide AI coding assistants in generating code that adheres to various best practices
 - [Ruler](https://github.com/intellectronica/ruler) - Apply the same rules to all coding agents
 
-## Configuration & Enhancement
+## Frameworks & Libraries
 
-Tools and configurations for enhancing AI coding assistants.
+Frameworks, libraries, and configurations for building and enhancing AI coding assistants.
 
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - A toolkit for setting up AI-assisted development environments and managing work efforts
 - [AiDE](https://github.com/FixingPixels/AiDE) - A structured approach to developing projects with AI assistance

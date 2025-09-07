@@ -7,25 +7,25 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 
 ## 目次
 
-- [AIコードエディタ](#aiコードエディタ)
-- [ターミナルベースのコーディングエージェント](#ターミナルベースのコーディングエージェント)
-- [IDEプラグイン・拡張機能](#ideプラグイン拡張機能)
-- [マルチエージェントシステム](#マルチエージェントシステム)
-- [コード生成・テンプレート](#コード生成テンプレート)
-- [テスト・品質保証](#テスト品質保証)
-- [Model Context Protocol (MCP)](#model-context-protocol-mcp)
-- [プルリクエスト・コードレビュー](#プルリクエストコードレビュー)
-- [プロジェクト管理・ドキュメント](#プロジェクト管理ドキュメント)
-- [コード用言語モデル](#コード用言語モデル)
-- [開発ワークフロー](#開発ワークフロー)
-- [コード検索・解析](#コード検索解析)
-- [特殊ツール](#特殊ツール)
-- [学習・チュートリアル](#学習チュートリアル)
-- [設定・機能強化](#設定機能強化)
+- [AIコードエディタ & IDE](#aiコードエディタ--ide)
+- [ターミナル & CLIエージェント](#ターミナル--cliエージェント)
+- [IDE拡張機能](#ide拡張機能)
+- [マルチエージェント & オーケストレーション](#マルチエージェント--オーケストレーション)
+- [コード生成 & 自動化](#コード生成--自動化)
+- [テスト & セキュリティ](#テスト--セキュリティ)
+- [MCPサーバー & 統合](#mcpサーバー--統合)
+- [コードレビュー & コラボレーション](#コードレビュー--コラボレーション)
+- [プロジェクト & ナレッジ管理](#プロジェクト--ナレッジ管理)
+- [言語モデル & エンジン](#言語モデル--エンジン)
+- [開発ワークフロー & エージェント](#開発ワークフロー--エージェント)
+- [コード解析 & 検索](#コード解析--検索)
+- [ドメイン固有ツール](#ドメイン固有ツール)
+- [フレームワーク & ライブラリ](#フレームワーク--ライブラリ)
+- [学習リソース](#学習リソース)
 
-## AIコードエディタ
+## AIコードエディタ & IDE
 
-フル機能のAI搭載コードエディタとIDE。
+フル機能のAI搭載コードエディタと統合開発環境。
 
 - [cursor](https://github.com/getcursor/cursor) - AIコードエディタ
 - [bolt.new](https://github.com/stackblitz/bolt.new) - プロンプトで実行、編集、デプロイするフルスタックWebアプリケーション
@@ -41,9 +41,9 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Claudable](https://github.com/opactorai/Claudable) - Claude Code、Codex、Gemini CLI、Qwen Code、Cursor AgentなどローカCLIエージェントを活用し、製品を簡単に構築・デプロイするオープンソースWebビルダー
 - [Chara Codes](https://github.com/chara-codes/chara) - インテリジェントアシスタンス、リアルタイムコラボレーション、シームレスワークフロー管理でコーディングに喜びをもたらすAI搭載開発環境
 
-## ターミナルベースのコーディングエージェント
+## ターミナル & CLIエージェント
 
-ターミナル上で直接動作するAIコーディングアシスタント。
+ターミナルやコマンドラインで直接動作するAIコーディングアシスタントとエージェント。
 
 - [aider](https://github.com/paul-gauthier/aider) - ターミナルでのAIペアプログラミング
 - [Claude Code (Research Preview)](https://github.com/anthropics/claude-code) - ターミナル上で動作するエージェント型コーディングツール。コードベースを理解し、日常的なタスクの実行、複雑なコードの説明、gitワークフローの処理を自然言語コマンドで支援
@@ -74,7 +74,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Codexa](https://github.com/mikeoller82/codexa) - AI搭載CLIコーディングアシスタント＆開発パートナー
 - [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - Gemini APIを使用したコード生成、ファイル操作、CLI経由のインタラクティブソフトウェア開発支援を行うPythonベースAIコーディングアシスタント
 
-## IDEプラグイン・拡張機能
+## IDE拡張機能
 
 人気のIDEやテキストエディタ向けのプラグインと拡張機能。
 
@@ -120,9 +120,9 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - Coq証明の自動記述を支援するVSCode拡張機能
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Windows上のVSCode向けオフラインAIペアプログラマー
 
-## マルチエージェントシステム
+## マルチエージェント & オーケストレーション
 
-開発ワークフローで複数のAIエージェントを調整するフレームワークとツール。
+開発ワークフローで複数のAIエージェントを調整・管理するフレームワークとツール。
 
 - [autogen](https://github.com/microsoft/autogen) - エージェント型AI向けプログラミングフレームワーク
 - [crewAI](https://github.com/joaomdmoura/crewAI) - ロールプレイング型自律AIエージェントを調整するフレームワーク
@@ -148,9 +148,9 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [development-workforce](https://github.com/Grusinator/development-workforce) - AIエージェントを既存のソフトウェア開発セットアップに統合する実験
 - [agentok](https://github.com/hughlv/agentok) - マルチエージェント開発向けビジュアルツール
 
-## コード生成・テンプレート
+## コード生成 & 自動化
 
-コード、アプリケーション、プロジェクトテンプレートを生成するツール。
+コード生成、開発タスクの自動化、プロジェクトテンプレート作成のためのツール。
 
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 作りたいものを指定すると、AIが明確化を求め、その後構築
 - [amplication](https://github.com/amplication/amplication) - 唯一のプロダクション対応AI搭載バックエンドコード生成
@@ -171,9 +171,9 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
 
-## テスト・品質保証
+## テスト & セキュリティ
 
-テスト、品質保証、コードカバレッジ向けAI搭載ツール。
+テスト、品質保証、セキュリティ分析、コードカバレッジ向けAI搭載ツール。
 
 - [qodo-cover](https://github.com/qodo-ai/qodo-cover) - 自動テスト生成とコードカバレッジ向上向けAI搭載ツール！💻🤖🧪🐞
 - [shortest](https://github.com/anti-work/shortest) - 自然言語AIテストによるQA
@@ -192,9 +192,9 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [vibelint](https://github.com/mithranm/vibelint) - コードベースをLLMフレンドリーにする
 - [Vibe Security](https://github.com/astoj/vibe-security) - Vibeコーダー向け包括的セキュリティチェックリスト
 
-## Model Context Protocol (MCP)
+## MCPサーバー & 統合
 
-AI機能強化向けModel Context Protocolを実装するツールとサーバー。
+AI機能強化のためのModel Context Protocolサーバーと統合。
 
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - GitHub APIとのシームレスな統合を提供するModel Context Protocol（MCP）サーバー
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - AWS ベストプラクティスを開発ワークフローに直接持ち込む専門MCPサーバースイート
@@ -234,9 +234,9 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 
-## プルリクエスト・コードレビュー
+## コードレビュー & コラボレーション
 
-プルリクエストレビューとコード解析を自動化するツール。
+コードレビュー、プルリクエスト自動化、チームコラボレーションのためのツール。
 
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent：自動プルリクエスト解析、フィードバック、提案などのAI搭載🤖ツール！
 - [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - チャット機能付きAIベースプルリクエスト要約・レビューアー
@@ -248,9 +248,9 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [PR-Agent](https://github.com/qodo-ai/pr-agent) - AI搭載 🤖 自動プルリクエスト分析、フィードバック、提案などのツール！ 💻🔍
 - [kodus](https://github.com/kodustech/kodus-ai) - シニア開発者のようなオープンソースAIコードレビュー
 
-## プロジェクト管理・ドキュメント
+## プロジェクト & ナレッジ管理
 
-AI駆動開発プロジェクトとドキュメント管理向けツール。
+AI駆動開発におけるプロジェクト管理、ドキュメント、ナレッジ整理のためのツール。
 
 - [Backlog.md](https://github.com/MrLesk/Backlog.md) - gitエコシステム内での人間とAIエージェント間のプロジェクト連携管理ツール
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - AIベースコード生成をチケット管理するAIと人間協働のチケットシステム
@@ -264,9 +264,9 @@ AI駆動開発プロジェクトとドキュメント管理向けツール。
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - AIアシスタントとの会話から永続的セマンティックグラフを構築できる知識管理システム
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - プロジェクトディレクトリをスキャンし、.gitignoreルールで無視されないファイルを特定し、内容を単一テキストファイルに連結するコマンドラインツール
 
-## コード用言語モデル
+## 言語モデル & エンジン
 
-コーディング業務向けに設計された専門言語モデルとAIシステム。
+コーディングと開発タスク向けに設計された専門言語モデルとAIエンジン。
 
 - [CodeGeeX](https://github.com/THUDM/CodeGeeX) - オープン多言語コード生成モデル
 - [CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - より強力な多言語コード生成モデル
@@ -283,9 +283,9 @@ AI駆動開発プロジェクトとドキュメント管理向けツール。
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - ソフトウェアエンジニアを置き換えるのではなく、支援・強化するよう設計されたAI搭載機能のバックエンドとして機能するオープンソース言語サーバー
 - [rift](https://github.com/morph-labs/rift) - 個人AIソフトウェアエンジニア向けAIネイティブ言語サーバー
 
-## 開発ワークフロー
+## 開発ワークフロー & エージェント
 
-AI支援開発ワークフロー管理向けツールとフレームワーク。
+AI支援開発ワークフローを管理するツール、フレームワーク、自律エージェント。
 
 - [SWE-agent](https://github.com/princeton-nlp/SWE-agent) - GitHubイシューを取得し、GPT-4または選択したLMを使用して自動修正を試行
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin) - AIとLLMを活用した自律ソフトウェアエンジニア向けプラットフォーム
@@ -316,9 +316,9 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [CoaCoA](https://github.com/im-shashanks/CoaCoA) - エンタープライズグレードのコンプライアンスで高品質でテスト済みコードを提供するためのAIエージェントを開発ワークフローに統合するプロダクション対応フレームワーク
 - [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - 高度なエージェント機能を備えた生成AIアシスタント。Codebuddyは機械学習を使用してコードを生成し、タスクを完了し、コーディングタスクワークフローを合理化
 
-## コード検索・解析
+## コード解析 & 検索
 
-コードベースの検索、解析、理解向けツール。
+コードベースの解析、検索、理解のためのツール。
 
 - [cody](https://github.com/sourcegraph/cody) - タイピング削減、コーディング増進：Codyは高度検索とコードベースコンテキストを使用してコード記述・修正を支援するAIコードアシスタント
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - ローカルファーストセマンティックコード検索エンジン
@@ -337,9 +337,9 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - AIを使用したソフトウェア開発支援ツール
 - [RepoGPT](https://github.com/mbarinov/repogpt) - リポジトリとの簡単なチャット、管理、探索を行うAI搭載GitHubアシスタント
 
-## 特殊ツール
+## ドメイン固有ツール
 
-特定の開発業務・ドメイン向け専門AIツール。
+特定の開発ドメインとタスク向けの専門AIツール。
 
 ### Git・バージョン管理
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - AIベースgitコミットメッセージを生成するCLIツール
@@ -376,9 +376,9 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - あらゆるLLMモデルでGH Copilot拡張機能を動作させる
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Neovim向け設定
 
-## 学習・チュートリアル
+## 学習リソース
 
-AI駆動開発実践・手法の学習向けリソース。
+AI駆動開発を学ぶためのチュートリアル、ベストプラクティス、リソース。
 
 - [The BMAD-Method 3.1](https://github.com/bmadcode/BMAD-METHOD) - アジャイルAI駆動開発のブレークスルー手法
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - 構造化AI支援開発ワークフローガイド
@@ -387,9 +387,9 @@ AI駆動開発実践・手法の学習向けリソース。
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - 様々なベストプラクティスに従ったコード生成をAIコーディングアシスタントに指導する.windsurfrulesファイルの厳選コレクション
 - [Ruler](https://github.com/intellectronica/ruler) - すべてのコーディングエージェントに同じルールを適用
 
-## 設定・機能強化
+## フレームワーク & ライブラリ
 
-AIコーディングアシスタントを強化するツールと設定。
+AIコーディングアシスタントを構築・強化するためのフレームワーク、ライブラリ、設定。
 
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - AI支援開発環境のセットアップと作業管理向けツールキット
 - [AiDE](https://github.com/FixingPixels/AiDE) - AI支援でプロジェクト開発への構造化アプローチ
