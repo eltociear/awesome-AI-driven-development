@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **293 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **300 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -136,6 +136,7 @@ Frameworks and tools for orchestrating multiple AI agents in development workflo
 - [Heurist Agent Framework](https://github.com/heurist-network/heurist-agent-framework) - A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.
 - [GitAGU (Git Agent Unblock)](https://github.com/microsoft/gitagu) - A centralized platform for discovering, configuring, and integrating AI agents into your development workflow. Simplifies AI adoption across the entire Software Development Life Cycle
 - [Floki](https://github.com/FinnaAI/floki) - Floki creates a new paradigm for working with multiple AI coding agents in parallel, letting you build better software, faster with AI-powered assistance.
+- [Omnara](https://github.com/omnara-ai/omnara) - Get real-time visibility into what your agents are doing, and respond to their questions instantly from a single dashboard on web and mobile.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - Generate fully functional crews based on the crew's purpose and desired output data
 - [Symphony v0.2](https://github.com/sincover/Symphony) - A sophisticated multi-agent software development framework designed to orchestrate AI agents in a structured, efficient workflow
@@ -181,6 +182,7 @@ AI-powered tools for testing, quality assurance, and code coverage.
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - Learning to Generate Unit Tests for Automated Debugging
 - [VibeSec](https://github.com/untamed-theory/vibesec) - Security Rules & Workflows for the new wave of AI Development.
 - [OpenDeRisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection.
+- [TDD Guard](https://github.com/nizos/tdd-guard) - Automated Test-Driven Development enforcement for Claude Code.
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest
 - [arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
@@ -307,6 +309,8 @@ Tools and frameworks for managing AI-assisted development workflows.
 - [daiv](https://github.com/srtab/daiv) - AI-driven tool for automating development tasks and improving workflows
 - [DevGPT](https://github.com/fabriziosalmi/DevGPT) - Code togheter, right now!
 - [Devseeker](https://github.com/iBz-04/Devseeker) - A coding agent inspired by claude code and aider
+- [DeepCode](https://github.com/HKUDS/DeepCode) - an AI-powered development platform that automates code generation and implementation tasks.
+- [CoaCoA](https://github.com/im-shashanks/CoaCoA) - a production-ready framework that integrates AI agents into your development workflow to deliver high-quality, tested code with enterprise-grade compliance.
 
 ## Code Search & Analysis
 
@@ -410,3 +414,6 @@ Tools and configurations for enhancing AI coding assistants.
 - [DeepEvolve](https://github.com/liugangcode/deepevolve) - a research and coding agent for new algorithm discovery in different science domains with Deep Research and AlphaEvolve.
 - [cursorrules 「v5」](https://github.com/kinopeee/cursorrules) - Custom instructions optimised for Cursor Agent
 - [.windsurfrules 'v5'](https://github.com/kinopeee/windsurfrules) - custom instruction files (.windsurfrules) for Windsurf. It's an optimized adaptation of cursorrules for Windsurf Cascade.
+- [> CLAUDER](https://github.com/blueraai/clauder) - a supercharged toolkit and a safety-first configuration for Claude Code, designed to provide a robust foundation for AI-assisted development — while remaining easily configurable and extensible to any project or workflow.
+- [Claude Code Subagents Collection](https://github.com/wshobson/agents) - A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
+- [CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.

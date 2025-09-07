@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **293個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **300個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -142,6 +142,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [ManusMCP](https://github.com/mantrakp04/manusmcp) - 専門能力を持つAIチームメンバーをデプロイするFlowiseを使用したAIエージェントフレームワーク
 - [GitAGU (Git Agent Unblock)](https://github.com/microsoft/gitagu) - 開発ワークフローにAIエージェントを発見、設定、統合するための一元プラットフォーム。ソフトウェア開発ライフサイクル全体にわたるAI導入を簡素化
 - [Floki](https://github.com/FinnaAI/floki) - 複数のAIコーディングエージェントを並行して使用する新しいパラダイムを創造し、AI搭載アシスタンスでより良いソフトウェアをより速く構築
+- [Omnara](https://github.com/omnara-ai/omnara) - エージェントが何をしているかをリアルタイムで可視化し、Webとモバイルの単一ダッシュボードから質問に即座に応答
 - [Giselle](https://github.com/giselles-ai/giselle) - AI駆動ソリューションを簡単に作成できるエージェント型ワークフロービルダー
 - [development-workforce](https://github.com/Grusinator/development-workforce) - AIエージェントを既存のソフトウェア開発セットアップに統合する実験
 - [agentok](https://github.com/hughlv/agentok) - マルチエージェント開発向けビジュアルツール
@@ -181,6 +182,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
 - [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
 - [OpenDeRisk](https://github.com/derisk-ai/OpenDerisk) - AIネイティブリスク情報システム、OpenDeRisk——アプリケーションシステムリスクインテリジェント管理者が7×24時間包括的で深度な保護を提供
+- [TDD Guard](https://github.com/nizos/tdd-guard) - Claude Code向け自動テスト駆動開発強制
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Webテスト AIエージェント - 仕様を書くと残りを実行
 - [arbigent](https://github.com/takahirom/arbigent) - Android、iOS、Webアプリテスト向けAIエージェント
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - コーディング中のバグ発見を支援するAIアシスタント
@@ -307,6 +309,8 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [daiv](https://github.com/srtab/daiv) - 開発業務の自動化とワークフローの改善向けAI駆動ツール
 - [DevGPT](https://github.com/fabriziosalmi/DevGPT) - 今すぐ一緒にコーディング！
 - [Devseeker](https://github.com/iBz-04/Devseeker) - claude codeとaiderからインスパイアされたコーディングエージェント
+- [DeepCode](https://github.com/HKUDS/DeepCode) - コード生成と実装タスクを自動化するAI搭載開発プラットフォーム
+- [CoaCoA](https://github.com/im-shashanks/CoaCoA) - エンタープライズグレードのコンプライアンスで高品質でテスト済みコードを提供するためのAIエージェントを開発ワークフローに統合するプロダクション対応フレームワーク
 
 ## コード検索・解析
 
@@ -410,3 +414,6 @@ AIコーディングアシスタントを強化するツールと設定。
 - [RA.Aid](https://github.com/ai-christianson/RA.Aid) - LangChain ReActエージェントループ内でaiderを統合する強力なAI駆動コマンドラインツール
 - [ManasAI](https://github.com/yashpokar/ManasAI) - 業務自動化、コード品質向上、生産性向上を目指す
 - [Noema-Declarative-AI](https://github.com/AlbanPerli/Noema-Declarative-AI) - LLM制御の宣言的方法
+- [> CLAUDER](https://github.com/blueraai/clauder) - Claude Code向けのスーパーチャージドツールキットとセーフティファースト設定。AI支援開発の堅牢な基盤を提供しつつ、任意のプロジェクトやワークフローに簡単に設定・拡張可能
+- [Claude Code Subagents Collection](https://github.com/wshobson/agents) - Claude Code向けの専門AIサブエージェントの包括的コレクション。ドメイン固有の専門知識で開発ワークフローを強化
+- [CCPlugins](https://github.com/brennercruvinel/CCPlugins) - 実際に時間を節約する最高のClaude Codeフレームワーク。毎回の会話で「シニアエンジニアのように振る舞ってください」と入力するのにうんざりした開発者が構築
