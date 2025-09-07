@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **305個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **309個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -73,6 +73,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [SHAI](https://github.com/ovh/shai) - ターミナル上で動作するコーディングエージェント、ペアプログラミングバディ。rustで愛を込めて書かれた <3
 - [Codexa](https://github.com/mikeoller82/codexa) - AI搭載CLIコーディングアシスタント＆開発パートナー
 - [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - Gemini APIを使用したコード生成、ファイル操作、CLI経由のインタラクティブソフトウェア開発支援を行うPythonベースAIコーディングアシスタント
+- [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - 永続メモリとナレッジを備えたAI搭載開発コンパニオン
 
 ## IDE拡張機能
 
@@ -231,6 +232,9 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 AI駆動開発向けインテリジェントタスク管理 - 複雑なプロジェクトを管理可能なタスクに分解し、セッション間でコンテキストを維持し、開発ワークフローを加速
 - [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 AIアシスタントからの古いRustコード提案を防止。このMCPサーバーは最新のクレートドキュメントを取得し、埋め込み/LLMを使用し、ツール呼び出し経由で正確なコンテキストを提供
 - [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - AIアシスタント向けのセマンティックメモリ検索と永続ストレージを提供するユニバーサルMCPメモリサービス
+- [Roslyn MCP Server](https://github.com/carquiza/RoslynMCP) - MicrosoftのRoslynコンパイラプラットフォームと統合し、Claude DesktopにC#コードベースのコード分析とナビゲーション機能を提供するC# MCP（Model Context Protocol）サーバー
+- [SharpTools](https://github.com/kooshi/sharptoolsmcp) - AIがC#ソリューションを分析・変更するための高精度、Roslyn搭載コンテキストを備えたMCPツールスイート
+- [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - Roslynコンパイラプラットフォームを使用してC#コード分析機能を提供するModel Context Protocol（MCP）サーバー
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 

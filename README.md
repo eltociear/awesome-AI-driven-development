@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **305 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **309 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -73,6 +73,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [SHAI](https://github.com/ovh/shai) - a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3
 - [Codexa](https://github.com/mikeoller82/codexa) - AI-Powered CLI Coding Assistant & Development Partner
 - [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - A Python-based AI coding assistant that uses the Gemini API for code generation, file manipulation, and interactive software development support via CLI.
+- [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - The AI-powered development companion with persistent memory and knowledge.
 
 ## IDE Extensions
 
@@ -233,6 +234,9 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 Intelligent task management for AI-powered development - Break down complex projects into manageable tasks, maintain context across sessions, and accelerate your development workflow.
 - [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
 - [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service providing semantic memory search and persistent storage for AI assistants.
+- [Roslyn MCP Server](https://github.com/carquiza/RoslynMCP) - A C# MCP (Model Context Protocol) server that integrates with Microsoft's Roslyn compiler platform to provide Claude Desktop with code analysis and navigation capabilities for C# codebases.
+- [SharpTools](https://github.com/kooshi/sharptoolsmcp) - A suite of MCP tools for AIs to analyze and modify C# solutions with high signal, Roslyn powered context.
+- [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - A Model Context Protocol (MCP) server that provides C# code analysis capabilities using the Roslyn compiler platform.
 
 ## Code Review & Collaboration
 
