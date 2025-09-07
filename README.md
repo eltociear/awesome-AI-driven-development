@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **300 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **305 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -72,6 +72,7 @@ AI coding assistants that work directly in your terminal.
 - [GenAIcode](https://github.com/gtanczyk/genaicode) - a multi modal coding assistant implemented entirely in TypeScript/Node.js/React. It works with multiple LLMs. It can be used as a CLI tool or via GUI(local web)
 - [SHAI](https://github.com/ovh/shai) - a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3
 - [Codexa](https://github.com/mikeoller82/codexa) - AI-Powered CLI Coding Assistant & Development Partner
+- [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - A Python-based AI coding assistant that uses the Gemini API for code generation, file manipulation, and interactive software development support via CLI.
 
 ## IDE Plugins & Extensions
 
@@ -230,6 +231,8 @@ Tools and servers implementing the Model Context Protocol for enhanced AI capabi
 - [Jinni](https://github.com/smat-dev/jinni) - Bring your project into LLM context - tool and MCP server
 - [Kratos MCP](https://github.com/ceorkm/kratos-mcp) - MCP server with perfect project isolation, 95.8% context accuracy, and the Four Pillars Framework.
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 Intelligent task management for AI-powered development - Break down complex projects into manageable tasks, maintain context across sessions, and accelerate your development workflow.
+- [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
+- [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service providing semantic memory search and persistent storage for AI assistants.
 
 ## Pull Request & Code Review
 
@@ -311,6 +314,7 @@ Tools and frameworks for managing AI-assisted development workflows.
 - [Devseeker](https://github.com/iBz-04/Devseeker) - A coding agent inspired by claude code and aider
 - [DeepCode](https://github.com/HKUDS/DeepCode) - an AI-powered development platform that automates code generation and implementation tasks.
 - [CoaCoA](https://github.com/im-shashanks/CoaCoA) - a production-ready framework that integrates AI agents into your development workflow to deliver high-quality, tested code with enterprise-grade compliance.
+- [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - A Generative AI Assistant with advance agentic capabilities. Codebuddy uses machine learning to generate code, complete tasks, and streamline coding tasks workflow.
 
 ## Code Search & Analysis
 
@@ -417,3 +421,4 @@ Tools and configurations for enhancing AI coding assistants.
 - [> CLAUDER](https://github.com/blueraai/clauder) - a supercharged toolkit and a safety-first configuration for Claude Code, designed to provide a robust foundation for AI-assisted development — while remaining easily configurable and extensible to any project or workflow.
 - [Claude Code Subagents Collection](https://github.com/wshobson/agents) - A comprehensive collection of specialized AI subagents for Claude Code, designed to enhance development workflows with domain-specific expertise.
 - [CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
+- [knowhub](https://github.com/yujiosaka/knowhub) - Synchronize AI coding–agent knowledge files (rules, templates, guidelines) across your project.

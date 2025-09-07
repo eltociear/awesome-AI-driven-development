@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **300個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **305個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -72,6 +72,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [GenAIcode](https://github.com/gtanczyk/genaicode) - TypeScript/Node.js/Reactで完全実装されたマルチモーダルコーディングアシスタント。複数のLLMで動作し、CLIツールまたはGUI（ローカルWeb）として使用可能
 - [SHAI](https://github.com/ovh/shai) - ターミナル上で動作するコーディングエージェント、ペアプログラミングバディ。rustで愛を込めて書かれた <3
 - [Codexa](https://github.com/mikeoller82/codexa) - AI搭載CLIコーディングアシスタント＆開発パートナー
+- [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - Gemini APIを使用したコード生成、ファイル操作、CLI経由のインタラクティブソフトウェア開発支援を行うPythonベースAIコーディングアシスタント
 
 ## IDEプラグイン・拡張機能
 
@@ -228,6 +229,8 @@ AI機能強化向けModel Context Protocolを実装するツールとサーバ�
 - [Jinni](https://github.com/smat-dev/jinni) - プロジェクトをLLMコンテキストに持ち込む - ツールとMCPサーバー
 - [Kratos MCP](https://github.com/ceorkm/kratos-mcp) - プロジェクト分離の完璧さ、95.8%のコンテキスト精度、Four Pillarsフレームワークを備えたMCPサーバー
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 AI駆動開発向けインテリジェントタスク管理 - 複雑なプロジェクトを管理可能なタスクに分解し、セッション間でコンテキストを維持し、開発ワークフローを加速
+- [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 AIアシスタントからの古いRustコード提案を防止。このMCPサーバーは最新のクレートドキュメントを取得し、埋め込み/LLMを使用し、ツール呼び出し経由で正確なコンテキストを提供
+- [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - AIアシスタント向けのセマンティックメモリ検索と永続ストレージを提供するユニバーサルMCPメモリサービス
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 
@@ -311,6 +314,7 @@ AI支援開発ワークフロー管理向けツールとフレームワーク。
 - [Devseeker](https://github.com/iBz-04/Devseeker) - claude codeとaiderからインスパイアされたコーディングエージェント
 - [DeepCode](https://github.com/HKUDS/DeepCode) - コード生成と実装タスクを自動化するAI搭載開発プラットフォーム
 - [CoaCoA](https://github.com/im-shashanks/CoaCoA) - エンタープライズグレードのコンプライアンスで高品質でテスト済みコードを提供するためのAIエージェントを開発ワークフローに統合するプロダクション対応フレームワーク
+- [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - 高度なエージェント機能を備えた生成AIアシスタント。Codebuddyは機械学習を使用してコードを生成し、タスクを完了し、コーディングタスクワークフローを合理化
 
 ## コード検索・解析
 
@@ -417,3 +421,4 @@ AIコーディングアシスタントを強化するツールと設定。
 - [> CLAUDER](https://github.com/blueraai/clauder) - Claude Code向けのスーパーチャージドツールキットとセーフティファースト設定。AI支援開発の堅牢な基盤を提供しつつ、任意のプロジェクトやワークフローに簡単に設定・拡張可能
 - [Claude Code Subagents Collection](https://github.com/wshobson/agents) - Claude Code向けの専門AIサブエージェントの包括的コレクション。ドメイン固有の専門知識で開発ワークフローを強化
 - [CCPlugins](https://github.com/brennercruvinel/CCPlugins) - 実際に時間を節約する最高のClaude Codeフレームワーク。毎回の会話で「シニアエンジニアのように振る舞ってください」と入力するのにうんざりした開発者が構築
+- [knowhub](https://github.com/yujiosaka/knowhub) - AIコーディングエージェントのナレッジファイル（ルール、テンプレート、ガイドライン）をプロジェクト全体で同期
