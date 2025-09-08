@@ -13,7 +13,7 @@ XXXセクションに[XXX]を追加しました。
 
 ## 変更内容
 
-書き方例：
+書き方の例：
 
 ```text
 - Strix (https://github.com/usestrix/strix) をTesting & Securityセクションに追加
