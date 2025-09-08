@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **309個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **311個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -235,6 +235,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Roslyn MCP Server](https://github.com/carquiza/RoslynMCP) - MicrosoftのRoslynコンパイラプラットフォームと統合し、Claude DesktopにC#コードベースのコード分析とナビゲーション機能を提供するC# MCP（Model Context Protocol）サーバー
 - [SharpTools](https://github.com/kooshi/sharptoolsmcp) - AIがC#ソリューションを分析・変更するための高精度、Roslyn搭載コンテキストを備えたMCPツールスイート
 - [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - Roslynコンパイラプラットフォームを使用してC#コード分析機能を提供するModel Context Protocol（MCP）サーバー
+- [Things 3 MCP Server](https://github.com/ebowman/mcp-server-things) - Claudeや他のAIアシスタントをThings 3に接続し、自然言語でタスク管理を可能にするModel Context Protocol（MCP）サーバー
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 
@@ -426,3 +427,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Code Subagents Collection](https://github.com/wshobson/agents) - Claude Code向けの専門AIサブエージェントの包括的コレクション。ドメイン固有の専門知識で開発ワークフローを強化
 - [CCPlugins](https://github.com/brennercruvinel/CCPlugins) - 実際に時間を節約する最高のClaude Codeフレームワーク。毎回の会話で「シニアエンジニアのように振る舞ってください」と入力するのにうんざりした開発者が構築
 - [knowhub](https://github.com/yujiosaka/knowhub) - AIコーディングエージェントのナレッジファイル（ルール、テンプレート、ガイドライン）をプロジェクト全体で同期
+- [Claude Code Commands & Tasks (CCCT)](https://github.com/IgorWarzocha/CCCT) - ユニバーサルスラッシュコマンドと統合タスク管理を備えたClaude Code向けプロフェッショナルワークフローシステム
