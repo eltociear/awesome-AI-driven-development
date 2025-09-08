@@ -1,11 +1,11 @@
-
+<!---
 # 書き方については以下のプルリクエストを参照
 
 https://github.com/eltociear/awesome-AI-driven-development/pull/2
 
-# ここからテンプレ
-
 プルリクエストには要約、変更内容、ツールの概要を書くこと。
+
+-->
 
 ## 変更内容の要約
 
