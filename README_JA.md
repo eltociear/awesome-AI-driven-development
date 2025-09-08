@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **312個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **318個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -64,6 +64,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - プロジェクト管理とやりとりを効率的に行うコマンドラインツール
 - [p90](https://github.com/Ichigo-Labs/p90-cli) - 迅速なプロトタイプ開発、学習、ハッカビリティ向けのミニマルCLIコーディングエージェント
 - [TremAi](https://github.com/SamuelHenriqueDeMoraisVitrio/TreinAI) - CopilotとCursorからインスパイアされたコード生成・コマンド実行支援のCLIツール
+- [Metacoder](https://github.com/ai4curation/metacoder) - コマンドラインAIコーディングアシスタント（claude code、gemini-cli、codex、goose、qwen-coder）の統一インターフェース
+- [codename goose](https://github.com/block/goose) - エンジニアリングタスクを自動化するローカル、拡張可能、オープンソースのAIエージェント
 - [DAFC (The Fuck?) CLI](https://github.com/AviSantoso/dafc) - Gemini 2.5 Proのような大規模なコンテキストウィンドウを活用するコマンドラインツールと手法
 - [genjs-cli](https://github.com/vaibav03/genjs-cli) - Anthropic APIとやりとりしてカスタムプロンプトベースのコードテンプレートを生成するコマンドラインツール
 - [jarvis](https://github.com/danilofalcao/jarvis) - 複数の最新言語モデルを活用したコード生成、変更、技術的議論を支援するインテリジェントなコーディングアシスタント
@@ -120,6 +122,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [QodeAssist](https://github.com/Palm1r/QodeAssist) - Qt Creator向けAI搭載コーディングアシスタントプラグイン
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - Coq証明の自動記述を支援するVSCode拡張機能
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Windows上のVSCode向けオフラインAIペアプログラマー
+- [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - GitHub Copilotの機能を模倣するローカルAIコーディングアシスタント。Ollama経由でローカルLLM（deepseek-coder:6.7b）を使用してインテリジェントなコード補完とコンテキスト認識実装を提供
 
 ## マルチエージェント & オーケストレーション
 
@@ -169,6 +172,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [coffee](https://github.com/Coframe/coffee) - AI使用により自分のIDEでUI構築・反復を10倍高速化
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - スーパーヒーローを管理するREST API、Node.jsとTypeScriptで実装。ヒーローデータの取得、作成、更新、削除のエンドポイントを備えた「Tour of Heroes」アプリケーション用シンプルバックエンド
 - [Legacy2Modern (L2M)](https://github.com/astrio-ai/legacy2modern) - レガシーCOBOLコードを現代的でメンテナンス可能なPythonアプリケーションに変換するオープンソースエンジン
+- [AI Website Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - 自然言語プロンプトをNext.js、Tailwind CSS、Gemini AIを使用して完全に機能するReactコンポーネントに変換するAI搭載ウェブサイトビルダー
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
 
@@ -239,6 +243,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Things 3 MCP Server](https://github.com/ebowman/mcp-server-things) - Claudeや他のAIアシスタントをThings 3に接続し、自然言語でタスク管理を可能にするModel Context Protocol（MCP）サーバー
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
+- [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに。埋め込みはローカルで作成・保存され、APIコストなし
 
 ## コードレビュー & コラボレーション
 
@@ -429,3 +434,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [CCPlugins](https://github.com/brennercruvinel/CCPlugins) - 実際に時間を節約する最高のClaude Codeフレームワーク。毎回の会話で「シニアエンジニアのように振る舞ってください」と入力するのにうんざりした開発者が構築
 - [knowhub](https://github.com/yujiosaka/knowhub) - AIコーディングエージェントのナレッジファイル（ルール、テンプレート、ガイドライン）をプロジェクト全体で同期
 - [Claude Code Commands & Tasks (CCCT)](https://github.com/IgorWarzocha/CCCT) - ユニバーサルスラッシュコマンドと統合タスク管理を備えたClaude Code向けプロフェッショナルワークフローシステム
+- [Polka Codes](https://github.com/polka-codes/polka-codes) - 自然言語のやりとりによってコードの記述、改善、保守を支援する強力なTypeScriptベースのAIコーディングアシスタントフレームワーク

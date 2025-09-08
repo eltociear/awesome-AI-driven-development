@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **311 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **318 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -64,6 +64,8 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [o1-engineer](https://github.com/Doriandarko/o1-engineer) - A command-line tool designed to assist developers in managing and interacting with their projects efficiently
 - [p90](https://github.com/Ichigo-Labs/p90-cli) - A minimal CLI coding agent for quick prototypes, learning, and hackability
 - [TremAi](https://github.com/SamuelHenriqueDeMoraisVitrio/TreinAI) - A CLI tool to help you to Code and execute command highly inspired on Copilot and Cursor
+- [Metacoder](https://github.com/ai4curation/metacoder) - A unified interface for command line AI coding assistants (claude code, gemini-cli, codex, goose, qwen-coder)
+- [codename goose](https://github.com/block/goose) - a local, extensible, open source AI agent that automates engineering tasks
 - [DAFC (The Fuck?) CLI](https://github.com/AviSantoso/dafc) - A command-line tool and a methodology designed to leverage the massive context windows of modern Large Language Models (LLMs) like Gemini 2.5 Pro
 - [genjs-cli](https://github.com/vaibav03/genjs-cli) - A command-line tool that interacts with the Anthropic API to generate code templates based on custom prompts
 - [jarvis](https://github.com/danilofalcao/jarvis) - An intelligent coding assistant that leverages multiple state-of-the-art language models to help you with code generation, modifications, and technical discussions
@@ -120,6 +122,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [QodeAssist](https://github.com/Palm1r/QodeAssist) - An AI-powered coding assistant plugin for Qt Creator
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows
+- [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - a local AI coding assistant that mimics the functionality of GitHub Copilot. It provides intelligent code completions and context-aware implementations using a local LLM (deepseek-coder:6.7b) running via Ollama.
 
 ## Multi-Agent & Orchestration
 
@@ -171,6 +174,7 @@ Tools for generating code, automating development tasks, and creating project te
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - A template for applying Rooflow to Roocode in an easy way
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Coding Full-stack App Starter Template
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - A REST API for managing superheroes, implemented with Node.js and TypeScript. This project provides a simple backend for the "Tour of Heroes" application with endpoints to get, create, update, and delete hero data.
+- [AI Website Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - This AI-powered website builder transforms natural language prompts into fully functional React components using Next.js, Tailwind CSS, and Gemini AI.
 
 ## Testing & Security
 
@@ -192,6 +196,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [codegate](https://github.com/stacklok/codegate) - A local gateway that makes AI coding assistants safer
 - [vibelint](https://github.com/mithranm/vibelint) - Make codebases more LLM friendly
 - [Vibe Security](https://github.com/astoj/vibe-security) - A comprehensive security checklist for vibe coders
+- [Strix](https://github.com/usestrix/strix) - Open-source AI hackers for your apps
 
 ## MCP Servers & Integrations
 
@@ -238,6 +243,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [SharpTools](https://github.com/kooshi/sharptoolsmcp) - A suite of MCP tools for AIs to analyze and modify C# solutions with high signal, Roslyn powered context.
 - [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - A Model Context Protocol (MCP) server that provides C# code analysis capabilities using the Roslyn compiler platform.
 - [Things 3 MCP Server](https://github.com/ebowman/mcp-server-things) - A Model Context Protocol (MCP) server that connects Claude and other AI assistants to Things 3 for natural language task management.
+- [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 
 ## Code Review & Collaboration
 
@@ -428,3 +434,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [CCPlugins](https://github.com/brennercruvinel/CCPlugins) - Best Claude Code framework that actually save time. Built by a dev tired of typing "please act like a senior engineer" in every conversation.
 - [knowhub](https://github.com/yujiosaka/knowhub) - Synchronize AI coding–agent knowledge files (rules, templates, guidelines) across your project.
 - [Claude Code Commands & Tasks (CCCT)](https://github.com/IgorWarzocha/CCCT) - Professional workflow system for Claude Code with universal slash commands and integrated task management.
+- [Polka Codes](https://github.com/polka-codes/polka-codes) - a powerful TypeScript-based AI coding assistant framework that helps developers write, improve, and maintain code through natural language interactions.
