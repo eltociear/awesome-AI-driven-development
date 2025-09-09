@@ -20,8 +20,8 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 - [Development Workflows & Agents](#development-workflows--agents)
 - [Code Analysis & Search](#code-analysis--search)
 - [Domain-Specific Tools](#domain-specific-tools)
-- [Frameworks & Libraries](#frameworks--libraries)
 - [Learning Resources](#learning-resources)
+- [Frameworks & Libraries](#frameworks--libraries)
 
 ## AI Code Editors & IDEs
 
