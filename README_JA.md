@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **320個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **324個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -77,6 +77,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - Gemini APIを使用したコード生成、ファイル操作、CLI経由のインタラクティブソフトウェア開発支援を行うPythonベースAIコーディングアシスタント
 - [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - 永続メモリとナレッジを備えたAI搭載開発コンパニオン
 - [OCode](https://github.com/haasonsaas/ocode) - 深いコードベースインテリジェンスと自律タスク実行を提供する洗練されたターミナルネイティブAIコーディングアシスタント
+- [TunaCode CLI](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 安全なgitブランチ、豊富なツール、マルチLLMサポートを備えたTunaCode AI CLIコーディングエージェント
 
 ## IDE拡張機能
 
@@ -198,6 +199,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [vibelint](https://github.com/mithranm/vibelint) - コードベースをLLMフレンドリーにする
 - [Vibe Security](https://github.com/astoj/vibe-security) - Vibeコーダー向け包括的セキュリティチェックリスト
 - [Strix](https://github.com/usestrix/strix) - 「AIハッカー」として機能するオープンソースのセキュリティエージェント。開発ワークフローに統合し、アプリケーションの脆弱性を能動的にテスト・発見する。ローカルで実行し、継続的なセキュリティテストを自動化できる
+- [TheAuditor](https://github.com/TheAuditorTool/Auditor) - オフラインファースト、AI中心のSAST＆コードインテリジェンスプラットフォーム
 
 ## MCPサーバー & 統合
 
@@ -437,3 +439,5 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Code Commands & Tasks (CCCT)](https://github.com/IgorWarzocha/CCCT) - ユニバーサルスラッシュコマンドと統合タスク管理を備えたClaude Code向けプロフェッショナルワークフローシステム
 - [Polka Codes](https://github.com/polka-codes/polka-codes) - 自然言語のやりとりによってコードの記述、改善、保守を支援する強力なTypeScriptベースのAIコーディングアシスタントフレームワーク
 - [Tsumiki](https://github.com/classmethod/tsumiki) - AI駆動開発のフレームワーク。AIを活用した効率的な開発プロセスを提供し、要求定義から実装までを支援
+- [AI Governor Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - AI駆動コードの基盤フレームワーク！AIコーディングアシスタントをアーキテクチャとコーディング標準を尊重する規律あるプロジェクト認識エンジニアリングパートナーに変換
+- [ZCF](https://github.com/UfoMiao/zcf) - バイリンガルサポート、インテリジェントエージェントシステム、パーソナライズされたAIアシスタントを備えたClaude Code向けゼロコンフィグ、ワンクリックセットアップ
