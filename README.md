@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **318 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **320 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -76,6 +76,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Codexa](https://github.com/mikeoller82/codexa) - AI-Powered CLI Coding Assistant & Development Partner
 - [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - A Python-based AI coding assistant that uses the Gemini API for code generation, file manipulation, and interactive software development support via CLI.
 - [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - The AI-powered development companion with persistent memory and knowledge.
+- [OCode](https://github.com/haasonsaas/ocode) - a sophisticated terminal-native AI coding assistant that provides deep codebase intelligence and autonomous task execution.
 
 ## IDE Extensions
 
@@ -435,3 +436,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [knowhub](https://github.com/yujiosaka/knowhub) - Synchronize AI coding–agent knowledge files (rules, templates, guidelines) across your project.
 - [Claude Code Commands & Tasks (CCCT)](https://github.com/IgorWarzocha/CCCT) - Professional workflow system for Claude Code with universal slash commands and integrated task management.
 - [Polka Codes](https://github.com/polka-codes/polka-codes) - a powerful TypeScript-based AI coding assistant framework that helps developers write, improve, and maintain code through natural language interactions.
+- [Tsumiki](https://github.com/classmethod/tsumiki) - A framework for AI-driven development. It provides an efficient development process utilising AI, from requirements definition through to implementation.

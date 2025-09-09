@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **318個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **320個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -20,8 +20,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [開発ワークフロー & エージェント](#開発ワークフロー--エージェント)
 - [コード解析 & 検索](#コード解析--検索)
 - [ドメイン固有ツール](#ドメイン固有ツール)
-- [フレームワーク & ライブラリ](#フレームワーク--ライブラリ)
 - [学習リソース](#学習リソース)
+- [フレームワーク & ライブラリ](#フレームワーク--ライブラリ)
 
 ## AIコードエディタ & IDE
 
@@ -76,6 +76,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Codexa](https://github.com/mikeoller82/codexa) - AI搭載CLIコーディングアシスタント＆開発パートナー
 - [Gemini Engineer](https://github.com/ozanunal0/gemini-engineer) - Gemini APIを使用したコード生成、ファイル操作、CLI経由のインタラクティブソフトウェア開発支援を行うPythonベースAIコーディングアシスタント
 - [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - 永続メモリとナレッジを備えたAI搭載開発コンパニオン
+- [OCode](https://github.com/haasonsaas/ocode) - 深いコードベースインテリジェンスと自律タスク実行を提供する洗練されたターミナルネイティブAIコーディングアシスタント
 
 ## IDE拡張機能
 
@@ -435,3 +436,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [knowhub](https://github.com/yujiosaka/knowhub) - AIコーディングエージェントのナレッジファイル（ルール、テンプレート、ガイドライン）をプロジェクト全体で同期
 - [Claude Code Commands & Tasks (CCCT)](https://github.com/IgorWarzocha/CCCT) - ユニバーサルスラッシュコマンドと統合タスク管理を備えたClaude Code向けプロフェッショナルワークフローシステム
 - [Polka Codes](https://github.com/polka-codes/polka-codes) - 自然言語のやりとりによってコードの記述、改善、保守を支援する強力なTypeScriptベースのAIコーディングアシスタントフレームワーク
+- [Tsumiki](https://github.com/classmethod/tsumiki) - AI駆動開発のフレームワーク。AIを活用した効率的な開発プロセスを提供し、要求定義から実装までを支援
