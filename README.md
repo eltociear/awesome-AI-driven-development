@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **328 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **329 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -298,6 +298,7 @@ Specialized language models and AI engines designed for coding and development t
 - [O1-CODER](https://github.com/ADaM-BJTU/O1-CODER) - AN O1 REPLICATION FOR CODING
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - An open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them
 - [rift](https://github.com/morph-labs/rift) - An AI-native language server for your personal AI software engineer
+- [FireCoder](https://github.com/FireCoderAI/firecoder) - your self-hosted AI assistant, purpose-built to optimize your coding experience directly on your local machine.
 
 ## Development Workflows & Agents
 
