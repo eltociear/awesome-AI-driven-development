@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **324個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **328個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -153,6 +153,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Giselle](https://github.com/giselles-ai/giselle) - AI駆動ソリューションを簡単に作成できるエージェント型ワークフロービルダー
 - [development-workforce](https://github.com/Grusinator/development-workforce) - AIエージェントを既存のソフトウェア開発セットアップに統合する実験
 - [agentok](https://github.com/hughlv/agentok) - マルチエージェント開発向けビジュアルツール
+- [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - 様々なプログラミング言語で幅広いソフトウェアエンジニアリング（SE）タスクに対応する汎用マルチエージェントシステム
 
 ## コード生成 & 自動化
 
@@ -170,6 +171,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AIベースコード生成パイプライン
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - AppleのSwiftSyntaxの上に構築されたSwift言語向けコードジェネレーター
 - [code-converter](https://github.com/JoKerDii/code-converter) - PythonコードをC++に変換するAIツール
+- [Promptr](https://github.com/ferrislucas/promptr) - プレーンな英語でOpenAI LLMモデルにコードベースの変更を指示するCLIツール
 - [unvibe](https://github.com/santinic/unvibe) - ユニットテストからコードを生成
 - [coffee](https://github.com/Coframe/coffee) - AI使用により自分のIDEでUI構築・反復を10倍高速化
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - スーパーヒーローを管理するREST API、Node.jsとTypeScriptで実装。ヒーローデータの取得、作成、更新、削除のエンドポイントを備えた「Tour of Heroes」アプリケーション用シンプルバックエンド
@@ -400,6 +402,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - CursorやCLINEなどのAIコーディングアシスタントの性能向上向けの堅牢で適応可能なルールフレームワーク
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - 様々なベストプラクティスに従ったコード生成をAIコーディングアシスタントに指導する.windsurfrulesファイルの厳選コレクション
 - [Ruler](https://github.com/intellectronica/ruler) - すべてのコーディングエージェントに同じルールを適用
+- [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - ソフトウェアエンジニアの日常的なプログラミング作業を支援するJava向けシステムプロンプトのコレクション
 
 ## フレームワーク & ライブラリ
 
@@ -441,3 +444,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Tsumiki](https://github.com/classmethod/tsumiki) - AI駆動開発のフレームワーク。AIを活用した効率的な開発プロセスを提供し、要求定義から実装までを支援
 - [AI Governor Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - AI駆動コードの基盤フレームワーク！AIコーディングアシスタントをアーキテクチャとコーディング標準を尊重する規律あるプロジェクト認識エンジニアリングパートナーに変換
 - [ZCF](https://github.com/UfoMiao/zcf) - バイリンガルサポート、インテリジェントエージェントシステム、パーソナライズされたAIアシスタントを備えたClaude Code向けゼロコンフィグ、ワンクリックセットアップ
+- [Claude Code Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails) - ブランチ保護、自動チェックポイント、安全なコミットスカッシュによって偶発的なコード損失を防ぐClaude Code向け保護フック

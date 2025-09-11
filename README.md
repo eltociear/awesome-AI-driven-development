@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **324 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **328 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -153,6 +153,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease
 - [development-workforce](https://github.com/Grusinator/development-workforce) - Experimentation on how to integrate ai agents into existing software development setup
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development
+- [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - a generalist multi-agent system designed to tackle a wide spectrum of software engineering (SE) tasks across various programming languages.
 
 ## Code Generation & Automation
 
@@ -170,6 +171,7 @@ Tools for generating code, automating development tasks, and creating project te
 - [AIGenPipeline](https://github.com/stoerr/AIGenPipeline) - AI based code generation pipeline
 - [Sourcery](https://github.com/krzysztofzablocki/Sourcery) - A code generator for Swift language, built on top of Apple's own SwiftSyntax
 - [code-converter](https://github.com/JoKerDii/code-converter) - An AI tool converting python code to C++
+- [Promptr](https://github.com/ferrislucas/promptr) - a CLI tool that lets you use plain English to instruct OpenAI LLM models to make changes to your codebase.
 - [unvibe](https://github.com/santinic/unvibe) - Generate code from unit-tests
 - [coffee](https://github.com/Coframe/coffee) - Build and iterate on your UI 10x faster with AI - right from your own IDE
 - [Legacy2Modern (L2M)](https://github.com/astrio-ai/legacy2modern) - an open-source engine for transforming legacy COBOL code into modern, maintainable Python applications
@@ -400,6 +402,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - This template provides a robust and adaptable framework of rules designed to enhance the performance of AI coding assistants like Cursor and CLINE
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - A curated collection of .windsurfrules files designed to guide AI coding assistants in generating code that adheres to various best practices
 - [Ruler](https://github.com/intellectronica/ruler) - Apply the same rules to all coding agents
+- [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - The project provides a collection of System prompts for Java that help software engineers in their daily programming work.
 
 ## Frameworks & Libraries
 
@@ -441,3 +444,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Tsumiki](https://github.com/classmethod/tsumiki) - A framework for AI-driven development. It provides an efficient development process utilising AI, from requirements definition through to implementation.
 - [AI Governor Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - The Keystone Framework for AI-Driven Code ! Turn any AI coding assistant into a disciplined, project-aware engineering partner that respects your architecture and coding standards
 - [ZCF](https://github.com/UfoMiao/zcf) - Zero-config, one-click setup for Claude Code with bilingual support, intelligent agent system and personalized AI assistant
+- [Claude Code Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails) - Protective hooks for Claude Code that prevent accidental code loss through branch protection, automatic checkpointing, and safe commit squashing
