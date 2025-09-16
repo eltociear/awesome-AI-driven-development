@@ -78,6 +78,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - 永続メモリとナレッジを備えたAI搭載開発コンパニオン
 - [OCode](https://github.com/haasonsaas/ocode) - 深いコードベースインテリジェンスと自律タスク実行を提供する洗練されたターミナルネイティブAIコーディングアシスタント
 - [TunaCode CLI](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 安全なgitブランチ、豊富なツール、マルチLLMサポートを備えたTunaCode AI CLIコーディングエージェント
+- [goose](https://github.com/block/goose) - エンジニアリングタスクを自動化するローカル、拡張可能、オープンソースのAIエージェント
 
 ## IDE拡張機能
 
