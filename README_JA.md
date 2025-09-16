@@ -189,7 +189,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - オープンソース、言語非依存自動テスト生成 + LLMミューテーションテスト
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 最も困難なテスト業務を処理する世界初のオープンソーステストエージェント、Hercules
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
-- [HexStrike AI](https://github.com/hexstrike/hexstrike-ai) - AI搭載セキュリティテスト・脆弱性検出ツール
+- [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - 高度なMCPサーバーで、AIエージェント（Claude、GPT、Copilotなど）が150以上のサイバーセキュリティツールを自律的に実行し、自動ペネトレーションテスト、脆弱性発見、バグバウンティ自動化、セキュリティ研究を実現。12以上の自律AIエージェントとリアルタイムダッシュボードを備えた包括的なセキュリティ自動化プラットフォーム
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
 - [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
 - [OpenDeRisk](https://github.com/derisk-ai/OpenDerisk) - AIネイティブリスク情報システム、OpenDeRisk——アプリケーションシステムリスクインテリジェント管理者が7×24時間包括的で深度な保護を提供
