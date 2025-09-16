@@ -155,6 +155,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [development-workforce](https://github.com/Grusinator/development-workforce) - AIエージェントを既存のソフトウェア開発セットアップに統合する実験
 - [agentok](https://github.com/hughlv/agentok) - マルチエージェント開発向けビジュアルツール
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - 様々なプログラミング言語で幅広いソフトウェアエンジニアリング（SE）タスクに対応する汎用マルチエージェントシステム
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - AI搭載ソフトウェア開発エージェント向けプラットフォーム。コード修正、コマンド実行、Web閲覧、API呼び出しなど人間の開発者ができることを実行
 
 ## コード生成 & 自動化
 
