@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **329個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **331個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -79,6 +79,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [OCode](https://github.com/haasonsaas/ocode) - 深いコードベースインテリジェンスと自律タスク実行を提供する洗練されたターミナルネイティブAIコーディングアシスタント
 - [TunaCode CLI](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 安全なgitブランチ、豊富なツール、マルチLLMサポートを備えたTunaCode AI CLIコーディングエージェント
 - [goose](https://github.com/block/goose) - エンジニアリングタスクを自動化するローカル、拡張可能、オープンソースのAIエージェント
+- [Amazon Q CLI](https://github.com/aws/amazon-q-developer-cli) - ✨ ターミナルでのエージェント型チャット体験。自然言語を使用してアプリケーションを構築
 
 ## IDE拡張機能
 
@@ -252,6 +253,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Ref MCP](https://github.com/ref-tools/ref-tools-mcp) - 公的・私的ドキュメンテーションに対するトークン効率的検索でハルシネーションを防止するMCPサーバー
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 - [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに。埋め込みはローカルで作成・保存され、APIコストなし
+- [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - 簡単なクライアント設定でコード品質チェック操作を提供するモデルコンテキストプロトコル（MCP）サーバー
 
 ## コードレビュー & コラボレーション
 

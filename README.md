@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **329 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **331 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -78,6 +78,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - The AI-powered development companion with persistent memory and knowledge.
 - [OCode](https://github.com/haasonsaas/ocode) - a sophisticated terminal-native AI coding assistant that provides deep codebase intelligence and autonomous task execution.
 - [TunaCode CLI](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 TunaCode AI CLI coding agent with safe git branches, rich tools & multi-LLM support.
+- [Amazon Q CLI](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 
 ## IDE Extensions
 
@@ -249,6 +250,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - A Model Context Protocol (MCP) server that provides C# code analysis capabilities using the Roslyn compiler platform.
 - [Things 3 MCP Server](https://github.com/ebowman/mcp-server-things) - A Model Context Protocol (MCP) server that connects Claude and other AI assistants to Things 3 for natural language task management.
 - [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
+- [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - A Model Context Protocol (MCP) server providing code quality checking operations with easy client configuration.
 
 ## Code Review & Collaboration
 
