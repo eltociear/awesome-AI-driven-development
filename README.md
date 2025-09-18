@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **331 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **333 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -265,6 +265,7 @@ Tools for code review, pull request automation, and team collaboration.
 - [Review Gate for Cursor IDE ゲート](https://github.com/LakshmanTurlapati/Review-Gate) - A powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests
 - [PR-Agent](https://github.com/qodo-ai/pr-agent) - An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [kodus](https://github.com/kodustech/kodus-ai) - Open source AI code reviews — just like your senior dev would do.
+- [Costrict](https://github.com/zgsm-ai/costrict) - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
 
 ## Project & Knowledge Management
 
@@ -281,6 +282,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Claude Conductor](https://github.com/superbasicstudio/claude-conductor) - A lightweight + modular documentation framework designed for AI-assisted development with Claude Code.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - A knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - A command-line tool to scan a project directory, identify files that are not ignored by .gitignore rules, and concatenate their contents into a single text file
+- [AndAI](https://github.com/andrejsstepanovs/andai) - A local tool for organizing AI-assisted coding tasks with ticketing system and git integration.
 
 ## Language Models & Engines
 

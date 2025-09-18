@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **331個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **333個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -268,6 +268,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Review Gate for Cursor IDE ゲート](https://github.com/LakshmanTurlapati/Review-Gate) - 月間リクエストから最大5倍の価値を得られるCursor IDE向け強力なルール
 - [PR-Agent](https://github.com/qodo-ai/pr-agent) - AI搭載 🤖 自動プルリクエスト分析、フィードバック、提案などのツール！ 💻🔍
 - [kodus](https://github.com/kodustech/kodus-ai) - シニア開発者のようなオープンソースAIコードレビュー
+- [Costrict](https://github.com/zgsm-ai/costrict) - エンタープライズ向けの厳格なAIコーダー、品質優先、AIエージェント、AIコードレビュー、AI補完を含む
 
 ## プロジェクト & ナレッジ管理
 
@@ -284,6 +285,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Claude Conductor](https://github.com/superbasicstudio/claude-conductor) - AI支援開発でClaude Code向けに設計された軽量・モジュラードキュメンテーションフレームワーク
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - AIアシスタントとの会話から永続的セマンティックグラフを構築できる知識管理システム
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - プロジェクトディレクトリをスキャンし、.gitignoreルールで無視されないファイルを特定し、内容を単一テキストファイルに連結するコマンドラインツール
+- [AndAI](https://github.com/andrejsstepanovs/andai) - チケットシステムとgit統合を備えたAI支援コーディングタスクを整理するローカルツール
 
 ## 言語モデル & エンジン
 
