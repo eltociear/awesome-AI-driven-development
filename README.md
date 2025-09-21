@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **333 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **335 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -244,6 +244,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Kratos MCP](https://github.com/ceorkm/kratos-mcp) - MCP server with perfect project isolation, 95.8% context accuracy, and the Four Pillars Framework.
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 Intelligent task management for AI-powered development - Break down complex projects into manageable tasks, maintain context across sessions, and accelerate your development workflow.
 - [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
+- [Docker MCP Plugin and Docker MCP Gateway](https://github.com/docker/mcp-gateway/) - docker mcp CLI plugin / MCP Gateway
 - [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service providing semantic memory search and persistent storage for AI assistants.
 - [Roslyn MCP Server](https://github.com/carquiza/RoslynMCP) - A C# MCP (Model Context Protocol) server that integrates with Microsoft's Roslyn compiler platform to provide Claude Desktop with code analysis and navigation capabilities for C# codebases.
 - [SharpTools](https://github.com/kooshi/sharptoolsmcp) - A suite of MCP tools for AIs to analyze and modify C# solutions with high signal, Roslyn powered context.
@@ -283,6 +284,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - A knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - A command-line tool to scan a project directory, identify files that are not ignored by .gitignore rules, and concatenate their contents into a single text file
 - [AndAI](https://github.com/andrejsstepanovs/andai) - A local tool for organizing AI-assisted coding tasks with ticketing system and git integration.
+- [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Give Claude perfect memory of all your conversations. Search past discussions instantly. Never lose context again.
 
 ## Language Models & Engines
 

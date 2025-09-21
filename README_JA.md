@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **333個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **335個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -254,6 +254,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 - [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに。埋め込みはローカルで作成・保存され、APIコストなし
 - [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - 簡単なクライアント設定でコード品質チェック操作を提供するモデルコンテキストプロトコル（MCP）サーバー
+- [Docker MCP Plugin and Docker MCP Gateway](https://github.com/docker/mcp-gateway/) - docker mcp CLI plugin / MCP Gateway
 
 ## コードレビュー & コラボレーション
 
@@ -286,6 +287,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - AIアシスタントとの会話から永続的セマンティックグラフを構築できる知識管理システム
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - プロジェクトディレクトリをスキャンし、.gitignoreルールで無視されないファイルを特定し、内容を単一テキストファイルに連結するコマンドラインツール
 - [AndAI](https://github.com/andrejsstepanovs/andai) - チケットシステムとgit統合を備えたAI支援コーディングタスクを整理するローカルツール
+- [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Claudeにすべての会話の完璧なメモリを提供。過去のディスカッションを即座に検索。コンテキストを失わない
 
 ## 言語モデル & エンジン
 
