@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **335 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **337 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -79,6 +79,8 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [OCode](https://github.com/haasonsaas/ocode) - a sophisticated terminal-native AI coding assistant that provides deep codebase intelligence and autonomous task execution.
 - [TunaCode CLI](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 TunaCode AI CLI coding agent with safe git branches, rich tools & multi-LLM support.
 - [Amazon Q CLI](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
+- [wcgw](https://github.com/rusiaaman/wcgw) - Shell and Coding agent for Claude and other mcp clients
+- [Nanocoder](https://github.com/Nano-Collective/nanocoder) - A local-first CLI coding agent that brings the power of agentic coding tools like Claude Code and Gemini CLI to local models or controlled APIs like OpenRouter.
 
 ## IDE Extensions
 
