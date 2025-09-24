@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **337 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **338 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -107,6 +107,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [gp.nvim](https://github.com/robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin
 - [gen.nvim](https://github.com/David-Kunz/gen.nvim) - Neovim plugin to generate text using LLMs with customizable prompts
 - [copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
+- [copilot.lua](https://github.com/zbirenbaum/copilot.lua) - Fully featured & enhanced replacement for copilot.vim complete with API for interacting with Github Copilot
 - [vim-ai](https://github.com/madox2/vim-ai) - AI-powered code assistant for Vim. OpenAI and ChatGPT plugin for Vim and Neovim
 - [VimLM](https://github.com/JosefAlbers/VimLM) - LLM-powered coding companion for Vim, inspired by GitHub Copilot/Cursor
 - [MCP Hub](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin that integrates MCP (Model Context Protocol) servers into your workflow

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **337個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **338個のツール** を掲載し、AI搭載開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -108,6 +108,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [gp.nvim](https://github.com/robitx/gp.nvim) - Gp.nvim（GPTプロンプト）NeovimのAIプラグイン
 - [gen.nvim](https://github.com/David-Kunz/gen.nvim) - カスタマイズ可能なプロンプトでLLMを使用してテキストを生成するNeovimプラグイン
 - [copilot.vim](https://github.com/github/copilot.vim) - GitHub Copilot向けNeovimプラグイン
+- [copilot.lua](https://github.com/zbirenbaum/copilot.lua) - copilot.vimの完全機能・強化版代替品、Github CopilotとやりとりするAPIを備える
 - [vim-ai](https://github.com/madox2/vim-ai) - Vim向けAI搭載コードアシスタント。VimとNeovim向けのOpenAIとChatGPTプラグイン
 - [VimLM](https://github.com/JosefAlbers/VimLM) - GitHub Copilot/Cursorからインスパイアされた、Vim向けLLM搭載コーディングコンパニオン
 - [MCP Hub](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーをワークフローに統合する強力なNeovimプラグイン
