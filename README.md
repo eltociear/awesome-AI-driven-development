@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **338 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **340 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -112,6 +112,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [VimLM](https://github.com/JosefAlbers/VimLM) - LLM-powered coding companion for Vim, inspired by GitHub Copilot/Cursor
 - [MCP Hub](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin that integrates MCP (Model Context Protocol) servers into your workflow
 - [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - Minuet offers AI code completion from popular LLMs including OpenAI, Gemini, Claude, Codestral, and more
+- [Copilot Chat for Neovim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
 
 ### Emacs
 - [aidermacs](https://github.com/MatthewZMD/aidermacs) - Aider AI Pair Programming in Emacs
@@ -413,6 +414,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - A curated collection of .windsurfrules files designed to guide AI coding assistants in generating code that adheres to various best practices
 - [Ruler](https://github.com/intellectronica/ruler) - Apply the same rules to all coding agents
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - The project provides a collection of System prompts for Java that help software engineers in their daily programming work.
+- [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 
 ## Frameworks & Libraries
 

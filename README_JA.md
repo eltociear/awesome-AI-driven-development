@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **338個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **340個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -113,6 +113,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [VimLM](https://github.com/JosefAlbers/VimLM) - GitHub Copilot/Cursorからインスパイアされた、Vim向けLLM搭載コーディングコンパニオン
 - [MCP Hub](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーをワークフローに統合する強力なNeovimプラグイン
 - [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - OpenAI、Gemini、Claude、Codestralなど人気LLMからのAIコード補完機能
+- [Copilot Chat for Neovim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - NeovimでGitHub Copilotとチャット
 
 ### Emacs
 - [aidermacs](https://github.com/MatthewZMD/aidermacs) - EmacsでのAider AIペアプログラミング
@@ -416,6 +417,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - 様々なベストプラクティスに従ったコード生成をAIコーディングアシスタントに指導する.windsurfrulesファイルの厳選コレクション
 - [Ruler](https://github.com/intellectronica/ruler) - すべてのコーディングエージェントに同じルールを適用
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - ソフトウェアエンジニアの日常的なプログラミング作業を支援するJava向けシステムプロンプトのコレクション
+- [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub CopilotをAIペアプログラミングリソースとして使用するために必要なすべてを教えるマルチモジュールコース
 
 ## フレームワーク & ライブラリ
 
