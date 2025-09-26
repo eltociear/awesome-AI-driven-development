@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **340 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **358 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -81,6 +81,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Amazon Q CLI](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 - [wcgw](https://github.com/rusiaaman/wcgw) - Shell and Coding agent for Claude and other mcp clients
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - A local-first CLI coding agent that brings the power of agentic coding tools like Claude Code and Gemini CLI to local models or controlled APIs like OpenRouter.
+- [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 
 ## IDE Extensions
 
@@ -159,6 +160,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [development-workforce](https://github.com/Grusinator/development-workforce) - Experimentation on how to integrate ai agents into existing software development setup
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - a generalist multi-agent system designed to tackle a wide spectrum of software engineering (SE) tasks across various programming languages.
+- [OpenHands](https://github.com/All-Hands-AI/OpenHands) - A platform for AI-powered software development agents. OpenHands agents can do anything a human developer can: modify code, run commands, browse the web, call APIs, and even copy files to remote servers.
 
 ## Code Generation & Automation
 
@@ -194,6 +196,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world's first open-source testing agent, built to handle the toughest testing tasks so you don't have to
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents
+- [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - Advanced MCP server that enables AI agents (Claude, GPT, Copilot, etc.) to autonomously run 150+ cybersecurity tools for automated penetration testing, vulnerability discovery, bug bounty automation, and security research. A comprehensive security automation platform with 12+ autonomous AI agents and real-time dashboard.
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - Learning to Generate Unit Tests for Automated Debugging
 - [VibeSec](https://github.com/untamed-theory/vibesec) - Security Rules & Workflows for the new wave of AI Development.
 - [OpenDeRisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection.

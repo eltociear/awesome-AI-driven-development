@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **340個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **358個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -78,10 +78,10 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Terra Code CLI](https://github.com/TerraAGI/terra-code-cli) - 永続メモリとナレッジを備えたAI搭載開発コンパニオン
 - [OCode](https://github.com/haasonsaas/ocode) - 深いコードベースインテリジェンスと自律タスク実行を提供する洗練されたターミナルネイティブAIコーディングアシスタント
 - [TunaCode CLI](https://github.com/alchemiststudiosDOTai/tunacode) - 🍣 安全なgitブランチ、豊富なツール、マルチLLMサポートを備えたTunaCode AI CLIコーディングエージェント
-- [goose](https://github.com/block/goose) - エンジニアリングタスクを自動化するローカル、拡張可能、オープンソースのAIエージェント
 - [Amazon Q CLI](https://github.com/aws/amazon-q-developer-cli) - ✨ ターミナルでのエージェント型チャット体験。自然言語を使用してアプリケーションを構築
 - [wcgw](https://github.com/rusiaaman/wcgw) - ClaudeやMCPクライアント向けシェル・コーディングエージェント
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Claude CodeやGemini CLIなどのエージェント型コーディングツールの機能をローカルモデルやOpenRouterなどの制御されたAPIに提供するローカルファーストCLIコーディングエージェント
+- [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLIはCopilotコーディングエージェントの力を直接ターミナルにもたらします
 
 ## IDE拡張機能
 
