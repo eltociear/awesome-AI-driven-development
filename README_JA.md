@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **358個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **359個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -20,6 +20,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [開発ワークフロー & エージェント](#開発ワークフロー--エージェント)
 - [コード解析 & 検索](#コード解析--検索)
 - [ドメイン固有ツール](#ドメイン固有ツール)
+- [データセット生成 & 合成データ](#データセット生成--合成データ)
 - [学習リソース](#学習リソース)
 - [フレームワーク & ライブラリ](#フレームワーク--ライブラリ)
 
@@ -405,6 +406,12 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [copilot-more](https://github.com/jjleng/copilot-more) - コーディング・その他向け月額10ドルのGPT-4oとClaude-3.5-Sonnet API
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - あらゆるLLMモデルでGH Copilot拡張機能を動作させる
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Neovim向け設定
+
+## データセット生成 & 合成データ
+
+AI駆動開発ワークフロー向けの合成データセット生成ツール。
+
+- [DeepFabric](https://github.com/lukehinds/deepfabric) - 構造化出力とより効率的なツール呼び出しのためのモデルファインチューニング用合成データセット、およびエージェントとモデル評価データの生成
 
 ## 学習リソース
 

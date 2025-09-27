@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **358 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **359 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -20,6 +20,7 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 - [Development Workflows & Agents](#development-workflows--agents)
 - [Code Analysis & Search](#code-analysis--search)
 - [Domain-Specific Tools](#domain-specific-tools)
+- [Dataset Generation & Synthetic Data](#dataset-generation--synthetic-data)
 - [Learning Resources](#learning-resources)
 - [Frameworks & Libraries](#frameworks--libraries)
 
@@ -405,6 +406,12 @@ Specialized AI tools for specific development domains and tasks.
 - [copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Configuration for Neovim
+
+## Dataset Generation & Synthetic Data
+
+Tools for generating synthetic datasets and data for AI-driven development workflows.
+
+- [DeepFabric](https://github.com/lukehinds/deepfabric) - Generate synthetic datasets for fine-tuning models, structured output and more efficient tool calling, along with agent and model eval data
 
 ## Learning Resources
 
