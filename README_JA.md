@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **361個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **363個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -369,6 +369,8 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [ctx](https://github.com/context-hub/generator) - ChatGPTやClaudeなどのLLMとチャット時の大きな問題であるプロジェクトに関する十分なコンテキスト提供を解決するツール
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - AIを使用したソフトウェア開発支援ツール
 - [RepoGPT](https://github.com/mbarinov/repogpt) - リポジトリとの簡単なチャット、管理、探索を行うAI搭載GitHubアシスタント
+- [AI Context Generator](https://github.com/temrb/generate-project-context) - プロジェクトのソースファイルを1つのコンテキストファイルにまとめ、Large Language Models（LLMs）での利用に適した形にパッケージングする、小規模かつ意図の明確なCLIツール
+- [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - コードベースを自動で解析し、AIコーディングアシスタント向けに最適化されたコンテキストドキュメント（例：CLAUDE.md、AGENTS.mdなど）の推奨事項を生成するGitHub Action
 
 ## ドメイン固有ツール
 

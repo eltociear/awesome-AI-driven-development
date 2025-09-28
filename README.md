@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **361 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **363 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -369,6 +369,8 @@ Tools for analyzing, searching, and understanding codebases.
 - [ctx](https://github.com/context-hub/generator) - A tool made to solve a big problem when chatting with LLMs like ChatGPT or Claude: giving them enough context about your project
 - [SourceSage](https://github.com/Sunwood-ai-labs/SourceSage) - It is a tool to support software development using AI
 - [RepoGPT](https://github.com/mbarinov/repogpt) - AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly
+- [AI Context Generator](https://github.com/temrb/generate-project-context) - A small, opinionated CLI tool that packages project source files into a single context file suitable for use with Large Language Models (LLMs)
+- [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - A GitHub Action that automatically analyzes your codebase and generates focused AI agent context documentation recommendations (CLAUDE.md, AGENTS.md, or similar) for AI coding assistants
 
 ## Domain-Specific Tools
 
