@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **359 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **361 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -41,6 +41,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [NPC Studio](https://github.com/npc-worldwide/npc-studio) - the IDE for research, built from the ground up with AI integrations
 - [Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [Chara Codes](https://github.com/chara-codes/chara) - An AI-powered development environment that brings joy to coding through intelligent assistance, real-time collaboration, and seamless workflow management.
+- [HumanLayer](https://github.com/humanlayer/humanlayer) - an open source IDE that lets you orchestrate AI coding agents
 
 ## Terminal & CLI Agents
 
@@ -260,6 +261,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Things 3 MCP Server](https://github.com/ebowman/mcp-server-things) - A Model Context Protocol (MCP) server that connects Claude and other AI assistants to Things 3 for natural language task management.
 - [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 - [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - A Model Context Protocol (MCP) server providing code quality checking operations with easy client configuration.
+- [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis
 
 ## Code Review & Collaboration
 

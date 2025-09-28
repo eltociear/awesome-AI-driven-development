@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **359個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **361個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -41,6 +41,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [NPC Studio](https://github.com/npc-worldwide/npc-studio) - 研究のためのIDE、AI統合を基盤から構築
 - [Claudable](https://github.com/opactorai/Claudable) - Claude Code、Codex、Gemini CLI、Qwen Code、Cursor AgentなどローカCLIエージェントを活用し、製品を簡単に構築・デプロイするオープンソースWebビルダー
 - [Chara Codes](https://github.com/chara-codes/chara) - インテリジェントアシスタンス、リアルタイムコラボレーション、シームレスワークフロー管理でコーディングに喜びをもたらすAI搭載開発環境
+- [HumanLayer](https://github.com/humanlayer/humanlayer) - AIコーディングエージェントを調整できるオープンソースIDE
 
 ## ターミナル & CLIエージェント
 
@@ -259,6 +260,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [DockaShell](https://github.com/anzax/dockashell) - AIエージェントに分離されたDockerコンテナを提供するMCPサーバー。シェルアクセス、ファイル操作、完全監査証跡用MCPツール
 - [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに。埋め込みはローカルで作成・保存され、APIコストなし
 - [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - 簡単なクライアント設定でコード品質チェック操作を提供するモデルコンテキストプロトコル（MCP）サーバー
+- [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - AIコーディングアシスタントに信頼性の高い自動化、詳細なデバッグ、パフォーマンス分析のためのChrome DevToolsの全機能へのアクセスを提供するModel-Context-Protocol（MCP）サーバー
 - [Docker MCP Plugin and Docker MCP Gateway](https://github.com/docker/mcp-gateway/) - docker mcp CLI plugin / MCP Gateway
 
 ## コードレビュー & コラボレーション
