@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **363 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **365 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -84,6 +84,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [wcgw](https://github.com/rusiaaman/wcgw) - Shell and Coding agent for Claude and other mcp clients
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - A local-first CLI coding agent that brings the power of agentic coding tools like Claude Code and Gemini CLI to local models or controlled APIs like OpenRouter.
 - [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
+- [VT Code](https://github.com/vinhnx/vtcode) - a Rust-based terminal coding agent with semantic code understanding powered by tree-sitter and ast-grep, and fully configurable for steering the Agent.
 
 ## IDE Extensions
 
@@ -102,6 +103,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Custom Roo Code Modes](https://github.com/jtgsystems/Custom-Modes-Roo-Code) - This project serves as a central place to store, manage, and share custom mode definitions for the Roo Code AI agent within Visual Studio Code
 - [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - A powerful VS Code extension for analyzing and exporting codebases to LLM-friendly formats
 - [Vibe Coding (VICO)](https://github.com/asepindrak/vibe-coding-extension) - a chat extension with an assistant designed to help you while programming - 404 Stress Not Found
+- [astrelium](https://github.com/Hammaduddin561/astrelium) - a powerful, intelligent local-first coding assistant built as a VS Code extension.
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
