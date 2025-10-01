@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **366個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **367個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -140,6 +140,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 
 開発ワークフローで複数のAIエージェントを調整・管理するフレームワークとツール。
 
+- [Factory](https://github.com/Factory-AI/factory) - エージェントネイティブ開発プラットフォーム。CLI、Web、Slack/Teams、Linear/Jira、モバイルで動作
 - [autogen](https://github.com/microsoft/autogen) - エージェント型AI向けプログラミングフレームワーク
 - [crewAI](https://github.com/joaomdmoura/crewAI) - ロールプレイング型自律AIエージェントを調整するフレームワーク
 - [MetaGPT](https://github.com/geekan/MetaGPT/) - マルチエージェントフレームワーク：初のAIソフトウェア企業、自然言語プログラミングへ向けて
