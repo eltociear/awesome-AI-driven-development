@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **367個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **368個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -135,6 +135,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - Coq証明の自動記述を支援するVSCode拡張機能
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Windows上のVSCode向けオフラインAIペアプログラマー
 - [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - GitHub Copilotの機能を模倣するローカルAIコーディングアシスタント。Ollama経由でローカルLLM（deepseek-coder:6.7b）を使用してインテリジェントなコード補完とコンテキスト認識実装を提供
+- [eca](https://github.com/editor-code-assistant/eca) - エディタに依存しないAIペアプログラミング機能
 
 ## マルチエージェント & オーケストレーション
 

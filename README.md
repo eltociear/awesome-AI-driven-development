@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **367 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **368 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -135,6 +135,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [coqpilot](https://github.com/JetBrains-Research/coqpilot) - VSCode extension that is designed to help automate writing of Coq proofs
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows
 - [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - a local AI coding assistant that mimics the functionality of GitHub Copilot. It provides intelligent code completions and context-aware implementations using a local LLM (deepseek-coder:6.7b) running via Ollama.
+- [eca](https://github.com/editor-code-assistant/eca) - AI pair programming capabilities agnostic of editor
 
 ## Multi-Agent & Orchestration
 
