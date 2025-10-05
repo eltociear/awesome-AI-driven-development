@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **368 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **370 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -476,3 +476,5 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [AI Governor Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - The Keystone Framework for AI-Driven Code ! Turn any AI coding assistant into a disciplined, project-aware engineering partner that respects your architecture and coding standards
 - [ZCF](https://github.com/UfoMiao/zcf) - Zero-config, one-click setup for Claude Code with bilingual support, intelligent agent system and personalized AI assistant
 - [Claude Code Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails) - Protective hooks for Claude Code that prevent accidental code loss through branch protection, automatic checkpointing, and safe commit squashing
+- [Deliberate Agentic Development](https://github.com/Matt-Hulme/deliberate-agentic-development) - A structured workflow system for AI coding agents like Claude Code, Cursor, and Codex
+- [Pluqqy](https://github.com/pluqqy/pluqqy-terminal) - Build and manage minimal viable context for your AI coding assistant from your terminal

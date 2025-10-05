@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **368個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **370個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -476,3 +476,5 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [AI Governor Framework](https://github.com/Fr-e-d/AI-Governor-Framework) - AI駆動コードの基盤フレームワーク！AIコーディングアシスタントをアーキテクチャとコーディング標準を尊重する規律あるプロジェクト認識エンジニアリングパートナーに変換
 - [ZCF](https://github.com/UfoMiao/zcf) - バイリンガルサポート、インテリジェントエージェントシステム、パーソナライズされたAIアシスタントを備えたClaude Code向けゼロコンフィグ、ワンクリックセットアップ
 - [Claude Code Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails) - ブランチ保護、自動チェックポイント、安全なコミットスカッシュによって偶発的なコード損失を防ぐClaude Code向け保護フック
+- [Deliberate Agentic Development](https://github.com/Matt-Hulme/deliberate-agentic-development) - Claude Code、Cursor、Codexなどのコーディングエージェント向け構造化ワークフローシステム
+- [Pluqqy](https://github.com/pluqqy/pluqqy-terminal) - ターミナルからAIコーディングアシスタントのためのminimal viable contextを構築・管理
