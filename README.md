@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **370 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **372 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -266,6 +266,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 - [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - A Model Context Protocol (MCP) server providing code quality checking operations with easy client configuration.
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis
+- [AI Code Toolkit](https://github.com/AgiFlow/aicode-toolkit) - A collection of Model Context Protocol (MCP) servers and tools that help AI coding agents maintain consistency, follow conventions, and scale with your codebase.
 
 ## Code Review & Collaboration
 
