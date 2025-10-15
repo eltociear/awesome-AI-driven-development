@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **373個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **374個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -287,6 +287,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 
 AI駆動開発におけるプロジェクト管理、ドキュメント、ナレッジ整理のためのツール。
 
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) - AIコーディングアシスタント向けスペック駆動開発ツール。
 - [Backlog.md](https://github.com/MrLesk/Backlog.md) - gitエコシステム内での人間とAIエージェント間のプロジェクト連携管理ツール
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - AIベースコード生成をチケット管理するAIと人間協働のチケットシステム
 - [Task Master](https://github.com/eyaltoledano/claude-task-master) - ClaudeによるAI駆動開発向けタスク管理システム、Cursor AIとのシームレスな連携設計

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **373 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **374 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -287,6 +287,7 @@ Tools for code review, pull request automation, and team collaboration.
 
 Tools for project management, documentation, and knowledge organization in AI-driven development.
 
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
 - [Backlog.md](https://github.com/MrLesk/Backlog.md) - A tool for managing project collaboration between humans and AI Agents in a git ecosystem
 - [ai-ticket](https://github.com/jmikedupont2/ai-ticket) - The AI and Human powered ticket system to manage your AI based code generation with tickets
 - [Task Master](https://github.com/eyaltoledano/claude-task-master) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI
