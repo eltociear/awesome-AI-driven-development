@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **374個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **377個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -104,6 +104,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - コードベースの分析とLLMフレンドリー形式へのエクスポート機能を持つ強力なVS Code拡張機能
 - [Vibe Coding (VICO)](https://github.com/asepindrak/vibe-coding-extension) - プログラミング中に支援するアシスタント付きチャット拡張機能 - 404ストレスなし
 - [astrelium](https://github.com/Hammaduddin561/astrelium) - VS Code拡張機能として構築された強力でインテリジェントなローカルファーストコーディングアシスタント
+- [Caret](https://github.com/aicoding-caret/caret) - あなたの新しいAIコンパニオン：CursorのFlexibilityとClineのTransparencyを組み合わせる
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
@@ -302,6 +303,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [AndAI](https://github.com/andrejsstepanovs/andai) - チケットシステムとgit統合を備えたAI支援コーディングタスクを整理するローカルツール
 - [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Claudeにすべての会話の完璧なメモリを提供。過去のディスカッションを即座に検索。コンテキストを失わない
 - [Claude Code Mailer](https://github.com/LuRenJiasWorld/Claude-Code-Mailer) - 📧 重要なClaude Codeのイベントを見逃すことはもうありません！Claudeが入力を必要とする時、タスクを完了した時、問題に遭遇した時に即座にメール通知を受け取れます
+- [Tracer ⚡](https://github.com/Abil-Shrestha/tracer) - AIコーディングエージェント向けに設計された軽量な依存関係認識型イシュートラッカー。作業を追跡し、依存関係を管理し、準備が整ったタスクを発見—すべてCLIから
 
 ## 言語モデル & エンジン
 
@@ -481,3 +483,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Deliberate Agentic Development](https://github.com/Matt-Hulme/deliberate-agentic-development) - Claude Code、Cursor、Codexなどのコーディングエージェント向け構造化ワークフローシステム
 - [Pluqqy](https://github.com/pluqqy/pluqqy-terminal) - ターミナルからAIコーディングアシスタントのためのminimal viable contextを構築・管理
 - [Superpowers](https://github.com/obra/superpowers) - 実証済みのテクニック、パターン、ツールの包括的なスキルライブラリでClaude Codeにスーパーパワーを与える
+- [cmux](https://github.com/coder/cmux) - git worktree統合を備えたAI支援開発向けクロスプラットフォームデスクトップアプリケーション

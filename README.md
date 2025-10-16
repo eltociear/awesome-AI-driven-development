@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **374 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **377 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -104,6 +104,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Gitingest VS Code Extension](https://github.com/lakpahana/export-to-llm-gitingest) - A powerful VS Code extension for analyzing and exporting codebases to LLM-friendly formats
 - [Vibe Coding (VICO)](https://github.com/asepindrak/vibe-coding-extension) - a chat extension with an assistant designed to help you while programming - 404 Stress Not Found
 - [astrelium](https://github.com/Hammaduddin561/astrelium) - a powerful, intelligent local-first coding assistant built as a VS Code extension.
+- [Caret](https://github.com/aicoding-caret/caret) - Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -302,6 +303,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [AndAI](https://github.com/andrejsstepanovs/andai) - A local tool for organizing AI-assisted coding tasks with ticketing system and git integration.
 - [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Give Claude perfect memory of all your conversations. Search past discussions instantly. Never lose context again.
 - [Claude Code Mailer](https://github.com/LuRenJiasWorld/Claude-Code-Mailer) - 📧 Never miss important Claude Code events again! Get instant email notifications when Claude needs your input, finishes tasks, or runs into issues.
+- [Tracer ⚡](https://github.com/Abil-Shrestha/tracer) - A lightweight, dependency-aware issue tracker designed for AI coding agents. Track work, manage dependencies, and discover ready tasks—all from the CLI.
 
 ## Language Models & Engines
 
@@ -481,3 +483,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Deliberate Agentic Development](https://github.com/Matt-Hulme/deliberate-agentic-development) - A structured workflow system for AI coding agents like Claude Code, Cursor, and Codex
 - [Pluqqy](https://github.com/pluqqy/pluqqy-terminal) - Build and manage minimal viable context for your AI coding assistant from your terminal
 - [Superpowers](https://github.com/obra/superpowers) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- [cmux](https://github.com/coder/cmux) - a cross-platform desktop application for AI-assisted development with git worktree integration.
