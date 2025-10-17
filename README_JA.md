@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **377個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **379個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -304,6 +304,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Claudeにすべての会話の完璧なメモリを提供。過去のディスカッションを即座に検索。コンテキストを失わない
 - [Claude Code Mailer](https://github.com/LuRenJiasWorld/Claude-Code-Mailer) - 📧 重要なClaude Codeのイベントを見逃すことはもうありません！Claudeが入力を必要とする時、タスクを完了した時、問題に遭遇した時に即座にメール通知を受け取れます
 - [Tracer ⚡](https://github.com/Abil-Shrestha/tracer) - AIコーディングエージェント向けに設計された軽量な依存関係認識型イシュートラッカー。作業を追跡し、依存関係を管理し、準備が整ったタスクを発見—すべてCLIから
+- [cc-sdd](https://github.com/gotalab/cc-sdd) - チームワークフロー向けスペック駆動開発（SDD）。構造化された要求→設計→タスクワークフローとステアリングを強制する高品質コマンドで、AIによる構築方法を変革
 
 ## 言語モデル & エンジン
 
@@ -380,6 +381,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [RepoGPT](https://github.com/mbarinov/repogpt) - リポジトリとの簡単なチャット、管理、探索を行うAI搭載GitHubアシスタント
 - [AI Context Generator](https://github.com/temrb/generate-project-context) - プロジェクトのソースファイルを1つのコンテキストファイルにまとめ、Large Language Models（LLMs）での利用に適した形にパッケージングする、小規模かつ意図の明確なCLIツール
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - コードベースを自動で解析し、AIコーディングアシスタント向けに最適化されたコンテキストドキュメント（例：CLAUDE.md、AGENTS.mdなど）の推奨事項を生成するGitHub Action
+- [ccusage](https://github.com/ryoppippi/ccusage) - ローカルJSONLファイルからClaude Code/Codex CLI使用状況を分析するCLIツール
 
 ## ドメイン固有ツール
 

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **377 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **379 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -304,6 +304,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Give Claude perfect memory of all your conversations. Search past discussions instantly. Never lose context again.
 - [Claude Code Mailer](https://github.com/LuRenJiasWorld/Claude-Code-Mailer) - 📧 Never miss important Claude Code events again! Get instant email notifications when Claude needs your input, finishes tasks, or runs into issues.
 - [Tracer ⚡](https://github.com/Abil-Shrestha/tracer) - A lightweight, dependency-aware issue tracker designed for AI coding agents. Track work, manage dependencies, and discover ready tasks—all from the CLI.
+- [cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development (SDD) for your team's workflow. High quality commands that enforce structured requirements→design→tasks workflow and steering, transforming how you build with AI.
 
 ## Language Models & Engines
 
@@ -380,6 +381,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [RepoGPT](https://github.com/mbarinov/repogpt) - AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly
 - [AI Context Generator](https://github.com/temrb/generate-project-context) - A small, opinionated CLI tool that packages project source files into a single context file suitable for use with Large Language Models (LLMs)
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - A GitHub Action that automatically analyzes your codebase and generates focused AI agent context documentation recommendations (CLAUDE.md, AGENTS.md, or similar) for AI coding assistants
+- [ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 
 ## Domain-Specific Tools
 
