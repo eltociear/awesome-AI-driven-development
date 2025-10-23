@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **380 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **383 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -268,6 +268,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - A Model Context Protocol (MCP) server providing code quality checking operations with easy client configuration.
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis
 - [AI Code Toolkit](https://github.com/AgiFlow/aicode-toolkit) - A collection of Model Context Protocol (MCP) servers and tools that help AI coding agents maintain consistency, follow conventions, and scale with your codebase.
+- [Claude Skills MCP Server](https://github.com/K-Dense-AI/claude-skills-mcp) - MCP server for searching and retrieving Claude Agent Skills using vector search
 
 ## Code Review & Collaboration
 
@@ -487,3 +488,5 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Pluqqy](https://github.com/pluqqy/pluqqy-terminal) - Build and manage minimal viable context for your AI coding assistant from your terminal
 - [Superpowers](https://github.com/obra/superpowers) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [cmux](https://github.com/coder/cmux) - a cross-platform desktop application for AI-assisted development with git worktree integration.
+- [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Enable Claude Code to invoke the Codex CLI (codex exec and session resumes) for automated code analysis, refactoring, and editing workflows.
+- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A comprehensive collection of ready-to-use scientific skills for Claude, curated by the K-Dense team.
