@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **383個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **384個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -490,3 +490,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [cmux](https://github.com/coder/cmux) - git worktree統合を備えたAI支援開発向けクロスプラットフォームデスクトップアプリケーション
 - [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Claude CodeでCodex CLI（codex execとセッション再開）を呼び出し、自動コード解析、リファクタリング、編集ワークフローを可能にする
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - K-Denseチームによって厳選された、Claudeのためのすぐに使える科学的スキルの包括的コレクション
+- [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - AIコーディング向けのパッケージマネージャー。ルール、スラッシュコマンド、エージェントなどを同期・再利用
