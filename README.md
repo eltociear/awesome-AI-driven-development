@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **384 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **386 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -42,6 +42,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [Chara Codes](https://github.com/chara-codes/chara) - An AI-powered development environment that brings joy to coding through intelligent assistance, real-time collaboration, and seamless workflow management.
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - an open source IDE that lets you orchestrate AI coding agents
+- [NotBadAI IDE](https://github.com/notbadai/ide) - A code editor with AI assistance. It supports chat, apply changes, autocomplete, and inline gray completions etc.
 
 ## Terminal & CLI Agents
 
@@ -269,6 +270,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp) - a Model-Context-Protocol (MCP) server, giving your AI coding assistant access to the full power of Chrome DevTools for reliable automation, in-depth debugging, and performance analysis
 - [AI Code Toolkit](https://github.com/AgiFlow/aicode-toolkit) - A collection of Model Context Protocol (MCP) servers and tools that help AI coding agents maintain consistency, follow conventions, and scale with your codebase.
 - [Claude Skills MCP Server](https://github.com/K-Dense-AI/claude-skills-mcp) - MCP server for searching and retrieving Claude Agent Skills using vector search
+- [House MCP Manager](https://github.com/houseworthe/house-mcp-manager) - A powerful CLI tool to manage MCP servers across multiple AI coding tools (Claude Code, Cursor, Cline, Continue) and optimize your token usage.
 
 ## Code Review & Collaboration
 

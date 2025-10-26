@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **384個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **386個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -42,6 +42,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Claudable](https://github.com/opactorai/Claudable) - Claude Code、Codex、Gemini CLI、Qwen Code、Cursor AgentなどローカCLIエージェントを活用し、製品を簡単に構築・デプロイするオープンソースWebビルダー
 - [Chara Codes](https://github.com/chara-codes/chara) - インテリジェントアシスタンス、リアルタイムコラボレーション、シームレスワークフロー管理でコーディングに喜びをもたらすAI搭載開発環境
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - AIコーディングエージェントを調整できるオープンソースIDE
+- [NotBadAI IDE](https://github.com/notbadai/ide) - AI支援機能を備えたコードエディタ。チャット、変更の適用、自動補完、インライングレー補完などをサポート
 
 ## ターミナル & CLIエージェント
 
@@ -269,6 +270,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Docker MCP Plugin and Docker MCP Gateway](https://github.com/docker/mcp-gateway/) - docker mcp CLI plugin / MCP Gateway
 - [AI Code Toolkit](https://github.com/AgiFlow/aicode-toolkit) - AIコーディングエージェントの一貫性維持、コンベンション遵守、コードベースとのスケーリングを支援するModel Context Protocol（MCP）サーバーとツールのコレクション
 - [Claude Skills MCP Server](https://github.com/K-Dense-AI/claude-skills-mcp) - ベクトル検索を使用してClaude AgentスキルとMCPサーバーを検索・取得
+- [House MCP Manager](https://github.com/houseworthe/house-mcp-manager) - 複数のAIコーディングツール（Claude Code、Cursor、Cline、Continue）でMCPサーバーを管理し、トークン使用を最適化する強力なCLIツール
 
 ## コードレビュー & コラボレーション
 
