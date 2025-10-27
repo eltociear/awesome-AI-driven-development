@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **387 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **389 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -126,6 +126,8 @@ Plugins and extensions for popular IDEs and text editors.
 - [aider.el](https://github.com/tninja/aider.el) - aider (AI Pair Programming) Inside Emacs
 - [copilot.el](https://github.com/copilot-emacs/copilot.el) - An unofficial Copilot plugin for Emacs
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - Github copilot chat in emacs
+- [gptel](https://github.com/karthink/gptel) - a simple Large Language Model chat client for Emacs, with support for multiple models and backends.
+- [Emigo](https://github.com/MatthewZMD/emigo) - Emigo intends to be an intelligent, agentic Emacs-native AI assistant that understands and interacts with your codebase.
 
 ### Xcode
 - [CopilotForXcode(@github)](https://github.com/github/CopilotForXcode) - Xcode extension for GitHub Copilot

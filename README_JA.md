@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **387個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **389個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -126,6 +126,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [aider.el](https://github.com/tninja/aider.el) - Emacs内でのaider（AIペアプログラミング）
 - [copilot.el](https://github.com/copilot-emacs/copilot.el) - Emacs向け非公式Copilotプラグイン
 - [copilot-chat.el](https://github.com/chep/copilot-chat.el) - emacs内でのGitHub copilotチャット
+- [gptel](https://github.com/karthink/gptel) - 複数のモデルとバックエンドをサポートするEmacs向けシンプルな大規模言語モデルチャットクライアント
+- [Emigo](https://github.com/MatthewZMD/emigo) - コードベースを理解し対話するインテリジェントでエージェント型のEmacsネイティブAIアシスタント
 
 ### Xcode
 - [CopilotForXcode(@github)](https://github.com/github/CopilotForXcode) - GitHub Copilot向けXcode拡張機能
