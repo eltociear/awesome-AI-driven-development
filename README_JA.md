@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **389個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **391個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -274,6 +274,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Claude Skills MCP Server](https://github.com/K-Dense-AI/claude-skills-mcp) - ベクトル検索を使用してClaude AgentスキルとMCPサーバーを検索・取得
 - [House MCP Manager](https://github.com/houseworthe/house-mcp-manager) - 複数のAIコーディングツール（Claude Code、Cursor、Cline、Continue）でMCPサーバーを管理し、トークン使用を最適化する強力なCLIツール
 - [mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter) - 任意のMCPサーバーをClaude Skillに変換し、90%のコンテキスト節約を実現
+- [Claude Tools MCP Server](https://github.com/brwse/claude-tools-mcp) - Claude Codeのファイルとシェル操作ツールをHTTP経由で公開するMCP（Model Context Protocol）サーバー。任意のMCPクライアントがリモートでこれらのツールを使用可能
 
 ## コードレビュー & コラボレーション
 
@@ -496,3 +497,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Claude CodeでCodex CLI（codex execとセッション再開）を呼び出し、自動コード解析、リファクタリング、編集ワークフローを可能にする
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - K-Denseチームによって厳選された、Claudeのためのすぐに使える科学的スキルの包括的コレクション
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - AIコーディング向けのパッケージマネージャー。ルール、スラッシュコマンド、エージェントなどを同期・再利用
+- [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - Claude Codeマーケットプレイスバンドル（cc-marketplace）を提供するリポジトリ

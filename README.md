@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **389 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **391 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -274,6 +274,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Claude Skills MCP Server](https://github.com/K-Dense-AI/claude-skills-mcp) - MCP server for searching and retrieving Claude Agent Skills using vector search
 - [House MCP Manager](https://github.com/houseworthe/house-mcp-manager) - A powerful CLI tool to manage MCP servers across multiple AI coding tools (Claude Code, Cursor, Cline, Continue) and optimize your token usage.
 - [mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter) - Convert any MCP server into a Claude Skill with 90% context savings.
+- [Claude Tools MCP Server](https://github.com/brwse/claude-tools-mcp) - An MCP (Model Context Protocol) server that exposes Claude Code's file and shell manipulation tools over HTTP, allowing any MCP client to use these tools remotely.
 
 ## Code Review & Collaboration
 
@@ -496,3 +497,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Enable Claude Code to invoke the Codex CLI (codex exec and session resumes) for automated code analysis, refactoring, and editing workflows.
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A comprehensive collection of ready-to-use scientific skills for Claude, curated by the K-Dense team.
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - The package manager for AI coding. Sync and reuse rules, slash commands, agents, and more.
+- [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - This repository provides a Claude Code marketplace bundle (cc-marketplace).
