@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **391個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **377個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -312,6 +312,8 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Claude Code Mailer](https://github.com/LuRenJiasWorld/Claude-Code-Mailer) - 📧 重要なClaude Codeのイベントを見逃すことはもうありません！Claudeが入力を必要とする時、タスクを完了した時、問題に遭遇した時に即座にメール通知を受け取れます
 - [Tracer ⚡](https://github.com/Abil-Shrestha/tracer) - AIコーディングエージェント向けに設計された軽量な依存関係認識型イシュートラッカー。作業を追跡し、依存関係を管理し、準備が整ったタスクを発見—すべてCLIから
 - [cc-sdd](https://github.com/gotalab/cc-sdd) - チームワークフロー向けスペック駆動開発（SDD）。構造化された要求→設計→タスクワークフローとステアリングを強制する高品質コマンドで、AIによる構築方法を変革
+- [claude-mem](https://github.com/thedotmack/claude-mem) - Claude Codeのプラグインで、コーディングセッション中にClaudeが行うすべてをキャプチャし、AI（Claudeのagent-sdkを使用）で圧縮し、将来のセッションに関連するコンテキストを注入
+- [SDD (Session-Driven Development)](https://github.com/ankushdixit/sdd) - Claude Code向けセッション駆動開発 - 複数のAIコーディングセッション間で完璧なコンテキストを維持
 
 ## 言語モデル & エンジン
 
