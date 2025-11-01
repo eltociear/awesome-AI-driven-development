@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **377個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **379個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -314,6 +314,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [cc-sdd](https://github.com/gotalab/cc-sdd) - チームワークフロー向けスペック駆動開発（SDD）。構造化された要求→設計→タスクワークフローとステアリングを強制する高品質コマンドで、AIによる構築方法を変革
 - [claude-mem](https://github.com/thedotmack/claude-mem) - Claude Codeのプラグインで、コーディングセッション中にClaudeが行うすべてをキャプチャし、AI（Claudeのagent-sdkを使用）で圧縮し、将来のセッションに関連するコンテキストを注入
 - [SDD (Session-Driven Development)](https://github.com/ankushdixit/sdd) - Claude Code向けセッション駆動開発 - 複数のAIコーディングセッション間で完璧なコンテキストを維持
+- [bd - Beads Issue Tracker 🔗](https://github.com/steveyegge/beads) - グラフベースの課題トラッカーを使用したコーディングエージェント向けの軽量メモリシステム
 
 ## 言語モデル & エンジン
 
@@ -500,3 +501,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - K-Denseチームによって厳選された、Claudeのためのすぐに使える科学的スキルの包括的コレクション
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - AIコーディング向けのパッケージマネージャー。ルール、スラッシュコマンド、エージェントなどを同期・再利用
 - [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - Claude Codeマーケットプレイスバンドル（cc-marketplace）を提供するリポジトリ
+- [Cursor Agentic Development Pipeline](https://github.com/ChrisThompsonTLDR/agentic-programming/tree/feature/epic-master) - 構想からデプロイまで、構造化されたパイプラインを通じて複数の専門エージェントを調整し、完全なエピックを提供する包括的なAI搭載ソフトウェア開発ワークフロー
