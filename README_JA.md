@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **379個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **382個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -502,3 +502,6 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - AIコーディング向けのパッケージマネージャー。ルール、スラッシュコマンド、エージェントなどを同期・再利用
 - [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - Claude Codeマーケットプレイスバンドル（cc-marketplace）を提供するリポジトリ
 - [Cursor Agentic Development Pipeline](https://github.com/ChrisThompsonTLDR/agentic-programming/tree/feature/epic-master) - 構想からデプロイまで、構造化されたパイプラインを通じて複数の専門エージェントを調整し、完全なエピックを提供する包括的なAI搭載ソフトウェア開発ワークフロー
+- [Flow Framework](https://github.com/khgs2411/flow) - ドメイン駆動設計とアジャイル哲学を組み合わせた反復的開発フレームワーク
+- [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - コーディングエージェント向けのgmailのようなツール。様々なエージェント間の通信と調整を可能にする
+- [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - 段階的開示検証機能を備えたClaude Agent Skillsを作成するためのCLI。人間がスキルの作成を依頼した際にClaude Codeが使用するために構築

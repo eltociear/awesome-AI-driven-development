@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **379 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **382 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -502,3 +502,6 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - The package manager for AI coding. Sync and reuse rules, slash commands, agents, and more.
 - [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - This repository provides a Claude Code marketplace bundle (cc-marketplace).
 - [Cursor Agentic Development Pipeline](https://github.com/ChrisThompsonTLDR/agentic-programming/tree/feature/epic-master) - A comprehensive, AI-powered software development workflow that orchestrates multiple specialized agents through a structured pipeline to deliver complete epics from conception to deployment.
+- [Flow Framework](https://github.com/khgs2411/flow) - Iterative development framework combining Domain-Driven Design with Agile philosophy
+- [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Like gmail for your coding agents. Lets various different agents communicate and coordinate with each other.
+- [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
