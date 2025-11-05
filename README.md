@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **382 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **384 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -106,6 +106,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Vibe Coding (VICO)](https://github.com/asepindrak/vibe-coding-extension) - a chat extension with an assistant designed to help you while programming - 404 Stress Not Found
 - [astrelium](https://github.com/Hammaduddin561/astrelium) - a powerful, intelligent local-first coding assistant built as a VS Code extension.
 - [Caret](https://github.com/aicoding-caret/caret) - Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency
+- [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -171,6 +172,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - a generalist multi-agent system designed to tackle a wide spectrum of software engineering (SE) tasks across various programming languages.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - A platform for AI-powered software development agents. OpenHands agents can do anything a human developer can: modify code, run commands, browse the web, call APIs, and even copy files to remote servers.
+- [Prodigy](https://github.com/iepathos/prodigy) - a workflow orchestration tool that enables development teams to automate complex tasks using Claude AI through structured YAML workflows.
 
 ## Code Generation & Automation
 

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **382個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **384個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -106,6 +106,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Vibe Coding (VICO)](https://github.com/asepindrak/vibe-coding-extension) - プログラミング中に支援するアシスタント付きチャット拡張機能 - 404ストレスなし
 - [astrelium](https://github.com/Hammaduddin561/astrelium) - VS Code拡張機能として構築された強力でインテリジェントなローカルファーストコーディングアシスタント
 - [Caret](https://github.com/aicoding-caret/caret) - あなたの新しいAIコンパニオン：CursorのFlexibilityとClineのTransparencyを組み合わせる
+- [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - VS Code向けCopilot Chat拡張機能
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
@@ -171,6 +172,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [agentok](https://github.com/hughlv/agentok) - マルチエージェント開発向けビジュアルツール
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - 様々なプログラミング言語で幅広いソフトウェアエンジニアリング（SE）タスクに対応する汎用マルチエージェントシステム
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - AI搭載ソフトウェア開発エージェント向けプラットフォーム。コード修正、コマンド実行、Web閲覧、API呼び出しなど人間の開発者ができることを実行
+- [Prodigy](https://github.com/iepathos/prodigy) - 構造化されたYAMLワークフローを通じてClaude AIを使用した複雑なタスクの自動化を可能にするワークフローオーケストレーションツール
 
 ## コード生成 & 自動化
 
