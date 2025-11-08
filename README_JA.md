@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **384個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **387個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -43,6 +43,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Chara Codes](https://github.com/chara-codes/chara) - インテリジェントアシスタンス、リアルタイムコラボレーション、シームレスワークフロー管理でコーディングに喜びをもたらすAI搭載開発環境
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - AIコーディングエージェントを調整できるオープンソースIDE
 - [NotBadAI IDE](https://github.com/notbadai/ide) - AI支援機能を備えたコードエディタ。チャット、変更の適用、自動補完、インライングレー補完などをサポート
+- [Kiro](https://github.com/kirodotdev/Kiro) - プロトタイプから本番環境まで、仕様駆動開発、エージェントフック、自然言語コーディング支援により移行をサポートするエージェンティックIDE
 
 ## ターミナル & CLIエージェント
 
@@ -222,6 +223,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Vibe Security](https://github.com/astoj/vibe-security) - Vibeコーダー向け包括的セキュリティチェックリスト
 - [Strix](https://github.com/usestrix/strix) - 「AIハッカー」として機能するオープンソースのセキュリティエージェント。開発ワークフローに統合し、アプリケーションの脆弱性を能動的にテスト・発見する。ローカルで実行し、継続的なセキュリティテストを自動化できる
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - オフラインファースト、AI中心のSAST＆コードインテリジェンスプラットフォーム
+- [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - GitHubとBright Data統合を活用した、エージェントスキルとMCPサーバーの包括的なセキュリティ評価ツール
 
 ## MCPサーバー & 統合
 
@@ -317,6 +319,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [claude-mem](https://github.com/thedotmack/claude-mem) - Claude Codeのプラグインで、コーディングセッション中にClaudeが行うすべてをキャプチャし、AI（Claudeのagent-sdkを使用）で圧縮し、将来のセッションに関連するコンテキストを注入
 - [SDD (Session-Driven Development)](https://github.com/ankushdixit/sdd) - Claude Code向けセッション駆動開発 - 複数のAIコーディングセッション間で完璧なコンテキストを維持
 - [bd - Beads Issue Tracker 🔗](https://github.com/steveyegge/beads) - グラフベースの課題トラッカーを使用したコーディングエージェント向けの軽量メモリシステム
+- [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) - 仕様駆動開発のためのAI開発ダッシュボード＆ワークフロー自動化プラットフォーム
 
 ## 言語モデル & エンジン
 

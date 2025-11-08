@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **384 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **387 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -43,6 +43,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [Chara Codes](https://github.com/chara-codes/chara) - An AI-powered development environment that brings joy to coding through intelligent assistance, real-time collaboration, and seamless workflow management.
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - an open source IDE that lets you orchestrate AI coding agents
 - [NotBadAI IDE](https://github.com/notbadai/ide) - A code editor with AI assistance. It supports chat, apply changes, autocomplete, and inline gray completions etc.
+- [Kiro](https://github.com/kirodotdev/Kiro) - an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance.
 
 ## Terminal & CLI Agents
 
@@ -222,6 +223,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [Vibe Security](https://github.com/astoj/vibe-security) - A comprehensive security checklist for vibe coders
 - [Strix](https://github.com/usestrix/strix) - Open-source AI hackers for your apps
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - Offline-First, AI-Centric SAST & Code Intelligence Platform
+- [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - Comprehensive security evaluation tools for agent skills and MCP servers, powered by GitHub and Bright Data integrations.
 
 ## MCP Servers & Integrations
 
@@ -317,6 +319,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 - [SDD (Session-Driven Development)](https://github.com/ankushdixit/sdd) - Session-Driven Development for Claude Code - Maintain perfect context across multiple AI coding sessions.
 - [bd - Beads Issue Tracker 🔗](https://github.com/steveyegge/beads) - a lightweight memory system for coding agents, using a graph-based issue tracker.
+- [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) - The AI Development Dashboard & Workflow Automation Platform for Spec-Driven Development.
 
 ## Language Models & Engines
 
