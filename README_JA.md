@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **387個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **389個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -174,6 +174,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - 様々なプログラミング言語で幅広いソフトウェアエンジニアリング（SE）タスクに対応する汎用マルチエージェントシステム
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - AI搭載ソフトウェア開発エージェント向けプラットフォーム。コード修正、コマンド実行、Web閲覧、API呼び出しなど人間の開発者ができることを実行
 - [Prodigy](https://github.com/iepathos/prodigy) - 構造化されたYAMLワークフローを通じてClaude AIを使用した複雑なタスクの自動化を可能にするワークフローオーケストレーションツール
+- [orchestr8](https://github.com/seth-schultz/orchestr8) - リサーチ駆動開発を備えたClaude Code向けエンタープライズグレードの自律ソフトウェアオーケストレーション。79以上の専門エージェント、31の自動化ワークフロー、並列処理とエビデンスベースの意思決定による3〜6倍の高速化
 
 ## コード生成 & 自動化
 
@@ -510,3 +511,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Flow Framework](https://github.com/khgs2411/flow) - ドメイン駆動設計とアジャイル哲学を組み合わせた反復的開発フレームワーク
 - [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - コーディングエージェント向けのgmailのようなツール。様々なエージェント間の通信と調整を可能にする
 - [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - 段階的開示検証機能を備えたClaude Agent Skillsを作成するためのCLI。人間がスキルの作成を依頼した際にClaude Codeが使用するために構築
+- [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Claude Sonnet 4.5、GLM 4.6、Kimi for Codingを瞬時に切り替え。レート制限の回避とコストの最適化を実現

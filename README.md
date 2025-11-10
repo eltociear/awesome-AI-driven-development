@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **387 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **389 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -174,6 +174,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - a generalist multi-agent system designed to tackle a wide spectrum of software engineering (SE) tasks across various programming languages.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - A platform for AI-powered software development agents. OpenHands agents can do anything a human developer can: modify code, run commands, browse the web, call APIs, and even copy files to remote servers.
 - [Prodigy](https://github.com/iepathos/prodigy) - a workflow orchestration tool that enables development teams to automate complex tasks using Claude AI through structured YAML workflows.
+- [orchestr8](https://github.com/seth-schultz/orchestr8) - Enterprise-grade autonomous software orchestration for Claude Code with research-driven development. 79+ specialized agents, 31 automated workflows, 3-6x speedups through parallelism and evidence-based decision making.
 
 ## Code Generation & Automation
 
@@ -510,3 +511,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Flow Framework](https://github.com/khgs2411/flow) - Iterative development framework combining Domain-Driven Design with Agile philosophy
 - [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Like gmail for your coding agents. Lets various different agents communicate and coordinate with each other.
 - [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
+- [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Switch between Claude Sonnet 4.5, GLM 4.6, and Kimi for Coding instantly. Stop hitting rate limits. Start optimizing costs.
