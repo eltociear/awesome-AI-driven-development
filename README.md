@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **389 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **392 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -321,6 +321,8 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [SDD (Session-Driven Development)](https://github.com/ankushdixit/sdd) - Session-Driven Development for Claude Code - Maintain perfect context across multiple AI coding sessions.
 - [bd - Beads Issue Tracker 🔗](https://github.com/steveyegge/beads) - a lightweight memory system for coding agents, using a graph-based issue tracker.
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) - The AI Development Dashboard & Workflow Automation Platform for Spec-Driven Development.
+- [fspec](https://github.com/sengac/fspec) - a complete spec-driven system that shepherds AI through professional Gherkin scenarios, auto-generates tests from Given/When/Then criteria, enforces TDD discipline, and links every line of code back to the business rule it implements.
+- [SHOTGUN](https://github.com/shotgun-sh/shotgun) - Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.
 
 ## Language Models & Engines
 
@@ -512,3 +514,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Like gmail for your coding agents. Lets various different agents communicate and coordinate with each other.
 - [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Switch between Claude Sonnet 4.5, GLM 4.6, and Kimi for Coding instantly. Stop hitting rate limits. Start optimizing costs.
+- [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - A curated collection of Claude Code settings, custom commands and sub-agents designed for enhanced development workflows.

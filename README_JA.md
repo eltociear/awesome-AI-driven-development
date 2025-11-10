@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **389個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **392個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -321,6 +321,8 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [SDD (Session-Driven Development)](https://github.com/ankushdixit/sdd) - Claude Code向けセッション駆動開発 - 複数のAIコーディングセッション間で完璧なコンテキストを維持
 - [bd - Beads Issue Tracker 🔗](https://github.com/steveyegge/beads) - グラフベースの課題トラッカーを使用したコーディングエージェント向けの軽量メモリシステム
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) - 仕様駆動開発のためのAI開発ダッシュボード＆ワークフロー自動化プラットフォーム
+- [fspec](https://github.com/sengac/fspec) - Given/When/Then基準からテストを自動生成し、TDD規律を強制し、すべてのコード行をそれが実装するビジネスルールに結びつける、プロフェッショナルなGherkinシナリオを通じてAIを導く完全な仕様駆動システム
+- [SHOTGUN](https://github.com/shotgun-sh/shotgun) - 仕様駆動開発 🤠 AIコーディングエージェントが脱線しないように、コードベースを意識した仕様を記述
 
 ## 言語モデル & エンジン
 
@@ -512,3 +514,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - コーディングエージェント向けのgmailのようなツール。様々なエージェント間の通信と調整を可能にする
 - [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - 段階的開示検証機能を備えたClaude Agent Skillsを作成するためのCLI。人間がスキルの作成を依頼した際にClaude Codeが使用するために構築
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Claude Sonnet 4.5、GLM 4.6、Kimi for Codingを瞬時に切り替え。レート制限の回避とコストの最適化を実現
+- [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - 強化された開発ワークフロー向けに設計された、Claude Codeの設定、カスタムコマンド、サブエージェントの厳選されたコレクション
