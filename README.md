@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **392 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **394 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -87,6 +87,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - A local-first CLI coding agent that brings the power of agentic coding tools like Claude Code and Gemini CLI to local models or controlled APIs like OpenRouter.
 - [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [VT Code](https://github.com/vinhnx/vtcode) - a Rust-based terminal coding agent with semantic code understanding powered by tree-sitter and ast-grep, and fully configurable for steering the Agent.
+- [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - A functional, Effect-TS-based AI coding assistant CLI with multi-provider support.
 
 ## IDE Extensions
 
@@ -323,6 +324,8 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) - The AI Development Dashboard & Workflow Automation Platform for Spec-Driven Development.
 - [fspec](https://github.com/sengac/fspec) - a complete spec-driven system that shepherds AI through professional Gherkin scenarios, auto-generates tests from Given/When/Then criteria, enforces TDD discipline, and links every line of code back to the business rule it implements.
 - [SHOTGUN](https://github.com/shotgun-sh/shotgun) - Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.
+- [spec-driver](https://github.com/davidlee/spec-driver) - SDD reimagined. Specs, as evergreen truth systems, emit deltas - conforming code to vision.
+- [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
 
 ## Language Models & Engines
 
@@ -411,6 +414,7 @@ Specialized AI tools for specific development domains and tasks.
 - [lazycommit](https://github.com/m7medVision/lazycommit) - Using AI to generate commit message suggestions
 - [aider-github-action](https://github.com/mirrajabi/aider-github-action) - Run Aider AI assistant in your Github Workflows!
 - [aider-github-workflows](https://github.com/mirrajabi/aider-github-workflows) - Workflows that use aider-github-action
+- [CodeWave: AI-Powered Commit Intelligence](https://github.com/techdebtgpt/codewave) - a sophisticated Node.js CLI tool that leverages multiple AI agents in a coordinated discussion framework to perform in-depth analysis of Git commits.
 
 ### Cloud & DevOps
 - [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - An AI powered kubernetes agent that runs in your terminal

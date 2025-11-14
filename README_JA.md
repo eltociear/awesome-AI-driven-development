@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **392個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **394個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -87,6 +87,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Claude CodeやGemini CLIなどのエージェント型コーディングツールの機能をローカルモデルやOpenRouterなどの制御されたAPIに提供するローカルファーストCLIコーディングエージェント
 - [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLIはCopilotコーディングエージェントの力を直接ターミナルにもたらします
 - [VT Code](https://github.com/vinhnx/vtcode) - tree-sitterとast-grepによるセマンティックコード理解を搭載し、エージェントの制御を完全に構成可能なRustベースのターミナルコーディングエージェント
+- [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - 関数型のEffect-TSベースのAIコーディングアシスタントCLIで、マルチプロバイダーをサポート
 
 ## IDE拡張機能
 
@@ -323,6 +324,8 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) - 仕様駆動開発のためのAI開発ダッシュボード＆ワークフロー自動化プラットフォーム
 - [fspec](https://github.com/sengac/fspec) - Given/When/Then基準からテストを自動生成し、TDD規律を強制し、すべてのコード行をそれが実装するビジネスルールに結びつける、プロフェッショナルなGherkinシナリオを通じてAIを導く完全な仕様駆動システム
 - [SHOTGUN](https://github.com/shotgun-sh/shotgun) - 仕様駆動開発 🤠 AIコーディングエージェントが脱線しないように、コードベースを意識した仕様を記述
+- [spec-driver](https://github.com/davidlee/spec-driver) - SDDの再構想。常緑の真実システムとしての仕様は、コードをビジョンに適合させるデルタを発行
+- [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - AIエージェントが仕様駆動Xツールキットを自動的に生成するためのメタ仕様フレームワーク
 
 ## 言語モデル & エンジン
 
@@ -411,6 +414,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [lazycommit](https://github.com/m7medVision/lazycommit) - AIを使用してコミットメッセージ提案を生成
 - [aider-github-action](https://github.com/mirrajabi/aider-github-action) - GithubワークフローでAider AIアシスタントを実行！
 - [aider-github-workflows](https://github.com/mirrajabi/aider-github-workflows) - aider-github-actionを使用するワークフロー
+- [CodeWave: AI-Powered Commit Intelligence](https://github.com/techdebtgpt/codewave) - 複数のAIエージェントを調整されたディスカッションフレームワークで活用してGitコミットの詳細な分析を実行する、洗練されたNode.js CLIツール
 
 ### クラウド・DevOps
 - [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ターミナルで動作するAI搭載kubernetesエージェント
