@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **394 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **397 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -176,6 +176,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - A platform for AI-powered software development agents. OpenHands agents can do anything a human developer can: modify code, run commands, browse the web, call APIs, and even copy files to remote servers.
 - [Prodigy](https://github.com/iepathos/prodigy) - a workflow orchestration tool that enables development teams to automate complex tasks using Claude AI through structured YAML workflows.
 - [orchestr8](https://github.com/seth-schultz/orchestr8) - Enterprise-grade autonomous software orchestration for Claude Code with research-driven development. 79+ specialized agents, 31 automated workflows, 3-6x speedups through parallelism and evidence-based decision making.
+- [SWORDSwarm](https://github.com/SWORDOps/SWORDSwarm) - Production-ready multi-agent AI orchestration system with hardware acceleration and AI-powered development tools.
 
 ## Code Generation & Automation
 
@@ -281,6 +282,8 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [House MCP Manager](https://github.com/houseworthe/house-mcp-manager) - A powerful CLI tool to manage MCP servers across multiple AI coding tools (Claude Code, Cursor, Cline, Continue) and optimize your token usage.
 - [mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter) - Convert any MCP server into a Claude Skill with 90% context savings.
 - [Claude Tools MCP Server](https://github.com/brwse/claude-tools-mcp) - An MCP (Model Context Protocol) server that exposes Claude Code's file and shell manipulation tools over HTTP, allowing any MCP client to use these tools remotely.
+- [Code-Mode Library](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 Plug-and-play library to enable agents to call MCP and UTCP tools via code execution.
+- [MCP Code Execution Server](https://github.com/elusznik/mcp-server-code-execution-mode) - An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying.
 
 ## Code Review & Collaboration
 

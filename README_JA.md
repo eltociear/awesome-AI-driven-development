@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **394個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **397個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -176,6 +176,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - AI搭載ソフトウェア開発エージェント向けプラットフォーム。コード修正、コマンド実行、Web閲覧、API呼び出しなど人間の開発者ができることを実行
 - [Prodigy](https://github.com/iepathos/prodigy) - 構造化されたYAMLワークフローを通じてClaude AIを使用した複雑なタスクの自動化を可能にするワークフローオーケストレーションツール
 - [orchestr8](https://github.com/seth-schultz/orchestr8) - リサーチ駆動開発を備えたClaude Code向けエンタープライズグレードの自律ソフトウェアオーケストレーション。79以上の専門エージェント、31の自動化ワークフロー、並列処理とエビデンスベースの意思決定による3〜6倍の高速化
+- [SWORDSwarm](https://github.com/SWORDOps/SWORDSwarm) - ハードウェアアクセラレーションとAI駆動開発ツールを備えた、本番環境対応のマルチエージェントAIオーケストレーションシステム
 
 ## コード生成 & 自動化
 
@@ -281,6 +282,8 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [House MCP Manager](https://github.com/houseworthe/house-mcp-manager) - 複数のAIコーディングツール（Claude Code、Cursor、Cline、Continue）でMCPサーバーを管理し、トークン使用を最適化する強力なCLIツール
 - [mcp-to-skill-converter](https://github.com/GBSOSS/-mcp-to-skill-converter) - 任意のMCPサーバーをClaude Skillに変換し、90%のコンテキスト節約を実現
 - [Claude Tools MCP Server](https://github.com/brwse/claude-tools-mcp) - Claude Codeのファイルとシェル操作ツールをHTTP経由で公開するMCP（Model Context Protocol）サーバー。任意のMCPクライアントがリモートでこれらのツールを使用可能
+- [Code-Mode Library](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 エージェントがコード実行を通じてMCPとUTCPツールを呼び出せるようにするプラグアンドプレイライブラリ
+- [MCP Code Execution Server](https://github.com/elusznik/mcp-server-code-execution-mode) - オプションのMCPサーバープロキシを備えた、分離されたルートレスコンテナでPythonコードを実行するMCPサーバー
 
 ## コードレビュー & コラボレーション
 
