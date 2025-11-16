@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **397 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **399 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -177,6 +177,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Prodigy](https://github.com/iepathos/prodigy) - a workflow orchestration tool that enables development teams to automate complex tasks using Claude AI through structured YAML workflows.
 - [orchestr8](https://github.com/seth-schultz/orchestr8) - Enterprise-grade autonomous software orchestration for Claude Code with research-driven development. 79+ specialized agents, 31 automated workflows, 3-6x speedups through parallelism and evidence-based decision making.
 - [SWORDSwarm](https://github.com/SWORDOps/SWORDSwarm) - Production-ready multi-agent AI orchestration system with hardware acceleration and AI-powered development tools.
+- [CodeMachine CLI](https://github.com/moazbuilds/CodeMachine-CLI) - a CLI-native orchestration platform that uses coordinated multi-agent AI workflows to adaptively transform specification files into production-ready code. ⚡️
 
 ## Code Generation & Automation
 
@@ -329,6 +330,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [SHOTGUN](https://github.com/shotgun-sh/shotgun) - Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don't derail.
 - [spec-driver](https://github.com/davidlee/spec-driver) - SDD reimagined. Specs, as evergreen truth systems, emit deltas - conforming code to vision.
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
+- [Clavix](https://github.com/Bob5k/Clavix) - Transform vague ideas into production-ready prompts. Analyze gaps, generate PRDs, and supercharge your AI coding workflow with the CLEAR framework.
 
 ## Language Models & Engines
 
