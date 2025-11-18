@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **402個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **404個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -449,6 +449,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [copilot-more](https://github.com/jjleng/copilot-more) - コーディング・その他向け月額10ドルのGPT-4oとClaude-3.5-Sonnet API
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - あらゆるLLMモデルでGH Copilot拡張機能を動作させる
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Neovim向け設定
+- [promptis](https://github.com/Fintan-contents/promptis) - GitHub Copilot Chatを通じて事前定義されたプロンプトの実行を半自動化することで、コーディング効率と一貫性を向上させるツール
 
 ## データセット生成 & 合成データ
 
@@ -525,3 +526,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - 段階的開示検証機能を備えたClaude Agent Skillsを作成するためのCLI。人間がスキルの作成を依頼した際にClaude Codeが使用するために構築
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Claude Sonnet 4.5、GLM 4.6、Kimi for Codingを瞬時に切り替え。レート制限の回避とコストの最適化を実現
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - 強化された開発ワークフロー向けに設計された、Claude Codeの設定、カスタムコマンド、サブエージェントの厳選されたコレクション
+- [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - SPEC-First開発、テスト駆動開発(TDD)、AIエージェントを組み合わせた、完全で透明性の高い開発ライフサイクルを実現するオープンソースフレームワーク

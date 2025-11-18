@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **402 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **404 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -449,6 +449,7 @@ Specialized AI tools for specific development domains and tasks.
 - [copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Configuration for Neovim
+- [promptis](https://github.com/Fintan-contents/promptis) - a tool that enhances coding efficiency and consistency by semi-automating the execution of predefined prompts through GitHub Copilot Chat.
 
 ## Dataset Generation & Synthetic Data
 
@@ -525,3 +526,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Switch between Claude Sonnet 4.5, GLM 4.6, and Kimi for Coding instantly. Stop hitting rate limits. Start optimizing costs.
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - A curated collection of Claude Code settings, custom commands and sub-agents designed for enhanced development workflows.
+- [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - an open-source framework that combines SPEC-First development, Test-Driven Development (TDD), and AI agents to create a complete, transparent development lifecycle.
