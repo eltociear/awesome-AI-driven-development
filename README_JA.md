@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **404個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **405個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -475,6 +475,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 AIコーディングアシスタントを構築・強化するためのフレームワーク、ライブラリ、設定。
 
 - [anthropics/skills](https://github.com/anthropics/skills) - 特定タスクのパフォーマンス向上のためにClaudeが動的に読み込む指示、スクリプト、リソースのフォルダ
+- [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - Google Gemini CLIを強力な補助ツールとして効果的に使用できるようにするClaude Codeスキル
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - AI支援開発環境のセットアップと作業管理向けツールキット
 - [AiDE](https://github.com/FixingPixels/AiDE) - AI支援でプロジェクト開発への構造化アプローチ
 - [AiderDesk](https://github.com/hotovo/aider-desk) - Aider AIアシスタント向けデスクトップアプリケーション
