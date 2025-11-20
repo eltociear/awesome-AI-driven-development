@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **405 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **406 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -178,6 +178,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [orchestr8](https://github.com/seth-schultz/orchestr8) - Enterprise-grade autonomous software orchestration for Claude Code with research-driven development. 79+ specialized agents, 31 automated workflows, 3-6x speedups through parallelism and evidence-based decision making.
 - [SWORDSwarm](https://github.com/SWORDOps/SWORDSwarm) - Production-ready multi-agent AI orchestration system with hardware acceleration and AI-powered development tools.
 - [CodeMachine CLI](https://github.com/moazbuilds/CodeMachine-CLI) - a CLI-native orchestration platform that uses coordinated multi-agent AI workflows to adaptively transform specification files into production-ready code. ⚡️
+- [Claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt — it decomposes, codes, reviews, builds, tests, and commits autonomously, in PARALLEL.
 
 ## Code Generation & Automation
 

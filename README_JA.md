@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **405個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **406個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -178,6 +178,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [orchestr8](https://github.com/seth-schultz/orchestr8) - リサーチ駆動開発を備えたClaude Code向けエンタープライズグレードの自律ソフトウェアオーケストレーション。79以上の専門エージェント、31の自動化ワークフロー、並列処理とエビデンスベースの意思決定による3〜6倍の高速化
 - [SWORDSwarm](https://github.com/SWORDOps/SWORDSwarm) - ハードウェアアクセラレーションとAI駆動開発ツールを備えた、本番環境対応のマルチエージェントAIオーケストレーションシステム
 - [CodeMachine CLI](https://github.com/moazbuilds/CodeMachine-CLI) - 協調マルチエージェントAIワークフローを使用して仕様ファイルを本番環境対応コードに適応的に変換するCLIネイティブオーケストレーションプラットフォーム ⚡️
+- [Claudiomiro](https://github.com/samuelfaj/claudiomiro) - プロンプトを送信すると、分解、コーディング、レビュー、ビルド、テスト、コミットを並列で自律的に実行
 
 ## コード生成 & 自動化
 
