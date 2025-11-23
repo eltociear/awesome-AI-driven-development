@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **406個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **408個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -410,6 +410,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [AI Context Generator](https://github.com/temrb/generate-project-context) - プロジェクトのソースファイルを1つのコンテキストファイルにまとめ、Large Language Models（LLMs）での利用に適した形にパッケージングする、小規模かつ意図の明確なCLIツール
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - コードベースを自動で解析し、AIコーディングアシスタント向けに最適化されたコンテキストドキュメント（例：CLAUDE.md、AGENTS.mdなど）の推奨事項を生成するGitHub Action
 - [ccusage](https://github.com/ryoppippi/ccusage) - ローカルJSONLファイルからClaude Code/Codex CLI使用状況を分析するCLIツール
+- [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - コードベースを理解するためのセルフホスト型ツール
 
 ## ドメイン固有ツール
 
@@ -529,3 +530,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Claude Sonnet 4.5、GLM 4.6、Kimi for Codingを瞬時に切り替え。レート制限の回避とコストの最適化を実現
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - 強化された開発ワークフロー向けに設計された、Claude Codeの設定、カスタムコマンド、サブエージェントの厳選されたコレクション
 - [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - SPEC-First開発、テスト駆動開発(TDD)、AIエージェントを組み合わせた、完全で透明性の高い開発ライフサイクルを実現するオープンソースフレームワーク
+- [Amplifier](https://github.com/microsoft/amplifier) - 専門知識をコード不要で再利用可能なAIツールに変換する、調整・加速された開発システム

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **406 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **408 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -410,6 +410,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [AI Context Generator](https://github.com/temrb/generate-project-context) - A small, opinionated CLI tool that packages project source files into a single context file suitable for use with Large Language Models (LLMs)
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - A GitHub Action that automatically analyzes your codebase and generates focused AI agent context documentation recommendations (CLAUDE.md, AGENTS.md, or similar) for AI coding assistants
 - [ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - a self-hosted tool that helps you understand your codebase.
 
 ## Domain-Specific Tools
 
@@ -529,3 +530,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Switch between Claude Sonnet 4.5, GLM 4.6, and Kimi for Coding instantly. Stop hitting rate limits. Start optimizing costs.
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - A curated collection of Claude Code settings, custom commands and sub-agents designed for enhanced development workflows.
 - [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - an open-source framework that combines SPEC-First development, Test-Driven Development (TDD), and AI agents to create a complete, transparent development lifecycle.
+- [Amplifier](https://github.com/microsoft/amplifier) - a coordinated and accelerated development system that turns your expertise into reusable AI tools without requiring code.
