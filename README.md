@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **408 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **409 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -386,6 +386,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [DeepCode](https://github.com/HKUDS/DeepCode) - an AI-powered development platform that automates code generation and implementation tasks.
 - [CoaCoA](https://github.com/im-shashanks/CoaCoA) - a production-ready framework that integrates AI agents into your development workflow to deliver high-quality, tested code with enterprise-grade compliance.
 - [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - A Generative AI Assistant with advance agentic capabilities. Codebuddy uses machine learning to generate code, complete tasks, and streamline coding tasks workflow.
+- [Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-](https://github.com/gochapachi/Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-) - A fully autonomous workflow that deploys, designs, and populates a Dockerized WordPress site using n8n, Coolify, and Google Gemini 3.
 
 ## Code Analysis & Search
 
