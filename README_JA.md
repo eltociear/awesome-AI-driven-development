@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **409個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **412個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -50,7 +50,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 ターミナルやコマンドラインで直接動作するAIコーディングアシスタントとエージェント。
 
 - [aider](https://github.com/paul-gauthier/aider) - ターミナルでのAIペアプログラミング
-- [Claude Code (Research Preview)](https://github.com/anthropics/claude-code) - ターミナル上で動作するエージェント型コーディングツール。コードベースを理解し、日常的なタスクの実行、複雑なコードの説明、gitワークフローの処理を自然言語コマンドで支援
+- [Claude Code](https://github.com/anthropics/claude-code) - ターミナル上で動作するエージェント型コーディングツール。コードベースを理解し、日常的なタスクの実行、複雑なコードの説明、gitワークフローの処理を自然言語コマンドで支援
 - [plandex](https://github.com/plandex-ai/plandex) - ターミナルでのAI駆動開発
 - [OpenCode(@opencode-ai)](https://github.com/opencode-ai/opencode) - 開発者向けの強力なターミナルベースAIアシスタント
 - [opencode(@sst)](https://github.com/sst/opencode) - ターミナル用AIコーディングエージェント
@@ -88,6 +88,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLIはCopilotコーディングエージェントの力を直接ターミナルにもたらします
 - [VT Code](https://github.com/vinhnx/vtcode) - tree-sitterとast-grepによるセマンティックコード理解を搭載し、エージェントの制御を完全に構成可能なRustベースのターミナルコーディングエージェント
 - [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - 関数型のEffect-TSベースのAIコーディングアシスタントCLIで、マルチプロバイダーをサポート
+- [claude-sessions](https://github.com/kyupid/claude-sessions) - ターミナルで実行中のすべてのClaude Codeセッションを監視
 
 ## IDE拡張機能
 
@@ -109,6 +110,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [astrelium](https://github.com/Hammaduddin561/astrelium) - VS Code拡張機能として構築された強力でインテリジェントなローカルファーストコーディングアシスタント
 - [Caret](https://github.com/aicoding-caret/caret) - あなたの新しいAIコンパニオン：CursorのFlexibilityとClineのTransparencyを組み合わせる
 - [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - VS Code向けCopilot Chat拡張機能
+- [Claude Code Config](https://github.com/drewipson/claude-code-config) - Claude Code設定を管理するVS Code拡張機能
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
@@ -522,6 +524,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [cmux](https://github.com/coder/cmux) - git worktree統合を備えたAI支援開発向けクロスプラットフォームデスクトップアプリケーション
 - [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Claude CodeでCodex CLI（codex execとセッション再開）を呼び出し、自動コード解析、リファクタリング、編集ワークフローを可能にする
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - K-Denseチームによって厳選された、Claudeのためのすぐに使える科学的スキルの包括的コレクション
+- [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - CursorやVS Codeなどのエディタにスキャフォールディングを追加し、新規プロジェクトを作成するスキル
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - AIコーディング向けのパッケージマネージャー。ルール、スラッシュコマンド、エージェントなどを同期・再利用
 - [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - Claude Codeマーケットプレイスバンドル（cc-marketplace）を提供するリポジトリ
 - [Cursor Agentic Development Pipeline](https://github.com/ChrisThompsonTLDR/agentic-programming/tree/feature/epic-master) - 構想からデプロイまで、構造化されたパイプラインを通じて複数の専門エージェントを調整し、完全なエピックを提供する包括的なAI搭載ソフトウェア開発ワークフロー

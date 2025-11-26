@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **409 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **412 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -50,7 +50,7 @@ Full-featured AI-powered code editors and integrated development environments.
 AI coding assistants and agents that work directly in your terminal or command line.
 
 - [aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
-- [Claude Code (Research Preview)](https://github.com/anthropics/claude-code) - An agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands
+- [Claude Code](https://github.com/anthropics/claude-code) - An agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands
 - [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal
 - [OpenCode(@opencode-ai)](https://github.com/opencode-ai/opencode) - A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal
 - [opencode(@sst)](https://github.com/sst/opencode) - AI coding agent, built for the terminal
@@ -88,6 +88,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [VT Code](https://github.com/vinhnx/vtcode) - a Rust-based terminal coding agent with semantic code understanding powered by tree-sitter and ast-grep, and fully configurable for steering the Agent.
 - [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - A functional, Effect-TS-based AI coding assistant CLI with multi-provider support.
+- [claude-sessions](https://github.com/kyupid/claude-sessions) - Monitor all running Claude Code sessions in your terminal.
 
 ## IDE Extensions
 
@@ -109,6 +110,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [astrelium](https://github.com/Hammaduddin561/astrelium) - a powerful, intelligent local-first coding assistant built as a VS Code extension.
 - [Caret](https://github.com/aicoding-caret/caret) - Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency
 - [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
+- [Claude Code Config](https://github.com/drewipson/claude-code-config) - A VS Code extension for managing Claude Code configurations
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -522,6 +524,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [cmux](https://github.com/coder/cmux) - a cross-platform desktop application for AI-assisted development with git worktree integration.
 - [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Enable Claude Code to invoke the Codex CLI (codex exec and session resumes) for automated code analysis, refactoring, and editing workflows.
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A comprehensive collection of ready-to-use scientific skills for Claude, curated by the K-Dense team.
+- [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - A skill that adds scaffolding to IDE's such as cursor and VS code to create new projects.
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - The package manager for AI coding. Sync and reuse rules, slash commands, agents, and more.
 - [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - This repository provides a Claude Code marketplace bundle (cc-marketplace).
 - [Cursor Agentic Development Pipeline](https://github.com/ChrisThompsonTLDR/agentic-programming/tree/feature/epic-master) - A comprehensive, AI-powered software development workflow that orchestrates multiple specialized agents through a structured pipeline to deliver complete epics from conception to deployment.
