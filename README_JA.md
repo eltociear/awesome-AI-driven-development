@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **412個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **413個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -334,7 +334,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [SHOTGUN](https://github.com/shotgun-sh/shotgun) - 仕様駆動開発 🤠 AIコーディングエージェントが脱線しないように、コードベースを意識した仕様を記述
 - [spec-driver](https://github.com/davidlee/spec-driver) - SDDの再構想。常緑の真実システムとしての仕様は、コードをビジョンに適合させるデルタを発行
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - AIエージェントが仕様駆動Xツールキットを自動的に生成するためのメタ仕様フレームワーク
-- [Clavix](https://github.com/Bob5k/Clavix) - 曖昧なアイデアを本番環境対応プロンプトに変換。ギャップを分析し、PRDを生成し、CLEARフレームワークでAIコーディングワークフローを強化
+- [Clavix](https://github.com/ClavixDev/Clavix) - 曖昧なアイデアを本番環境対応プロンプトに変換。ギャップを分析し、PRDを生成し、CLEARフレームワークでAIコーディングワークフローを強化
 
 ## 言語モデル & エンジン
 
@@ -414,6 +414,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - コードベースを自動で解析し、AIコーディングアシスタント向けに最適化されたコンテキストドキュメント（例：CLAUDE.md、AGENTS.mdなど）の推奨事項を生成するGitHub Action
 - [ccusage](https://github.com/ryoppippi/ccusage) - ローカルJSONLファイルからClaude Code/Codex CLI使用状況を分析するCLIツール
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - コードベースを理解するためのセルフホスト型ツール
+- [codemap 🗺️](https://github.com/JordanCoin/codemap) - AI向けのプロジェクトブレイン。トークンを消費せずにLLMに即座にアーキテクチャコンテキストを提供
 
 ## ドメイン固有ツール
 
