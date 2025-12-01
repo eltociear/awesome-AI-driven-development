@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **413個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **415個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -475,6 +475,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [Ruler](https://github.com/intellectronica/ruler) - すべてのコーディングエージェントに同じルールを適用
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - ソフトウェアエンジニアの日常的なプログラミング作業を支援するJava向けシステムプロンプトのコレクション
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub CopilotをAIペアプログラミングリソースとして使用するために必要なすべてを教えるマルチモジュールコース
+- [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDEのtips、tricks、ベストプラクティス - キーボードショートカット、Composerモード、.cursorrules例、Redditコミュニティの知恵
 
 ## フレームワーク & ライブラリ
 
@@ -536,3 +537,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - 強化された開発ワークフロー向けに設計された、Claude Codeの設定、カスタムコマンド、サブエージェントの厳選されたコレクション
 - [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - SPEC-First開発、テスト駆動開発(TDD)、AIエージェントを組み合わせた、完全で透明性の高い開発ライフサイクルを実現するオープンソースフレームワーク
 - [Amplifier](https://github.com/microsoft/amplifier) - 専門知識をコード不要で再利用可能なAIツールに変換する、調整・加速された開発システム
+- [Claude Oracle](https://github.com/n1ira/claude-oracle) - Claude Codeの「リードアーキテクト」としてGoogleのGemini 3 Proを活用するCLI。AIコーディングアシスタントに戦略的決定用の独自AIアシスタントを持たせるようなもの

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **413 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **415 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -475,6 +475,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [Ruler](https://github.com/intellectronica/ruler) - Apply the same rules to all coding agents
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - The project provides a collection of System prompts for Java that help software engineers in their daily programming work.
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
+- [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Composer mode, .cursorrules examples, and Reddit community wisdom
 
 ## Frameworks & Libraries
 
@@ -536,3 +537,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - A curated collection of Claude Code settings, custom commands and sub-agents designed for enhanced development workflows.
 - [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - an open-source framework that combines SPEC-First development, Test-Driven Development (TDD), and AI agents to create a complete, transparent development lifecycle.
 - [Amplifier](https://github.com/microsoft/amplifier) - a coordinated and accelerated development system that turns your expertise into reusable AI tools without requiring code.
+- [Claude Oracle](https://github.com/n1ira/claude-oracle) - A CLI that makes Google's Gemini 3 Pro the "lead architect" for Claude Code. Think of it as giving your AI coding assistant its own AI assistant for strategic decisions.
