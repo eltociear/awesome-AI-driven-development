@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **415個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **417個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -204,6 +204,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - スーパーヒーローを管理するREST API、Node.jsとTypeScriptで実装。ヒーローデータの取得、作成、更新、削除のエンドポイントを備えた「Tour of Heroes」アプリケーション用シンプルバックエンド
 - [Legacy2Modern (L2M)](https://github.com/astrio-ai/legacy2modern) - レガシーCOBOLコードを現代的でメンテナンス可能なPythonアプリケーションに変換するオープンソースエンジン
 - [AI Website Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - 自然言語プロンプトをNext.js、Tailwind CSS、Gemini AIを使用して完全に機能するReactコンポーネントに変換するAI搭載ウェブサイトビルダー
+- [Compose-Lang](https://github.com/darula-hpp/compose-lang) - アーキテクチャ仕様用のLLM支援コンパイラ。構造化された.composeファイルでアプリケーションを定義し、キャッシュによる再現可能なビルドでLLM駆動のコード生成を通じてフレームワーク固有のコードを生成
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
 
@@ -538,3 +539,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - SPEC-First開発、テスト駆動開発(TDD)、AIエージェントを組み合わせた、完全で透明性の高い開発ライフサイクルを実現するオープンソースフレームワーク
 - [Amplifier](https://github.com/microsoft/amplifier) - 専門知識をコード不要で再利用可能なAIツールに変換する、調整・加速された開発システム
 - [Claude Oracle](https://github.com/n1ira/claude-oracle) - Claude Codeの「リードアーキテクト」としてGoogleのGemini 3 Proを活用するCLI。AIコーディングアシスタントに戦略的決定用の独自AIアシスタントを持たせるようなもの
+- [grov](https://github.com/TonyStef/Grov) - Claude Codeセッションから推論をキャプチャし、将来のセッションに注入。AIが学習した内容を記憶
