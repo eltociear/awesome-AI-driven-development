@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **417個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **420個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -111,6 +111,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Caret](https://github.com/aicoding-caret/caret) - あなたの新しいAIコンパニオン：CursorのFlexibilityとClineのTransparencyを組み合わせる
 - [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - VS Code向けCopilot Chat拡張機能
 - [Claude Code Config](https://github.com/drewipson/claude-code-config) - Claude Code設定を管理するVS Code拡張機能
+- [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - Antigravity AIモデルの使用量クォータを監視してステータスバーに表示する軽量VS Code拡張機能
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
@@ -540,3 +541,5 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Amplifier](https://github.com/microsoft/amplifier) - 専門知識をコード不要で再利用可能なAIツールに変換する、調整・加速された開発システム
 - [Claude Oracle](https://github.com/n1ira/claude-oracle) - Claude Codeの「リードアーキテクト」としてGoogleのGemini 3 Proを活用するCLI。AIコーディングアシスタントに戦略的決定用の独自AIアシスタントを持たせるようなもの
 - [grov](https://github.com/TonyStef/Grov) - Claude Codeセッションから推論をキャプチャし、将来のセッションに注入。AIが学習した内容を記憶
+- [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - 公式およびコミュニティ構築のclaude skillsを集めた大規模ローカルリポジトリ、カテゴリ別に整理
+- [Corsair](https://github.com/corsairdev/corsair) - 自然言語クエリとミューテーションでコーディングエージェントをより高速に構築できるよう装備

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **417 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **420 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -111,6 +111,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Caret](https://github.com/aicoding-caret/caret) - Your New AI Companion : Adding Cursor's Flexibility to Cline's Transparency
 - [vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
 - [Claude Code Config](https://github.com/drewipson/claude-code-config) - A VS Code extension for managing Claude Code configurations
+- [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - A lightweight VS Code extension that monitors your Antigravity AI model usage quota and displays it in the status bar.
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -540,3 +541,5 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Amplifier](https://github.com/microsoft/amplifier) - a coordinated and accelerated development system that turns your expertise into reusable AI tools without requiring code.
 - [Claude Oracle](https://github.com/n1ira/claude-oracle) - A CLI that makes Google's Gemini 3 Pro the "lead architect" for Claude Code. Think of it as giving your AI coding assistant its own AI assistant for strategic decisions.
 - [grov](https://github.com/TonyStef/Grov) - Grov captures reasoning from your Claude Code sessions and injects it into future sessions. Your AI remembers what it learned.
+- [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - a massive local repository of official and community-built claude skills, organized by category.
+- [Corsair](https://github.com/corsairdev/corsair) - Equip your coding agents to build faster with natural language queries and mutations.
