@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **420個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **421個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -543,3 +543,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [grov](https://github.com/TonyStef/Grov) - Claude Codeセッションから推論をキャプチャし、将来のセッションに注入。AIが学習した内容を記憶
 - [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - 公式およびコミュニティ構築のclaude skillsを集めた大規模ローカルリポジトリ、カテゴリ別に整理
 - [Corsair](https://github.com/corsairdev/corsair) - 自然言語クエリとミューテーションでコーディングエージェントをより高速に構築できるよう装備
+- [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - Claude Code向けの高度なコンテキスト管理システム

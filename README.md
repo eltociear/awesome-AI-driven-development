@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **420 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **421 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -543,3 +543,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [grov](https://github.com/TonyStef/Grov) - Grov captures reasoning from your Claude Code sessions and injects it into future sessions. Your AI remembers what it learned.
 - [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - a massive local repository of official and community-built claude skills, organized by category.
 - [Corsair](https://github.com/corsairdev/corsair) - Equip your coding agents to build faster with natural language queries and mutations.
+- [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - An advanced context management system for Claude Code.
