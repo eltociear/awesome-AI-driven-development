@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **421 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **422 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -337,6 +337,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [spec-driver](https://github.com/davidlee/spec-driver) - SDD reimagined. Specs, as evergreen truth systems, emit deltas - conforming code to vision.
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
 - [Clavix](https://github.com/ClavixDev/Clavix) - Transform vague ideas into production-ready prompts. Analyze gaps, generate PRDs, and supercharge your AI coding workflow with the CLEAR framework.
+- [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - Auto-save your Claude Code plans to the project root when you finish planning.
 
 ## Language Models & Engines
 
