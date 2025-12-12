@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **422個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **423個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -89,6 +89,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [VT Code](https://github.com/vinhnx/vtcode) - tree-sitterとast-grepによるセマンティックコード理解を搭載し、エージェントの制御を完全に構成可能なRustベースのターミナルコーディングエージェント
 - [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - 関数型のEffect-TSベースのAIコーディングアシスタントCLIで、マルチプロバイダーをサポート
 - [claude-sessions](https://github.com/kyupid/claude-sessions) - ターミナルで実行中のすべてのClaude Codeセッションを監視
+- [Mistral Vibe](https://github.com/mistralai/mistral-vibe) - Mistralのモデルを搭載したコマンドラインコーディングアシスタント
 
 ## IDE拡張機能
 
