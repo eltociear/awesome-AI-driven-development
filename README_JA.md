@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **423個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **424個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -90,6 +90,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - 関数型のEffect-TSベースのAIコーディングアシスタントCLIで、マルチプロバイダーをサポート
 - [claude-sessions](https://github.com/kyupid/claude-sessions) - ターミナルで実行中のすべてのClaude Codeセッションを監視
 - [Mistral Vibe](https://github.com/mistralai/mistral-vibe) - Mistralのモデルを搭載したコマンドラインコーディングアシスタント
+- [Every CODE](https://github.com/just-every/code) - フロンティアAIの限界に挑戦。Codex CLIのフォークで、バリデーション、自動化、ブラウザ統合、マルチエージェント、テーマ機能などを追加。OpenAI、Claude、Geminiなど様々なプロバイダーのエージェントをオーケストレーション
 
 ## IDE拡張機能
 

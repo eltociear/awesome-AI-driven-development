@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **423 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **424 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -90,6 +90,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - A functional, Effect-TS-based AI coding assistant CLI with multi-provider support.
 - [claude-sessions](https://github.com/kyupid/claude-sessions) - Monitor all running Claude Code sessions in your terminal.
 - [Mistral Vibe](https://github.com/mistralai/mistral-vibe) - A command-line coding assistant powered by Mistral's models.
+- [Every CODE](https://github.com/just-every/code) - Push frontier AI to its limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
 
 ## IDE Extensions
 
