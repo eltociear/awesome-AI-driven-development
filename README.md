@@ -7,22 +7,22 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 
 ## Contents
 
-- [AI Code Editors & IDEs](#ai-code-editors--ides)
-- [Terminal & CLI Agents](#terminal--cli-agents)
-- [IDE Extensions](#ide-extensions)
-- [Multi-Agent & Orchestration](#multi-agent--orchestration)
-- [Code Generation & Automation](#code-generation--automation)
-- [Testing & Security](#testing--security)
-- [MCP Servers & Integrations](#mcp-servers--integrations)
-- [Code Review & Collaboration](#code-review--collaboration)
-- [Project & Knowledge Management](#project--knowledge-management)
-- [Language Models & Engines](#language-models--engines)
-- [Development Workflows & Agents](#development-workflows--agents)
-- [Code Analysis & Search](#code-analysis--search)
-- [Domain-Specific Tools](#domain-specific-tools)
-- [Dataset Generation & Synthetic Data](#dataset-generation--synthetic-data)
-- [Learning Resources](#learning-resources)
-- [Frameworks & Libraries](#frameworks--libraries)
+- [💻 AI Code Editors & IDEs](#ai-code-editors--ides)
+- [⌨️ Terminal & CLI Agents](#terminal--cli-agents)
+- [🔌 IDE Extensions](#ide-extensions)
+- [🤖 Multi-Agent & Orchestration](#multi-agent--orchestration)
+- [⚙️ Code Generation & Automation](#code-generation--automation)
+- [🛡️ Testing & Security](#testing--security)
+- [🔗 MCP Servers & Integrations](#mcp-servers--integrations)
+- [👥 Code Review & Collaboration](#code-review--collaboration)
+- [📋 Project & Knowledge Management](#project--knowledge-management)
+- [🧠 Language Models & Engines](#language-models--engines)
+- [🔄 Development Workflows & Agents](#development-workflows--agents)
+- [🔍 Code Analysis & Search](#code-analysis--search)
+- [🎯 Domain-Specific Tools](#domain-specific-tools)
+- [📊 Dataset Generation & Synthetic Data](#dataset-generation--synthetic-data)
+- [📚 Learning Resources](#learning-resources)
+- [📦 Frameworks & Libraries](#frameworks--libraries)
 
 ## AI Code Editors & IDEs
 
