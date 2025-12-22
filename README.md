@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **424 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **425 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -487,6 +487,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 Frameworks, libraries, and configurations for building and enhancing AI coding assistants.
 
 - [anthropics/skills](https://github.com/anthropics/skills) - Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks.
+- [Agent Skills](https://github.com/agentskills/agentskills) - a simple, open format for giving agents new capabilities and expertise.
 - [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - A Claude Code skill that enables effective use of Google's Gemini CLI as a powerful auxiliary tool.
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - A toolkit for setting up AI-assisted development environments and managing work efforts
 - [AiDE](https://github.com/FixingPixels/AiDE) - A structured approach to developing projects with AI assistance
