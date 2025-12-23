@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **425個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **426個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -394,6 +394,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [CoaCoA](https://github.com/im-shashanks/CoaCoA) - エンタープライズグレードのコンプライアンスで高品質でテスト済みコードを提供するためのAIエージェントを開発ワークフローに統合するプロダクション対応フレームワーク
 - [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - 高度なエージェント機能を備えた生成AIアシスタント。Codebuddyは機械学習を使用してコードを生成し、タスクを完了し、コーディングタスクワークフローを合理化
 - [Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-](https://github.com/gochapachi/Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-) - n8n、Coolify、Google Gemini 3を使用してDockerized WordPressサイトをデプロイ、デザイン、データ投入する完全自律ワークフロー
+- [Auto Claude](https://github.com/AndyMik90/Auto-Claude) - AIコーディングコンパニオン。自律エージェントが計画、コード作成、検証を行い、機能構築、バグ修正、高速リリースを支援
 
 ## コード解析 & 検索
 
