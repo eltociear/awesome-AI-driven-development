@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **426 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **427 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -439,6 +439,7 @@ Specialized AI tools for specific development domains and tasks.
 - [kube-copilot](https://github.com/feiskyer/kube-copilot) - Kubernetes Copilot powered by OpenAI
 - [K8sWhisperer-](https://github.com/ARAldhafeeri/K8sWhisperer-) - An AI-powered Kubernetes Operator that lets users query logs and read them as natural language
 - [Arconia Framework](https://github.com/arconia-io/arconia) - A framework designed to build modern enterprise applications using Java and Spring Boot, emphasizing developer experience and cloud native architectures
+- [CompliancePilot](https://github.com/prajapatimehul/comp-agent) - Cloud compliance automation powered by Prowler and Claude Code. Scan your AWS infrastructure, find compliance gaps, and fix them with AI assistance.
 
 ### Language-Specific
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust

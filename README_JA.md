@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **426個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **427個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -439,6 +439,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [kube-copilot](https://github.com/feiskyer/kube-copilot) - OpenAI搭載Kubernetes Copilot
 - [K8sWhisperer-](https://github.com/ARAldhafeeri/K8sWhisperer-) - ログのクエリと自然言語での読み取りを可能にするAI搭載Kubernetes Operator
 - [Arconia Framework](https://github.com/arconia-io/arconia) - 開発者体験とクラウドネイティブアーキテクチャに重点を置き、JavaとSpring Bootを使用したモダンエンタープライズアプリケーション構築向けフレームワーク
+- [CompliancePilot](https://github.com/prajapatimehul/comp-agent) - ProwlerとClaude Codeで動くクラウドコンプライアンス自動化。AWSインフラをスキャンし、コンプライアンスの欠落を発見し、AI支援で修正
 
 ### 言語固有
 - [coders](https://github.com/0xKoda/coders) - rustのAIコーディングアシスタント
