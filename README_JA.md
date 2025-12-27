@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **427個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **428個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -474,6 +474,7 @@ AI駆動開発ワークフロー向けの合成データセット生成ツール
 
 AI駆動開発を学ぶためのチュートリアル、ベストプラクティス、リソース。
 
+- [CodeAssist - AI Programming Assistant](https://github.com/gensyn-ai/codeassist) - Gensyn開発の完全プライベート・ローカルAIコーディングアシスタント。プログラミング問題の練習やコーディング支援アシスタントのトレーニングに活用可能
 - [The BMAD-Method 3.1](https://github.com/bmadcode/BMAD-METHOD) - アジャイルAI駆動開発のブレークスルー手法
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - 構造化AI支援開発ワークフローガイド
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - 実コンピュータ環境でのオープンエンド業務向けマルチモーダルエージェントのベンチマーク
