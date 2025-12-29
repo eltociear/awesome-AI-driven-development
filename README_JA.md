@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **428個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **429個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -184,6 +184,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [SWORDSwarm](https://github.com/SWORDOps/SWORDSwarm) - ハードウェアアクセラレーションとAI駆動開発ツールを備えた、本番環境対応のマルチエージェントAIオーケストレーションシステム
 - [CodeMachine CLI](https://github.com/moazbuilds/CodeMachine-CLI) - 協調マルチエージェントAIワークフローを使用して仕様ファイルを本番環境対応コードに適応的に変換するCLIネイティブオーケストレーションプラットフォーム ⚡️
 - [Claudiomiro](https://github.com/samuelfaj/claudiomiro) - プロンプトを送信すると、分解、コーディング、レビュー、ビルド、テスト、コミットを並列で自律的に実行
+- [Agent Deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェント向けターミナルセッションマネージャー。GoとBubble Teaで構築
 
 ## コード生成 & 自動化
 
