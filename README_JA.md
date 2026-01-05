@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **429個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **431個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -341,6 +341,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - AIエージェントが仕様駆動Xツールキットを自動的に生成するためのメタ仕様フレームワーク
 - [Clavix](https://github.com/ClavixDev/Clavix) - 曖昧なアイデアを本番環境対応プロンプトに変換。ギャップを分析し、PRDを生成し、CLEARフレームワークでAIコーディングワークフローを強化
 - [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - プランニング完了時にClaude Codeのプランをプロジェクトルートに自動保存
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - AI搭載カンバンボードでClaude Code、Gemini CLI、Codex、Ampなどのコーディングエージェントから10倍の成果を引き出す
 
 ## 言語モデル & エンジン
 
@@ -552,3 +553,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - 公式およびコミュニティ構築のclaude skillsを集めた大規模ローカルリポジトリ、カテゴリ別に整理
 - [Corsair](https://github.com/corsairdev/corsair) - 自然言語クエリとミューテーションでコーディングエージェントをより高速に構築できるよう装備
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - Claude Code向けの高度なコンテキスト管理システム
+- [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCodeプラグイン - すべて込み。非同期サブエージェント（Claude Codeのように）・適切なモデルによる厳選エージェント・LSP/ASTなどの作り込まれたツール・厳選MCP・Claude Code互換レイヤー搭載 — OpenCodeのためのステロイド。最高のLLMエージェント体験を提供

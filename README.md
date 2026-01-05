@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **429 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **431 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -341,6 +341,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
 - [Clavix](https://github.com/ClavixDev/Clavix) - Transform vague ideas into production-ready prompts. Analyze gaps, generate PRDs, and supercharge your AI coding workflow with the CLEAR framework.
 - [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - Auto-save your Claude Code plans to the project root when you finish planning.
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents with an AI-powered kanban board.
 
 ## Language Models & Engines
 
@@ -552,3 +553,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - a massive local repository of official and community-built claude skills, organized by category.
 - [Corsair](https://github.com/corsairdev/corsair) - Equip your coding agents to build faster with natural language queries and mutations.
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - An advanced context management system for Claude Code.
+- [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin - Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
