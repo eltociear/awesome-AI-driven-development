@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **431個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **433個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -293,6 +293,8 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Claude Tools MCP Server](https://github.com/brwse/claude-tools-mcp) - Claude Codeのファイルとシェル操作ツールをHTTP経由で公開するMCP（Model Context Protocol）サーバー。任意のMCPクライアントがリモートでこれらのツールを使用可能
 - [Code-Mode Library](https://github.com/universal-tool-calling-protocol/code-mode) - 🔌 エージェントがコード実行を通じてMCPとUTCPツールを呼び出せるようにするプラグアンドプレイライブラリ
 - [MCP Code Execution Server](https://github.com/elusznik/mcp-server-code-execution-mode) - オプションのMCPサーバープロキシを備えた、分離されたルートレスコンテナでPythonコードを実行するMCPサーバー
+- [MCP Code Execution](https://github.com/bug-ops/mcp-execution) - MCPサーバーから実行可能なTypeScriptツールを生成し、98%のトークン節約を実現。AIエージェント向けプログレッシブローディングパターン。本番環境対応
+- [Kindly Web Search MCP Server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - AIコーディングツール（Claude Code、Codex、Cursor、GitHub Copilot、Gemini等）向けのWeb検索 + 堅牢なコンテンツ取得。Serper、Tavily、SearXNGをサポート
 
 ## コードレビュー & コラボレーション
 
