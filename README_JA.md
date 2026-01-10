@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **433個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **436個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -91,6 +91,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [claude-sessions](https://github.com/kyupid/claude-sessions) - ターミナルで実行中のすべてのClaude Codeセッションを監視
 - [Mistral Vibe](https://github.com/mistralai/mistral-vibe) - Mistralのモデルを搭載したコマンドラインコーディングアシスタント
 - [Every CODE](https://github.com/just-every/code) - フロンティアAIの限界に挑戦。Codex CLIのフォークで、バリデーション、自動化、ブラウザ統合、マルチエージェント、テーマ機能などを追加。OpenAI、Claude、Geminiなど様々なプロバイダーのエージェントをオーケストレーション
+- [$4PocketCode](https://github.com/rajbreno/4PocketCode) - わずか4ドルでスマートフォンからAIコーディングエージェント（OpenCode、Claude Code、Gemini CLI）を実行
 
 ## IDE拡張機能
 
@@ -344,6 +345,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Clavix](https://github.com/ClavixDev/Clavix) - 曖昧なアイデアを本番環境対応プロンプトに変換。ギャップを分析し、PRDを生成し、CLEARフレームワークでAIコーディングワークフローを強化
 - [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - プランニング完了時にClaude Codeのプランをプロジェクトルートに自動保存
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - AI搭載カンバンボードでClaude Code、Gemini CLI、Codex、Ampなどのコーディングエージェントから10倍の成果を引き出す
+- [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - プランニング、進捗追跡、ナレッジストレージ用の永続的なmarkdownファイルを使用するようワークフローを変革するClaude Codeスキル — Manusを数十億ドル企業にした手法
 
 ## 言語モデル & エンジン
 
@@ -399,6 +401,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - 高度なエージェント機能を備えた生成AIアシスタント。Codebuddyは機械学習を使用してコードを生成し、タスクを完了し、コーディングタスクワークフローを合理化
 - [Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-](https://github.com/gochapachi/Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-) - n8n、Coolify、Google Gemini 3を使用してDockerized WordPressサイトをデプロイ、デザイン、データ投入する完全自律ワークフロー
 - [Auto Claude](https://github.com/AndyMik90/Auto-Claude) - AIコーディングコンパニオン。自律エージェントが計画、コード作成、検証を行い、機能構築、バグ修正、高速リリースを支援
+- [Ralph](https://github.com/snarktank/ralph) - すべてのPRDアイテムが完了するまで繰り返し実行される自律AIエージェントループ
 
 ## コード解析 & 検索
 

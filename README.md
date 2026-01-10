@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **433 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **436 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -91,6 +91,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [claude-sessions](https://github.com/kyupid/claude-sessions) - Monitor all running Claude Code sessions in your terminal.
 - [Mistral Vibe](https://github.com/mistralai/mistral-vibe) - A command-line coding assistant powered by Mistral's models.
 - [Every CODE](https://github.com/just-every/code) - Push frontier AI to its limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
+- [$4PocketCode](https://github.com/rajbreno/4PocketCode) - Run AI coding agents (OpenCode, Claude Code, Gemini CLI) in just $4 entirely from your phone.
 
 ## IDE Extensions
 
@@ -344,6 +345,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Clavix](https://github.com/ClavixDev/Clavix) - Transform vague ideas into production-ready prompts. Analyze gaps, generate PRDs, and supercharge your AI coding workflow with the CLEAR framework.
 - [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - Auto-save your Claude Code plans to the project root when you finish planning.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents with an AI-powered kanban board.
+- [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - A Claude Code skill that transforms your workflow to use persistent markdown files for planning, progress tracking, and knowledge storage — the exact pattern that made Manus worth billions.
 
 ## Language Models & Engines
 
@@ -399,6 +401,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [CodeBuddy](https://github.com/olasunkanmi-SE/codebuddy) - A Generative AI Assistant with advance agentic capabilities. Codebuddy uses machine learning to generate code, complete tasks, and streamline coding tasks workflow.
 - [Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-](https://github.com/gochapachi/Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-) - A fully autonomous workflow that deploys, designs, and populates a Dockerized WordPress site using n8n, Coolify, and Google Gemini 3.
 - [Auto Claude](https://github.com/AndyMik90/Auto-Claude) - Your AI coding companion. Build features, fix bugs, and ship faster — with autonomous agents that plan, code, and validate for you.
+- [Ralph](https://github.com/snarktank/ralph) - An autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 
 ## Code Analysis & Search
 
