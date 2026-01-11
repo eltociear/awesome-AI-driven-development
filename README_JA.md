@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **436個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **438個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -44,6 +44,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - AIコーディングエージェントを調整できるオープンソースIDE
 - [NotBadAI IDE](https://github.com/notbadai/ide) - AI支援機能を備えたコードエディタ。チャット、変更の適用、自動補完、インライングレー補完などをサポート
 - [Kiro](https://github.com/kirodotdev/Kiro) - プロトタイプから本番環境まで、仕様駆動開発、エージェントフック、自然言語コーディング支援により移行をサポートするエージェンティックIDE
+- [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - AIエージェント時代のターミナル中心IDE
 
 ## ターミナル & CLIエージェント
 
@@ -559,3 +560,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Corsair](https://github.com/corsairdev/corsair) - 自然言語クエリとミューテーションでコーディングエージェントをより高速に構築できるよう装備
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - Claude Code向けの高度なコンテキスト管理システム
 - [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCodeプラグイン - すべて込み。非同期サブエージェント（Claude Codeのように）・適切なモデルによる厳選エージェント・LSP/ASTなどの作り込まれたツール・厳選MCP・Claude Code互換レイヤー搭載 — OpenCodeのためのステロイド。最高のLLMエージェント体験を提供
+- [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Claude Codeを継続的に学習するシステムに変換し、セッション間のコンテキストを維持し、専門エージェントをオーケストレーションし、インテリジェントなコード解析によってトークンの無駄を排除

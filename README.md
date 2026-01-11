@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **436 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **438 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -44,6 +44,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [HumanLayer](https://github.com/humanlayer/humanlayer) - an open source IDE that lets you orchestrate AI coding agents
 - [NotBadAI IDE](https://github.com/notbadai/ide) - A code editor with AI assistance. It supports chat, apply changes, autocomplete, and inline gray completions etc.
 - [Kiro](https://github.com/kirodotdev/Kiro) - an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance.
+- [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - A terminal-centric IDE for the age of AI agents.
 
 ## Terminal & CLI Agents
 
@@ -559,3 +560,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Corsair](https://github.com/corsairdev/corsair) - Equip your coding agents to build faster with natural language queries and mutations.
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - An advanced context management system for Claude Code.
 - [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin - Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
+- [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Continuous Claude transforms Claude Code into a continuously learning system that maintains context across sessions, orchestrates specialized agents, and eliminates wasting tokens through intelligent code analysis.
