@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **438個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **440個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -313,6 +313,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [kodus](https://github.com/kodustech/kodus-ai) - シニア開発者のようなオープンソースAIコードレビュー
 - [Costrict](https://github.com/zgsm-ai/costrict) - エンタープライズ向けの厳格なAIコーダー、品質優先、AIエージェント、AIコードレビュー、AI補完を含む
 - [ThinkReview](https://github.com/Thinkode/thinkreview-browser-extension) - GitLabとAzure DevOpsにAI駆動のコードレビューをもたらす本番環境対応のブラウザ拡張機能
+- [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - GitHub PRステータス、CI/CDチェック、マージ可能性をターミナルで直接表示するClaude Codeプラグイン
 
 ## プロジェクト & ナレッジ管理
 
@@ -561,3 +562,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - Claude Code向けの高度なコンテキスト管理システム
 - [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCodeプラグイン - すべて込み。非同期サブエージェント（Claude Codeのように）・適切なモデルによる厳選エージェント・LSP/ASTなどの作り込まれたツール・厳選MCP・Claude Code互換レイヤー搭載 — OpenCodeのためのステロイド。最高のLLMエージェント体験を提供
 - [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Claude Codeを継続的に学習するシステムに変換し、セッション間のコンテキストを維持し、専門エージェントをオーケストレーションし、インテリジェントなコード解析によってトークンの無駄を排除
+- [Personal Claude Code Configuration](https://github.com/ZacheryGlass/.claude) - Claude Code（AnthropicのClaude AI支援用公式CLIツール）の個人設定コレクション

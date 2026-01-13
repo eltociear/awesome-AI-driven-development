@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **438 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **440 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -313,6 +313,7 @@ Tools for code review, pull request automation, and team collaboration.
 - [kodus](https://github.com/kodustech/kodus-ai) - Open source AI code reviews — just like your senior dev would do.
 - [Costrict](https://github.com/zgsm-ai/costrict) - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
 - [ThinkReview](https://github.com/Thinkode/thinkreview-browser-extension) - a production-ready browser extension that brings AI-powered code reviews to GitLab and Azure DevOps.
+- [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - A Claude Code plugin that displays GitHub PR status, CI/CD checks, and merge capability directly in your terminal.
 
 ## Project & Knowledge Management
 
@@ -561,3 +562,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - An advanced context management system for Claude Code.
 - [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin - Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 - [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Continuous Claude transforms Claude Code into a continuously learning system that maintains context across sessions, orchestrates specialized agents, and eliminates wasting tokens through intelligent code analysis.
+- [Personal Claude Code Configuration](https://github.com/ZacheryGlass/.claude) - This repository contains my personal configuration settings for Claude Code, Anthropic's official CLI tool for Claude AI assistance.
