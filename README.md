@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **440 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **443 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -348,6 +348,8 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - Auto-save your Claude Code plans to the project root when you finish planning.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents with an AI-powered kanban board.
 - [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - A Claude Code skill that transforms your workflow to use persistent markdown files for planning, progress tracking, and knowledge storage — the exact pattern that made Manus worth billions.
+- [AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - Episodic memory for AI coding agents. The ghost of code written, persisting across sessions.
+- [Smart Ralph](https://github.com/tzachbon/smart-ralph) - Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
 
 ## Language Models & Engines
 
@@ -430,6 +432,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - a self-hosted tool that helps you understand your codebase.
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens.
+- [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 
 ## Domain-Specific Tools
 
