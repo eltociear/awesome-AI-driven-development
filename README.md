@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **445 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **449 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -188,6 +188,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt — it decomposes, codes, reviews, builds, tests, and commits autonomously, in PARALLEL.
 - [Agent Deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. Built with Go + Bubble Tea.
 - [PAF Framework](https://github.com/crack00r/paf-framework) - A comprehensive multi-agent orchestration framework that implements a complete Software Development Life Cycle (SDLC) with 38 specialized AI agents. Using hierarchical team structures and the nested-subagent plugin, PAF enables enterprise-grade code reviews, feature development, and project management.
+- [1Code](https://github.com/21st-dev/1code) - Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 
 ## Code Generation & Automation
 
@@ -497,6 +498,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - The project provides a collection of System prompts for Java that help software engineers in their daily programming work.
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 - [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Composer mode, .cursorrules examples, and Reddit community wisdom
+- [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - The complete guide to maximizing Claude Code: Global CLAUDE.md, MCP Servers, Commands, Hooks, Skills, and Why Single-Purpose Chats Matter.
 
 ## Frameworks & Libraries
 
@@ -568,3 +570,5 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Continuous Claude transforms Claude Code into a continuously learning system that maintains context across sessions, orchestrates specialized agents, and eliminates wasting tokens through intelligent code analysis.
 - [Personal Claude Code Configuration](https://github.com/ZacheryGlass/.claude) - This repository contains my personal configuration settings for Claude Code, Anthropic's official CLI tool for Claude AI assistance.
 - [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - A curated, battle-tested collection of 62 high-performance skills compatible with both Antigravity and Claude Code, including official skills from Anthropic and Vercel Labs.
+- [Awesome Slash Commands](https://github.com/avifenesh/awesome-slash) - A cross-platform plugin providing powerful, zero-configuration slash commands for development workflows. Works with Claude Code, Codex CLI, and OpenCode.
+- [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - A custom status line script for Claude Code that displays context window usage, git status, and model information.

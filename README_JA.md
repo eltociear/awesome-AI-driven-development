@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **445個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **449個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -188,6 +188,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Claudiomiro](https://github.com/samuelfaj/claudiomiro) - プロンプトを送信すると、分解、コーディング、レビュー、ビルド、テスト、コミットを並列で自律的に実行
 - [Agent Deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェント向けターミナルセッションマネージャー。GoとBubble Teaで構築
 - [PAF Framework](https://github.com/crack00r/paf-framework) - 38の専門AIエージェントを使用した完全なソフトウェア開発ライフサイクル（SDLC）を実装する包括的マルチエージェントオーケストレーションフレームワーク。階層的なチーム構造とnested-subagentプラグインにより、エンタープライズグレードのコードレビュー、機能開発、プロジェクト管理を実現
+- [1Code](https://github.com/21st-dev/1code) - コードエージェント（ClaudeCode、OpenCode、Codex）を並列実行するためのより良いUIアプリ
 
 ## コード生成 & 自動化
 
@@ -497,6 +498,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - ソフトウェアエンジニアの日常的なプログラミング作業を支援するJava向けシステムプロンプトのコレクション
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub CopilotをAIペアプログラミングリソースとして使用するために必要なすべてを教えるマルチモジュールコース
 - [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDEのtips、tricks、ベストプラクティス - キーボードショートカット、Composerモード、.cursorrules例、Redditコミュニティの知恵
+- [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - Claude Codeを最大限活用するための完全ガイド：グローバルCLAUDE.md、MCPサーバー、コマンド、フック、スキル、そして単一目的チャットが重要な理由
 
 ## フレームワーク & ライブラリ
 
@@ -568,3 +570,5 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Claude Codeを継続的に学習するシステムに変換し、セッション間のコンテキストを維持し、専門エージェントをオーケストレーションし、インテリジェントなコード解析によってトークンの無駄を排除
 - [Personal Claude Code Configuration](https://github.com/ZacheryGlass/.claude) - Claude Code（AnthropicのClaude AI支援用公式CLIツール）の個人設定コレクション
 - [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - AntigravityとClaude Codeの両方に対応した62の高性能スキルの厳選されたコレクション。AnthropicとVercel Labsの公式スキルを含む
+- [Awesome Slash Commands](https://github.com/avifenesh/awesome-slash) - 開発ワークフロー向けの強力でゼロ設定のスラッシュコマンドを提供するクロスプラットフォームプラグイン。Claude Code、Codex CLI、OpenCodeに対応
+- [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - コンテキストウィンドウの使用量、gitステータス、モデル情報を表示するClaude Code用カスタムステータスラインスクリプト
