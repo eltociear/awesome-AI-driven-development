@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **449個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **452個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -93,6 +93,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Mistral Vibe](https://github.com/mistralai/mistral-vibe) - Mistralのモデルを搭載したコマンドラインコーディングアシスタント
 - [Every CODE](https://github.com/just-every/code) - フロンティアAIの限界に挑戦。Codex CLIのフォークで、バリデーション、自動化、ブラウザ統合、マルチエージェント、テーマ機能などを追加。OpenAI、Claude、Geminiなど様々なプロバイダーのエージェントをオーケストレーション
 - [$4PocketCode](https://github.com/rajbreno/4PocketCode) - わずか4ドルでスマートフォンからAIコーディングエージェント（OpenCode、Claude Code、Gemini CLI）を実行
+- [Codi](https://github.com/laynepenney/codi) - AIコーディングの相棒。Claude、OpenAI、ローカルモデルをサポートするハイブリッドアシスタント
 
 ## IDE拡張機能
 
@@ -352,6 +353,8 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - プランニング、進捗追跡、ナレッジストレージ用の永続的なmarkdownファイルを使用するようワークフローを変革するClaude Codeスキル — Manusを数十億ドル企業にした手法
 - [AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - AIコーディングエージェント向けのエピソディックメモリ。書かれたコードの残像がセッション間で持続
 - [Smart Ralph](https://github.com/tzachbon/smart-ralph) - スマートコンパクション付きスペック駆動開発。Ralph Wiggumループと構造化仕様ワークフローを組み合わせたClaude Codeプラグイン
+- [GET SHIT DONE](https://github.com/glittercowboy/get-shit-done) - TÂCHESによるClaude Code向けの軽量かつ強力なメタプロンプティング、コンテキストエンジニアリング、スペック駆動開発システム
+- [GSD for Antigravity](https://github.com/toonight/get-shit-done-for-antigravity) - Google Antigravity向けに適応されたスペック駆動、コンテキストエンジニアリング開発手法
 
 ## 言語モデル & エンジン
 

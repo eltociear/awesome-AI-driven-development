@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **449 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **452 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -93,6 +93,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Mistral Vibe](https://github.com/mistralai/mistral-vibe) - A command-line coding assistant powered by Mistral's models.
 - [Every CODE](https://github.com/just-every/code) - Push frontier AI to its limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider.
 - [$4PocketCode](https://github.com/rajbreno/4PocketCode) - Run AI coding agents (OpenCode, Claude Code, Gemini CLI) in just $4 entirely from your phone.
+- [Codi](https://github.com/laynepenney/codi) - Your AI coding wingman - a hybrid assistant supporting Claude, OpenAI, and local models
 
 ## IDE Extensions
 
@@ -352,6 +353,8 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - A Claude Code skill that transforms your workflow to use persistent markdown files for planning, progress tracking, and knowledge storage — the exact pattern that made Manus worth billions.
 - [AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - Episodic memory for AI coding agents. The ghost of code written, persisting across sessions.
 - [Smart Ralph](https://github.com/tzachbon/smart-ralph) - Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
+- [GET SHIT DONE](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [GSD for Antigravity](https://github.com/toonight/get-shit-done-for-antigravity) - A spec-driven, context-engineered development methodology adapted for Google Antigravity.
 
 ## Language Models & Engines
 
