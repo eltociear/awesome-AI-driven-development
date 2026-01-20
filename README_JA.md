@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **453個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **455個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -438,6 +438,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - コードベースを理解するためのセルフホスト型ツール
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - AI向けのプロジェクトブレイン。トークンを消費せずにLLMに即座にアーキテクチャコンテキストを提供
 - [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - ブラウザで完全に動作するクライアントサイドのナレッジグラフ作成ツール。GitHubリポジトリやZIPファイルをドロップして、Graph RAGエージェント内蔵のインタラクティブなナレッジグラフを取得。コード探索に最適
+- [deja](https://github.com/Michaelliv/cc-dejavu) - Claude Codeのbashコマンド履歴を検索・閲覧するCLIツール
 
 ## ドメイン固有ツール
 
@@ -576,3 +577,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Awesome Slash Commands](https://github.com/avifenesh/awesome-slash) - 開発ワークフロー向けの強力でゼロ設定のスラッシュコマンドを提供するクロスプラットフォームプラグイン。Claude Code、Codex CLI、OpenCodeに対応
 - [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - コンテキストウィンドウの使用量、gitステータス、モデル情報を表示するClaude Code用カスタムステータスラインスクリプト
 - [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - 無限ループやAPIの過剰使用を防ぐセーフガードを内蔵し、Claude Codeがプロジェクトを完了するまで反復的に改善する継続的な自律開発サイクルを実現
+- [Subtask](https://github.com/zippoxer/subtask) - Claude Codeにタスク作成、サブエージェントの生成、進捗追跡、レビューと変更リクエスト機能を追加するスキルとCLI
