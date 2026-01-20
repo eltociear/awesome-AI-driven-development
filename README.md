@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **452 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **453 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -575,3 +575,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - A curated, battle-tested collection of 62 high-performance skills compatible with both Antigravity and Claude Code, including official skills from Anthropic and Vercel Labs.
 - [Awesome Slash Commands](https://github.com/avifenesh/awesome-slash) - A cross-platform plugin providing powerful, zero-configuration slash commands for development workflows. Works with Claude Code, Codex CLI, and OpenCode.
 - [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - A custom status line script for Claude Code that displays context window usage, git status, and model information.
+- [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - It enables continuous autonomous development cycles where Claude Code iteratively improves your project until completion, with built-in safeguards to prevent infinite loops and API overuse.

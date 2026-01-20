@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **452個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **453個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -575,3 +575,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - AntigravityとClaude Codeの両方に対応した62の高性能スキルの厳選されたコレクション。AnthropicとVercel Labsの公式スキルを含む
 - [Awesome Slash Commands](https://github.com/avifenesh/awesome-slash) - 開発ワークフロー向けの強力でゼロ設定のスラッシュコマンドを提供するクロスプラットフォームプラグイン。Claude Code、Codex CLI、OpenCodeに対応
 - [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - コンテキストウィンドウの使用量、gitステータス、モデル情報を表示するClaude Code用カスタムステータスラインスクリプト
+- [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - 無限ループやAPIの過剰使用を防ぐセーフガードを内蔵し、Claude Codeがプロジェクトを完了するまで反復的に改善する継続的な自律開発サイクルを実現
