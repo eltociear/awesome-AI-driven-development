@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **455 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **459 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -411,6 +411,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-](https://github.com/gochapachi/Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-) - A fully autonomous workflow that deploys, designs, and populates a Dockerized WordPress site using n8n, Coolify, and Google Gemini 3.
 - [Auto Claude](https://github.com/AndyMik90/Auto-Claude) - Your AI coding companion. Build features, fix bugs, and ship faster — with autonomous agents that plan, code, and validate for you.
 - [Ralph](https://github.com/snarktank/ralph) - An autonomous AI agent loop that runs repeatedly until all PRD items are complete.
+- [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - The World's First L5 Autonomous Code Engineer. Self-healing code, on-premise governance, and cryptographic compliance for the enterprise.
 
 ## Code Analysis & Search
 
@@ -439,6 +440,8 @@ Tools for analyzing, searching, and understanding codebases.
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens.
 - [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 - [deja](https://github.com/Michaelliv/cc-dejavu) - CLI tool to search and browse Claude Code bash command history
+- [grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
+- [Drift](https://github.com/dadbodgeoff/drift) - AI-augmented architectural drift detection for modern codebases
 
 ## Domain-Specific Tools
 
@@ -578,3 +581,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - A custom status line script for Claude Code that displays context window usage, git status, and model information.
 - [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - It enables continuous autonomous development cycles where Claude Code iteratively improves your project until completion, with built-in safeguards to prevent infinite loops and API overuse.
 - [Subtask](https://github.com/zippoxer/subtask) - Subtask gives Claude Code a Skill and CLI to create tasks, spawn subagents, track progress, review and request changes
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.

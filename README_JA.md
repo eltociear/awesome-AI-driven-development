@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **455個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **459個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -411,6 +411,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-](https://github.com/gochapachi/Autonomous-AI-Website-Builder-n8n-Coolify-Wordpress-Gemini-3-) - n8n、Coolify、Google Gemini 3を使用してDockerized WordPressサイトをデプロイ、デザイン、データ投入する完全自律ワークフロー
 - [Auto Claude](https://github.com/AndyMik90/Auto-Claude) - AIコーディングコンパニオン。自律エージェントが計画、コード作成、検証を行い、機能構築、バグ修正、高速リリースを支援
 - [Ralph](https://github.com/snarktank/ralph) - すべてのPRDアイテムが完了するまで繰り返し実行される自律AIエージェントループ
+- [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - 世界初のL5自律コードエンジニア。自己修復コード、オンプレミスガバナンス、エンタープライズ向け暗号化コンプライアンス
 
 ## コード解析 & 検索
 
@@ -439,6 +440,8 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - AI向けのプロジェクトブレイン。トークンを消費せずにLLMに即座にアーキテクチャコンテキストを提供
 - [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - ブラウザで完全に動作するクライアントサイドのナレッジグラフ作成ツール。GitHubリポジトリやZIPファイルをドロップして、Graph RAGエージェント内蔵のインタラクティブなナレッジグラフを取得。コード探索に最適
 - [deja](https://github.com/Michaelliv/cc-dejavu) - Claude Codeのbashコマンド履歴を検索・閲覧するCLIツール
+- [grepai](https://github.com/yoanbernabeu/grepai) - AIエージェント向けセマンティック検索とコールグラフ（100%ローカル）
+- [Drift](https://github.com/dadbodgeoff/drift) - モダンコードベース向けAI支援アーキテクチャドリフト検出
 
 ## ドメイン固有ツール
 
@@ -578,3 +581,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - コンテキストウィンドウの使用量、gitステータス、モデル情報を表示するClaude Code用カスタムステータスラインスクリプト
 - [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - 無限ループやAPIの過剰使用を防ぐセーフガードを内蔵し、Claude Codeがプロジェクトを完了するまで反復的に改善する継続的な自律開発サイクルを実現
 - [Subtask](https://github.com/zippoxer/subtask) - Claude Codeにタスク作成、サブエージェントの生成、進捗追跡、レビューと変更リクエスト機能を追加するスキルとCLI
+- [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Claude Code設定の完全コレクション - agents、skills、hooks、commands、rules、MCPs。Anthropicハッカソン優勝者による実戦検証済み設定
