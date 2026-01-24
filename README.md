@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **461 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **462 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -413,6 +413,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [Auto Claude](https://github.com/AndyMik90/Auto-Claude) - Your AI coding companion. Build features, fix bugs, and ship faster — with autonomous agents that plan, code, and validate for you.
 - [Ralph](https://github.com/snarktank/ralph) - An autonomous AI agent loop that runs repeatedly until all PRD items are complete.
 - [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - The World's First L5 Autonomous Code Engineer. Self-healing code, on-premise governance, and cryptographic compliance for the enterprise.
+- [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - An agentic task runner that helps your computer do things while you're sleeping! It uses the Ralph Wiggum way of doing things: "simple, happy, and do one thing at a time."
 
 ## Code Analysis & Search
 
