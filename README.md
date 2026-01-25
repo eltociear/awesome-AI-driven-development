@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **462 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **463 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -45,6 +45,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [NotBadAI IDE](https://github.com/notbadai/ide) - A code editor with AI assistance. It supports chat, apply changes, autocomplete, and inline gray completions etc.
 - [Kiro](https://github.com/kirodotdev/Kiro) - an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance.
 - [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - A terminal-centric IDE for the age of AI agents.
+- [SquirlIDE](https://github.com/krishnak19a-del/SquirlIDE) - A lightweight, cross-platform code editor built using Tauri (Rust) for the backend and ReactJS for the frontend, with integration for large language model (LLM) calls using Gemini API for code assistance and text generation.
 
 ## Terminal & CLI Agents
 
