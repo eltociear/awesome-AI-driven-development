@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **463個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **464個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -415,6 +415,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Ralph](https://github.com/snarktank/ralph) - すべてのPRDアイテムが完了するまで繰り返し実行される自律AIエージェントループ
 - [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - 世界初のL5自律コードエンジニア。自己修復コード、オンプレミスガバナンス、エンタープライズ向け暗号化コンプライアンス
 - [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - あなたが寝ている間にコンピュータに作業をさせるエージェントタスクランナー！「シンプルに、楽しく、一度に一つのことをする」というRalph Wiggum方式を採用
+- [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - AI支援開発向け高規律エージェントワークフロー。永続コンテキストによるAnalyze、Run、Confirm（ARC）プロジェクト実行
 
 ## コード解析 & 検索
 
