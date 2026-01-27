@@ -167,6 +167,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [AutoAgents](https://github.com/Link-AGI/AutoAgents) - Generate different roles for GPTs to form a collaborative entity for complex tasks
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - Combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Aider, Codex, OpenCode, and Amp.
+- [vsync](https://github.com/nicepkg/vsync) - Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion.
 - [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) - Built from the ground up with enterprise-grade architecture, advanced swarm intelligence, and seamless Claude Code integration.
 - [Activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [Heurist Agent Framework](https://github.com/heurist-network/heurist-agent-framework) - A flexible multi-interface AI agent framework for building agents with reasoning, tool use, memory, deep research, blockchain interaction, MCP, and agents-as-a-service.
