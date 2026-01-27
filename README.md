@@ -237,6 +237,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest
 - [arbigent](https://github.com/takahirom/arbigent) - AI Agent for testing Android, iOS, and Web apps
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - AI assistant to help you find bugs as you code
+- [Zenable](https://zenable.io/) — AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality. Generous free tier available.
 - [VulnViper](https://github.com/anshulyadav1976/VulnViper) - An intelligent security auditing tool designed to help developers identify and understand potential vulnerabilities in their Python codebases
 - [codegate](https://github.com/stacklok/codegate) - A local gateway that makes AI coding assistants safer
 - [vibelint](https://github.com/mithranm/vibelint) - Make codebases more LLM friendly
