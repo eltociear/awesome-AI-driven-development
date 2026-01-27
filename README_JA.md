@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **464個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **466個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -192,6 +192,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Agent Deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェント向けターミナルセッションマネージャー。GoとBubble Teaで構築
 - [PAF Framework](https://github.com/crack00r/paf-framework) - 38の専門AIエージェントを使用した完全なソフトウェア開発ライフサイクル（SDLC）を実装する包括的マルチエージェントオーケストレーションフレームワーク。階層的なチーム構造とnested-subagentプラグインにより、エンタープライズグレードのコードレビュー、機能開発、プロジェクト管理を実現
 - [1Code](https://github.com/21st-dev/1code) - コードエージェント（ClaudeCode、OpenCode、Codex）を並列実行するためのより良いUIアプリ
+- [aistack](https://github.com/blackms/aistack) - 敵対的検証、永続メモリ、リアルタイムWebダッシュボードを備えた本番環境対応エージェントオーケストレーション
 
 ## コード生成 & 自動化
 
