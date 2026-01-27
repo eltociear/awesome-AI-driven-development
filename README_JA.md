@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **466個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **467個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -167,6 +167,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [AutoAgents](https://github.com/Link-AGI/AutoAgents) - 複雑なタスクに対して協調エンティティを形成するためのGPT向け異なる役割を生成
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - AutoGenとCrewAIなどを組み合わせたマルチエージェントLLMシステムの構築・管理向けローコードソリューション
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) - Claude Code、Aider、Codex、OpenCode、Ampなど複数のAIターミナルエージェントを管理
+- [vsync](https://github.com/nicepkg/vsync) - Claude Code、Cursor、OpenCode、Codex間でスキル、MCPサーバー、エージェント、コマンドを自動フォーマット変換で同期
 - [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) - エンタープライズグレードアーキテクチャ、高度スウォーム知能、Claude Codeシームレス統合でゼロから構築
 - [Activepieces](https://github.com/activepieces/activepieces) - AIエージェント＆MCP＆AIワークフロー自動化 • AIエージェント用約400個MCPサーバー • MCP付きAI自動化/AIエージェント • AIワークフロー＆AIエージェント • AIエージェント用MCP
 - [Heurist Agent Framework](https://github.com/heurist-network/heurist-agent-framework) - 推論、ツール使用、メモリ、深度研究、ブロックチェーンインタラクション、MCP、エージェント・アズ・ア・サービスでエージェントを構築する柔軟なマルチインターフェースAIエージェントフレームワーク
@@ -237,6 +238,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Webテスト AIエージェント - 仕様を書くと残りを実行
 - [arbigent](https://github.com/takahirom/arbigent) - Android、iOS、Webアプリテスト向けAIエージェント
 - [kaizen](https://github.com/Cloud-Code-AI/kaizen) - コーディング中のバグ発見を支援するAIアシスタント
+- [Zenable](https://zenable.io/) — チームの基準を学習し、コーディングエージェントがそれに従うことを保証するAIガードレール。速度と品質を最大化。無料枠あり
 - [VulnViper](https://github.com/anshulyadav1976/VulnViper) - Pythonコードベース内の潜在的脆弱性の特定と理解を支援するインテリジェントセキュリティ監査ツール
 - [codegate](https://github.com/stacklok/codegate) - AIコーディングアシスタントを安全にするローカルゲートウェイ
 - [vibelint](https://github.com/mithranm/vibelint) - コードベースをLLMフレンドリーにする
