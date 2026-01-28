@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **467個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **470個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -194,6 +194,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [PAF Framework](https://github.com/crack00r/paf-framework) - 38の専門AIエージェントを使用した完全なソフトウェア開発ライフサイクル（SDLC）を実装する包括的マルチエージェントオーケストレーションフレームワーク。階層的なチーム構造とnested-subagentプラグインにより、エンタープライズグレードのコードレビュー、機能開発、プロジェクト管理を実現
 - [1Code](https://github.com/21st-dev/1code) - コードエージェント（ClaudeCode、OpenCode、Codex）を並列実行するためのより良いUIアプリ
 - [aistack](https://github.com/blackms/aistack) - 敵対的検証、永続メモリ、リアルタイムWebダッシュボードを備えた本番環境対応エージェントオーケストレーション
+- [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - 高品質ソフトウェアエンジニアリングのための本番環境対応マルチエージェントオーケストレーションエンジン
 
 ## コード生成 & 自動化
 
@@ -305,6 +306,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [MCP Code Execution Server](https://github.com/elusznik/mcp-server-code-execution-mode) - オプションのMCPサーバープロキシを備えた、分離されたルートレスコンテナでPythonコードを実行するMCPサーバー
 - [MCP Code Execution](https://github.com/bug-ops/mcp-execution) - MCPサーバーから実行可能なTypeScriptツールを生成し、98%のトークン節約を実現。AIエージェント向けプログレッシブローディングパターン。本番環境対応
 - [Kindly Web Search MCP Server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - AIコーディングツール（Claude Code、Codex、Cursor、GitHub Copilot、Gemini等）向けのWeb検索 + 堅牢なコンテンツ取得。Serper、Tavily、SearXNGをサポート
+- [mcp2skill](https://github.com/fenwei-dev/mcp2skill) - MCPサーバーをエージェントスキルに変換するCLIツール。MCPサーバーのメタデータからSKILL.mdとツールリファレンスを自動生成し、MCPサーバーとやり取りするCLIも提供
 
 ## コードレビュー & コラボレーション
 
@@ -590,3 +592,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Subtask](https://github.com/zippoxer/subtask) - Claude Codeにタスク作成、サブエージェントの生成、進捗追跡、レビューと変更リクエスト機能を追加するスキルとCLI
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Claude Code設定の完全コレクション - agents、skills、hooks、commands、rules、MCPs。Anthropicハッカソン優勝者による実戦検証済み設定
 - [Solid Skills](https://github.com/ramziddin/solid-skills) - SOLID原則、TDD、クリーンアーキテクチャを通じてシニアエンジニア品質のコードを書くためのAIエージェントスキル
+- [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 複数のプラットフォームとフレームワークにわたるプロフェッショナルなUI/UX構築のためのデザインインテリジェンスを提供するAIスキル
