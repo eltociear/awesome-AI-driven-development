@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **470 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **472 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -307,6 +307,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [MCP Code Execution](https://github.com/bug-ops/mcp-execution) - Generate executable TypeScript tools from MCP servers with 98% token savings. Progressive loading pattern for AI agents. Production-ready.
 - [Kindly Web Search MCP Server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.). Supports Serper, Tavily, and SearXNG.
 - [mcp2skill](https://github.com/fenwei-dev/mcp2skill) - A CLI tool that converts Model Context Protocol (MCP) servers into agent skills. It automatically generates SKILL.md and tool references from MCP server metadata, and provides a CLI tool to interact with the MCP server.
+- [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - Slim tool definitions. Auto-compressed responses. Context efficiency on both end. Ships with 7 example servers, reduces context consumption by 98% (48k tokens down to 1.1k).
 
 ## Code Review & Collaboration
 
@@ -593,3 +594,4 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [Solid Skills](https://github.com/ramziddin/solid-skills) - AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
+- [Maestro](https://github.com/its-maestro-baby/maestro) - A native macOS application that lets you run 1-12 Claude Code (or other AI CLI) sessions simultaneously, each in its own isolated git worktree.

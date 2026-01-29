@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **470個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **472個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -307,6 +307,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [MCP Code Execution](https://github.com/bug-ops/mcp-execution) - MCPサーバーから実行可能なTypeScriptツールを生成し、98%のトークン節約を実現。AIエージェント向けプログレッシブローディングパターン。本番環境対応
 - [Kindly Web Search MCP Server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - AIコーディングツール（Claude Code、Codex、Cursor、GitHub Copilot、Gemini等）向けのWeb検索 + 堅牢なコンテンツ取得。Serper、Tavily、SearXNGをサポート
 - [mcp2skill](https://github.com/fenwei-dev/mcp2skill) - MCPサーバーをエージェントスキルに変換するCLIツール。MCPサーバーのメタデータからSKILL.mdとツールリファレンスを自動生成し、MCPサーバーとやり取りするCLIも提供
+- [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - スリムなツール定義と自動圧縮レスポンスで両端のコンテキスト効率を実現。7つのサンプルサーバー付属、コンテキスト消費を98%削減（48kトークンから1.1kへ）
 
 ## コードレビュー & コラボレーション
 
@@ -593,3 +594,4 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Claude Code設定の完全コレクション - agents、skills、hooks、commands、rules、MCPs。Anthropicハッカソン優勝者による実戦検証済み設定
 - [Solid Skills](https://github.com/ramziddin/solid-skills) - SOLID原則、TDD、クリーンアーキテクチャを通じてシニアエンジニア品質のコードを書くためのAIエージェントスキル
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 複数のプラットフォームとフレームワークにわたるプロフェッショナルなUI/UX構築のためのデザインインテリジェンスを提供するAIスキル
+- [Maestro](https://github.com/its-maestro-baby/maestro) - 1〜12のClaude Code（または他のAI CLI）セッションを同時に実行できるネイティブmacOSアプリケーション。各セッションは独立したgit worktreeで隔離
