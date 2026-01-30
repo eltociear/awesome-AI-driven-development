@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **472 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **473 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -23,6 +23,7 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 - [📊 Dataset Generation & Synthetic Data](#dataset-generation--synthetic-data)
 - [📚 Learning Resources](#learning-resources)
 - [📦 Frameworks & Libraries](#frameworks--libraries)
+- [🧩 Skills](#skills)
 
 ## AI Code Editors & IDEs
 
@@ -521,9 +522,6 @@ Tutorials, best practices, and resources for learning AI-driven development.
 
 Frameworks, libraries, and configurations for building and enhancing AI coding assistants.
 
-- [anthropics/skills](https://github.com/anthropics/skills) - Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks.
-- [Agent Skills](https://github.com/agentskills/agentskills) - a simple, open format for giving agents new capabilities and expertise.
-- [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - A Claude Code skill that enables effective use of Google's Gemini CLI as a powerful auxiliary tool.
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - A toolkit for setting up AI-assisted development environments and managing work efforts
 - [AiDE](https://github.com/FixingPixels/AiDE) - A structured approach to developing projects with AI assistance
 - [Aegis](https://github.com/BuildSomethingAI/aegis-framework) - A powerful framework that combines AI capabilities with structured project management
@@ -563,35 +561,44 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Claude Code Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails) - Protective hooks for Claude Code that prevent accidental code loss through branch protection, automatic checkpointing, and safe commit squashing
 - [Deliberate Agentic Development](https://github.com/Matt-Hulme/deliberate-agentic-development) - A structured workflow system for AI coding agents like Claude Code, Cursor, and Codex
 - [Pluqqy](https://github.com/pluqqy/pluqqy-terminal) - Build and manage minimal viable context for your AI coding assistant from your terminal
-- [Superpowers](https://github.com/obra/superpowers) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
 - [cmux](https://github.com/coder/cmux) - a cross-platform desktop application for AI-assisted development with git worktree integration.
-- [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Enable Claude Code to invoke the Codex CLI (codex exec and session resumes) for automated code analysis, refactoring, and editing workflows.
-- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A comprehensive collection of ready-to-use scientific skills for Claude, curated by the K-Dense team.
-- [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - A skill that adds scaffolding to IDE's such as cursor and VS code to create new projects.
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - The package manager for AI coding. Sync and reuse rules, slash commands, agents, and more.
 - [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - This repository provides a Claude Code marketplace bundle (cc-marketplace).
 - [Cursor Agentic Development Pipeline](https://github.com/ChrisThompsonTLDR/agentic-programming/tree/feature/epic-master) - A comprehensive, AI-powered software development workflow that orchestrates multiple specialized agents through a structured pipeline to deliver complete epics from conception to deployment.
 - [Flow Framework](https://github.com/khgs2411/flow) - Iterative development framework combining Domain-Driven Design with Agile philosophy
 - [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - Like gmail for your coding agents. Lets various different agents communicate and coordinate with each other.
-- [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Switch between Claude Sonnet 4.5, GLM 4.6, and Kimi for Coding instantly. Stop hitting rate limits. Start optimizing costs.
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - A curated collection of Claude Code settings, custom commands and sub-agents designed for enhanced development workflows.
 - [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - an open-source framework that combines SPEC-First development, Test-Driven Development (TDD), and AI agents to create a complete, transparent development lifecycle.
 - [Amplifier](https://github.com/microsoft/amplifier) - a coordinated and accelerated development system that turns your expertise into reusable AI tools without requiring code.
 - [Claude Oracle](https://github.com/n1ira/claude-oracle) - A CLI that makes Google's Gemini 3 Pro the "lead architect" for Claude Code. Think of it as giving your AI coding assistant its own AI assistant for strategic decisions.
 - [grov](https://github.com/TonyStef/Grov) - Grov captures reasoning from your Claude Code sessions and injects it into future sessions. Your AI remembers what it learned.
-- [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - a massive local repository of official and community-built claude skills, organized by category.
 - [Corsair](https://github.com/corsairdev/corsair) - Equip your coding agents to build faster with natural language queries and mutations.
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - An advanced context management system for Claude Code.
 - [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCode Plugin - Battery included. ASYNC SUBAGENTS (YES LIKE CLAUDE CODE) · Curated agents with proper models · Crafted tools like LSP/AST included · Curated MCPs · Claude Code Compatible Layer — Steroids for your OpenCode. The Best LLM Agent Experience is Here.
 - [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Continuous Claude transforms Claude Code into a continuously learning system that maintains context across sessions, orchestrates specialized agents, and eliminates wasting tokens through intelligent code analysis.
 - [Personal Claude Code Configuration](https://github.com/ZacheryGlass/.claude) - This repository contains my personal configuration settings for Claude Code, Anthropic's official CLI tool for Claude AI assistance.
-- [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - A curated, battle-tested collection of 62 high-performance skills compatible with both Antigravity and Claude Code, including official skills from Anthropic and Vercel Labs.
 - [Awesome Slash Commands](https://github.com/avifenesh/awesome-slash) - A cross-platform plugin providing powerful, zero-configuration slash commands for development workflows. Works with Claude Code, Codex CLI, and OpenCode.
 - [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - A custom status line script for Claude Code that displays context window usage, git status, and model information.
 - [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - It enables continuous autonomous development cycles where Claude Code iteratively improves your project until completion, with built-in safeguards to prevent infinite loops and API overuse.
-- [Subtask](https://github.com/zippoxer/subtask) - Subtask gives Claude Code a Skill and CLI to create tasks, spawn subagents, track progress, review and request changes
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
+- [Maestro](https://github.com/its-maestro-baby/maestro) - A native macOS application that lets you run 1-12 Claude Code (or other AI CLI) sessions simultaneously, each in its own isolated git worktree.
+
+## Skills
+
+Reusable skill packages, collections, and tools for enhancing AI coding agents with specialized capabilities.
+
+- [anthropics/skills](https://github.com/anthropics/skills) - Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks.
+- [Agent Skills](https://github.com/agentskills/agentskills) - a simple, open format for giving agents new capabilities and expertise.
+- [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - A Claude Code skill that enables effective use of Google's Gemini CLI as a powerful auxiliary tool.
+- [Superpowers](https://github.com/obra/superpowers) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Enable Claude Code to invoke the Codex CLI (codex exec and session resumes) for automated code analysis, refactoring, and editing workflows.
+- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A comprehensive collection of ready-to-use scientific skills for Claude, curated by the K-Dense team.
+- [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - A skill that adds scaffolding to IDE's such as cursor and VS code to create new projects.
+- [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - CLI for creating Claude Agent Skills with progressive disclosure validation. Built for Claude Code to use when humans ask it to create skills.
+- [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - a massive local repository of official and community-built claude skills, organized by category.
+- [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - A curated, battle-tested collection of 62 high-performance skills compatible with both Antigravity and Claude Code, including official skills from Anthropic and Vercel Labs.
+- [Subtask](https://github.com/zippoxer/subtask) - Subtask gives Claude Code a Skill and CLI to create tasks, spawn subagents, track progress, review and request changes
 - [Solid Skills](https://github.com/ramziddin/solid-skills) - AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
-- [Maestro](https://github.com/its-maestro-baby/maestro) - A native macOS application that lets you run 1-12 Claude Code (or other AI CLI) sessions simultaneously, each in its own isolated git worktree.
+- [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.

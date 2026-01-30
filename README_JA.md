@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **472個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **473個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -23,6 +23,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [📊 データセット生成 & 合成データ](#データセット生成--合成データ)
 - [📚 学習リソース](#学習リソース)
 - [📦 フレームワーク & ライブラリ](#フレームワーク--ライブラリ)
+- [🧩 スキル](#スキル)
 
 ## AIコードエディタ & IDE
 
@@ -521,9 +522,6 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 
 AIコーディングアシスタントを構築・強化するためのフレームワーク、ライブラリ、設定。
 
-- [anthropics/skills](https://github.com/anthropics/skills) - 特定タスクのパフォーマンス向上のためにClaudeが動的に読み込む指示、スクリプト、リソースのフォルダ
-- [Agent Skills](https://github.com/agentskills/agentskills) - エージェントに新しい能力と専門知識を与えるためのシンプルでオープンなフォーマット
-- [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - Google Gemini CLIを強力な補助ツールとして効果的に使用できるようにするClaude Codeスキル
 - [AI-Setup](https://github.com/ctavolazzi/ai-setup) - AI支援開発環境のセットアップと作業管理向けツールキット
 - [AiDE](https://github.com/FixingPixels/AiDE) - AI支援でプロジェクト開発への構造化アプローチ
 - [AiderDesk](https://github.com/hotovo/aider-desk) - Aider AIアシスタント向けデスクトップアプリケーション
@@ -563,35 +561,44 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Code Guardrails](https://github.com/wangbooth/Claude-Code-Guardrails) - ブランチ保護、自動チェックポイント、安全なコミットスカッシュによって偶発的なコード損失を防ぐClaude Code向け保護フック
 - [Deliberate Agentic Development](https://github.com/Matt-Hulme/deliberate-agentic-development) - Claude Code、Cursor、Codexなどのコーディングエージェント向け構造化ワークフローシステム
 - [Pluqqy](https://github.com/pluqqy/pluqqy-terminal) - ターミナルからAIコーディングアシスタントのためのminimal viable contextを構築・管理
-- [Superpowers](https://github.com/obra/superpowers) - 実証済みのテクニック、パターン、ツールの包括的なスキルライブラリでClaude Codeにスーパーパワーを与える
 - [cmux](https://github.com/coder/cmux) - git worktree統合を備えたAI支援開発向けクロスプラットフォームデスクトップアプリケーション
-- [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Claude CodeでCodex CLI（codex execとセッション再開）を呼び出し、自動コード解析、リファクタリング、編集ワークフローを可能にする
-- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - K-Denseチームによって厳選された、Claudeのためのすぐに使える科学的スキルの包括的コレクション
-- [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - CursorやVS Codeなどのエディタにスキャフォールディングを追加し、新規プロジェクトを作成するスキル
 - [GroundZero Package Manager](https://github.com/groundzero-ai/gpm) - AIコーディング向けのパッケージマネージャー。ルール、スラッシュコマンド、エージェントなどを同期・再利用
 - [CC Marketplace for Claude Code](https://github.com/setouchi-h/cc-marketplace) - Claude Codeマーケットプレイスバンドル（cc-marketplace）を提供するリポジトリ
 - [Cursor Agentic Development Pipeline](https://github.com/ChrisThompsonTLDR/agentic-programming/tree/feature/epic-master) - 構想からデプロイまで、構造化されたパイプラインを通じて複数の専門エージェントを調整し、完全なエピックを提供する包括的なAI搭載ソフトウェア開発ワークフロー
 - [Flow Framework](https://github.com/khgs2411/flow) - ドメイン駆動設計とアジャイル哲学を組み合わせた反復的開発フレームワーク
 - [MCP Agent Mail](https://github.com/Dicklesworthstone/mcp_agent_mail) - コーディングエージェント向けのgmailのようなツール。様々なエージェント間の通信と調整を可能にする
-- [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - 段階的開示検証機能を備えたClaude Agent Skillsを作成するためのCLI。人間がスキルの作成を依頼した際にClaude Codeが使用するために構築
 - [CCS - Claude Code Switch](https://github.com/kaitranntt/ccs) - Claude Sonnet 4.5、GLM 4.6、Kimi for Codingを瞬時に切り替え。レート制限の回避とコストの最適化を実現
 - [Claude Code Settings and Commands for Vibe Coding](https://github.com/feiskyer/claude-code-settings) - 強化された開発ワークフロー向けに設計された、Claude Codeの設定、カスタムコマンド、サブエージェントの厳選されたコレクション
 - [🗿 MoAI-ADK](https://github.com/modu-ai/moai-adk) - SPEC-First開発、テスト駆動開発(TDD)、AIエージェントを組み合わせた、完全で透明性の高い開発ライフサイクルを実現するオープンソースフレームワーク
 - [Amplifier](https://github.com/microsoft/amplifier) - 専門知識をコード不要で再利用可能なAIツールに変換する、調整・加速された開発システム
 - [Claude Oracle](https://github.com/n1ira/claude-oracle) - Claude Codeの「リードアーキテクト」としてGoogleのGemini 3 Proを活用するCLI。AIコーディングアシスタントに戦略的決定用の独自AIアシスタントを持たせるようなもの
 - [grov](https://github.com/TonyStef/Grov) - Claude Codeセッションから推論をキャプチャし、将来のセッションに注入。AIが学習した内容を記憶
-- [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - 公式およびコミュニティ構築のclaude skillsを集めた大規模ローカルリポジトリ、カテゴリ別に整理
 - [Corsair](https://github.com/corsairdev/corsair) - 自然言語クエリとミューテーションでコーディングエージェントをより高速に構築できるよう装備
 - [Dev Workspace](https://github.com/dilberryhoundog/dev-workspace) - Claude Code向けの高度なコンテキスト管理システム
 - [OH MY OPENCODE](https://github.com/code-yeongyu/oh-my-opencode) - #1 OpenCodeプラグイン - すべて込み。非同期サブエージェント（Claude Codeのように）・適切なモデルによる厳選エージェント・LSP/ASTなどの作り込まれたツール・厳選MCP・Claude Code互換レイヤー搭載 — OpenCodeのためのステロイド。最高のLLMエージェント体験を提供
 - [Continuous Claude](https://github.com/parcadei/Continuous-Claude-v3) - Claude Codeを継続的に学習するシステムに変換し、セッション間のコンテキストを維持し、専門エージェントをオーケストレーションし、インテリジェントなコード解析によってトークンの無駄を排除
 - [Personal Claude Code Configuration](https://github.com/ZacheryGlass/.claude) - Claude Code（AnthropicのClaude AI支援用公式CLIツール）の個人設定コレクション
-- [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - AntigravityとClaude Codeの両方に対応した62の高性能スキルの厳選されたコレクション。AnthropicとVercel Labsの公式スキルを含む
 - [Awesome Slash Commands](https://github.com/avifenesh/awesome-slash) - 開発ワークフロー向けの強力でゼロ設定のスラッシュコマンドを提供するクロスプラットフォームプラグイン。Claude Code、Codex CLI、OpenCodeに対応
 - [Claude Code Status Line](https://github.com/shanraisshan/claude-code-status-line) - コンテキストウィンドウの使用量、gitステータス、モデル情報を表示するClaude Code用カスタムステータスラインスクリプト
 - [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - 無限ループやAPIの過剰使用を防ぐセーフガードを内蔵し、Claude Codeがプロジェクトを完了するまで反復的に改善する継続的な自律開発サイクルを実現
-- [Subtask](https://github.com/zippoxer/subtask) - Claude Codeにタスク作成、サブエージェントの生成、進捗追跡、レビューと変更リクエスト機能を追加するスキルとCLI
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Claude Code設定の完全コレクション - agents、skills、hooks、commands、rules、MCPs。Anthropicハッカソン優勝者による実戦検証済み設定
+- [Maestro](https://github.com/its-maestro-baby/maestro) - 1〜12のClaude Code（または他のAI CLI）セッションを同時に実行できるネイティブmacOSアプリケーション。各セッションは独立したgit worktreeで隔離
+
+## スキル
+
+AIコーディングエージェントに専門的な機能を付与するための再利用可能なスキルパッケージ、コレクション、ツール。
+
+- [anthropics/skills](https://github.com/anthropics/skills) - 特定タスクのパフォーマンス向上のためにClaudeが動的に読み込む指示、スクリプト、リソースのフォルダ
+- [Agent Skills](https://github.com/agentskills/agentskills) - エージェントに新しい能力と専門知識を与えるためのシンプルでオープンなフォーマット
+- [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - Google Gemini CLIを強力な補助ツールとして効果的に使用できるようにするClaude Codeスキル
+- [Superpowers](https://github.com/obra/superpowers) - 実証済みのテクニック、パターン、ツールの包括的なスキルライブラリでClaude Codeにスーパーパワーを与える
+- [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Claude CodeでCodex CLI（codex execとセッション再開）を呼び出し、自動コード解析、リファクタリング、編集ワークフローを可能にする
+- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - K-Denseチームによって厳選された、Claudeのためのすぐに使える科学的スキルの包括的コレクション
+- [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - CursorやVS Codeなどのエディタにスキャフォールディングを追加し、新規プロジェクトを作成するスキル
+- [claude-skills-cli](https://github.com/spences10/claude-skills-cli) - 段階的開示検証機能を備えたClaude Agent Skillsを作成するためのCLI。人間がスキルの作成を依頼した際にClaude Codeが使用するために構築
+- [Claude Skills](https://github.com/Microck/ordinary-claude-skills) - 公式およびコミュニティ構築のclaude skillsを集めた大規模ローカルリポジトリ、カテゴリ別に整理
+- [Antigravity Awesome Skills](https://github.com/sickn33/antigravity-awesome-skills) - AntigravityとClaude Codeの両方に対応した62の高性能スキルの厳選されたコレクション。AnthropicとVercel Labsの公式スキルを含む
+- [Subtask](https://github.com/zippoxer/subtask) - Claude Codeにタスク作成、サブエージェントの生成、進捗追跡、レビューと変更リクエスト機能を追加するスキルとCLI
 - [Solid Skills](https://github.com/ramziddin/solid-skills) - SOLID原則、TDD、クリーンアーキテクチャを通じてシニアエンジニア品質のコードを書くためのAIエージェントスキル
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 複数のプラットフォームとフレームワークにわたるプロフェッショナルなUI/UX構築のためのデザインインテリジェンスを提供するAIスキル
-- [Maestro](https://github.com/its-maestro-baby/maestro) - 1〜12のClaude Code（または他のAI CLI）セッションを同時に実行できるネイティブmacOSアプリケーション。各セッションは独立したgit worktreeで隔離
+- [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills) - Andrej KarpathyのLLMコーディングの落とし穴に関する知見を基にした、Claude Codeの振る舞いを改善する単一のCLAUDE.mdファイル
