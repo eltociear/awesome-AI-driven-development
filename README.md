@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **473 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **475 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -517,6 +517,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
 - [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Composer mode, .cursorrules examples, and Reddit community wisdom
 - [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - The complete guide to maximizing Claude Code: Global CLAUDE.md, MCP Servers, Commands, Hooks, Skills, and Why Single-Purpose Chats Matter.
+- [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - AI-mentored development for junior engineers. Claude becomes your mentor, not your coder — guiding with questions, reviewing via 6 Gates, but YOU write every line. Less dependency, more ownership.
 
 ## Frameworks & Libraries
 
@@ -602,3 +603,4 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [Solid Skills](https://github.com/ramziddin/solid-skills) - AI agent skill for writing senior-engineer quality code through SOLID principles, TDD, and clean architecture
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [Frontend-King-Mode](https://github.com/sendralt/Frontend-King-Mode) - A "God Mode" system instruction, skill, mode, rule, or simply the first prompt to begin a vibecoded app.

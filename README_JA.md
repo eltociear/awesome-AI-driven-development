@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **473個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **475個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -517,6 +517,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub CopilotをAIペアプログラミングリソースとして使用するために必要なすべてを教えるマルチモジュールコース
 - [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDEのtips、tricks、ベストプラクティス - キーボードショートカット、Composerモード、.cursorrules例、Redditコミュニティの知恵
 - [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - Claude Codeを最大限活用するための完全ガイド：グローバルCLAUDE.md、MCPサーバー、コマンド、フック、スキル、そして単一目的チャットが重要な理由
+- [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - ジュニアエンジニア向けAIメンター開発。Claudeはコーダーではなくメンターとして機能し、質問で導き、6つのゲートでレビューしつつ、すべてのコードはあなた自身が書く。依存を減らし、オーナーシップを高める
 
 ## フレームワーク & ライブラリ
 
@@ -602,3 +603,4 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [Solid Skills](https://github.com/ramziddin/solid-skills) - SOLID原則、TDD、クリーンアーキテクチャを通じてシニアエンジニア品質のコードを書くためのAIエージェントスキル
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 複数のプラットフォームとフレームワークにわたるプロフェッショナルなUI/UX構築のためのデザインインテリジェンスを提供するAIスキル
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills) - Andrej KarpathyのLLMコーディングの落とし穴に関する知見を基にした、Claude Codeの振る舞いを改善する単一のCLAUDE.mdファイル
+- [Frontend-King-Mode](https://github.com/sendralt/Frontend-King-Mode) - バイブコーディングアプリを始めるための「ゴッドモード」システム指示、スキル、モード、ルール、または最初のプロンプト
