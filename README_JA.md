@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **475個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **478個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -309,6 +309,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Kindly Web Search MCP Server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - AIコーディングツール（Claude Code、Codex、Cursor、GitHub Copilot、Gemini等）向けのWeb検索 + 堅牢なコンテンツ取得。Serper、Tavily、SearXNGをサポート
 - [mcp2skill](https://github.com/fenwei-dev/mcp2skill) - MCPサーバーをエージェントスキルに変換するCLIツール。MCPサーバーのメタデータからSKILL.mdとツールリファレンスを自動生成し、MCPサーバーとやり取りするCLIも提供
 - [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - スリムなツール定義と自動圧縮レスポンスで両端のコンテキスト効率を実現。7つのサンプルサーバー付属、コンテキスト消費を98%削減（48kトークンから1.1kへ）
+- [seu-claude](https://github.com/jardhel/seu-claude) - Claude Code向けローカルコードベースRAG MCPサーバー - ASTベースのチャンキングによるプロアクティブなセマンティックインデックス
 
 ## コードレビュー & コラボレーション
 
@@ -364,6 +365,8 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Smart Ralph](https://github.com/tzachbon/smart-ralph) - スマートコンパクション付きスペック駆動開発。Ralph Wiggumループと構造化仕様ワークフローを組み合わせたClaude Codeプラグイン
 - [GET SHIT DONE](https://github.com/glittercowboy/get-shit-done) - TÂCHESによるClaude Code向けの軽量かつ強力なメタプロンプティング、コンテキストエンジニアリング、スペック駆動開発システム
 - [GSD for Antigravity](https://github.com/toonight/get-shit-done-for-antigravity) - Google Antigravity向けに適応されたスペック駆動、コンテキストエンジニアリング開発手法
+- [Claude-Supermemory](https://github.com/supermemoryai/claude-supermemory) - Supermemoryを使用してAIにセッション間の永続メモリを提供するClaude Codeプラグイン。セッション間・プロジェクト間で作業内容を記憶
+- [RLM - Infinite Memory for Claude Code](https://github.com/EncrEor/rlm-claude) - Claude Codeのセッションは/compact後にすべてを忘れてしまう。RLMがそれを解決
 
 ## 言語モデル & エンジン
 

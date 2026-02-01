@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **475 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **478 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -309,6 +309,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Kindly Web Search MCP Server](https://github.com/Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server) - Web search + robust content retrieval for AI coding tools (Claude Code, Codex, Cursor, GitHub Copilot, Gemini, etc.). Supports Serper, Tavily, and SearXNG.
 - [mcp2skill](https://github.com/fenwei-dev/mcp2skill) - A CLI tool that converts Model Context Protocol (MCP) servers into agent skills. It automatically generates SKILL.md and tool references from MCP server metadata, and provides a CLI tool to interact with the MCP server.
 - [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - Slim tool definitions. Auto-compressed responses. Context efficiency on both end. Ships with 7 example servers, reduces context consumption by 98% (48k tokens down to 1.1k).
+- [seu-claude](https://github.com/jardhel/seu-claude) - Local Codebase RAG MCP Server for Claude Code - Proactive semantic indexing with AST-based chunking
 
 ## Code Review & Collaboration
 
@@ -364,6 +365,8 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Smart Ralph](https://github.com/tzachbon/smart-ralph) - Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
 - [GET SHIT DONE](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [GSD for Antigravity](https://github.com/toonight/get-shit-done-for-antigravity) - A spec-driven, context-engineered development methodology adapted for Google Antigravity.
+- [Claude-Supermemory](https://github.com/supermemoryai/claude-supermemory) - A Claude Code plugin that gives your AI persistent memory across sessions using Supermemory. Your agent remembers what you worked on - across sessions, across projects.
+- [RLM - Infinite Memory for Claude Code](https://github.com/EncrEor/rlm-claude) - Your Claude Code sessions forget everything after /compact. RLM fixes that.
 
 ## Language Models & Engines
 
