@@ -607,3 +607,4 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms and frameworks.
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Frontend-King-Mode](https://github.com/sendralt/Frontend-King-Mode) - A "God Mode" system instruction, skill, mode, rule, or simply the first prompt to begin a vibecoded app.
+- [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - Instantly publish AI-generated web apps to MyVibe.so. Auto-detects Static, Vite, Next.js, Astro, and Nuxt projects with smart build integration.
