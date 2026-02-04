@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **483個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **485個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -197,6 +197,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [1Code](https://github.com/21st-dev/1code) - コードエージェント（ClaudeCode、OpenCode、Codex）を並列実行するためのより良いUIアプリ
 - [aistack](https://github.com/blackms/aistack) - 敵対的検証、永続メモリ、リアルタイムWebダッシュボードを備えた本番環境対応エージェントオーケストレーション
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - 高品質ソフトウェアエンジニアリングのための本番環境対応マルチエージェントオーケストレーションエンジン
+- [Cline ACP](https://github.com/Tonksthebear/cline-acp) - Clineを利用したACP（Agent Client Protocol）互換コーディングエージェント
 
 ## コード生成 & 自動化
 
@@ -590,6 +591,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - 無限ループやAPIの過剰使用を防ぐセーフガードを内蔵し、Claude Codeがプロジェクトを完了するまで反復的に改善する継続的な自律開発サイクルを実現
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Claude Code設定の完全コレクション - agents、skills、hooks、commands、rules、MCPs。Anthropicハッカソン優勝者による実戦検証済み設定
 - [Maestro](https://github.com/its-maestro-baby/maestro) - 1〜12のClaude Code（または他のAI CLI）セッションを同時に実行できるネイティブmacOSアプリケーション。各セッションは独立したgit worktreeで隔離
+- [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) - コーディングエージェント向けの自己適応型コンテキスト刈り込みツール。関連するコード行を動的に選択する軽量ニューラルライブラリで、SWE-Bench Verifiedで23〜54%のトークン削減を実現
 
 ## スキル
 

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **483 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **485 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -197,6 +197,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [1Code](https://github.com/21st-dev/1code) - Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 - [aistack](https://github.com/blackms/aistack) - Production-grade agent orchestration with adversarial validation, persistent memory, and real-time web dashboard
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Production-Grade Multi-Agent Orchestration Engine for High-Integrity Software Engineering
+- [Cline ACP](https://github.com/Tonksthebear/cline-acp) - An ACP-compatible coding agent powered by Cline.
 
 ## Code Generation & Automation
 
@@ -590,6 +591,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Ralph for Claude Code](https://github.com/frankbria/ralph-claude-code) - It enables continuous autonomous development cycles where Claude Code iteratively improves your project until completion, with built-in safeguards to prevent infinite loops and API overuse.
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [Maestro](https://github.com/its-maestro-baby/maestro) - A native macOS application that lets you run 1-12 Claude Code (or other AI CLI) sessions simultaneously, each in its own isolated git worktree.
+- [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) - Self-Adaptive Context Pruning for Coding Agents. A lightweight neural library that dynamically selects relevant code lines, achieving 23-54% token reduction on SWE-Bench Verified.
 
 ## Skills
 
