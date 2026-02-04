@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **478個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **483個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -97,6 +97,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [$4PocketCode](https://github.com/rajbreno/4PocketCode) - わずか4ドルでスマートフォンからAIコーディングエージェント（OpenCode、Claude Code、Gemini CLI）を実行
 - [Codi](https://github.com/laynepenney/codi) - AIコーディングの相棒。Claude、OpenAI、ローカルモデルをサポートするハイブリッドアシスタント
 - [Termly CLI](https://github.com/termly-dev/termly-cli) - 任意のデバイスからAIコーディングアシスタントにアクセス。Claude Code、Aider、GitHub Copilot、その他のターミナルベースAIツールと連携
+- [Codex DMG -> Windows](https://github.com/aidanqm/Codex-Windows) - macOS版Codex DMGを抽出してWindows上でElectronアプリを実行するWindows専用ランナーを提供するリポジトリ
 
 ## IDE拡張機能
 
@@ -367,6 +368,8 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [GSD for Antigravity](https://github.com/toonight/get-shit-done-for-antigravity) - Google Antigravity向けに適応されたスペック駆動、コンテキストエンジニアリング開発手法
 - [Claude-Supermemory](https://github.com/supermemoryai/claude-supermemory) - Supermemoryを使用してAIにセッション間の永続メモリを提供するClaude Codeプラグイン。セッション間・プロジェクト間で作業内容を記憶
 - [RLM - Infinite Memory for Claude Code](https://github.com/EncrEor/rlm-claude) - Claude Codeのセッションは/compact後にすべてを忘れてしまう。RLMがそれを解決
+- [GoopSpec v0.1.2](https://github.com/hffmnnj/opencode-goopspec) - チームを構造化された5段階のワークフロー（議論→計画→実行→監査→確認）に導くOpenCodeのスペック駆動開発プラグイン。デリゲーション、チェックポイント、検証機能を内蔵
+- [Nemp Memory](https://github.com/SukinShetty/Nemp-memory) - Claude Code向け100%ローカルメモリ • プライバシー第一 • ゼロセットアップ
 
 ## 言語モデル & エンジン
 
@@ -607,3 +610,5 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - 複数のプラットフォームとフレームワークにわたるプロフェッショナルなUI/UX構築のためのデザインインテリジェンスを提供するAIスキル
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills) - Andrej KarpathyのLLMコーディングの落とし穴に関する知見を基にした、Claude Codeの振る舞いを改善する単一のCLAUDE.mdファイル
 - [Frontend-King-Mode](https://github.com/sendralt/Frontend-King-Mode) - バイブコーディングアプリを始めるための「ゴッドモード」システム指示、スキル、モード、ルール、または最初のプロンプト
+- [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - AI生成Webアプリを即座にMyVibe.soに公開。Static、Vite、Next.js、Astro、Nuxtプロジェクトを自動検出し、スマートビルド統合を実現
+- [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - コーディングエージェントのプラン、コード、PRをマルチモデルコンセンサスでレビューするエージェントスキル

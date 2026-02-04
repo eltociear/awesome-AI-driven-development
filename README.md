@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **478 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **483 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -97,6 +97,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [$4PocketCode](https://github.com/rajbreno/4PocketCode) - Run AI coding agents (OpenCode, Claude Code, Gemini CLI) in just $4 entirely from your phone.
 - [Codi](https://github.com/laynepenney/codi) - Your AI coding wingman - a hybrid assistant supporting Claude, OpenAI, and local models
 - [Termly CLI](https://github.com/termly-dev/termly-cli) - Access your AI coding assistants from any device. Works with Claude Code, Aider, GitHub Copilot, and any terminal-based AI tool.
+- [Codex DMG -> Windows](https://github.com/aidanqm/Codex-Windows) - This repository provides a Windows-only runner that extracts the macOS Codex DMG and runs the Electron app on Windows.
 
 ## IDE Extensions
 
@@ -367,6 +368,8 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [GSD for Antigravity](https://github.com/toonight/get-shit-done-for-antigravity) - A spec-driven, context-engineered development methodology adapted for Google Antigravity.
 - [Claude-Supermemory](https://github.com/supermemoryai/claude-supermemory) - A Claude Code plugin that gives your AI persistent memory across sessions using Supermemory. Your agent remembers what you worked on - across sessions, across projects.
 - [RLM - Infinite Memory for Claude Code](https://github.com/EncrEor/rlm-claude) - Your Claude Code sessions forget everything after /compact. RLM fixes that.
+- [GoopSpec v0.1.2](https://github.com/hffmnnj/opencode-goopspec) - A spec-driven development plugin for OpenCode that guides teams through a structured 5‑phase workflow (Discuss → Plan → Execute → Audit → Confirm), with built‑in delegation, checkpoints, and verification.
+- [Nemp Memory](https://github.com/SukinShetty/Nemp-memory) - 100% Local Memory for Claude Code • Privacy-First • Zero Setup
 
 ## Language Models & Engines
 
@@ -608,3 +611,4 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [Frontend-King-Mode](https://github.com/sendralt/Frontend-King-Mode) - A "God Mode" system instruction, skill, mode, rule, or simply the first prompt to begin a vibecoded app.
 - [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - Instantly publish AI-generated web apps to MyVibe.so. Auto-detects Static, Vite, Next.js, Astro, and Nuxt projects with smart build integration.
+- [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - Agent skill that uses multi-model consensus to review plans, code, and PRs for coding agents
