@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **485 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **489 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -312,6 +312,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [mcp2skill](https://github.com/fenwei-dev/mcp2skill) - A CLI tool that converts Model Context Protocol (MCP) servers into agent skills. It automatically generates SKILL.md and tool references from MCP server metadata, and provides a CLI tool to interact with the MCP server.
 - [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - Slim tool definitions. Auto-compressed responses. Context efficiency on both end. Ships with 7 example servers, reduces context consumption by 98% (48k tokens down to 1.1k).
 - [seu-claude](https://github.com/jardhel/seu-claude) - Local Codebase RAG MCP Server for Claude Code - Proactive semantic indexing with AST-based chunking
+- [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - MCP server that implements Claude Code's agent teams protocol.
 
 ## Code Review & Collaboration
 
@@ -430,6 +431,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - The World's First L5 Autonomous Code Engineer. Self-healing code, on-premise governance, and cryptographic compliance for the enterprise.
 - [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - An agentic task runner that helps your computer do things while you're sleeping! It uses the Ralph Wiggum way of doing things: "simple, happy, and do one thing at a time."
 - [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - High-discipline agentic workflow for AI-assisted development. Analyze, Run, Confirm (ARC) project execution with persistent context.
+- [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - Fully autonomous AI development agent with stateful memory, live web access, pseudo self-improvement and more!
 
 ## Code Analysis & Search
 
@@ -592,6 +594,8 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [Maestro](https://github.com/its-maestro-baby/maestro) - A native macOS application that lets you run 1-12 Claude Code (or other AI CLI) sessions simultaneously, each in its own isolated git worktree.
 - [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) - Self-Adaptive Context Pruning for Coding Agents. A lightweight neural library that dynamically selects relevant code lines, achieving 23-54% token reduction on SWE-Bench Verified.
+- [CCBot](https://github.com/six-ddc/ccbot) - Control Claude Code sessions remotely via Telegram — monitor, interact, and manage AI coding sessions running in tmux.
+- [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - An opinionated project initialization system for Claude Code. Agent teams by default, strict TDD pipeline, multi-engine code review, security-first.
 
 ## Skills
 

@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **485個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **489個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -312,6 +312,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [mcp2skill](https://github.com/fenwei-dev/mcp2skill) - MCPサーバーをエージェントスキルに変換するCLIツール。MCPサーバーのメタデータからSKILL.mdとツールリファレンスを自動生成し、MCPサーバーとやり取りするCLIも提供
 - [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - スリムなツール定義と自動圧縮レスポンスで両端のコンテキスト効率を実現。7つのサンプルサーバー付属、コンテキスト消費を98%削減（48kトークンから1.1kへ）
 - [seu-claude](https://github.com/jardhel/seu-claude) - Claude Code向けローカルコードベースRAG MCPサーバー - ASTベースのチャンキングによるプロアクティブなセマンティックインデックス
+- [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - Claude Codeのエージェントチームプロトコルを実装するMCPサーバー
 
 ## コードレビュー & コラボレーション
 
@@ -430,6 +431,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - 世界初のL5自律コードエンジニア。自己修復コード、オンプレミスガバナンス、エンタープライズ向け暗号化コンプライアンス
 - [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - あなたが寝ている間にコンピュータに作業をさせるエージェントタスクランナー！「シンプルに、楽しく、一度に一つのことをする」というRalph Wiggum方式を採用
 - [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - AI支援開発向け高規律エージェントワークフロー。永続コンテキストによるAnalyze、Run、Confirm（ARC）プロジェクト実行
+- [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - ステートフルメモリ、ライブWebアクセス、疑似自己改善などを備えた完全自律AI開発エージェント
 
 ## コード解析 & 検索
 
@@ -592,6 +594,8 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Everything Claude Code](https://github.com/affaan-m/everything-claude-code) - Claude Code設定の完全コレクション - agents、skills、hooks、commands、rules、MCPs。Anthropicハッカソン優勝者による実戦検証済み設定
 - [Maestro](https://github.com/its-maestro-baby/maestro) - 1〜12のClaude Code（または他のAI CLI）セッションを同時に実行できるネイティブmacOSアプリケーション。各セッションは独立したgit worktreeで隔離
 - [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) - コーディングエージェント向けの自己適応型コンテキスト刈り込みツール。関連するコード行を動的に選択する軽量ニューラルライブラリで、SWE-Bench Verifiedで23〜54%のトークン削減を実現
+- [CCBot](https://github.com/six-ddc/ccbot) - Telegramを通じてClaude Codeセッションをリモート制御 — tmuxで実行中のAIコーディングセッションを監視、操作、管理
+- [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - Claude Code向けの確実なプロジェクト初期化システム。デフォルトでエージェントチーム、厳密なTDDパイプライン、マルチエンジンコードレビュー、セキュリティファースト
 
 ## スキル
 
