@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **489 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **491 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -596,6 +596,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) - Self-Adaptive Context Pruning for Coding Agents. A lightweight neural library that dynamically selects relevant code lines, achieving 23-54% token reduction on SWE-Bench Verified.
 - [CCBot](https://github.com/six-ddc/ccbot) - Control Claude Code sessions remotely via Telegram — monitor, interact, and manage AI coding sessions running in tmux.
 - [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - An opinionated project initialization system for Claude Code. Agent teams by default, strict TDD pipeline, multi-engine code review, security-first.
+- [Indie Kit - The AI-Native Next.js Starter Kit](https://github.com/Indie-Kit/nextjs-saas-starter) - This is the Open Source / Lite Version of Indie Kit Pro. It combines a production-grade tech stack with "AI Context Rules" that empower LLMs (Cursor, Windsurf, Copilot) to understand your codebase, write bug-free code, and navigate your project autonomously.
 
 ## Skills
 
@@ -618,3 +619,4 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [Frontend-King-Mode](https://github.com/sendralt/Frontend-King-Mode) - A "God Mode" system instruction, skill, mode, rule, or simply the first prompt to begin a vibecoded app.
 - [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - Instantly publish AI-generated web apps to MyVibe.so. Auto-detects Static, Vite, Next.js, Astro, and Nuxt projects with smart build integration.
 - [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - Agent skill that uses multi-model consensus to review plans, code, and PRs for coding agents
+- [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - A Claude Code skill that sets up a two-tier codebase structure index for any project.

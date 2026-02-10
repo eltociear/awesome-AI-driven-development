@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **489個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **491個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -596,6 +596,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) - コーディングエージェント向けの自己適応型コンテキスト刈り込みツール。関連するコード行を動的に選択する軽量ニューラルライブラリで、SWE-Bench Verifiedで23〜54%のトークン削減を実現
 - [CCBot](https://github.com/six-ddc/ccbot) - Telegramを通じてClaude Codeセッションをリモート制御 — tmuxで実行中のAIコーディングセッションを監視、操作、管理
 - [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - Claude Code向けの確実なプロジェクト初期化システム。デフォルトでエージェントチーム、厳密なTDDパイプライン、マルチエンジンコードレビュー、セキュリティファースト
+- [Indie Kit - The AI-Native Next.js Starter Kit](https://github.com/Indie-Kit/nextjs-saas-starter) - Indie Kit Proのオープンソース/ライト版。本番グレードの技術スタックと「AI Context Rules」を組み合わせ、LLM（Cursor、Windsurf、Copilot）がコードベースを理解し、バグなくコードを記述し、プロジェクトを自律的に操作できるようにする
 
 ## スキル
 
@@ -618,3 +619,4 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [Frontend-King-Mode](https://github.com/sendralt/Frontend-King-Mode) - バイブコーディングアプリを始めるための「ゴッドモード」システム指示、スキル、モード、ルール、または最初のプロンプト
 - [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - AI生成Webアプリを即座にMyVibe.soに公開。Static、Vite、Next.js、Astro、Nuxtプロジェクトを自動検出し、スマートビルド統合を実現
 - [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - コーディングエージェントのプラン、コード、PRをマルチモデルコンセンサスでレビューするエージェントスキル
+- [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - 任意のプロジェクト用に2段階のコードベース構造インデックスをセットアップするClaude Codeスキル
