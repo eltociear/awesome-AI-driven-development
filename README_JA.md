@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **491個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **493個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -198,6 +198,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [aistack](https://github.com/blackms/aistack) - 敵対的検証、永続メモリ、リアルタイムWebダッシュボードを備えた本番環境対応エージェントオーケストレーション
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - 高品質ソフトウェアエンジニアリングのための本番環境対応マルチエージェントオーケストレーションエンジン
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - Clineを利用したACP（Agent Client Protocol）互換コーディングエージェント
+- [Taskade](https://github.com/taskade/mcp) - 自然言語を使用してカスタムAIエージェント、ワークフロー、アプリを構築するAI駆動開発プラットフォーム。マルチモデルAI（GPT、Claude、Gemini）、22以上の組み込みツール、MCPサーバーサポート
 
 ## コード生成 & 自動化
 
@@ -224,6 +225,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Compose-Lang](https://github.com/darula-hpp/compose-lang) - アーキテクチャ仕様用のLLM支援コンパイラ。構造化された.composeファイルでアプリケーションを定義し、キャッシュによる再現可能なビルドでLLM駆動のコード生成を通じてフレームワーク固有のコードを生成
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
+- [Shadow Code](https://github.com/adifyr/shadow-code) - 人間が書いた擬似コードをターゲット言語のクリーンで正確な本番対応コードに変換するAIコーディング技術（少なくとも、それがシステムプロンプトでAIに指示した内容）
 
 ## テスト & セキュリティ
 
