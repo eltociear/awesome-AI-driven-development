@@ -198,6 +198,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [aistack](https://github.com/blackms/aistack) - Production-grade agent orchestration with adversarial validation, persistent memory, and real-time web dashboard
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Production-Grade Multi-Agent Orchestration Engine for High-Integrity Software Engineering
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - An ACP-compatible coding agent powered by Cline.
+- [Taskade](https://github.com/taskade/mcp) - AI-driven development platform for building custom AI agents, workflows, and apps using natural language. Multi-model AI (GPT, Claude, Gemini), 22+ built-in tools, and MCP server support.
 
 ## Code Generation & Automation
 
