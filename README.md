@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **493 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **497 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -315,6 +315,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - Slim tool definitions. Auto-compressed responses. Context efficiency on both end. Ships with 7 example servers, reduces context consumption by 98% (48k tokens down to 1.1k).
 - [seu-claude](https://github.com/jardhel/seu-claude) - Local Codebase RAG MCP Server for Claude Code - Proactive semantic indexing with AST-based chunking
 - [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - MCP server that implements Claude Code's agent teams protocol.
+- [Pare](https://github.com/Dave-London/Pare) - MCP servers that wrap common developer tools (git, npm, docker, test runners, etc.) and return clean, schema-validated JSON instead of raw terminal text — letting AI coding agents consume tool output more efficiently and reliably.
 
 ## Code Review & Collaboration
 
@@ -374,6 +375,8 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [RLM - Infinite Memory for Claude Code](https://github.com/EncrEor/rlm-claude) - Your Claude Code sessions forget everything after /compact. RLM fixes that.
 - [GoopSpec v0.1.2](https://github.com/hffmnnj/opencode-goopspec) - A spec-driven development plugin for OpenCode that guides teams through a structured 5‑phase workflow (Discuss → Plan → Execute → Audit → Confirm), with built‑in delegation, checkpoints, and verification.
 - [Nemp Memory](https://github.com/SukinShetty/Nemp-memory) - 100% Local Memory for Claude Code • Privacy-First • Zero Setup
+- [🏗️ Vibe Architect](https://github.com/mohdhd/vibe-architect) - AI-powered project spec generator — go from idea to implementation-ready spec in minutes. Multi-model support (GPT-5.2, Gemini 3, Claude), live design previews, voice input, and export to markdown.
+- [MemoryAgent](https://github.com/IIIIQIIII/MemoryAgent) - Letting Coding Agents manage their own memory without databases.
 
 ## Language Models & Engines
 
@@ -600,6 +603,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [CCBot](https://github.com/six-ddc/ccbot) - Control Claude Code sessions remotely via Telegram — monitor, interact, and manage AI coding sessions running in tmux.
 - [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - An opinionated project initialization system for Claude Code. Agent teams by default, strict TDD pipeline, multi-engine code review, security-first.
 - [Indie Kit - The AI-Native Next.js Starter Kit](https://github.com/Indie-Kit/nextjs-saas-starter) - This is the Open Source / Lite Version of Indie Kit Pro. It combines a production-grade tech stack with "AI Context Rules" that empower LLMs (Cursor, Windsurf, Copilot) to understand your codebase, write bug-free code, and navigate your project autonomously.
+- [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 
 ## Skills
 

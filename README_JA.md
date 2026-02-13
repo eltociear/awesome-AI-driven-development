@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **493個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **497個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -315,6 +315,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Tool Executor](https://github.com/elb-pr/claudikins-tool-executor) - スリムなツール定義と自動圧縮レスポンスで両端のコンテキスト効率を実現。7つのサンプルサーバー付属、コンテキスト消費を98%削減（48kトークンから1.1kへ）
 - [seu-claude](https://github.com/jardhel/seu-claude) - Claude Code向けローカルコードベースRAG MCPサーバー - ASTベースのチャンキングによるプロアクティブなセマンティックインデックス
 - [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - Claude Codeのエージェントチームプロトコルを実装するMCPサーバー
+- [Pare](https://github.com/Dave-London/Pare) - 一般的な開発ツール（git、npm、docker、テストランナーなど）をラップし、生のターミナルテキストではなくクリーンでスキーマ検証済みのJSONを返すMCPサーバー。AIコーディングエージェントがツール出力をより効率的かつ確実に消費可能に
 
 ## コードレビュー & コラボレーション
 
@@ -374,6 +375,8 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [RLM - Infinite Memory for Claude Code](https://github.com/EncrEor/rlm-claude) - Claude Codeのセッションは/compact後にすべてを忘れてしまう。RLMがそれを解決
 - [GoopSpec v0.1.2](https://github.com/hffmnnj/opencode-goopspec) - チームを構造化された5段階のワークフロー（議論→計画→実行→監査→確認）に導くOpenCodeのスペック駆動開発プラグイン。デリゲーション、チェックポイント、検証機能を内蔵
 - [Nemp Memory](https://github.com/SukinShetty/Nemp-memory) - Claude Code向け100%ローカルメモリ • プライバシー第一 • ゼロセットアップ
+- [🏗️ Vibe Architect](https://github.com/mohdhd/vibe-architect) - AI搭載プロジェクト仕様生成ツール。アイデアから実装可能な仕様を数分で作成。マルチモデル対応（GPT-5.2、Gemini 3、Claude）、ライブデザインプレビュー、音声入力、Markdownエクスポート
+- [MemoryAgent](https://github.com/IIIIQIIII/MemoryAgent) - データベースなしでコーディングエージェントが自身のメモリを管理できるようにするツール
 
 ## 言語モデル & エンジン
 
@@ -599,6 +602,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [CCBot](https://github.com/six-ddc/ccbot) - Telegramを通じてClaude Codeセッションをリモート制御 — tmuxで実行中のAIコーディングセッションを監視、操作、管理
 - [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - Claude Code向けの確実なプロジェクト初期化システム。デフォルトでエージェントチーム、厳密なTDDパイプライン、マルチエンジンコードレビュー、セキュリティファースト
 - [Indie Kit - The AI-Native Next.js Starter Kit](https://github.com/Indie-Kit/nextjs-saas-starter) - Indie Kit Proのオープンソース/ライト版。本番グレードの技術スタックと「AI Context Rules」を組み合わせ、LLM（Cursor、Windsurf、Copilot）がコードベースを理解し、バグなくコードを記述し、プロジェクトを自律的に操作できるようにする
+- [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - 一般的な開発コマンドでのLLMトークン消費を60〜90%削減するCLIプロキシ。単一のRustバイナリで依存関係ゼロ
 
 ## スキル
 
