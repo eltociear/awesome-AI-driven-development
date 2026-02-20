@@ -365,6 +365,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [MetaSpec](https://github.com/ACNet-AI/MetaSpec) - Meta-specification framework for AI Agents to generate Spec-driven X toolkits automatically.
 - [Clavix](https://github.com/ClavixDev/Clavix) - Transform vague ideas into production-ready prompts. Analyze gaps, generate PRDs, and supercharge your AI coding workflow with the CLEAR framework.
 - [Claude Code Plan Export](https://github.com/kenryu42/claude-code-plan-export) - Auto-save your Claude Code plans to the project root when you finish planning.
+- [Mantra](https://mantra.gonewx.com) - Time-travel debugger for AI coding sessions. Branch, snapshot, and restore your Claude Code, Cursor, Windsurf, and Copilot sessions as navigable timelines.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents with an AI-powered kanban board.
 - [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - A Claude Code skill that transforms your workflow to use persistent markdown files for planning, progress tracking, and knowledge storage — the exact pattern that made Manus worth billions.
 - [AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - Episodic memory for AI coding agents. The ghost of code written, persisting across sessions.
