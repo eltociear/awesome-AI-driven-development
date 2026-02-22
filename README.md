@@ -183,6 +183,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [LLM Agent X](https://github.com/cvaz1306/llm_agent_x) - A task execution framework that leverages language models to perform complex tasks by splitting them into subtasks and using tools like web search
 - [ManusMCP](https://github.com/mantrakp04/manusmcp) - An AI agent framework using Flowise to deploy AI team members with specialized capabilities
 - [Giselle](https://github.com/giselles-ai/giselle) - Giselle is an agentic workflow builder that empowers you to create AI-driven solutions with ease
+- [hcom](https://github.com/aannoo/hcom) - Let AI agents message, watch, and spawn each other across terminals. Claude Code, Gemini CLI, Codex, OpenCode.
 - [development-workforce](https://github.com/Grusinator/development-workforce) - Experimentation on how to integrate ai agents into existing software development setup
 - [agentok](https://github.com/hughlv/agentok) - Visual Tools for Multi-Agent Development
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - a generalist multi-agent system designed to tackle a wide spectrum of software engineering (SE) tasks across various programming languages.

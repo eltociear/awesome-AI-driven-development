@@ -183,6 +183,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Floki](https://github.com/FinnaAI/floki) - 複数のAIコーディングエージェントを並行して使用する新しいパラダイムを創造し、AI搭載アシスタンスでより良いソフトウェアをより速く構築
 - [Omnara](https://github.com/omnara-ai/omnara) - エージェントが何をしているかをリアルタイムで可視化し、Webとモバイルの単一ダッシュボードから質問に即座に応答
 - [Giselle](https://github.com/giselles-ai/giselle) - AI駆動ソリューションを簡単に作成できるエージェント型ワークフロービルダー
+- [hcom](https://github.com/aannoo/hcom) - AIエージェントがターミナル間でメッセージ、監視、生成し合えるようにする。Claude Code、Gemini CLI、Codex、OpenCode対応。
 - [development-workforce](https://github.com/Grusinator/development-workforce) - AIエージェントを既存のソフトウェア開発セットアップに統合する実験
 - [agentok](https://github.com/hughlv/agentok) - マルチエージェント開発向けビジュアルツール
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - 様々なプログラミング言語で幅広いソフトウェアエンジニアリング（SE）タスクに対応する汎用マルチエージェントシステム
