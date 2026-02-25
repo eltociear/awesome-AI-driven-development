@@ -372,6 +372,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Mantra](https://mantra.gonewx.com) - AIコーディングセッション向けタイムトラベルデバッガー。Claude Code、Cursor、Windsurf、Copilotのセッションをナビゲート可能なタイムラインとしてブランチ、スナップショット、復元
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - AI搭載カンバンボードでClaude Code、Gemini CLI、Codex、Ampなどのコーディングエージェントから10倍の成果を引き出す
 - [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - プランニング、進捗追跡、ナレッジストレージ用の永続的なmarkdownファイルを使用するようワークフローを変革するClaude Codeスキル — Manusを数十億ドル企業にした手法
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) - Claude Codeのセッションを閲覧し、差分を調査し、コマンドを再実行するためのmacOSアプリ。
 - [AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - AIコーディングエージェント向けのエピソディックメモリ。書かれたコードの残像がセッション間で持続
 - [Smart Ralph](https://github.com/tzachbon/smart-ralph) - スマートコンパクション付きスペック駆動開発。Ralph Wiggumループと構造化仕様ワークフローを組み合わせたClaude Codeプラグイン
 - [GET SHIT DONE](https://github.com/glittercowboy/get-shit-done) - TÂCHESによるClaude Code向けの軽量かつ強力なメタプロンプティング、コンテキストエンジニアリング、スペック駆動開発システム

@@ -372,6 +372,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Mantra](https://mantra.gonewx.com) - Time-travel debugger for AI coding sessions. Branch, snapshot, and restore your Claude Code, Cursor, Windsurf, and Copilot sessions as navigable timelines.
 - [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Gemini CLI, Codex, Amp and other coding agents with an AI-powered kanban board.
 - [Planning with Files](https://github.com/OthmanAdi/planning-with-files) - A Claude Code skill that transforms your workflow to use persistent markdown files for planning, progress tracking, and knowledge storage — the exact pattern that made Manus worth billions.
+- [Poirot](https://github.com/LeonardoCardoso/Poirot) - A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline.
 - [AI-AfterImage](https://github.com/DragonShadows1978/AI-AfterImage) - Episodic memory for AI coding agents. The ghost of code written, persisting across sessions.
 - [Smart Ralph](https://github.com/tzachbon/smart-ralph) - Spec-driven development with smart compaction. Claude Code plugin combining Ralph Wiggum loop with structured specification workflow.
 - [GET SHIT DONE](https://github.com/glittercowboy/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
