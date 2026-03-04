@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **505 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **508 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -203,6 +203,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Production-Grade Multi-Agent Orchestration Engine for High-Integrity Software Engineering
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - An ACP-compatible coding agent powered by Cline.
 - [Taskade](https://github.com/taskade/mcp) - AI-driven development platform for building custom AI agents, workflows, and apps using natural language. Multi-model AI (GPT, Claude, Gemini), 22+ built-in tools, and MCP server support.
+- [Switchboard](https://github.com/TentacleOpera/switchboard) - The subscription-based alternative to API frameworks like OpenCode. Coordinate all your AI subscriptions, local LLMs, and CLI agents into a single team without a single API key.
 
 ## Code Generation & Automation
 
@@ -321,6 +322,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [seu-claude](https://github.com/jardhel/seu-claude) - Local Codebase RAG MCP Server for Claude Code - Proactive semantic indexing with AST-based chunking
 - [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - MCP server that implements Claude Code's agent teams protocol.
 - [Pare](https://github.com/Dave-London/Pare) - MCP servers that wrap common developer tools (git, npm, docker, test runners, etc.) and return clean, schema-validated JSON instead of raw terminal text — letting AI coding agents consume tool output more efficiently and reliably.
+- [CogniLayer v4](https://github.com/LakyFx/CogniLayer) - Infinite speed memory + code graph for Claude Code & Codex CLI. 17 MCP tools, subagent protocol, hybrid search, TUI dashboard, crash recovery. Save 80-200K+ tokens/session.
 
 ## Code Review & Collaboration
 
@@ -636,4 +638,3 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - A Claude Code skill that sets up a two-tier codebase structure index for any project.
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management agent skills with templates and workflow bundles, following the agentskills.io specification.
 - [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code with brainstorm mode | Claude Code, Codex, Gemini, Cline, GitHub Copilot |
-

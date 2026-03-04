@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **505個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **508個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -203,6 +203,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - 高品質ソフトウェアエンジニアリングのための本番環境対応マルチエージェントオーケストレーションエンジン
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - Clineを利用したACP（Agent Client Protocol）互換コーディングエージェント
 - [Taskade](https://github.com/taskade/mcp) - 自然言語を使用してカスタムAIエージェント、ワークフロー、アプリを構築するAI駆動開発プラットフォーム。マルチモデルAI（GPT、Claude、Gemini）、22以上の組み込みツール、MCPサーバーサポート
+- [Switchboard](https://github.com/TentacleOpera/switchboard) - OpenCodeなどのAPIフレームワークに代わるサブスクリプションベースの選択肢。AIサブスクリプション、ローカルLLM、CLIエージェントをAPIキー不要で単一チームに統合
 
 ## コード生成 & 自動化
 
@@ -321,6 +322,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [seu-claude](https://github.com/jardhel/seu-claude) - Claude Code向けローカルコードベースRAG MCPサーバー - ASTベースのチャンキングによるプロアクティブなセマンティックインデックス
 - [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - Claude Codeのエージェントチームプロトコルを実装するMCPサーバー
 - [Pare](https://github.com/Dave-London/Pare) - 一般的な開発ツール（git、npm、docker、テストランナーなど）をラップし、生のターミナルテキストではなくクリーンでスキーマ検証済みのJSONを返すMCPサーバー。AIコーディングエージェントがツール出力をより効率的かつ確実に消費可能に
+- [CogniLayer v4](https://github.com/LakyFx/CogniLayer) - Claude CodeとCodex CLI向けの超高速メモリ＋コードグラフ。17のMCPツール、サブエージェントプロトコル、ハイブリッド検索、TUIダッシュボード、クラッシュリカバリ。セッションあたり80〜200K以上のトークンを節約
 
 ## コードレビュー & コラボレーション
 
