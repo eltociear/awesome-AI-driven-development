@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **504個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **505個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -47,6 +47,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Kiro](https://github.com/kirodotdev/Kiro) - プロトタイプから本番環境まで、仕様駆動開発、エージェントフック、自然言語コーディング支援により移行をサポートするエージェンティックIDE
 - [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - AIエージェント時代のターミナル中心IDE
 - [SquirlIDE](https://github.com/krishnak19a-del/SquirlIDE) - Tauri（Rust）をバックエンド、ReactJSをフロントエンドに使用した軽量クロスプラットフォームコードエディタ。コードアシスタンスとテキスト生成のためのGemini API経由のLLM統合を搭載
+- [Frontman](https://github.com/frontman-ai/frontman) - ブラウザ上で動作するオープンソースAIコーディングエージェント。ミドルウェアとして開発サーバーに接続し、ライブDOM、コンポーネントツリー、CSS、ルート、サーバーログを認識。任意の要素をクリックして変更を自然言語で記述すると、ホットリロード付きでソースコードを編集
 
 ## ターミナル & CLIエージェント
 
