@@ -470,6 +470,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [AI Context Generator](https://github.com/temrb/generate-project-context) - A small, opinionated CLI tool that packages project source files into a single context file suitable for use with Large Language Models (LLMs)
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - A GitHub Action that automatically analyzes your codebase and generates focused AI agent context documentation recommendations (CLAUDE.md, AGENTS.md, or similar) for AI coding assistants
 - [ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - a self-hosted tool that helps you understand your codebase.
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens.
 - [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
