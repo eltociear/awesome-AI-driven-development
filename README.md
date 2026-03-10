@@ -163,6 +163,7 @@ Plugins and extensions for popular IDEs and text editors.
 
 Frameworks and tools for orchestrating and managing multiple AI agents in development workflows.
 
+- [Stoneforge](https://github.com/stoneforge-ai/stoneforge) - Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery
 - [Factory](https://github.com/Factory-AI/factory) - The agent-native development platform. Works across CLI, Web, Slack/Teams, Linear/Jira and Mobile.
 - [autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
 - [crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents
