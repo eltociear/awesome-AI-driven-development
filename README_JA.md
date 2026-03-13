@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **508個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **511個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -204,6 +204,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - Clineを利用したACP（Agent Client Protocol）互換コーディングエージェント
 - [Taskade](https://github.com/taskade/mcp) - 自然言語を使用してカスタムAIエージェント、ワークフロー、アプリを構築するAI駆動開発プラットフォーム。マルチモデルAI（GPT、Claude、Gemini）、22以上の組み込みツール、MCPサーバーサポート
 - [Switchboard](https://github.com/TentacleOpera/switchboard) - OpenCodeなどのAPIフレームワークに代わるサブスクリプションベースの選択肢。AIサブスクリプション、ローカルLLM、CLIエージェントをAPIキー不要で単一チームに統合
+- [Slate V1](https://randomlabs.ai/) - スウォーム向けに構築された汎用ソフトウェアエージェント
 
 ## コード生成 & 自動化
 
@@ -231,6 +232,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
 - [Shadow Code](https://github.com/adifyr/shadow-code) - 人間が書いた擬似コードをターゲット言語のクリーンで正確な本番対応コードに変換するAIコーディング技術（少なくとも、それがシステムプロンプトでAIに指示した内容）
+- [InsForge](https://github.com/InsForge/InsForge) - AIコーディングエージェントとAIコードエディタ向けに構築されたバックエンド開発プラットフォーム
 
 ## テスト & セキュリティ
 
@@ -323,6 +325,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - Claude Codeのエージェントチームプロトコルを実装するMCPサーバー
 - [Pare](https://github.com/Dave-London/Pare) - 一般的な開発ツール（git、npm、docker、テストランナーなど）をラップし、生のターミナルテキストではなくクリーンでスキーマ検証済みのJSONを返すMCPサーバー。AIコーディングエージェントがツール出力をより効率的かつ確実に消費可能に
 - [CogniLayer v4](https://github.com/LakyFx/CogniLayer) - Claude CodeとCodex CLI向けの超高速メモリ＋コードグラフ。17のMCPツール、サブエージェントプロトコル、ハイブリッド検索、TUIダッシュボード、クラッシュリカバリ。セッションあたり80〜200K以上のトークンを節約
+- [SymDex](https://github.com/husnainpk/SymDex) - AIエージェント向けコードインデクサーMCPサーバー — ルックアップあたり97%のトークン削減。13言語対応、セマンティック検索、コールグラフ、クロスリポジトリ検索をサポート
 
 ## コードレビュー & コラボレーション
 

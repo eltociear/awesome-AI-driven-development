@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **508 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **513 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -205,6 +205,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - An ACP-compatible coding agent powered by Cline.
 - [Taskade](https://github.com/taskade/mcp) - AI-driven development platform for building custom AI agents, workflows, and apps using natural language. Multi-model AI (GPT, Claude, Gemini), 22+ built-in tools, and MCP server support.
 - [Switchboard](https://github.com/TentacleOpera/switchboard) - The subscription-based alternative to API frameworks like OpenCode. Coordinate all your AI subscriptions, local LLMs, and CLI agents into a single team without a single API key.
+- [Slate V1](https://randomlabs.ai/) - A generalist software agent built for swarms.
 
 ## Code Generation & Automation
 
@@ -232,6 +233,7 @@ Tools for generating code, automating development tasks, and creating project te
 - [AI Website Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - This AI-powered website builder transforms natural language prompts into fully functional React components using Next.js, Tailwind CSS, and Gemini AI.
 - [Compose-Lang](https://github.com/darula-hpp/compose-lang) - An LLM-assisted compiler for architecture specifications. Define your application in structured .compose files, and the compiler generates framework-specific code through LLM-powered code generation with reproducible builds via caching.
 - [Shadow Code](https://github.com/adifyr/shadow-code) - an AI coding technique that involves transforming human-written pseudocode to clean, accurate & production-ready code in the target language. (At least, that's what I've told the AI to do in the system prompt.)
+- [InsForge](https://github.com/InsForge/InsForge) - A backend development platform built for AI coding agents and AI code editors.
 
 ## Testing & Security
 
@@ -324,6 +326,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [claude-teams](https://github.com/cs50victor/claude-code-teams-mcp) - MCP server that implements Claude Code's agent teams protocol.
 - [Pare](https://github.com/Dave-London/Pare) - MCP servers that wrap common developer tools (git, npm, docker, test runners, etc.) and return clean, schema-validated JSON instead of raw terminal text — letting AI coding agents consume tool output more efficiently and reliably.
 - [CogniLayer v4](https://github.com/LakyFx/CogniLayer) - Infinite speed memory + code graph for Claude Code & Codex CLI. 17 MCP tools, subagent protocol, hybrid search, TUI dashboard, crash recovery. Save 80-200K+ tokens/session.
+- [SymDex](https://github.com/husnainpk/SymDex) - Code-indexer MCP server for AI agents — 97% fewer tokens per lookup. Supports 13 languages, semantic search, call graph, and cross-repo search.
 
 ## Code Review & Collaboration
 
