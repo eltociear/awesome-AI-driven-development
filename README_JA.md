@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **511個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **514個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -205,6 +205,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Taskade](https://github.com/taskade/mcp) - 自然言語を使用してカスタムAIエージェント、ワークフロー、アプリを構築するAI駆動開発プラットフォーム。マルチモデルAI（GPT、Claude、Gemini）、22以上の組み込みツール、MCPサーバーサポート
 - [Switchboard](https://github.com/TentacleOpera/switchboard) - OpenCodeなどのAPIフレームワークに代わるサブスクリプションベースの選択肢。AIサブスクリプション、ローカルLLM、CLIエージェントをAPIキー不要で単一チームに統合
 - [Slate V1](https://randomlabs.ai/) - スウォーム向けに構築された汎用ソフトウェアエージェント
+- [Blackbox Code](https://github.com/blackboxaicode/cli) - マルチエージェントをローカルで実行し、最適なタスク実装を選択するジャッジ機能を備えたBLACKBOX CLI
 
 ## コード生成 & 自動化
 
@@ -260,6 +261,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - オフラインファースト、AI中心のSAST＆コードインテリジェンスプラットフォーム
 - [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - GitHubとBright Data統合を活用した、エージェントスキルとMCPサーバーの包括的なセキュリティ評価ツール
 - [Vet : Verify Everything](https://github.com/imbue-ai/vet) - コード変更とコーディングエージェントの動作を検証するスタンドアロン検証ツール
+- [Hawkeye](https://github.com/MLaminekane/hawkeye) - AIエージェントのフライトレコーダー - Claude Code、Aider、AutoGPTなどの可観測性とセキュリティ
 
 ## MCPサーバー & 統合
 
@@ -479,6 +481,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [deja](https://github.com/Michaelliv/cc-dejavu) - Claude Codeのbashコマンド履歴を検索・閲覧するCLIツール
 - [grepai](https://github.com/yoanbernabeu/grepai) - AIエージェント向けセマンティック検索とコールグラフ（100%ローカル）
 - [Drift](https://github.com/dadbodgeoff/drift) - モダンコードベース向けAI支援アーキテクチャドリフト検出
+- [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - 世界初のエージェント型リバースエンジニアリングツール
 
 ## ドメイン固有ツール
 

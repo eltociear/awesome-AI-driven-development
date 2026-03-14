@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **513 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **516 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -206,6 +206,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Taskade](https://github.com/taskade/mcp) - AI-driven development platform for building custom AI agents, workflows, and apps using natural language. Multi-model AI (GPT, Claude, Gemini), 22+ built-in tools, and MCP server support.
 - [Switchboard](https://github.com/TentacleOpera/switchboard) - The subscription-based alternative to API frameworks like OpenCode. Coordinate all your AI subscriptions, local LLMs, and CLI agents into a single team without a single API key.
 - [Slate V1](https://randomlabs.ai/) - A generalist software agent built for swarms.
+- [Blackbox Code](https://github.com/blackboxaicode/cli) - BLACKBOX CLI for running Multi-Agents locally and a Judge to select the best task implementation
 
 ## Code Generation & Automation
 
@@ -261,6 +262,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - Offline-First, AI-Centric SAST & Code Intelligence Platform
 - [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - Comprehensive security evaluation tools for agent skills and MCP servers, powered by GitHub and Bright Data integrations.
 - [Vet : Verify Everything](https://github.com/imbue-ai/vet) - a standalone verification tool for code changes and coding agent behavior.
+- [Hawkeye](https://github.com/MLaminekane/hawkeye) - The flight recorder for AI agents - observability and security for Claude Code, Aider, AutoGPT and more
 
 ## MCP Servers & Integrations
 
@@ -481,6 +483,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [deja](https://github.com/Michaelliv/cc-dejavu) - CLI tool to search and browse Claude Code bash command history
 - [grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [Drift](https://github.com/dadbodgeoff/drift) - AI-augmented architectural drift detection for modern codebases
+- [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - The world's first agentic reverse engineer.
 
 ## Domain-Specific Tools
 
