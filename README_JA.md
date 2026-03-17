@@ -159,6 +159,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - GitHub Copilotの機能を模倣するローカルAIコーディングアシスタント。Ollama経由でローカルLLM（deepseek-coder:6.7b）を使用してインテリジェントなコード補完とコンテキスト認識実装を提供
 - [eca](https://github.com/editor-code-assistant/eca) - エディタに依存しないAIペアプログラミング機能
 
+- [ORCH](https://github.com/oxgeneral/ORCH) — Claude Code、Codex、Cursor エージェントチームのためのCLIオーケストレーター。ステートマシン、自動リトライ、エージェント間メッセージング、TUIダッシュボード。TypeScript、MIT。
 ## マルチエージェント & オーケストレーション
 
 開発ワークフローで複数のAIエージェントを調整・管理するフレームワークとツール。
@@ -207,6 +208,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Slate V1](https://randomlabs.ai/) - スウォーム向けに構築された汎用ソフトウェアエージェント
 - [Blackbox Code](https://github.com/blackboxaicode/cli) - マルチエージェントをローカルで実行し、最適なタスク実装を選択するジャッジ機能を備えたBLACKBOX CLI
 
+- [ORCH](https://github.com/oxgeneral/ORCH) — Claude Code、Codex、Cursor エージェントチームのためのCLIオーケストレーター。ステートマシン、自動リトライ、エージェント間メッセージング、TUIダッシュボード。TypeScript、MIT。
 ## コード生成 & 自動化
 
 コード生成、開発タスクの自動化、プロジェクトテンプレート作成のためのツール。
