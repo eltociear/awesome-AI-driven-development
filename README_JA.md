@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **514個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **517個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -138,6 +138,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [MCP Hub](https://github.com/ravitemer/mcphub.nvim) - MCP（Model Context Protocol）サーバーをワークフローに統合する強力なNeovimプラグイン
 - [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - OpenAI、Gemini、Claude、Codestralなど人気LLMからのAIコード補完機能
 - [Copilot Chat for Neovim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - NeovimでGitHub Copilotとチャット
+- [dwight.nvim](https://github.com/otaleghani/dwight.nvim) - プロジェクトローカルのスキルとコンテキスト対応の生成機能を備えた、主導権を握れるNeovim AIアシスタント
 
 ### Emacs
 - [aidermacs](https://github.com/MatthewZMD/aidermacs) - EmacsでのAider AIペアプログラミング
@@ -328,6 +329,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Pare](https://github.com/Dave-London/Pare) - 一般的な開発ツール（git、npm、docker、テストランナーなど）をラップし、生のターミナルテキストではなくクリーンでスキーマ検証済みのJSONを返すMCPサーバー。AIコーディングエージェントがツール出力をより効率的かつ確実に消費可能に
 - [CogniLayer v4](https://github.com/LakyFx/CogniLayer) - Claude CodeとCodex CLI向けの超高速メモリ＋コードグラフ。17のMCPツール、サブエージェントプロトコル、ハイブリッド検索、TUIダッシュボード、クラッシュリカバリ。セッションあたり80〜200K以上のトークンを節約
 - [SymDex](https://github.com/husnainpk/SymDex) - AIエージェント向けコードインデクサーMCPサーバー — ルックアップあたり97%のトークン削減。13言語対応、セマンティック検索、コールグラフ、クロスリポジトリ検索をサポート
+- [DebugMCP (MCP Server)](https://github.com/microsoft/DebugMCP) - VS Codeエージェントに本格的なデバッガーを提供：ブレークポイント、ステッピング、インスペクション
 
 ## コードレビュー & コラボレーション
 
@@ -451,6 +453,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - あなたが寝ている間にコンピュータに作業をさせるエージェントタスクランナー！「シンプルに、楽しく、一度に一つのことをする」というRalph Wiggum方式を採用
 - [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - AI支援開発向け高規律エージェントワークフロー。永続コンテキストによるAnalyze、Run、Confirm（ARC）プロジェクト実行
 - [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - ステートフルメモリ、ライブWebアクセス、疑似自己改善などを備えた完全自律AI開発エージェント
+- [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - 寝ている間に動く自律コード最適化（Claude Codeによるオートリサーチ）。メトリクスを定義し、コードを指定して就寝。正確性を毎ステップ検証しながら、より速く、より小さく、より良いシステムに目覚める
 
 ## コード解析 & 検索
 

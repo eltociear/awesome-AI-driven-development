@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **516 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **519 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -138,6 +138,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [MCP Hub](https://github.com/ravitemer/mcphub.nvim) - A powerful Neovim plugin that integrates MCP (Model Context Protocol) servers into your workflow
 - [minuet-ai.el](https://github.com/milanglacier/minuet-ai.el) - Minuet offers AI code completion from popular LLMs including OpenAI, Gemini, Claude, Codestral, and more
 - [Copilot Chat for Neovim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) - Chat with GitHub Copilot in Neovim
+- [dwight.nvim](https://github.com/otaleghani/dwight.nvim) - A Neovim AI assistant that puts you in the driver's seat with project-local skills and context-aware generation.
 
 ### Emacs
 - [aidermacs](https://github.com/MatthewZMD/aidermacs) - Aider AI Pair Programming in Emacs
@@ -329,6 +330,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Pare](https://github.com/Dave-London/Pare) - MCP servers that wrap common developer tools (git, npm, docker, test runners, etc.) and return clean, schema-validated JSON instead of raw terminal text — letting AI coding agents consume tool output more efficiently and reliably.
 - [CogniLayer v4](https://github.com/LakyFx/CogniLayer) - Infinite speed memory + code graph for Claude Code & Codex CLI. 17 MCP tools, subagent protocol, hybrid search, TUI dashboard, crash recovery. Save 80-200K+ tokens/session.
 - [SymDex](https://github.com/husnainpk/SymDex) - Code-indexer MCP server for AI agents — 97% fewer tokens per lookup. Supports 13 languages, semantic search, call graph, and cross-repo search.
+- [DebugMCP (MCP Server)](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
 
 ## Code Review & Collaboration
 
@@ -452,6 +454,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - An agentic task runner that helps your computer do things while you're sleeping! It uses the Ralph Wiggum way of doing things: "simple, happy, and do one thing at a time."
 - [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - High-discipline agentic workflow for AI-assisted development. Analyze, Run, Confirm (ARC) project execution with persistent context.
 - [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - Fully autonomous AI development agent with stateful memory, live web access, pseudo self-improvement and more!
+- [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - Autonomous code optimization that works while you sleep (Autoresearch with Claude Code). Define a metric, point it at your code, go to bed. Wake up to a faster, smaller, better system — with correctness verified at every step.
 
 ## Code Analysis & Search
 
