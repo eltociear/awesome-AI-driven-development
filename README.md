@@ -48,6 +48,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - A terminal-centric IDE for the age of AI agents.
 - [SquirlIDE](https://github.com/krishnak19a-del/SquirlIDE) - A lightweight, cross-platform code editor built using Tauri (Rust) for the backend and ReactJS for the frontend, with integration for large language model (LLM) calls using Gemini API for code assistance and text generation.
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser. Hooks into your dev server as middleware, sees live DOM, component tree, CSS, routes, and server logs. Click any element, describe changes, get real source code edits with hot reload.
+- [Nimbalyst](https://nimbalyst.com) - Visual workspace for building with Codex and Claude Code. Session and task management. Visual editing of markdown, mockups, csv, excalidraw, mermaid, code.  
 
 ## Terminal & CLI Agents
 
