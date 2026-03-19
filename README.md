@@ -213,7 +213,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 ## Code Generation & Automation
 
 Tools for generating code, automating development tasks, and creating project templates.
-
+- [LAP](https://github.com/Lap-Platform/LAP) - Compiles API specs into lean, token-efficient formats that prevent AI agent hallucinations. Supports OpenAPI, GraphQL, AsyncAPI, Protobuf & Postman. Ships with a registry of 1,500+ pre-compiled specs.
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it
 - [amplication](https://github.com/amplication/amplication) - The Only Production-Ready AI-Powered Backend Code Generation
 - [llamacoder](https://github.com/Nutlope/llamacoder) - An open source Claude Artifacts – generate small apps with one prompt
