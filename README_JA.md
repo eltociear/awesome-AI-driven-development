@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **517個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **518個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -263,6 +263,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - GitHubとBright Data統合を活用した、エージェントスキルとMCPサーバーの包括的なセキュリティ評価ツール
 - [Vet : Verify Everything](https://github.com/imbue-ai/vet) - コード変更とコーディングエージェントの動作を検証するスタンドアロン検証ツール
 - [Hawkeye](https://github.com/MLaminekane/hawkeye) - AIエージェントのフライトレコーダー - Claude Code、Aider、AutoGPTなどの可観測性とセキュリティ
+- [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) - 7つのAIコーディングツールのignore設定を自動生成・検証するCLI。ツールごとのバイパステスト結果に基づく
 
 ## MCPサーバー & 統合
 
