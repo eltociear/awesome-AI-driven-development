@@ -1,0 +1,60 @@
+name: Auto Backup and Sync
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Daily at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-links:
+    name: Validate README Links
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check links in README.md
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+          file-path: './README.md'
+          config-file: '.github/mlc_config.json'
+
+      - name: Check links in README_JA.md
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'no'
+          file-path: './README_JA.md'
+          config-file: '.github/mlc_config.json'
+
+  backup:
+    name: Backup Repository
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create dated backup tag
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          DATE=$(date -u +%Y%m%d)
+          TAG="backup/${DATE}"
+          if git rev-parse "${TAG}" >/dev/null 2>&1; then
+            echo "Backup tag ${TAG} already exists, skipping."
+          else
+            git tag "${TAG}"
+            git push origin "${TAG}"
+            echo "Created backup tag: ${TAG}"
+          fi
