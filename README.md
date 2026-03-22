@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **520 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **521 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -650,3 +650,4 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - A Claude Code skill that sets up a two-tier codebase structure index for any project.
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management agent skills with templates and workflow bundles, following the agentskills.io specification.
 - [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code with brainstorm mode | Claude Code, Codex, Gemini, Cline, GitHub Copilot |
+- [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming skill for products, SaaS, brands, and open source projects. Structured process that produces memorable, meaningful names.
