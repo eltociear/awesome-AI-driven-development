@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **517個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **518個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -646,3 +646,4 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - 任意のプロジェクト用に2段階のコードベース構造インデックスをセットアップするClaude Codeスキル
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - agentskills.io仕様に準拠した、24のプラグアンドプレイ型プロダクトマネジメントエージェントスキル（テンプレートとワークフローバンドル付き）
 - [Mysti](https://github.com/DeepMyst/Mysti) - VS Code向けマルチエージェントAIコーディングアシスタント（ブレインストームモード搭載）| Claude Code、Codex、Gemini、Cline、GitHub Copilot |
+- [naming](https://github.com/glacierphonk/naming) - プロダクト、SaaS、ブランド、オープンソースプロジェクトのためのメタファー駆動型ネーミングスキル。記憶に残る意味のある名前を生成する構造化プロセス
