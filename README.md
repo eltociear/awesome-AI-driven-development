@@ -100,9 +100,9 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Codi](https://github.com/laynepenney/codi) - Your AI coding wingman - a hybrid assistant supporting Claude, OpenAI, and local models
 - [Termly CLI](https://github.com/termly-dev/termly-cli) - Access your AI coding assistants from any device. Works with Claude Code, Aider, GitHub Copilot, and any terminal-based AI tool.
 - [Codex DMG -> Windows](https://github.com/aidanqm/Codex-Windows) - This repository provides a Windows-only runner that extracts the macOS Codex DMG and runs the Electron app on Windows.
+- [Caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md, skills). Scores config quality and keeps docs in sync. Supports Claude Code, Cursor, Copilot, Codex.
 
 ## IDE Extensions
-
 Plugins and extensions for popular IDEs and text editors.
 
 ### VS Code
