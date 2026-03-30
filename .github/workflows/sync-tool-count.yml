@@ -1,0 +1,59 @@
+name: Sync Tool Count
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - 'README_JA.md'
+  schedule:
+    - cron: '30 0 * * *'  # Daily at 00:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync-count:
+    name: Update Tool Count in READMEs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Count tools and update READMEs
+        run: |
+          # Count tool entries (lines starting with "- [" that link to external URLs, not ToC anchors)
+          EN_COUNT=$(grep -c '^- \[' README.md)
+          # Subtract ToC anchor links (lines containing "(#")
+          EN_TOC=$(grep '^- \[' README.md | grep -c '(#' || true)
+          EN_TOOLS=$(( EN_COUNT - EN_TOC ))
+
+          JA_COUNT=$(grep -c '^- \[' README_JA.md)
+          JA_TOC=$(grep '^- \[' README_JA.md | grep -c '(#' || true)
+          JA_TOOLS=$(( JA_COUNT - JA_TOC ))
+
+          echo "English README tool count: ${EN_TOOLS}"
+          echo "Japanese README tool count: ${JA_TOOLS}"
+
+          # Update English README
+          sed -i "s/Currently featuring \*\*[0-9][0-9]* tools\*\*/Currently featuring **${EN_TOOLS} tools**/" README.md
+
+          # Update Japanese README
+          sed -i "s/現在 \*\*[0-9][0-9]*個のツール\*\* を掲載/現在 **${JA_TOOLS}個のツール** を掲載/" README_JA.md
+
+      - name: Commit updated counts
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          if ! git diff --quiet; then
+            git add README.md README_JA.md
+            git commit -m "chore: sync tool count in README files [skip ci]"
+            git push
+            echo "Tool counts updated and pushed."
+          else
+            echo "Tool counts are already up to date."
+          fi
