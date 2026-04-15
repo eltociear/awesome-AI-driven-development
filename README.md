@@ -6,6 +6,7 @@
 A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **522 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - [💻 AI Code Editors & IDEs](#ai-code-editors--ides)
 - [⌨️ Terminal & CLI Agents](#terminal--cli-agents)
