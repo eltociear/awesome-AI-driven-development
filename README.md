@@ -286,10 +286,12 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 
 Model Context Protocol servers and integrations for enhanced AI capabilities.
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow
 - [MCP C# SDK](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients, maintained by Microsoft
 - [MCP Go](https://github.com/mark3labs/mcp-go) - A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - The easiest way to interact with mcp servers with custom agents
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - Connect your Supabase projects to Cursor, Claude, Windsurf, and other AI assistants
