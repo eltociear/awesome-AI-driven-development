@@ -288,7 +288,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 
 Model Context Protocol servers and integrations for enhanced AI capabilities.
 
-- [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - MCP server with four pre-prompt cognitive scaffolds for reasoning, code review, anti-deception, and memory.
+- [ejentum-mcp](https://github.com/ejentum/ejentum-mcp) - MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 - [GitHub MCP Server](https://github.com/github/github-mcp-server) - The GitHub MCP Server is a Model Context Protocol (MCP) server that provides seamless integration with GitHub APIs
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - A suite of specialized MCP servers that bring AWS best practices directly to your development workflow
 - [MCP C# SDK](https://github.com/modelcontextprotocol/csharp-sdk) - The official C# SDK for Model Context Protocol servers and clients, maintained by Microsoft
