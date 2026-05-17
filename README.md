@@ -323,6 +323,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [interactive-mcp](https://github.com/ttommyth/interactive-mcp) - Local, cross-platform MCP server for interact with your AI Agent
 - [Jinni](https://github.com/smat-dev/jinni) - Bring your project into LLM context - tool and MCP server
 - [Kratos MCP](https://github.com/ceorkm/kratos-mcp) - MCP server with perfect project isolation, 95.8% context accuracy, and the Four Pillars Framework.
+- [click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp) - Auto-wrap any Click/typer CLI as an MCP server with zero code changes. Introspects CLI commands and options at runtime. Supports stdio and HTTP+SSE transport.
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 Intelligent task management for AI-powered development - Break down complex projects into manageable tasks, maintain context across sessions, and accelerate your development workflow.
 - [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
 - [Docker MCP Plugin and Docker MCP Gateway](https://github.com/docker/mcp-gateway/) - docker mcp CLI plugin / MCP Gateway
