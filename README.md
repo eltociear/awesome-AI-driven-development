@@ -281,6 +281,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [Eval Marketplace](https://github.com/JeredBlu/eval-marketplace) - Comprehensive security evaluation tools for agent skills and MCP servers, powered by GitHub and Bright Data integrations.
 - [Vet : Verify Everything](https://github.com/imbue-ai/vet) - a standalone verification tool for code changes and coding agent behavior.
 - [Hawkeye](https://github.com/MLaminekane/hawkeye) - The flight recorder for AI agents - observability and security for Claude Code, Aider, AutoGPT and more
+- [AWB (AI Workflow Benchmark)](https://github.com/xmpuspus/ai-workflow-benchmark) - Open-source benchmark for AI coding workflows on 100 real OSS tasks at pinned commit SHAs. 9 adapters (Claude Code vanilla and custom, Cursor, Aider, Gemini CLI, Codex CLI, Windsurf, Copilot, Pi). Scores across 7 capability dimensions plus cost discipline; ships OpenTelemetry-aligned trace artifacts and a Production Readiness Score.
 - [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) - Auto-generates and validates ignore configurations for 7 AI coding tools. Based on bypass test results per tool.
 - [Clearwing](https://github.com/Lazarus-AI/clearwing) - Autonomous vulnerability scanner and source-code hunter. Built on `genai-pyo3`, a native Rust-backed LLM runtime speaking every major provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio, Together, Groq, DeepSeek, MiniMax, Gemini, any OpenAI-compatible endpoint).
 
