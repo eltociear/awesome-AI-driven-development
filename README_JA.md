@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **552個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **553個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -453,6 +453,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - オープンソースLLMをトレーニングすることで現実世界のGitHubイシューに対処するシンプルで効果的なソリューション
 - [Spec Kit](https://github.com/github/spec-kit) - 仕様駆動開発を始めるためのツールキット
 - [Disciplined AI Software Development - Collaborative](https://github.com/Varietyz/Disciplined-AI-Software-Development) - AI開発プロジェクトでの構造化アプローチ。コード肥大化、アーキテクチャドリフト、コンテキスト希釈などの一般的問題に体系的な制約で対処する手法
+- [harness-starter-kit](https://github.com/baskduf/harness-starter-kit) - 繰り返し使うコーディングエージェント向け指示を、永続的なリポジトリルール、知識ストア、フィードバックループ、ドリフトチェックに変換するプロンプトファーストのスターターキット
 - [gac (Git Auto Commit)](https://github.com/cellwebb/gac) - ステージされた変更に基づき高品質なコミットメッセージを自動生成するAI搭載gitコミットメッセージ生成器
 - [Memov](https://github.com/memovai/mem) - Git上のAIコーディングバージョン管理。何が変更されただけでなく、なぜ変更されたかを追跡
 - [Agentless](https://github.com/OpenAutoCoder/Agentless) - ソフトウェア開発問題を自動解決するエージェントレスアプローチ
