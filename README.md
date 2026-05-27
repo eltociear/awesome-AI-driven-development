@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **552 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **553 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -452,6 +452,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [SWE-Fixer](https://github.com/internlm/SWE-Fixer) - A simple yet effective solution for addressing real-world GitHub issues by training open-source LLMs
 - [Spec Kit](https://github.com/github/spec-kit) - Toolkit to help you get started with Spec-Driven Development
 - [Disciplined AI Software Development - Collaborative](https://github.com/Varietyz/Disciplined-AI-Software-Development) - A structured approach for working with AI on development projects. This methodology addresses common issues like code bloat, architectural drift, and context dilution through systematic constraints.
+- [harness-starter-kit](https://github.com/baskduf/harness-starter-kit) - Prompt-first starter kit for turning repeated coding-agent instructions into durable repo rules, knowledge stores, feedback loops, and drift checks.
 - [gac (Git Auto Commit)](https://github.com/cellwebb/gac) - AI-powered git commit message generator that produces high-quality commit messages based on your staged changes automatically.
 - [Memov](https://github.com/memovai/mem) - AI coding version control on top of Git. Track not just what changed, but why it changed.
 - [OpenEvolve](https://github.com/codelion/openevolve) - Turn your LLMs into autonomous code optimizers that discover breakthrough algorithms
