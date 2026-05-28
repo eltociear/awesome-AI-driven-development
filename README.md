@@ -283,6 +283,8 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [Hawkeye](https://github.com/MLaminekane/hawkeye) - The flight recorder for AI agents - observability and security for Claude Code, Aider, AutoGPT and more
 - [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) - Auto-generates and validates ignore configurations for 7 AI coding tools. Based on bypass test results per tool.
 - [Clearwing](https://github.com/Lazarus-AI/clearwing) - Autonomous vulnerability scanner and source-code hunter. Built on `genai-pyo3`, a native Rust-backed LLM runtime speaking every major provider (Anthropic, OpenAI, OpenRouter, Ollama, LM Studio, Together, Groq, DeepSeek, MiniMax, Gemini, any OpenAI-compatible endpoint).
+- [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
+- [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
 
 ## MCP Servers & Integrations
 
