@@ -106,6 +106,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Caliber](https://github.com/caliber-ai-org/ai-setup) - CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md, skills). Scores config quality and keeps docs in sync. Supports Claude Code, Cursor, Copilot, Codex.
 - [Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code) - Snowflake's AI coding agent CLI for SQL, Python, and data engineering workflows with built-in Snowflake connectivity
 - [pi coding agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [zerostack](https://github.com/gi-dellav/zerostack) - Unix-inspired lightweight (<20MB RAM usage) AI coding agent written in Rust with worktrees and iterative loops integration
 
 ## IDE Extensions
 
