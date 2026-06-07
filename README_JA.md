@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **552個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **553個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -509,6 +509,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - コードベースを理解するためのセルフホスト型ツール
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - AI向けのプロジェクトブレイン。トークンを消費せずにLLMに即座にアーキテクチャコンテキストを提供
 - [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - ブラウザで完全に動作するクライアントサイドのナレッジグラフ作成ツール。GitHubリポジトリやZIPファイルをドロップして、Graph RAGエージェント内蔵のインタラクティブなナレッジグラフを取得。コード探索に最適
+- [Unship](https://github.com/mbenhard/unship) - AIコーディングエージェントが作成した一時的なUIバリアントをローカルブラウザピッカーで比較し、採用しなかった選択肢をクリーンアップするCLI
 - [deja](https://github.com/Michaelliv/cc-dejavu) - Claude Codeのbashコマンド履歴を検索・閲覧するCLIツール
 - [grepai](https://github.com/yoanbernabeu/grepai) - AIエージェント向けセマンティック検索とコールグラフ（100%ローカル）
 - [Drift](https://github.com/dadbodgeoff/drift) - モダンコードベース向けAI支援アーキテクチャドリフト検出
