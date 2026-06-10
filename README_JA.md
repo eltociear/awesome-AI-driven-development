@@ -106,6 +106,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Caliber](https://github.com/caliber-ai-org/ai-setup) - プロジェクトをフィンガープリントし、AIエージェント設定（CLAUDE.md、.cursor/rules/、AGENTS.md、スキル）を生成・同期するCLI。設定品質をスコアリングし、ドキュメントの同期を維持。Claude Code、Cursor、Copilot、Codex対応
 - [Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code) - SnowflakeのAIコーディングエージェントCLI。SQL、Python、データエンジニアリングワークフローをSnowflake接続機能とともに提供
 - [pi coding agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) - AIエージェントツールキット：コーディングエージェントCLI、統合LLM API、TUI＆Web UIライブラリ、Slackボット、vLLMポッド
+- [Loki Mode](https://github.com/asklokesh/loki-mode) - 仕様から製品までを自律的に構築するCLIエージェント。検証ゲートを備え、ブラインドレビュー方式の完了協議会とエビデンスチェックを通過するまで作業を完了とみなさない。ブラウンフィールド対応の`loki heal`、ローカルファースト（自前のAPIキー）、26ツールのMCPサーバー、AGENTS.md読み込み対応。ソースアベイラブル（BUSL-1.1）
 
 ## IDE拡張機能
 
