@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **552 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **553 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -518,6 +518,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - a self-hosted tool that helps you understand your codebase.
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - a project brain for your AI. Give LLMs instant architectural context without burning tokens.
 - [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+- [Unship](https://github.com/mbenhard/unship) - Local-first CLI and browser picker for comparing temporary UI variants created by AI coding agents, then cleaning up unused options.
 - [deja](https://github.com/Michaelliv/cc-dejavu) - CLI tool to search and browse Claude Code bash command history
 - [grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [Drift](https://github.com/dadbodgeoff/drift) - AI-augmented architectural drift detection for modern codebases
