@@ -185,6 +185,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - AutoGenとCrewAIなどを組み合わせたマルチエージェントLLMシステムの構築・管理向けローコードソリューション
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) - Claude Code、Aider、Codex、OpenCode、Ampなど複数のAIターミナルエージェントを管理
 - [vsync](https://github.com/nicepkg/vsync) - Claude Code、Cursor、OpenCode、Codex間でスキル、MCPサーバー、エージェント、コマンドを自動フォーマット変換で同期
+- [Wasla](https://github.com/The-Untitled-Org/wasla) - Claude Code、Gemini CLI、Codex、OpenCode/OpenClaw、GitHub Copilotワークフロー間でエージェント、MCP設定、スキル、コマンドなどを同期するTypeScript CLI
 - [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) - エンタープライズグレードアーキテクチャ、高度スウォーム知能、Claude Codeシームレス統合でゼロから構築
 - [Activepieces](https://github.com/activepieces/activepieces) - AIエージェント＆MCP＆AIワークフロー自動化 • AIエージェント用約400個MCPサーバー • MCP付きAI自動化/AIエージェント • AIワークフロー＆AIエージェント • AIエージェント用MCP
 - [Heurist Agent Framework](https://github.com/heurist-network/heurist-agent-framework) - 推論、ツール使用、メモリ、深度研究、ブロックチェーンインタラクション、MCP、エージェント・アズ・ア・サービスでエージェントを構築する柔軟なマルチインターフェースAIエージェントフレームワーク
