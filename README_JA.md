@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **540個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **553個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -105,6 +105,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Codex DMG -> Windows](https://github.com/aidanqm/Codex-Windows) - macOS版Codex DMGを抽出してWindows上でElectronアプリを実行するWindows専用ランナーを提供するリポジトリ
 - [Caliber](https://github.com/caliber-ai-org/ai-setup) - プロジェクトをフィンガープリントし、AIエージェント設定（CLAUDE.md、.cursor/rules/、AGENTS.md、スキル）を生成・同期するCLI。設定品質をスコアリングし、ドキュメントの同期を維持。Claude Code、Cursor、Copilot、Codex対応
 - [Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code) - SnowflakeのAIコーディングエージェントCLI。SQL、Python、データエンジニアリングワークフローをSnowflake接続機能とともに提供
+- [pi coding agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) - AIエージェントツールキット：コーディングエージェントCLI、統合LLM API、TUI＆Web UIライブラリ、Slackボット、vLLMポッド
+- [Loki Mode](https://github.com/asklokesh/loki-mode) - 仕様から製品までを自律的に構築するCLIエージェント。検証ゲートを備え、ブラインドレビュー方式の完了協議会とエビデンスチェックを通過するまで作業を完了とみなさない。ブラウンフィールド対応の`loki heal`、ローカルファースト（自前のAPIキー）、26ツールのMCPサーバー、AGENTS.md読み込み対応。ソースアベイラブル（BUSL-1.1）
 
 ## IDE拡張機能
 
@@ -183,6 +185,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [PraisonAI](https://github.com/MervinPraison/PraisonAI) - AutoGenとCrewAIなどを組み合わせたマルチエージェントLLMシステムの構築・管理向けローコードソリューション
 - [Claude Squad](https://github.com/smtg-ai/claude-squad) - Claude Code、Aider、Codex、OpenCode、Ampなど複数のAIターミナルエージェントを管理
 - [vsync](https://github.com/nicepkg/vsync) - Claude Code、Cursor、OpenCode、Codex間でスキル、MCPサーバー、エージェント、コマンドを自動フォーマット変換で同期
+- [Wasla](https://github.com/The-Untitled-Org/wasla) - Claude Code、Gemini CLI、Codex、OpenCode/OpenClaw、GitHub Copilotワークフロー間でエージェント、MCP設定、スキル、コマンドなどを同期するTypeScript CLI
 - [Claude-Flow v2.0.0 Alpha](https://github.com/ruvnet/claude-flow) - エンタープライズグレードアーキテクチャ、高度スウォーム知能、Claude Codeシームレス統合でゼロから構築
 - [Activepieces](https://github.com/activepieces/activepieces) - AIエージェント＆MCP＆AIワークフロー自動化 • AIエージェント用約400個MCPサーバー • MCP付きAI自動化/AIエージェント • AIワークフロー＆AIエージェント • AIエージェント用MCP
 - [Heurist Agent Framework](https://github.com/heurist-network/heurist-agent-framework) - 推論、ツール使用、メモリ、深度研究、ブロックチェーンインタラクション、MCP、エージェント・アズ・ア・サービスでエージェントを構築する柔軟なマルチインターフェースAIエージェントフレームワーク
@@ -282,6 +285,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Vet : Verify Everything](https://github.com/imbue-ai/vet) - コード変更とコーディングエージェントの動作を検証するスタンドアロン検証ツール
 - [Hawkeye](https://github.com/MLaminekane/hawkeye) - AIエージェントのフライトレコーダー - Claude Code、Aider、AutoGPTなどの可観測性とセキュリティ
 - [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) - 7つのAIコーディングツールのignore設定を自動生成・検証するCLI。ツールごとのバイパステスト結果に基づく
+- [Clearwing](https://github.com/Lazarus-AI/clearwing) - 自律型脆弱性スキャナー＆ソースコードハンター。`genai-pyo3`（ネイティブRustバックエンドLLMランタイム）上に構築され、Anthropic、OpenAI、OpenRouter、Ollama、LM Studio、Together、Groq、DeepSeek、MiniMax、Gemini、OpenAI互換エンドポイントなど主要プロバイダーに対応
 
 ## MCPサーバー & 統合
 
@@ -300,6 +304,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Browser Control MCP](https://github.com/eyalzh/browser-control-mcp) - ブラウザ拡張機能と連携してAIエージェントがユーザーのブラウザを制御できるMCPサーバー
 - [LINE Bot MCP Server](https://github.com/line/line-bot-mcp-server) - LINE Messaging APIを統合してAIエージェントをLINE公式アカウントに接続するMCPサーバー
 - [Kubernetes MCP Server](https://github.com/containers/kubernetes-mcp-server) - KubernetesとOpenShift用Model Context Protocol（MCP）サーバー
+- [KubeStellar Console kc-agent](https://github.com/kubestellar/console) - KubeStellar Consoleにバンドルされた、AI駆動のマルチクラスターKubernetes操作向けMCPサーバー（kc-agent）。Claude/Copilot/Cursor経由で自然言語チャット、GitOpsデプロイミッション、リアルタイムクラスターダッシュボードを提供
 - [Computer Control MCP](https://github.com/AB498/computer-control-mcp) - PyAutoGUI、RapidOCR、ONNXRuntimeを使用してマウス、キーボード、OCRなどのコンピューター制御機能を提供するMCPサーバー。AnthropicのComputer-useと類似、外部依存関係ゼロ
 - [Gemini MCP Server for Claude Code](https://github.com/BeehiveInnovations/gemini-mcp-server) - GeminiとClaude Codeの連携。ClaudeのExtended ThinkingにGeminiの視点で補強
 - [GitHub Chat MCP](https://github.com/AsyncFuncAI/github-chat-mcp) - GitHub Chat APIを使用してGitHubリポジトリを分析・クエリするModel Context Protocol（MCP）
@@ -349,6 +354,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [CogniLayer v4](https://github.com/LakyFx/CogniLayer) - Claude CodeとCodex CLI向けの超高速メモリ＋コードグラフ。17のMCPツール、サブエージェントプロトコル、ハイブリッド検索、TUIダッシュボード、クラッシュリカバリ。セッションあたり80〜200K以上のトークンを節約
 - [SymDex](https://github.com/husnainpk/SymDex) - AIエージェント向けコードインデクサーMCPサーバー — ルックアップあたり97%のトークン削減。13言語対応、セマンティック検索、コールグラフ、クロスリポジトリ検索をサポート
 - [DebugMCP (MCP Server)](https://github.com/microsoft/DebugMCP) - VS Codeエージェントに本格的なデバッガーを提供：ブレークポイント、ステッピング、インスペクション
+- [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - 30以上の画像生成モデル間でリクエストをルーティングし、本番環境向けビジュアルアセット（アプリアイコン、ファビコン、OG画像、ロゴ、ワードマーク）を生成するMCPサーバー。PollinationsとStable Hordeの無料枠を利用して初回実行時にAPIキーが不要
 
 ## コードレビュー & コラボレーション
 
@@ -365,6 +371,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [kodus](https://github.com/kodustech/kodus-ai) - シニア開発者のようなオープンソースAIコードレビュー
 - [Costrict](https://github.com/zgsm-ai/costrict) - エンタープライズ向けの厳格なAIコーダー、品質優先、AIエージェント、AIコードレビュー、AI補完を含む
 - [ThinkReview](https://github.com/Thinkode/thinkreview-browser-extension) - GitLabとAzure DevOpsにAI駆動のコードレビューをもたらす本番環境対応のブラウザ拡張機能
+- [LegacyDoc AI](https://www.romanticode.com/tools/ai-code-audit-report/) - VS Code内でAI生成コードを監査し、アーキテクチャノート、リスク箇所、クリーンアップ優先度、AI-ready context packを生成するツール
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - GitHub PRステータス、CI/CDチェック、マージ可能性をターミナルで直接表示するClaude Codeプラグイン
 
 ## プロジェクト & ナレッジ管理
@@ -412,6 +419,9 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Nemp Memory](https://github.com/SukinShetty/Nemp-memory) - Claude Code向け100%ローカルメモリ • プライバシー第一 • ゼロセットアップ
 - [🏗️ Vibe Architect](https://github.com/mohdhd/vibe-architect) - AI搭載プロジェクト仕様生成ツール。アイデアから実装可能な仕様を数分で作成。マルチモデル対応（GPT-5.2、Gemini 3、Claude）、ライブデザインプレビュー、音声入力、Markdownエクスポート
 - [MemoryAgent](https://github.com/IIIIQIIII/MemoryAgent) - データベースなしでコーディングエージェントが自身のメモリを管理できるようにするツール
+- [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - 一般的なプロジェクトタイプ向けの無料のCLAUDE.md、Cursorルール、PRPテンプレート集。すぐに使える5つのパックでAIコーディングアシスタントを実用化
+- [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - AIコーディングコンテキストファイル（CLAUDE.md、.cursorrules、AGENTS.md）のセキュリティ問題、構造的問題、AIアンチパターンを検出するGitHub Action
+- [url-to-md](https://github.com/MrDwarf7/url-to-md) - 任意のURLをLLM向けのクリーンなMarkdownに変換。無料API、サインアップ不要
 
 ## 言語モデル & エンジン
 
@@ -498,9 +508,11 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - コードベースを自動で解析し、AIコーディングアシスタント向けに最適化されたコンテキストドキュメント（例：CLAUDE.md、AGENTS.mdなど）の推奨事項を生成するGitHub Action
 - [ccusage](https://github.com/ryoppippi/ccusage) - ローカルJSONLファイルからClaude Code/Codex CLI使用状況を分析するCLIツール
 - [BurnRate](https://getburnrate.io) - ローカルファーストのAIコーディングコスト分析。Claude Code、Cursor、Codex、Copilot、Windsurf、Cline、Aiderを追跡。コスト内訳、23の最適化ルール、レート制限監視、プロバイダー比較、PDFレポート
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Claude Code、Codex CLI、Gemini CLI、Aider、CursorエクスポートなどのAIコーディングエージェントセッションを可視化するローカルファーストTUI
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - コードベースを理解するためのセルフホスト型ツール
 - [codemap 🗺️](https://github.com/JordanCoin/codemap) - AI向けのプロジェクトブレイン。トークンを消費せずにLLMに即座にアーキテクチャコンテキストを提供
 - [GitNexus V2](https://github.com/abhigyanpatwari/GitNexus) - ブラウザで完全に動作するクライアントサイドのナレッジグラフ作成ツール。GitHubリポジトリやZIPファイルをドロップして、Graph RAGエージェント内蔵のインタラクティブなナレッジグラフを取得。コード探索に最適
+- [Unship](https://github.com/mbenhard/unship) - AIコーディングエージェントが作成した一時的なUIバリアントをローカルブラウザピッカーで比較し、採用しなかった選択肢をクリーンアップするCLI
 - [deja](https://github.com/Michaelliv/cc-dejavu) - Claude Codeのbashコマンド履歴を検索・閲覧するCLIツール
 - [grepai](https://github.com/yoanbernabeu/grepai) - AIエージェント向けセマンティック検索とコールグラフ（100%ローカル）
 - [Drift](https://github.com/dadbodgeoff/drift) - モダンコードベース向けAI支援アーキテクチャドリフト検出
@@ -643,6 +655,8 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - Claude Code向けの確実なプロジェクト初期化システム。デフォルトでエージェントチーム、厳密なTDDパイプライン、マルチエンジンコードレビュー、セキュリティファースト
 - [Indie Kit - The AI-Native Next.js Starter Kit](https://github.com/Indie-Kit/nextjs-saas-starter) - Indie Kit Proのオープンソース/ライト版。本番グレードの技術スタックと「AI Context Rules」を組み合わせ、LLM（Cursor、Windsurf、Copilot）がコードベースを理解し、バグなくコードを記述し、プロジェクトを自律的に操作できるようにする
 - [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - 一般的な開発コマンドでのLLMトークン消費を60〜90%削減するCLIプロキシ。単一のRustバイナリで依存関係ゼロ
+- [OpenMythos](https://github.com/kyegomez/OpenMythos) - Claude Mythosアーキテクチャの理論的再構築。利用可能な研究文献を基に第一原理から構築
+- [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - AI駆動開発のための本番アーキテクチャバイブル。FastAPI、Next.js 15、Go 1.22+向けの54の原則をCLAUDE.md、Claude Codeスキル、cursorルールとともに提供
 
 ## スキル
 
@@ -669,3 +683,5 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [pm-skills](https://github.com/product-on-purpose/pm-skills) - agentskills.io仕様に準拠した、24のプラグアンドプレイ型プロダクトマネジメントエージェントスキル（テンプレートとワークフローバンドル付き）
 - [Mysti](https://github.com/DeepMyst/Mysti) - VS Code向けマルチエージェントAIコーディングアシスタント（ブレインストームモード搭載）| Claude Code、Codex、Gemini、Cline、GitHub Copilot |
 - [naming](https://github.com/glacierphonk/naming) - プロダクト、SaaS、ブランド、オープンソースプロジェクトのためのメタファー駆動型ネーミングスキル。記憶に残る意味のある名前を生成する構造化プロセス
+- [unslop](https://github.com/MohamedAbdallah-14/unslop) - エージェント生成テキストからAIライティングパターン（三段論法、emダッシュの多用、ヘッジング、ご機嫌取りの書き出し、過剰使用語彙）を除去するCLIおよびMCPサーバー。Claude Code、Codex、Gemini CLI、Cursorに対応
+- [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - コードを出荷する前に、組織のポリシー、コード品質パターン、セキュリティ要件、フレームワークのベストプラクティスに照らしてコードを検証するコーディングエージェントスキル
