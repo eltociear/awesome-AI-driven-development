@@ -376,6 +376,8 @@ Tools for code review, pull request automation, and team collaboration.
 - [Costrict](https://github.com/zgsm-ai/costrict) - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
 - [ThinkReview](https://github.com/Thinkode/thinkreview-browser-extension) - a production-ready browser extension that brings AI-powered code reviews to GitLab and Azure DevOps.
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - A Claude Code plugin that displays GitHub PR status, CI/CD checks, and merge capability directly in your terminal.
+- [prpack](https://github.com/Lucas2944/prpack) - CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. MIT.
+- [prpack-action](https://github.com/Lucas2944/prpack-action) - GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment.
 
 ## Project & Knowledge Management
 
