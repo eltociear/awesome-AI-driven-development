@@ -357,6 +357,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [SymDex](https://github.com/husnainpk/SymDex) - Code-indexer MCP server for AI agents — 97% fewer tokens per lookup. Supports 13 languages, semantic search, call graph, and cross-repo search.
 - [DebugMCP (MCP Server)](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required on first run via Pollinations and Stable Horde free tiers.
+- [Scalekit](https://scalekit.com/) - Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
 
 ## Code Review & Collaboration
 
