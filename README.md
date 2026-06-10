@@ -64,6 +64,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [opencode(@sst)](https://github.com/sst/opencode) - AI coding agent, built for the terminal
 - [ANON KODE](https://github.com/dnakov/anon-kode) - Terminal-based AI coding tool that can use any model that supports the OpenAI-style API
 - [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Switch Codex CLI and Desktop accounts with isolated CODEX_HOME profiles instead of copying auth files
 - [Gemini Code](https://github.com/raizamartin/gemini-code) - A powerful AI coding assistant for your terminal, powered by Gemini 2.5 Pro with support for other LLM models
 - [AiCode](https://github.com/paul-nameless/aicode) - AI-powered CLI agent for software engineering tasks
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - An interactive command-line interface (CLI) to assist with software development tasks
