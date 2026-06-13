@@ -696,3 +696,4 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [naming](https://github.com/glacierphonk/naming) - プロダクト、SaaS、ブランド、オープンソースプロジェクトのためのメタファー駆動型ネーミングスキル。記憶に残る意味のある名前を生成する構造化プロセス
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - エージェント生成テキストからAIライティングパターン（三段論法、emダッシュの多用、ヘッジング、ご機嫌取りの書き出し、過剰使用語彙）を除去するCLIおよびMCPサーバー。Claude Code、Codex、Gemini CLI、Cursorに対応
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - コードを出荷する前に、組織のポリシー、コード品質パターン、セキュリティ要件、フレームワークのベストプラクティスに照らしてコードを検証するコーディングエージェントスキル
+- [fable-mode](https://github.com/mrtooher/fable-mode) - Fableスタイルのエージェント的振る舞い（明示的な多段階プランニング、サブエージェントへの委譲、自己検証）を有効化するClaudeスキル
