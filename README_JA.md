@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **568個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **570個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -228,6 +228,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [ORCH](https://github.com/oxgeneral/ORCH) - Claude Code、Codex、Cursor エージェントチームのためのCLIオーケストレーター。ステートマシン、自動リトライ、エージェント間メッセージング、TUIダッシュボード。TypeScript、MIT。
 - [Asynkor](https://github.com/asynkor/asynkor) - AIエージェントチームの協調レイヤー。ファイルリース、共有メモリ、マシン間同期。Claude Code、Cursor、Windsurf向けMCPサーバー
 - [evo](https://github.com/evo-hq/evo) - Claude CodeとCodex用プラグイン。コードベースをオートリサーチループに変換 — 計測対象を発見し、ベンチマークを計装、並列サブエージェントでツリー探索を実行
+- [Omnigent](https://github.com/omnigent-ai/omnigent) - すべてのAIエージェント向けのメタハーネス。Claude Code、Codex、Pi、そして自作のエージェントに対する共通レイヤーを提供する
 
 ## コード生成 & 自動化
 
@@ -697,3 +698,4 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - エージェント生成テキストからAIライティングパターン（三段論法、emダッシュの多用、ヘッジング、ご機嫌取りの書き出し、過剰使用語彙）を除去するCLIおよびMCPサーバー。Claude Code、Codex、Gemini CLI、Cursorに対応
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - コードを出荷する前に、組織のポリシー、コード品質パターン、セキュリティ要件、フレームワークのベストプラクティスに照らしてコードを検証するコーディングエージェントスキル
 - [fable-mode](https://github.com/mrtooher/fable-mode) - Fableスタイルのエージェント的振る舞い（明示的な多段階プランニング、サブエージェントへの委譲、自己検証）を有効化するClaudeスキル
+- [Ponytail](https://github.com/DietrichGebert/ponytail) - AIエージェントを部屋で一番怠惰なシニア開発者のように考えさせる。最良のコードとは、書かずに済んだコードである。
