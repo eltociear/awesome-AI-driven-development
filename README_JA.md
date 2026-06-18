@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **572個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -366,6 +366,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [DebugMCP (MCP Server)](https://github.com/microsoft/DebugMCP) - VS Codeエージェントに本格的なデバッガーを提供：ブレークポイント、ステッピング、インスペクション
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - 30以上の画像生成モデル間でリクエストをルーティングし、本番環境向けビジュアルアセット（アプリアイコン、ファビコン、OG画像、ロゴ、ワードマーク）を生成するMCPサーバー。PollinationsとStable Hordeの無料枠を利用して初回実行時にAPIキーが不要
 - [Scalekit](https://scalekit.com/) - 委任OAuth、セキュアトークンボールト、3000以上のコネクタを備えたAIエージェント向けの認証・ツール呼び出しインフラ
+- [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - AIコーディングエージェント向けの最速かつ最も効率的なコードインテリジェンスエンジン。平均的なリポジトリをミリ秒で、Linuxカーネル（2800万行、7万5千ファイル）を3分で完全インデックス化する。
 
 ## コードレビュー & コラボレーション
 
@@ -496,6 +497,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - AI支援開発向け高規律エージェントワークフロー。永続コンテキストによるAnalyze、Run、Confirm（ARC）プロジェクト実行
 - [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - ステートフルメモリ、ライブWebアクセス、疑似自己改善などを備えた完全自律AI開発エージェント
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - 寝ている間に動く自律コード最適化（Claude Codeによるオートリサーチ）。メトリクスを定義し、コードを指定して就寝。正確性を毎ステップ検証しながら、より速く、より小さく、より良いシステムに目覚める
+- [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - AIコーディングエージェント向けの自己進化型ソフトウェア開発ライフサイクル（SDLC）強制システム。Claudeにコーディング前のプランニング、出荷前のテスト、不確かなときの質問を促す。時間とともに自身が改善していく様子を測定する。
 
 ## コード解析 & 検索
 
