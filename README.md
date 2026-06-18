@@ -538,6 +538,7 @@ Tools for analyzing, searching, and understanding codebases.
 Specialized AI tools for specific development domains and tasks.
 
 ### Git & Version Control
+- [Source Trace](https://srctrace.com) - AI git blame for every commit: see which lines came from AI and which model wrote them. Compare models by amount of code written pre-commit, committed, and survived in codebase. Teams can use dashboard to track adoption and AI metrics. Zero-config VS Code extension, no git or agent hooks required.
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - A CLI tool that generates AI-based git commit messages
 - [commit](https://github.com/wajeht/commit) - Generate conventional commits with ai
 - [lazycommit](https://github.com/m7medVision/lazycommit) - Using AI to generate commit message suggestions
