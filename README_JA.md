@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **575個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -231,6 +231,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Omnigent](https://github.com/omnigent-ai/omnigent) - すべてのAIエージェント向けのメタハーネス。Claude Code、Codex、Pi、そして自作のエージェントに対する共通レイヤーを提供する
 - [Universal Fusion Plugin 🧠](https://github.com/ProxyAyush/antigravity-fusion-plugin) - Google Antigravity CLI向けのマルチモデルフュージョン。複数のモデル（例：Gemini 3.5 Flash、Gemini 3.1 Proなど）に並列で問い合わせ、その回答を1つに統合・評価して実行する
 - [Swarm](https://github.com/DheerG/swarms) - 成果ベースの指示でエージェントチーム/スワームを活用し、結果を大幅に改善するコマンド群を提供するプラグイン。コーディングタスクにも非コーディングタスクにもよく機能する。
+- [zeroshot](https://github.com/covibes/zeroshot) - プランナー、実装者、独立した検証者を隔離環境（ローカル、git worktree、Docker）で実行し、変更が検証されるか再現可能な失敗で却下されるまでループする。Claude、Codex、Gemini、OpenCodeの各CLIに対応。
 
 ## コード生成 & 自動化
 
