@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **575個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -503,6 +503,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 
 コードベースの解析、検索、理解のためのツール。
 
+- [AI Badger](https://github.com/PVRLabs/aibadger) - コードベースをマッピングし、AIがリクエストしたコンテキストのみを抽出するローカルファーストのCLI/TUIブリッジ。APIキー、テレメトリー、リポジトリ全体のアップロードは不要
 - [cody](https://github.com/sourcegraph/cody) - タイピング削減、コーディング増進：Codyは高度検索とコードベースコンテキストを使用してコード記述・修正を支援するAIコードアシスタント
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - ローカルファーストセマンティックコード検索エンジン
 - [VectorCode](https://github.com/Davidyz/VectorCode) - コードリポジトリインデックスツール。リポジトリのインデックス化と情報提供により、コーディングLLM向けの優れたプロンプト記述を支援

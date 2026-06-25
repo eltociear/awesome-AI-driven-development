@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **574 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **575 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -502,6 +502,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 
 Tools for analyzing, searching, and understanding codebases.
 
+- [AI Badger](https://github.com/PVRLabs/aibadger) - Local-first CLI/TUI bridge that maps your codebase and extracts only the context the AI requests for any chat — no API keys, telemetry, or full-repo upload
 - [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - Local-first semantic code search engine
 - [VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool. It helps you write better prompt for your coding LLMs by indexing and providing information about the code repository you're working on
