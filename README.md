@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **574 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **575 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -532,6 +532,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [Drift](https://github.com/dadbodgeoff/drift) - AI-augmented architectural drift detection for modern codebases
 - [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - The world's first agentic reverse engineer.
+- [skillreaper](https://github.com/thousandflowers/skillreaper) - A 100% local CLI that scans your AI coding agent's session transcripts (Claude Code, Codex, etc.) to find skills, MCP servers, and agents that load into context but never fire, quantifies the wasted tokens/cost, and prunes the dead weight reversibly. Single Go binary, zero telemetry.
 
 ## Domain-Specific Tools
 
@@ -568,7 +569,6 @@ Specialized AI tools for specific development domains and tasks.
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - This repository serves as a central place to store, organize, and share effective prompts for various AI models
 - [zoltraak](https://github.com/dai-motoki/zoltraak) - A prompt compiler system that converts natural language into an execution language
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
-- [skillreaper](https://github.com/thousandflowers/skillreaper) - CLI that reads real session transcripts to find skills, MCP servers, and agents loaded but never fired, then safely quarantines them. Supports Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, MIT.
 
 ### Copilot Extensions & Alternatives
 - [copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond
