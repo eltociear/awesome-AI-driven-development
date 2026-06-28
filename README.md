@@ -568,6 +568,7 @@ Specialized AI tools for specific development domains and tasks.
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - This repository serves as a central place to store, organize, and share effective prompts for various AI models
 - [zoltraak](https://github.com/dai-motoki/zoltraak) - A prompt compiler system that converts natural language into an execution language
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
+- [skillreaper](https://github.com/thousandflowers/skillreaper) - CLI that reads real session transcripts to find skills, MCP servers, and agents loaded but never fired, then safely quarantines them. Supports Claude Code, Codex CLI, Hermes, OpenCode, Cursor, and OpenClaw. Zero telemetry, MIT.
 
 ### Copilot Extensions & Alternatives
 - [copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond
