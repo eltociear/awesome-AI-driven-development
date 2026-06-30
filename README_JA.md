@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **575個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -261,6 +261,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Shadow Code](https://github.com/adifyr/shadow-code) - 人間が書いた擬似コードをターゲット言語のクリーンで正確な本番対応コードに変換するAIコーディング技術（少なくとも、それがシステムプロンプトでAIに指示した内容）
 - [InsForge](https://github.com/InsForge/InsForge) - AIコーディングエージェントとAIコードエディタ向けに構築されたバックエンド開発プラットフォーム
 - [Forge](https://github.com/sudo-rebase/forge) - AIパワードフルスタックアプリ作成ツール。自然言語からプロダクション対応のNext.jsアプリを生成。BYOK — Anthropic、OpenAI、Google AIの自前キーをマークアップなしで使用可能
+- [AI Agent Automations](https://github.com/ChmaraX/ai-agent-automations) - コード保守、CI、セキュリティ、調査、運用にまたがるCodex、Claude Code、Cursor、OpenCode向けワークフロー用の厳選された自動化プロンプト集
 
 ## テスト & セキュリティ
 
