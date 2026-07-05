@@ -702,3 +702,7 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - a coding agent skill that verifies code against organizational policies, code quality patterns, security requirements, and framework best practices — before code ships.
 - [fable-mode](https://github.com/mrtooher/fable-mode) - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+## Context & Memory Management
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 PCA Markdown templates + 5 Claude Code skills that load personal context into every AI session. Eliminates context amnesia. MIT.
