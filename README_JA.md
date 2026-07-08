@@ -3,7 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **575個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -433,6 +433,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Nemp Memory](https://github.com/SukinShetty/Nemp-memory) - Claude Code向け100%ローカルメモリ • プライバシー第一 • ゼロセットアップ
 - [🏗️ Vibe Architect](https://github.com/mohdhd/vibe-architect) - AI搭載プロジェクト仕様生成ツール。アイデアから実装可能な仕様を数分で作成。マルチモデル対応（GPT-5.2、Gemini 3、Claude）、ライブデザインプレビュー、音声入力、Markdownエクスポート
 - [MemoryAgent](https://github.com/IIIIQIIII/MemoryAgent) - データベースなしでコーディングエージェントが自身のメモリを管理できるようにするツール
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - AIコーディングエージェント向けの自己更新型リポジトリWiki。プロジェクトの会話とコンテキストをローカルで追跡します。
 - [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - 一般的なプロジェクトタイプ向けの無料のCLAUDE.md、Cursorルール、PRPテンプレート集。すぐに使える5つのパックでAIコーディングアシスタントを実用化
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - AIコーディングコンテキストファイル（CLAUDE.md、.cursorrules、AGENTS.md）のセキュリティ問題、構造的問題、AIアンチパターンを検出するGitHub Action
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - 任意のURLをLLM向けのクリーンなMarkdownに変換。無料API、サインアップ不要
