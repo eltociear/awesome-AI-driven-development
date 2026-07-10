@@ -1,3 +1,5 @@
+### [Join us online for two days of cutting-edge insights at the AI-Driven Development Conference 2026 Summer!](https://aid.connpass.com/event/392229/)
+
 ![Logo](/logo.png)
 # 🤖 Awesome AI-Driven Development
 
