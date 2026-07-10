@@ -1,3 +1,5 @@
+### [AI駆動開発の最前線が集結する2日間！「AI駆動開発カンファレンス 2026夏」オンライン参加受付中！](https://aid.connpass.com/event/392229/)
+
 ![Logo](/logo.png)
 # 🤖 Awesome AI-Driven Development
 
