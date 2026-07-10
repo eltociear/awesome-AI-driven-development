@@ -542,6 +542,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [grepai](https://github.com/yoanbernabeu/grepai) - AIエージェント向けセマンティック検索とコールグラフ（100%ローカル）
 - [Drift](https://github.com/dadbodgeoff/drift) - モダンコードベース向けAI支援アーキテクチャドリフト検出
 - [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - 世界初のエージェント型リバースエンジニアリングツール
+- [skillreaper](https://github.com/thousandflowers/skillreaper) - AIコーディングエージェントのセッション記録（Claude Code、Codexなど）を解析し、コンテキストに読み込まれるものの一度も発火しないスキル・MCPサーバー・エージェントを検出する100%ローカルのCLI。無駄になったトークン/コストを定量化し、不要なものを可逆的に削除できる。単一のGoバイナリで、テレメトリは一切なし
 
 ## ドメイン固有ツール
 

@@ -541,6 +541,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [Drift](https://github.com/dadbodgeoff/drift) - AI-augmented architectural drift detection for modern codebases
 - [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - The world's first agentic reverse engineer.
+- [skillreaper](https://github.com/thousandflowers/skillreaper) - A 100% local CLI that scans your AI coding agent's session transcripts (Claude Code, Codex, etc.) to find skills, MCP servers, and agents that load into context but never fire, quantifies the wasted tokens/cost, and prunes the dead weight reversibly. Single Go binary, zero telemetry.
 
 ## Domain-Specific Tools
 
