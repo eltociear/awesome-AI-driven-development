@@ -441,6 +441,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Nemp Memory](https://github.com/SukinShetty/Nemp-memory) - 100% Local Memory for Claude Code • Privacy-First • Zero Setup
 - [🏗️ Vibe Architect](https://github.com/mohdhd/vibe-architect) - AI-powered project spec generator — go from idea to implementation-ready spec in minutes. Multi-model support (GPT-5.2, Gemini 3, Claude), live design previews, voice input, and export to markdown.
 - [MemoryAgent](https://github.com/IIIIQIIII/MemoryAgent) - Letting Coding Agents manage their own memory without databases.
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - Self-updating repo wiki for AI coding agents that tracks project conversations and context locally.
 - [AI Context Templates](https://github.com/MrDwarf7/ai-context-templates) - Free CLAUDE.md, Cursor rules, and PRP templates for common project types. 5 ready-to-use packs that make AI coding assistants actually useful.
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - Any URL to clean markdown for LLMs. Free API, no signup.
