@@ -171,7 +171,6 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Windows上のVSCode向けオフラインAIペアプログラマー
 - [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - GitHub Copilotの機能を模倣するローカルAIコーディングアシスタント。Ollama経由でローカルLLM（deepseek-coder:6.7b）を使用してインテリジェントなコード補完とコンテキスト認識実装を提供
 - [eca](https://github.com/editor-code-assistant/eca) - エディタに依存しないAIペアプログラミング機能
-- [ORCH](https://github.com/oxgeneral/ORCH) - Claude Code、Codex、Cursor エージェントチームのためのCLIオーケストレーター。ステートマシン、自動リトライ、エージェント間メッセージング、TUIダッシュボード。TypeScript、MIT。
 
 ## マルチエージェント & オーケストレーション
 

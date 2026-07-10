@@ -171,7 +171,6 @@ Plugins and extensions for popular IDEs and text editors.
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows
 - [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - a local AI coding assistant that mimics the functionality of GitHub Copilot. It provides intelligent code completions and context-aware implementations using a local LLM (deepseek-coder:6.7b) running via Ollama.
 - [eca](https://github.com/editor-code-assistant/eca) - AI pair programming capabilities agnostic of editor
-- [ORCH](https://github.com/oxgeneral/ORCH) — CLI orchestrator for Claude Code, Codex, Cursor agent teams. State machine, auto-retry, inter-agent messaging, TUI dashboard. TypeScript, MIT.
 
 ## Multi-Agent & Orchestration
 
