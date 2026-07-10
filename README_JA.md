@@ -4,6 +4,7 @@
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
 AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **568個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -48,6 +49,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - AIエージェント時代のターミナル中心IDE
 - [SquirlIDE](https://github.com/krishnak19a-del/SquirlIDE) - Tauri（Rust）をバックエンド、ReactJSをフロントエンドに使用した軽量クロスプラットフォームコードエディタ。コードアシスタンスとテキスト生成のためのGemini API経由のLLM統合を搭載
 - [Frontman](https://github.com/frontman-ai/frontman) - ブラウザ上で動作するオープンソースAIコーディングエージェント。ミドルウェアとして開発サーバーに接続し、ライブDOM、コンポーネントツリー、CSS、ルート、サーバーログを認識。任意の要素をクリックして変更を自然言語で記述すると、ホットリロード付きでソースコードを編集
+- [Cate](https://github.com/0-AI-UG/cate) - 無限ズームキャンバス上のオープンソースIDE。エディタ、ターミナル、ブラウザ、AIエージェント（Claude Code）のパネルをタブの代わりに空間的に配置。Electron、React、TypeScriptで構築
 - [Nimbalyst](https://nimbalyst.com) - CodexとClaude Codeで構築するためのビジュアルワークスペース。セッション・タスク管理、マークダウン・モックアップ・CSV・Excalidraw・Mermaid・コードのビジュアル編集
 - [Devin](https://devin.ai/) - 開発者がより良いソフトウェアをより速く構築するためのAIコーディングエージェント兼ソフトウェアエンジニア。本格的なエンジニアリングチーム向けの並列クラウドエージェント
 - [Windsurf Editor](https://windsurf.com/editor) - 初のエージェント型IDE。開発者とAIの作業が真に融合し、まるで魔法のようなコーディング体験を実現
