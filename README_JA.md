@@ -682,6 +682,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [SWE-Pruner](https://github.com/Ayanami1314/swe-pruner) - コーディングエージェント向けの自己適応型コンテキスト刈り込みツール。関連するコード行を動的に選択する軽量ニューラルライブラリで、SWE-Bench Verifiedで23〜54%のトークン削減を実現
 - [CCBot](https://github.com/six-ddc/ccbot) - Telegramを通じてClaude Codeセッションをリモート制御 — tmuxで実行中のAIコーディングセッションを監視、操作、管理
 - [Claude Bootstrap](https://github.com/alinaqi/claude-bootstrap) - Claude Code向けの確実なプロジェクト初期化システム。デフォルトでエージェントチーム、厳密なTDDパイプライン、マルチエンジンコードレビュー、セキュリティファースト
+- [Cosmosmith](https://github.com/devnomad-byte/cosmosmith) - AGENTS.md、task.md、proposal/designテンプレート、Claude Code・Cursor・Copilot・OpenCode・Trae向けアダプターを生成するマルチエージェントワークフロー初期化ツール
 - [Indie Kit - The AI-Native Next.js Starter Kit](https://github.com/Indie-Kit/nextjs-saas-starter) - Indie Kit Proのオープンソース/ライト版。本番グレードの技術スタックと「AI Context Rules」を組み合わせ、LLM（Cursor、Windsurf、Copilot）がコードベースを理解し、バグなくコードを記述し、プロジェクトを自律的に操作できるようにする
 - [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - 一般的な開発コマンドでのLLMトークン消費を60〜90%削減するCLIプロキシ。単一のRustバイナリで依存関係ゼロ
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - Claude Mythosアーキテクチャの理論的再構築。利用可能な研究文献を基に第一原理から構築
