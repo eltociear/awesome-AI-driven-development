@@ -3,10 +3,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **568個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **573個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **575個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **588個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -301,6 +298,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [AWB (AI Workflow Benchmark)](https://github.com/xmpuspus/ai-workflow-benchmark) - 固定コミットSHAの実OSSタスク100件でAIコーディングワークフローを評価するオープンソースベンチマーク。9つのアダプター（Claude Codeバニラ／カスタム、Cursor、Aider、Gemini CLI、Codex CLI、Windsurf、Copilot、Pi）に対応。7つの能力次元とコスト規律でスコアリングし、OpenTelemetry準拠のトレース成果物とProduction Readiness Scoreを提供
 - [aiignore-cli](https://github.com/yjcho9317/aiignore-cli) - 7つのAIコーディングツールのignore設定を自動生成・検証するCLI。ツールごとのバイパステスト結果に基づく
 - [Clearwing](https://github.com/Lazarus-AI/clearwing) - 自律型脆弱性スキャナー＆ソースコードハンター。`genai-pyo3`（ネイティブRustバックエンドLLMランタイム）上に構築され、Anthropic、OpenAI、OpenRouter、Ollama、LM Studio、Together、Groq、DeepSeek、MiniMax、Gemini、OpenAI互換エンドポイントなど主要プロバイダーに対応
+- [Future AGI](https://github.com/future-agi/future-agi) - LLM・AIエージェントアプリのシミュレーション、評価、トレース、ガードレール、ルーティング、最適化を1つのフィードバックループで実現するオープンソースプラットフォーム。監視だけでなくエージェントの自己改善を可能にする。セルフホスト可能。Apache-2.0
 - [traceAI](https://github.com/future-agi/traceAI) - LLM・エージェントアプリ向けのオープンソースOpenTelemetryネイティブトレーシング。Python、TypeScript、Java、C#の50以上のフレームワーク（OpenAI、Anthropic、LangChain、LlamaIndex、CrewAI、Bedrock）を自動計装。ベンダーロックインなし
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - 50以上のメトリクス、LLM-as-Judge補強、ガードレールスキャナー（ジェイルブレイク、PII、プロンプトインジェクション）を備えたオープンソースLLM評価フレームワーク。CI/CD対応のAutoEvalパイプライン
 
@@ -546,6 +544,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Drift](https://github.com/dadbodgeoff/drift) - モダンコードベース向けAI支援アーキテクチャドリフト検出
 - [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - 世界初のエージェント型リバースエンジニアリングツール
 - [skillreaper](https://github.com/thousandflowers/skillreaper) - AIコーディングエージェントのセッション記録（Claude Code、Codexなど）を解析し、コンテキストに読み込まれるものの一度も発火しないスキル・MCPサーバー・エージェントを検出する100%ローカルのCLI。無駄になったトークン/コストを定量化し、不要なものを可逆的に削除できる。単一のGoバイナリで、テレメトリは一切なし
+- [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - コードベースをインデックス化し、コンパクトで関連性の高いスニペットを返してコーディングエージェントのコンテキスト使用量を削減するAST/tree-sitterコード検索エンジン兼MCPサーバー
 
 ## ドメイン固有ツール
 
