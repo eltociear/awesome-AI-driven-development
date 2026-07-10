@@ -541,6 +541,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 特定の開発ドメインとタスク向けの専門AIツール。
 
 ### Git・バージョン管理
+- [Source Trace](https://srctrace.com) - コミットごとにAI gitブレームを提供：どの行がAIによるものか、どのモデルが書いたかを表示。コード生成量・コミット済み・コードベースに残存した量でモデルを比較。チームダッシュボードで導入状況とAIメトリクスを追跡。設定不要のVS Code拡張機能。
 - [ai-commit-tool](https://github.com/awkwardlysocial/ai-commit-tool) - AIベースgitコミットメッセージを生成するCLIツール
 - [commit](https://github.com/wajeht/commit) - AIで従来型コミットを生成
 - [lazycommit](https://github.com/m7medVision/lazycommit) - AIを使用してコミットメッセージ提案を生成
