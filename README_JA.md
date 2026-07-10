@@ -509,6 +509,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 
 コードベースの解析、検索、理解のためのツール。
 
+- [AI Badger](https://github.com/PVRLabs/aibadger) - コードベースをマッピングし、AIがリクエストしたコンテキストのみを抽出するローカルファーストのCLI/TUIブリッジ。APIキー、テレメトリー、リポジトリ全体のアップロードは不要
 - [cody](https://github.com/sourcegraph/cody) - タイピング削減、コーディング増進：Codyは高度検索とコードベースコンテキストを使用してコード記述・修正を支援するAIコードアシスタント
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - ローカルファーストセマンティックコード検索エンジン
 - [VectorCode](https://github.com/Davidyz/VectorCode) - コードリポジトリインデックスツール。リポジトリのインデックス化と情報提供により、コーディングLLM向けの優れたプロンプト記述を支援
