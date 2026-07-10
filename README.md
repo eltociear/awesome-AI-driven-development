@@ -532,6 +532,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [grepai](https://github.com/yoanbernabeu/grepai) - Semantic Search & Call Graphs for AI Agents (100% Local)
 - [Drift](https://github.com/dadbodgeoff/drift) - AI-augmented architectural drift detection for modern codebases
 - [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - The world's first agentic reverse engineer.
+- [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - AST/tree-sitter code search engine and MCP server that indexes a codebase and returns compact, relevant snippets to reduce coding-agent context usage
 
 ## Domain-Specific Tools
 
