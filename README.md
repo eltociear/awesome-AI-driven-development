@@ -5,6 +5,7 @@
 
 A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **574 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **568 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **573 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -258,6 +259,7 @@ Tools for generating code, automating development tasks, and creating project te
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Coding Full-stack App Starter Template
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - A REST API for managing superheroes, implemented with Node.js and TypeScript. This project provides a simple backend for the "Tour of Heroes" application with endpoints to get, create, update, and delete hero data.
 - [AI Website Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - This AI-powered website builder transforms natural language prompts into fully functional React components using Next.js, Tailwind CSS, and Gemini AI.
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - Web tool for planning Roblox Studio ScreenGui hierarchies, HUD and menu layouts, and Lua UI starter code from prompts.
 - [Compose-Lang](https://github.com/darula-hpp/compose-lang) - An LLM-assisted compiler for architecture specifications. Define your application in structured .compose files, and the compiler generates framework-specific code through LLM-powered code generation with reproducible builds via caching.
 - [Shadow Code](https://github.com/adifyr/shadow-code) - an AI coding technique that involves transforming human-written pseudocode to clean, accurate & production-ready code in the target language. (At least, that's what I've told the AI to do in the system prompt.)
 - [InsForge](https://github.com/InsForge/InsForge) - A backend development platform built for AI coding agents and AI code editors.

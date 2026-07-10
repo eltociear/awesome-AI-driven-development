@@ -5,6 +5,7 @@
 
 AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **574個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **568個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **573個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -257,6 +258,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Tour of Heroes API](https://github.com/0GiS0/tour-of-heroes-with-gh-copilot-coding-agent) - スーパーヒーローを管理するREST API、Node.jsとTypeScriptで実装。ヒーローデータの取得、作成、更新、削除のエンドポイントを備えた「Tour of Heroes」アプリケーション用シンプルバックエンド
 - [Legacy2Modern (L2M)](https://github.com/astrio-ai/legacy2modern) - レガシーCOBOLコードを現代的でメンテナンス可能なPythonアプリケーションに変換するオープンソースエンジン
 - [AI Website Builder](https://github.com/Ratna-Babu/Ai-Website-Builder) - 自然言語プロンプトをNext.js、Tailwind CSS、Gemini AIを使用して完全に機能するReactコンポーネントに変換するAI搭載ウェブサイトビルダー
+- [Roblox GUI Maker](https://robloxguimaker.dev/) - プロンプトからRoblox StudioのScreenGui階層、HUDとメニュー配置、Lua UIスターターコード案を計画するWebツール
 - [Compose-Lang](https://github.com/darula-hpp/compose-lang) - アーキテクチャ仕様用のLLM支援コンパイラ。構造化された.composeファイルでアプリケーションを定義し、キャッシュによる再現可能なビルドでLLM駆動のコード生成を通じてフレームワーク固有のコードを生成
 - [RooFlow Cookiecutter Template](https://github.com/hheydaroff/RooFlow-Cookiecutter) - RoocodeにRooflowを簡単に適用するテンプレート
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
