@@ -274,6 +274,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 
 - [qodo-cover](https://github.com/qodo-ai/qodo-cover) - An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞
 - [shortest](https://github.com/anti-work/shortest) - QA via natural language AI tests
+- [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection before shipping.
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world's first open-source testing agent, built to handle the toughest testing tasks so you don't have to
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents

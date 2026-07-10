@@ -275,6 +275,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 
 - [qodo-cover](https://github.com/qodo-ai/qodo-cover) - 自動テスト生成とコードカバレッジ向上向けAI搭載ツール！💻🤖🧪🐞
 - [shortest](https://github.com/anti-work/shortest) - 自然言語AIテストによるQA
+- [agent-qa](https://github.com/vostride/agent-qa) - Web/モバイルアプリ向けの自己改善QAエージェント。自然言語テスト、実行メモリ、UI変化への適応、出荷前のリグレッション検出に対応。
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - オープンソース、言語非依存自動テスト生成 + LLMミューテーションテスト
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 最も困難なテスト業務を処理する世界初のオープンソーステストエージェント、Hercules
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
