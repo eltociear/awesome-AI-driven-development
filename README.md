@@ -266,6 +266,7 @@ Tools for generating code, automating development tasks, and creating project te
 - [Shadow Code](https://github.com/adifyr/shadow-code) - an AI coding technique that involves transforming human-written pseudocode to clean, accurate & production-ready code in the target language. (At least, that's what I've told the AI to do in the system prompt.)
 - [InsForge](https://github.com/InsForge/InsForge) - A backend development platform built for AI coding agents and AI code editors.
 - [Forge](https://github.com/sudo-rebase/forge) - AI-powered full-stack app creator. Generate production-ready Next.js apps from natural language. BYOK — use your own Anthropic, OpenAI, or Google AI key with no markup.
+- [AI Agent Automations](https://github.com/ChmaraX/ai-agent-automations) - Curated automation prompt library for Codex, Claude Code, Cursor, and OpenCode workflows across code maintenance, CI, security, research, and operations.
 
 ## Testing & Security
 

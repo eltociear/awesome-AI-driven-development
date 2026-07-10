@@ -267,6 +267,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Shadow Code](https://github.com/adifyr/shadow-code) - 人間が書いた擬似コードをターゲット言語のクリーンで正確な本番対応コードに変換するAIコーディング技術（少なくとも、それがシステムプロンプトでAIに指示した内容）
 - [InsForge](https://github.com/InsForge/InsForge) - AIコーディングエージェントとAIコードエディタ向けに構築されたバックエンド開発プラットフォーム
 - [Forge](https://github.com/sudo-rebase/forge) - AIパワードフルスタックアプリ作成ツール。自然言語からプロダクション対応のNext.jsアプリを生成。BYOK — Anthropic、OpenAI、Google AIの自前キーをマークアップなしで使用可能
+- [AI Agent Automations](https://github.com/ChmaraX/ai-agent-automations) - コード保守、CI、セキュリティ、調査、運用にまたがるCodex、Claude Code、Cursor、OpenCode向けワークフロー用の厳選された自動化プロンプト集
 
 ## テスト & セキュリティ
 
