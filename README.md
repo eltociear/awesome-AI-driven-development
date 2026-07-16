@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **588 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **589 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -288,6 +288,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [VulnViper](https://github.com/anshulyadav1976/VulnViper) - An intelligent security auditing tool designed to help developers identify and understand potential vulnerabilities in their Python codebases
 - [codegate](https://github.com/stacklok/codegate) - A local gateway that makes AI coding assistants safer
 - [AgentLint](https://github.com/0xmariowu/AgentLint) - 33 evidence-backed checks for AI-friendly repos — file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix.
+- [Agent-Ready Repo Auditor](https://github.com/wrightops-ai/agent-ready-repo-auditor) - Dependency-free CLI, library, and GitHub Action that scores public repository evidence for Codex, Claude Code, Copilot, and Cursor readiness without cloning or executing code.
 - [vibelint](https://github.com/mithranm/vibelint) - Make codebases more LLM friendly
 - [Vibe Security](https://github.com/astoj/vibe-security) - A comprehensive security checklist for vibe coders
 - [Strix](https://github.com/usestrix/strix) - Open-source AI hackers for your apps

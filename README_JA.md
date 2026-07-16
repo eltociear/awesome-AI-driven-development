@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **588個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **589個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -289,6 +289,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [VulnViper](https://github.com/anshulyadav1976/VulnViper) - Pythonコードベース内の潜在的脆弱性の特定と理解を支援するインテリジェントセキュリティ監査ツール
 - [codegate](https://github.com/stacklok/codegate) - AIコーディングアシスタントを安全にするローカルゲートウェイ
 - [AgentLint](https://github.com/0xmariowu/AgentLint) - AIフレンドリーなリポジトリのための33のエビデンスベースチェック — ファイル構造、指示品質、ビルド設定、セッション継続性、セキュリティ態勢。Claude Codeプラグインで自動修正対応
+- [Agent-Ready Repo Auditor](https://github.com/wrightops-ai/agent-ready-repo-auditor) - 公開リポジトリをクローンしたりコードを実行したりせず、Codex、Claude Code、Copilot、Cursor向けの準備状況をエビデンスに基づいて採点する、依存関係のないCLI、ライブラリ、GitHub Action。
 - [vibelint](https://github.com/mithranm/vibelint) - コードベースをLLMフレンドリーにする
 - [Vibe Security](https://github.com/astoj/vibe-security) - Vibeコーダー向け包括的セキュリティチェックリスト
 - [Strix](https://github.com/usestrix/strix) - 「AIハッカー」として機能するオープンソースのセキュリティエージェント。開発ワークフローに統合し、アプリケーションの脆弱性を能動的にテスト・発見する。ローカルで実行し、継続的なセキュリティテストを自動化できる
