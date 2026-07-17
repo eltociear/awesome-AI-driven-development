@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **588 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **589 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -390,6 +390,7 @@ Tools for code review, pull request automation, and team collaboration.
 - [Costrict](https://github.com/zgsm-ai/costrict) - strict AI coder for enterprises, quality first, including AI Agent, AI CodeReview, AI Completion.
 - [ThinkReview](https://github.com/Thinkode/thinkreview-browser-extension) - a production-ready browser extension that brings AI-powered code reviews to GitLab and Azure DevOps.
 - [LegacyDoc AI](https://www.romanticode.com/tools/ai-code-audit-report/) - Audits AI-generated code inside VS Code and produces architecture notes, risk areas, cleanup priorities, and an AI-ready context pack
+- [Aura](https://github.com/Naridon-Inc/aura) - Semantic layer on top of Git for reviewing AI-generated code with intent, provenance, semantic blast radius, AI usage tracking, and function-level rewind.
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - A Claude Code plugin that displays GitHub PR status, CI/CD checks, and merge capability directly in your terminal.
 - [prpack](https://github.com/Lucas2944/prpack) - CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. MIT.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment.
