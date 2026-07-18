@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **590個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **591個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -617,6 +617,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - Claude Codeを最大限活用するための完全ガイド：グローバルCLAUDE.md、MCPサーバー、コマンド、フック、スキル、そして単一目的チャットが重要な理由
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - ジュニアエンジニア向けAIメンター開発。Claudeはコーダーではなくメンターとして機能し、質問で導き、6つのゲートでレビューしつつ、すべてのコードはあなた自身が書く。依存を減らし、オーナーシップを高める
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - 245以上のVibeコーディングツール、プラットフォーム、リソースのキュレーションリスト。カテゴリ別に整理され、料金、ユースケース、チュートリアル、コミュニティ情報を含む
+- [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - OWASP GenAI Security ProjectによるLLM・エージェントアプリケーションの最重要セキュリティリスクのコンセンサスリスト。AI駆動システムを構築する開発者向けの緩和策ガイダンスを含む
 
 ## フレームワーク & ライブラリ
 
