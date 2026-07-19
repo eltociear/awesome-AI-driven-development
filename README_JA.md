@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **591個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **592個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -393,6 +393,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Costrict](https://github.com/zgsm-ai/costrict) - エンタープライズ向けの厳格なAIコーダー、品質優先、AIエージェント、AIコードレビュー、AI補完を含む
 - [ThinkReview](https://github.com/Thinkode/thinkreview-browser-extension) - GitLabとAzure DevOpsにAI駆動のコードレビューをもたらす本番環境対応のブラウザ拡張機能
 - [LegacyDoc AI](https://www.romanticode.com/tools/ai-code-audit-report/) - VS Code内でAI生成コードを監査し、アーキテクチャノート、リスク箇所、クリーンアップ優先度、AI-ready context packを生成するツール
+- [Aura](https://github.com/Naridon-Inc/aura) - Git上に構築されたセマンティックレイヤー。AI生成コードの意図、来歴、セマンティックな影響範囲、AI使用量追跡、関数単位の巻き戻しを支援する
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - GitHub PRステータス、CI/CDチェック、マージ可能性をターミナルで直接表示するClaude Codeプラグイン
 - [prpack](https://github.com/Lucas2944/prpack) - プルリクエスト（差分＋コミット＋変更後の全ファイル内容）をLLMコードレビューに最適化された1つのMarkdownファイルにパックするCLI。MITライセンス
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - すべてのPRでprpackを実行し、パックされたMarkdownをアーティファクトとしてアップロードし、サマリーコメントを投稿するGitHub Action
