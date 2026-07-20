@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **592 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **593 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -618,6 +618,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - The complete guide to maximizing Claude Code: Global CLAUDE.md, MCP Servers, Commands, Hooks, Skills, and Why Single-Purpose Chats Matter.
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - AI-mentored development for junior engineers. Claude becomes your mentor, not your coder — guiding with questions, reviewing via 6 Gates, but YOU write every line. Less dependency, more ownership.
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ vibe coding tools, platforms, and resources organized by category with pricing, use cases, tutorials, and communities
+- [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - The OWASP GenAI Security Project's consensus list of the most critical security risks in LLM and agentic applications, with mitigation guidance for developers building AI-driven systems
 
 ## Frameworks & Libraries
 
