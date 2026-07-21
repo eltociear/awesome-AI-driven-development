@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **593個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **594個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -235,6 +235,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Swarm](https://github.com/DheerG/swarms) - 成果ベースの指示でエージェントチーム/スワームを活用し、結果を大幅に改善するコマンド群を提供するプラグイン。コーディングタスクにも非コーディングタスクにもよく機能する。
 - [zeroshot](https://github.com/the-open-engine/zeroshot) - プランナー、実装者、独立した検証者を隔離環境（ローカル、git worktree、Docker）で実行し、変更が検証されるか再現可能な失敗で却下されるまでループする。Claude、Codex、Gemini、OpenCodeの各CLIに対応。
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - タスク委譲、エージェント間メッセージング、カンバンボード、コードレビューを備え、複数のエージェント実行環境に対応するオープンソースの自律型コーディングエージェントチーム向けデスクトップオーケストレーター。
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、Cline、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース（[Website](https://orkas.ai?source=gh-aidd)）
 
 ## コード生成 & 自動化
 
