@@ -619,6 +619,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - AI-mentored development for junior engineers. Claude becomes your mentor, not your coder — guiding with questions, reviewing via 6 Gates, but YOU write every line. Less dependency, more ownership.
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ vibe coding tools, platforms, and resources organized by category with pricing, use cases, tutorials, and communities
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - The OWASP GenAI Security Project's consensus list of the most critical security risks in LLM and agentic applications, with mitigation guidance for developers building AI-driven systems
+- [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - Web handbook on building AI-assisted apps that work beyond the demo: plan, build, debug, harden, ship, operate, and scale.
 
 ## Frameworks & Libraries
 
