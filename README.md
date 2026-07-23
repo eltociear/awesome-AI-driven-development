@@ -279,6 +279,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world's first open-source testing agent, built to handle the toughest testing tasks so you don't have to
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 80+ offensive tools as an MCP host with proof of exploitation and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - Advanced MCP server that enables AI agents (Claude, GPT, Copilot, etc.) to autonomously run 150+ cybersecurity tools for automated penetration testing, vulnerability discovery, bug bounty automation, and security research. A comprehensive security automation platform with 12+ autonomous AI agents and real-time dashboard.
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - Learning to Generate Unit Tests for Automated Debugging
 - [VibeSec](https://github.com/untamed-theory/vibesec) - Security Rules & Workflows for the new wave of AI Development.
