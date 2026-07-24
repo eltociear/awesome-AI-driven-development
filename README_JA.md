@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **595個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **596個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -237,6 +237,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - タスク委譲、エージェント間メッセージング、カンバンボード、コードレビューを備え、複数のエージェント実行環境に対応するオープンソースの自律型コーディングエージェントチーム向けデスクトップオーケストレーター。
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - 専門エージェントの構築・借用、チーム編成、Claude Code・Codex・Gemini CLI・Cursor・ローカルモデルでの実行に対応し、権限と検証ゲートを備えたローカルファーストのAgent Operation Environment (AOE)。
 - [Better Agent](https://github.com/ofekron/better-agent) - Claude、Codex、Geminiのコーディングエージェントセッションを一つのローカルワークスペースで管理し、並列フォーク、タスク委譲、永続状態、再起動後の復旧に対応。非商用利用向けにソース公開され、商用利用には許可が必要。
+- [fractal](https://github.com/plasma-ai/fractal) - 分離可能なサブタスクを子ノードへ再帰的に委譲し、各ノードを専用のGit worktreeで実行する階層型コーディングエージェントランタイム。反復回数・深度・子ノード数・コスト・時間の上限設定、ローカルのSQLiteデータベースによる状態管理、オペレーターによる実行中の指示と停止に対応。
 
 ## コード生成 & 自動化
 
