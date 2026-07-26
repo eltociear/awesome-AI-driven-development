@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **597個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -526,6 +526,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Project Indexer](https://github.com/Dolfie-01/ProjectIndexer) - プロジェクト内のクラス、ファイル、その他のコンポーネントの場所をインデックス化するシンプルスクリプト
 - [codemapper](https://github.com/shaneholloman/codemapper) - 指定ディレクトリの構造と内容を表現する包括的Markdownドキュメントを作成するpythonスクリプト
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - コードベース内容を含む包括的Markdownファイル生成により、大規模言語モデル（LLM）へのコンテキスト提供プロセスを簡素化する強力なコマンドラインツール
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - 高速なGUIとCLIで、フォルダツリー、ファイル内容、トークン数、Smart Ignore、プレビュー、複数形式へのエクスポートを組み合わせ、AI向けに整理されたプロジェクトコンテキストを作成するツール
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - LLM向けプロジェクトのコードコンテキストをインテリジェントにパッケージ化
 - [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Claude Codeセッションをローカル解析し生産性レポートを生成するオープンソースCLI
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - 予測と警告を備えたリアルタイムClaude Code使用量モニター
