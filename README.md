@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **598 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **599 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -308,6 +308,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to simulate, **evaluate**, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - An open-source benchmark for evaluating LLM structured-output generation across 18 formats, including JSON, YAML, CSV, HTML, React, and SVG.
 
 ## MCP Servers & Integrations
 
