@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **597個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -282,6 +282,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - オープンソース、言語非依存自動テスト生成 + LLMミューテーションテスト
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 最も困難なテスト業務を処理する世界初のオープンソーステストエージェント、Hercules
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Web、API、Active Directory、Kubernetesを対象とするオープンソース（GPL-3.0）の自律型AIペネトレーションテストプラットフォーム。MCPサーバー経由で50以上の攻撃ツールを制御し、証拠ベースのレポートとローカルのプライバシーゲートウェイ（LLMは実際のIPや認証情報を見ない）を提供。
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - 高度なMCPサーバーで、AIエージェント（Claude、GPT、Copilotなど）が150以上のサイバーセキュリティツールを自律的に実行し、自動ペネトレーションテスト、脆弱性発見、バグバウンティ自動化、セキュリティ研究を実現。12以上の自律AIエージェントとリアルタイムダッシュボードを備えた包括的なセキュリティ自動化プラットフォーム
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
 - [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
