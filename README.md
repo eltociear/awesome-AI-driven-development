@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **598 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **599 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -225,6 +225,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Slate V1](https://randomlabs.ai/) - A generalist software agent built for swarms.
 - [Blackbox Code](https://github.com/blackboxaicode/cli) - BLACKBOX CLI for running Multi-Agents locally and a Judge to select the best task implementation
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [PinkCode](https://github.com/3xian/PinkCode) - Open-source desktop GUI for running parallel Grok Build coding sessions with live activity, usage, file-change, and permission views
 - [cestDone](https://github.com/olkano/cestDone) - CLI orchestrator that splits AI coding into Director (planning/specs) and Coder (implementation) roles, with built-in scheduler for automated execution.
 - [Forge](https://github.com/LucasDuys/forge) - Autonomous spec-driven development loop for Claude Code. Three-command pipeline (brainstorm, plan, execute) with context survival, backpropagation, and Claude-on-Claude code review.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI orchestrator for Claude Code, Codex, Cursor agent teams. State machine, auto-retry, inter-agent messaging, TUI dashboard. TypeScript, MIT.

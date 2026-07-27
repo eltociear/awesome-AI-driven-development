@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -225,6 +225,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Slate V1](https://randomlabs.ai/) - スウォーム向けに構築された汎用ソフトウェアエージェント
 - [Blackbox Code](https://github.com/blackboxaicode/cli) - マルチエージェントをローカルで実行し、最適なタスク実装を選択するジャッジ機能を備えたBLACKBOX CLI
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - 複数のAIコーディングエージェント（Claude Code、Codex CLI、Gemini CLI）を独立したgit worktreeで同時実行するデスクトップアプリ
+- [PinkCode](https://github.com/3xian/PinkCode) - 複数の Grok Build コーディングセッションを並列実行し、アクティビティ、使用量、ファイル変更、権限を可視化するオープンソースのデスクトップ GUI
 - [cestDone](https://github.com/olkano/cestDone) - AIコーディングをDirector（計画・仕様）とCoder（実装）の役割に分割するCLIオーケストレーター。自動実行のためのスケジューラー内蔵
 - [Forge](https://github.com/LucasDuys/forge) - Claude Code向け自律的仕様駆動開発ループ。3コマンドパイプライン（brainstorm、plan、execute）でコンテキスト維持、バックプロパゲーション、Claude-on-Claudeコードレビュー機能搭載
 - [ORCH](https://github.com/oxgeneral/ORCH) - Claude Code、Codex、Cursor エージェントチームのためのCLIオーケストレーター。ステートマシン、自動リトライ、エージェント間メッセージング、TUIダッシュボード。TypeScript、MIT。
