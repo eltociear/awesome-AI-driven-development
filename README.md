@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **596 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **599 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -237,6 +237,8 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Open-source desktop orchestrator for autonomous coding-agent teams with task delegation, inter-agent messaging, a Kanban board, and code review across multiple agent runtimes.
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - Local-first Agent Operation Environment (AOE) for building or borrowing specialist agents, composing teams, and running them across Claude Code, Codex, Gemini CLI, Cursor, and local models with permission and verification gates.
 - [Better Agent](https://github.com/ofekron/better-agent) - Local workspace for Claude, Codex, and Gemini coding-agent sessions with parallel forks, delegation, persistent state, and restart recovery. Source-available for non-commercial use; commercial use requires permission.
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source local-first desktop workspace for orchestrating Claude Code, Codex CLI, OpenCode, Cline, and built-in agents in parallel with shared files and approval controls.
+- [Garcon](https://github.com/cfal/garcon) - Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, file editing, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers.
 - [fractal](https://github.com/plasma-ai/fractal) - Hierarchical coding-agent runtime that delegates subtasks recursively and runs each node in its own Git worktree. It provides configurable loop limits, local SQLite state, and live operator controls.
 
 ## Code Generation & Automation
@@ -280,6 +282,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - Open Source, Language Agnostic Automatic Test Generation + LLM Mutation Testing
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Hercules is the world's first open-source testing agent, built to handle the toughest testing tasks so you don't have to
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 50+ offensive tools through an MCP server with proof-based reporting and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - Advanced MCP server that enables AI agents (Claude, GPT, Copilot, etc.) to autonomously run 150+ cybersecurity tools for automated penetration testing, vulnerability discovery, bug bounty automation, and security research. A comprehensive security automation platform with 12+ autonomous AI agents and real-time dashboard.
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - Learning to Generate Unit Tests for Automated Debugging
 - [VibeSec](https://github.com/untamed-theory/vibesec) - Security Rules & Workflows for the new wave of AI Development.

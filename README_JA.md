@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **596個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -237,6 +237,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - タスク委譲、エージェント間メッセージング、カンバンボード、コードレビューを備え、複数のエージェント実行環境に対応するオープンソースの自律型コーディングエージェントチーム向けデスクトップオーケストレーター。
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - 専門エージェントの構築・借用、チーム編成、Claude Code・Codex・Gemini CLI・Cursor・ローカルモデルでの実行に対応し、権限と検証ゲートを備えたローカルファーストのAgent Operation Environment (AOE)。
 - [Better Agent](https://github.com/ofekron/better-agent) - Claude、Codex、Geminiのコーディングエージェントセッションを一つのローカルワークスペースで管理し、並列フォーク、タスク委譲、永続状態、再起動後の復旧に対応。非商用利用向けにソース公開され、商用利用には許可が必要。
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、Cline、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース。
+- [Garcon](https://github.com/cfal/garcon) - ブラウザとモバイルで利用できるセルフホスト型ワークスペース。Claude Code、Codex、Cursor Agent、OpenCode、Amp、Droid、Pi の並列セッションを実行・操作し、統合ターミナル、ファイル編集、差分レビュー、Git/PRワークフロー、モバイル承認、スケジュール実行、エージェント間転送を提供。
 - [fractal](https://github.com/plasma-ai/fractal) - 分離可能なサブタスクを子ノードへ再帰的に委譲し、各ノードを専用のGit worktreeで実行する階層型コーディングエージェントランタイム。反復回数・深度・子ノード数・コスト・時間の上限設定、ローカルのSQLiteデータベースによる状態管理、オペレーターによる実行中の指示と停止に対応。
 
 ## コード生成 & 自動化
@@ -281,6 +283,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - オープンソース、言語非依存自動テスト生成 + LLMミューテーションテスト
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 最も困難なテスト業務を処理する世界初のオープンソーステストエージェント、Hercules
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Web、API、Active Directory、Kubernetesを対象とするオープンソース（GPL-3.0）の自律型AIペネトレーションテストプラットフォーム。MCPサーバー経由で50以上の攻撃ツールを制御し、証拠ベースのレポートとローカルのプライバシーゲートウェイ（LLMは実際のIPや認証情報を見ない）を提供。
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - 高度なMCPサーバーで、AIエージェント（Claude、GPT、Copilotなど）が150以上のサイバーセキュリティツールを自律的に実行し、自動ペネトレーションテスト、脆弱性発見、バグバウンティ自動化、セキュリティ研究を実現。12以上の自律AIエージェントとリアルタイムダッシュボードを備えた包括的なセキュリティ自動化プラットフォーム
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
 - [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
