@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -239,6 +239,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Better Agent](https://github.com/ofekron/better-agent) - Claude、Codex、Geminiのコーディングエージェントセッションを一つのローカルワークスペースで管理し、並列フォーク、タスク委譲、永続状態、再起動後の復旧に対応。非商用利用向けにソース公開され、商用利用には許可が必要。
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、Cline、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース。
 - [Garcon](https://github.com/cfal/garcon) - ブラウザとモバイルで利用できるセルフホスト型ワークスペース。Claude Code、Codex、Cursor Agent、OpenCode、Amp、Droid、Pi の並列セッションを実行・操作し、統合ターミナル、ファイル編集、差分レビュー、Git/PRワークフロー、モバイル承認、スケジュール実行、エージェント間転送を提供。
+- [fractal](https://github.com/plasma-ai/fractal) - 分離可能なサブタスクを子ノードへ再帰的に委譲し、各ノードを専用のGit worktreeで実行する階層型コーディングエージェントランタイム。反復回数・深度・子ノード数・コスト・時間の上限設定、ローカルのSQLiteデータベースによる状態管理、オペレーターによる実行中の指示と停止に対応。
 
 ## コード生成 & 自動化
 
