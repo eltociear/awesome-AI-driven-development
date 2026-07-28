@@ -309,6 +309,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform to simulate, **evaluate**, trace, guardrail, route, and optimize LLM and AI agent apps in one feedback loop, so agents don't just get monitored, they self-improve. Self-hostable. Apache-2.0.
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - An open-source benchmark for evaluating LLM structured-output generation across 18 formats, including JSON, YAML, CSV, HTML, React, and SVG.
 
 ## MCP Servers & Integrations
 

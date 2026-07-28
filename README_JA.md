@@ -310,6 +310,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Future AGI](https://github.com/future-agi/future-agi) - LLM・AIエージェントアプリのシミュレーション、評価、トレース、ガードレール、ルーティング、最適化を1つのフィードバックループで実現するオープンソースプラットフォーム。監視だけでなくエージェントの自己改善を可能にする。セルフホスト可能。Apache-2.0
 - [traceAI](https://github.com/future-agi/traceAI) - LLM・エージェントアプリ向けのオープンソースOpenTelemetryネイティブトレーシング。Python、TypeScript、Java、C#の50以上のフレームワーク（OpenAI、Anthropic、LangChain、LlamaIndex、CrewAI、Bedrock）を自動計装。ベンダーロックインなし
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - 50以上のメトリクス、LLM-as-Judge補強、ガードレールスキャナー（ジェイルブレイク、PII、プロンプトインジェクション）を備えたオープンソースLLM評価フレームワーク。CI/CD対応のAutoEvalパイプライン
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - JSON、YAML、CSV、HTML、React、SVGを含む18種類のフォーマットで、LLMの構造化出力生成能力を評価するオープンソースベンチマーク
 
 ## MCPサーバー & 統合
 
