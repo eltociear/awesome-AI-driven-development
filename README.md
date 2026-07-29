@@ -311,6 +311,8 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - An open-source benchmark for evaluating LLM structured-output generation across 18 formats, including JSON, YAML, CSV, HTML, React, and SVG.
+- [mcp-audit](https://github.com/eltociear/mcp-audit) - Zero-dependency scanner for MCP servers and agent skills: 17 patterns / 60 regex signatures covering prompt injection in tool descriptions, credential exfiltration and download-and-execute. Published results of a 196-server scan of the MCP registry, with the false-positive rate calibrated from 14.8% down to 1.0% first.
+- [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - Zero-dependency scanner that inspects a PyPI package’s install-time hooks (setup.py, entry points) before pip executes them, plus a typosquat hunter for lookalike package names.
 
 ## MCP Servers & Integrations
 
