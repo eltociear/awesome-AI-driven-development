@@ -139,6 +139,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - A lightweight VS Code extension that monitors your Antigravity AI model usage quota and displays it in the status bar.
 - [Antigravity Pulse](https://github.com/codavidgarcia/antigravity-pulse) - 100% local & private. Super lightweight. A 120 KB status bar extension for Antigravity Pro & Ultra users who want to monitor their AI model quota at a glance
 - [Pixel Agents](https://github.com/pablodelucca/pixel-agents) - A VS Code extension that turns your AI coding agents into animated pixel art characters in a virtual office.
+- [API Workbench](https://github.com/sapph1re/api-workbench) - VS Code extension for local-first API testing with agent-readable structured markdown output. Git-native collections, multi-environment support, and structured test reports for AI coding assistants.
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -385,6 +386,8 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required on first run via Pollinations and Stable Horde free tiers.
 - [Scalekit](https://scalekit.com/) - Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes.
+- [MCP Billing Gateway](https://github.com/sapph1re/mcp-billing-gateway-sdk) - MCP server that adds usage metering and Stripe billing to any MCP service. Supports per-tool-call pricing, free-tier limits, and subscription plans.
+- [Feedback Synthesis MCP](https://github.com/sapph1re/feedback-synthesis-mcp) - MCP server that synthesizes GitHub Issues, Hacker News threads, and App Store reviews into ranked pain clusters with evidence links.
 
 ## Code Review & Collaboration
 
@@ -703,6 +706,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for AI-driven development: 54 principles for FastAPI, Next.js 15 & Go 1.22+, with CLAUDE.md, Claude Code skills, and cursor rules.
+- [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - Budget limits and cost guardrails for AI agent frameworks. Framework-native hooks with hard-limit enforcement and circuit breakers for CrewAI, AutoGen, and LangGraph.
 
 ## Skills
 
