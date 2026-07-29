@@ -733,3 +733,13 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - a coding agent skill that verifies code against organizational policies, code quality patterns, security requirements, and framework best practices — before code ships.
 - [fable-mode](https://github.com/mrtooher/fable-mode) - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+## Support
+
+This list is maintained for free, alongside the open-source scanners linked above.
+If it saved you time:
+
+- **USDC or ETH on Base** to `0x5bCDA55247B238a573A968B234F788a2D35664Dd`
+  ([BaseScan](https://basescan.org/address/0x5bCDA55247B238a573A968B234F788a2D35664Dd)) — straight to the address,
+  no platform account in between.
+- [Buy Me a Coffee](https://buymeacoffee.com/eltociear)
