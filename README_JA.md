@@ -631,6 +631,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - ジュニアエンジニア向けAIメンター開発。Claudeはコーダーではなくメンターとして機能し、質問で導き、6つのゲートでレビューしつつ、すべてのコードはあなた自身が書く。依存を減らし、オーナーシップを高める
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - 245以上のVibeコーディングツール、プラットフォーム、リソースのキュレーションリスト。カテゴリ別に整理され、料金、ユースケース、チュートリアル、コミュニティ情報を含む
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - OWASP GenAI Security ProjectによるLLM・エージェントアプリケーションの最重要セキュリティリスクのコンセンサスリスト。AI駆動システムを構築する開発者向けの緩和策ガイダンスを含む
+- [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - デモ止まりにしないAI支援アプリ開発のWebハンドブック。計画、構築、デバッグ、堅牢化、リリース、運用、スケールまでを網羅
 
 ## フレームワーク & ライブラリ
 
