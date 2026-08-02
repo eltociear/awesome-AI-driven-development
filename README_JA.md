@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **603個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -113,6 +113,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [pi coding agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) - AIエージェントツールキット：コーディングエージェントCLI、統合LLM API、TUI＆Web UIライブラリ、Slackボット、vLLMポッド
 - [zerostack](https://github.com/gi-dellav/zerostack) - Unixに着想を得た軽量（RAM使用量20MB未満）のRust製AIコーディングエージェント。worktreeと反復ループの統合に対応
 - [Loki Mode](https://github.com/asklokesh/loki-mode) - 仕様から製品までを自律的に構築するCLIエージェント。検証ゲートを備え、ブラインドレビュー方式の完了協議会とエビデンスチェックを通過するまで作業を完了とみなさない。ブラウンフィールド対応の`loki heal`、ローカルファースト（自前のAPIキー）、26ツールのMCPサーバー、AGENTS.md読み込み対応。ソースアベイラブル（BUSL-1.1）
+- [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAIのコーディングエージェントハーネス兼TUI。フルスクリーン、マウス操作対応、拡張可能。
 
 ## IDE拡張機能
 
@@ -239,6 +240,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Better Agent](https://github.com/ofekron/better-agent) - Claude、Codex、Geminiのコーディングエージェントセッションを一つのローカルワークスペースで管理し、並列フォーク、タスク委譲、永続状態、再起動後の復旧に対応。非商用利用向けにソース公開され、商用利用には許可が必要。
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、Cline、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース。
 - [Garcon](https://github.com/cfal/garcon) - ブラウザとモバイルで利用できるセルフホスト型ワークスペース。Claude Code、Codex、Cursor Agent、OpenCode、Amp、Droid、Pi の並列セッションを実行・操作し、統合ターミナル、ファイル編集、差分レビュー、Git/PRワークフロー、モバイル承認、スケジュール実行、エージェント間転送を提供。
+- [fractal](https://github.com/plasma-ai/fractal) - 分離可能なサブタスクを子ノードへ再帰的に委譲し、各ノードを専用のGit worktreeで実行する階層型コーディングエージェントランタイム。反復回数・深度・子ノード数・コスト・時間の上限設定、ローカルのSQLiteデータベースによる状態管理、オペレーターによる実行中の指示と停止に対応。
 
 ## コード生成 & 自動化
 
@@ -282,6 +284,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [mutahunter](https://github.com/codeintegrity-ai/mutahunter) - オープンソース、言語非依存自動テスト生成 + LLMミューテーションテスト
 - [testzeus-hercules](https://github.com/test-zeus-ai/testzeus-hercules) - 最も困難なテスト業務を処理する世界初のオープンソーステストエージェント、Hercules
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Web、API、Active Directory、Kubernetesを対象とするオープンソース（GPL-3.0）の自律型AIペネトレーションテストプラットフォーム。MCPサーバー経由で50以上の攻撃ツールを制御し、証拠ベースのレポートとローカルのプライバシーゲートウェイ（LLMは実際のIPや認証情報を見ない）を提供。
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - 高度なMCPサーバーで、AIエージェント（Claude、GPT、Copilotなど）が150以上のサイバーセキュリティツールを自律的に実行し、自動ペネトレーションテスト、脆弱性発見、バグバウンティ自動化、セキュリティ研究を実現。12以上の自律AIエージェントとリアルタイムダッシュボードを備えた包括的なセキュリティ自動化プラットフォーム
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
 - [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
@@ -308,6 +311,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Future AGI](https://github.com/future-agi/future-agi) - LLM・AIエージェントアプリのシミュレーション、評価、トレース、ガードレール、ルーティング、最適化を1つのフィードバックループで実現するオープンソースプラットフォーム。監視だけでなくエージェントの自己改善を可能にする。セルフホスト可能。Apache-2.0
 - [traceAI](https://github.com/future-agi/traceAI) - LLM・エージェントアプリ向けのオープンソースOpenTelemetryネイティブトレーシング。Python、TypeScript、Java、C#の50以上のフレームワーク（OpenAI、Anthropic、LangChain、LlamaIndex、CrewAI、Bedrock）を自動計装。ベンダーロックインなし
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - 50以上のメトリクス、LLM-as-Judge補強、ガードレールスキャナー（ジェイルブレイク、PII、プロンプトインジェクション）を備えたオープンソースLLM評価フレームワーク。CI/CD対応のAutoEvalパイプライン
+- [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - JSON、YAML、CSV、HTML、React、SVGを含む18種類のフォーマットで、LLMの構造化出力生成能力を評価するオープンソースベンチマーク
 
 ## MCPサーバー & 統合
 
@@ -514,6 +518,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - ステートフルメモリ、ライブWebアクセス、疑似自己改善などを備えた完全自律AI開発エージェント
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - 寝ている間に動く自律コード最適化（Claude Codeによるオートリサーチ）。メトリクスを定義し、コードを指定して就寝。正確性を毎ステップ検証しながら、より速く、より小さく、より良いシステムに目覚める
 - [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - AIコーディングエージェント向けの自己進化型ソフトウェア開発ライフサイクル（SDLC）強制システム。Claudeにコーディング前のプランニング、出荷前のテスト、不確かなときの質問を促す。時間とともに自身が改善していく様子を測定する。
+- [THROUGHLINE](https://github.com/hellomyoh/throughline) - AIコーディングエージェント向けの仕様駆動開発フレームワーク。Markdownとgitのみで構成され、ランタイムもCLIも不要。コードを書く前にペルソナが各仕様をレビューし、追記専用の単一情報源（SSOT）がセッションをまたいで決定内容の一貫性を保つ。Claude Code、Codex、Cursorに対応。
 
 ## コード解析 & 検索
 
