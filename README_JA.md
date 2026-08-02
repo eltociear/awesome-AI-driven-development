@@ -5,7 +5,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **601個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **602個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -518,6 +518,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - ステートフルメモリ、ライブWebアクセス、疑似自己改善などを備えた完全自律AI開発エージェント
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - 寝ている間に動く自律コード最適化（Claude Codeによるオートリサーチ）。メトリクスを定義し、コードを指定して就寝。正確性を毎ステップ検証しながら、より速く、より小さく、より良いシステムに目覚める
 - [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - AIコーディングエージェント向けの自己進化型ソフトウェア開発ライフサイクル（SDLC）強制システム。Claudeにコーディング前のプランニング、出荷前のテスト、不確かなときの質問を促す。時間とともに自身が改善していく様子を測定する。
+- [THROUGHLINE](https://github.com/hellomyoh/throughline) - AIコーディングエージェント向けの仕様駆動開発フレームワーク。Markdownとgitのみで構成され、ランタイムもCLIも不要。コードを書く前にペルソナが各仕様をレビューし、追記専用の単一情報源（SSOT）がセッションをまたいで決定内容の一貫性を保つ。Claude Code、Codex、Cursorに対応。
 
 ## コード解析 & 検索
 
