@@ -547,7 +547,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - コードベースを自動で解析し、AIコーディングアシスタント向けに最適化されたコンテキストドキュメント（例：CLAUDE.md、AGENTS.mdなど）の推奨事項を生成するGitHub Action
 - [ccusage](https://github.com/ryoppippi/ccusage) - ローカルJSONLファイルからClaude Code/Codex CLI使用状況を分析するCLIツール
 - [BurnRate](https://getburnrate.io) - ローカルファーストのAIコーディングコスト分析。Claude Code、Cursor、Codex、Copilot、Windsurf、Cline、Aiderを追跡。コスト内訳、23の最適化ルール、レート制限監視、プロバイダー比較、PDFレポート
-- [Agent Island](https://github.com/tristan666666/agent-island) - macOSとWindowsに対応するClaude Code・Codex向けのオープンソースなローカルステータスコンパニオン。macOS版ではAntigravity・Grokのセッション状態表示とCursorを含むプロバイダー使用量の追跡にも対応
+- [Agent Island](https://github.com/tristan666666/agent-island) - macOSとWindowsに対応する、Claude Code・Codex・Antigravity・Grok・Cursor向けのオープンソースなローカルステータスコンパニオン。ライブなセッション状態、自分の番になった際の通知、ローカルで計算される使用量とコストを表示します。
 - [Burnd](https://github.com/garvitsurana271/burnd) - Claude CodeのJSONLセッションファイルを解析し、8つのコストリーク検出器（リトライストーム、ツール過剰使用、繰り返し読み込み、スラッシング、疲労コーディングなど）を実行するローカルファーストCLI。節約見積もりと共有可能なレポートURLを出力。MITライセンス、npxでインストール可能、テレメトリなし
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Claude Code、Codex CLI、Gemini CLI、Aider、CursorエクスポートなどのAIコーディングエージェントセッションを可視化するローカルファーストTUI
 - [ax](https://github.com/Necmttn/ax) - Claude Code、CodexなどのAIコーディングエージェント向けローカルファーストなテレメトリ・リコールグラフ。セッション、コスト、スキル、ルーティング、フック分析に対応
