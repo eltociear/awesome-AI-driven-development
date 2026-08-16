@@ -706,6 +706,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for AI-driven development: 54 principles for FastAPI, Next.js 15 & Go 1.22+, with CLAUDE.md, Claude Code skills, and cursor rules.
+- [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - Budget limits and cost guardrails for AI agent frameworks. Framework-native hooks with hard-limit enforcement and circuit breakers for CrewAI, AutoGen, and LangGraph.
 
 ## Skills
 

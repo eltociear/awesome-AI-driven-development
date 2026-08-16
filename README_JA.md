@@ -705,6 +705,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - 一般的な開発コマンドでのLLMトークン消費を60〜90%削減するCLIプロキシ。単一のRustバイナリで依存関係ゼロ
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - Claude Mythosアーキテクチャの理論的再構築。利用可能な研究文献を基に第一原理から構築
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - AI駆動開発のための本番アーキテクチャバイブル。FastAPI、Next.js 15、Go 1.22+向けの54の原則をCLAUDE.md、Claude Codeスキル、cursorルールとともに提供
+- [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - AIエージェントフレームワーク向けの予算制限・コストガードレール。CrewAI、AutoGen、LangGraphに対応したフレームワークネイティブフックとサーキットブレーカーを提供。
 
 ## スキル
 
