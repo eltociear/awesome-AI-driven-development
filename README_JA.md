@@ -729,7 +729,7 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - AI生成Webアプリを即座にMyVibe.soに公開。Static、Vite、Next.js、Astro、Nuxtプロジェクトを自動検出し、スマートビルド統合を実現
 - [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - コーディングエージェントのプラン、コード、PRをマルチモデルコンセンサスでレビューするエージェントスキル
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - 任意のプロジェクト用に2段階のコードベース構造インデックスをセットアップするClaude Codeスキル
-- [pm-skills](https://github.com/product-on-purpose/pm-skills) - agentskills.io仕様に準拠した、24のプラグアンドプレイ型プロダクトマネジメントエージェントスキル（テンプレートとワークフローバンドル付き）
+- [pm-skills](https://github.com/product-on-purpose/pm-skills) - agentskills.io仕様に準拠した、68のプロダクトマネジメントエージェントスキル。ディスカバリーからイテレーションまでを網羅し、6つのサブエージェント、12のワークフロー、200以上のサンプル出力を含む。スキル契約はCIで検証される
 - [Mysti](https://github.com/DeepMyst/Mysti) - VS Code向けマルチエージェントAIコーディングアシスタント（ブレインストームモード搭載）| Claude Code、Codex、Gemini、Cline、GitHub Copilot |
 - [naming](https://github.com/glacierphonk/naming) - プロダクト、SaaS、ブランド、オープンソースプロジェクトのためのメタファー駆動型ネーミングスキル。記憶に残る意味のある名前を生成する構造化プロセス
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - エージェント生成テキストからAIライティングパターン（三段論法、emダッシュの多用、ヘッジング、ご機嫌取りの書き出し、過剰使用語彙）を除去するCLIおよびMCPサーバー。Claude Code、Codex、Gemini CLI、Cursorに対応
