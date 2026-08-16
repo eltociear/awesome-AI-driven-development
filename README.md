@@ -470,6 +470,7 @@ Specialized language models and AI engines designed for coding and development t
 - [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - Code Large Language Model
 - [AutoCoder](https://github.com/bin123apple/AutoCoder) - Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - A series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters
+- [FIM-Midtraining](https://github.com/TIGER-AI-Lab/FIM-Midtraining) - Open code-model mid-training release with function-aware fill-in-the-middle data, six checkpoints, training code, and SWE-Bench evaluation.
 - [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - The code version of Qwen2.5
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Inference code of Lingma SWE-GPT
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant

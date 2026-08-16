@@ -467,6 +467,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - コード大規模言語モデル
 - [AutoCoder](https://github.com/bin123apple/AutoCoder) - HumanEvalベースデータセットでのテスト精度がGPT-4 Turbo（2024年4月）とGPT-4oを上回る
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - 100億パラメータ未満で最先端コーディング性能を提供するオープンソースコード言語モデルシリーズ
+- [FIM-Midtraining](https://github.com/TIGER-AI-Lab/FIM-Midtraining) - 関数認識型Fill-in-the-Middleデータ、6つのチェックポイント、学習コード、SWE-Bench評価を公開するコードモデル中間学習プロジェクト
 - [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5のコード版
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Lingma SWE-GPTの推論コード
 - [tabby](https://github.com/TabbyML/tabby) - セルフホスト型AIコーディングアシスタント
