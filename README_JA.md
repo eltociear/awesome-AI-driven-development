@@ -243,6 +243,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、Cline、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース。
 - [Garcon](https://github.com/cfal/garcon) - ブラウザとモバイルで利用できるセルフホスト型ワークスペース。Claude Code、Codex、Cursor Agent、OpenCode、Amp、Droid、Pi の並列セッションを実行・操作し、統合ターミナル、ファイル編集、差分レビュー、Git/PRワークフロー、モバイル承認、スケジュール実行、エージェント間転送を提供。
 - [fractal](https://github.com/plasma-ai/fractal) - 分離可能なサブタスクを子ノードへ再帰的に委譲し、各ノードを専用のGit worktreeで実行する階層型コーディングエージェントランタイム。反復回数・深度・子ノード数・コスト・時間の上限設定、ローカルのSQLiteデータベースによる状態管理、オペレーターによる実行中の指示と停止に対応。
+- [RailWarden](https://github.com/advaith-1212/railwarden) - 依存関係を考慮した作業パッケージ、隔離されたGit worktree、検証エビデンス、機械的な統合ゲートを備えた、マルチエージェント開発向けの決定論的な実行・統合制御プレーン。
 
 ## コード生成 & 自動化
 
