@@ -113,6 +113,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [zerostack](https://github.com/gi-dellav/zerostack) - Unix-inspired lightweight (<20MB RAM usage) AI coding agent written in Rust with worktrees and iterative loops integration
 - [Loki Mode](https://github.com/asklokesh/loki-mode) - Autonomous CLI agent that builds from spec to product with verification gates — work isn't done until it passes a blind-review completion council and evidence checks. Brownfield-ready `loki heal`, local-first (bring your own API keys), 26-tool MCP server, reads AGENTS.md. Source-available (BUSL-1.1)
 - [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system. Runs on macOS, Linux, and Windows.
 
 ## IDE Extensions
 
