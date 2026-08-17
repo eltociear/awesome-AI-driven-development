@@ -1,11 +1,10 @@
-### [Join us online for two days of cutting-edge insights at the AI-Driven Development Conference 2026 Summer!](https://aid.connpass.com/event/392229/)
 
 ![Logo](/logo.png)
 # 🤖 Awesome AI-Driven Development
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **600 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **614 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -113,6 +112,8 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [pi coding agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [zerostack](https://github.com/gi-dellav/zerostack) - Unix-inspired lightweight (<20MB RAM usage) AI coding agent written in Rust with worktrees and iterative loops integration
 - [Loki Mode](https://github.com/asklokesh/loki-mode) - Autonomous CLI agent that builds from spec to product with verification gates — work isn't done until it passes a blind-review completion council and evidence checks. Brownfield-ready `loki heal`, local-first (bring your own API keys), 26-tool MCP server, reads AGENTS.md. Source-available (BUSL-1.1)
+- [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system. Runs on macOS, Linux, and Windows.
 
 ## IDE Extensions
 
@@ -217,6 +218,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Agent Deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. Built with Go + Bubble Tea.
 - [PAF Framework](https://github.com/crack00r/paf-framework) - A comprehensive multi-agent orchestration framework that implements a complete Software Development Life Cycle (SDLC) with 38 specialized AI agents. Using hierarchical team structures and the nested-subagent plugin, PAF enables enterprise-grade code reviews, feature development, and project management.
 - [1Code](https://github.com/21st-dev/1code) - Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
+- [AIWorkHub](https://github.com/shrec/AIWorkHub) - Open-source, repository-native control plane for multi-model coding agents with dependency-aware task DAGs, isolated workers, durable context, source intelligence, and evidence-based review.
 - [aistack](https://github.com/blackms/aistack) - Production-grade agent orchestration with adversarial validation, persistent memory, and real-time web dashboard
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - Production-Grade Multi-Agent Orchestration Engine for High-Integrity Software Engineering
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - An ACP-compatible coding agent powered by Cline.
@@ -225,6 +227,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Slate V1](https://randomlabs.ai/) - A generalist software agent built for swarms.
 - [Blackbox Code](https://github.com/blackboxaicode/cli) - BLACKBOX CLI for running Multi-Agents locally and a Judge to select the best task implementation
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- [PinkCode](https://github.com/3xian/PinkCode) - Open-source desktop GUI for running parallel Grok Build coding sessions with live activity, usage, file-change, and permission views
 - [cestDone](https://github.com/olkano/cestDone) - CLI orchestrator that splits AI coding into Director (planning/specs) and Coder (implementation) roles, with built-in scheduler for automated execution.
 - [Forge](https://github.com/LucasDuys/forge) - Autonomous spec-driven development loop for Claude Code. Three-command pipeline (brainstorm, plan, execute) with context survival, backpropagation, and Claude-on-Claude code review.
 - [ORCH](https://github.com/oxgeneral/ORCH) - CLI orchestrator for Claude Code, Codex, Cursor agent teams. State machine, auto-retry, inter-agent messaging, TUI dashboard. TypeScript, MIT.
@@ -240,6 +243,8 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source local-first desktop workspace for orchestrating Claude Code, Codex CLI, OpenCode, Cline, and built-in agents in parallel with shared files and approval controls.
 - [Garcon](https://github.com/cfal/garcon) - Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, file editing, diff review, Git/PR workflows, mobile approvals, scheduling, and cross-agent transfers.
 - [fractal](https://github.com/plasma-ai/fractal) - Hierarchical coding-agent runtime that delegates subtasks recursively and runs each node in its own Git worktree. It provides configurable loop limits, local SQLite state, and live operator controls.
+- [GraphCode](https://github.com/scgopi/GraphCode) - Native macOS app that wires agent sessions into a graph: each node is a live terminal you can attach to mid-run, each edge a hand-off, message, or spawn that fires unattended. Claude Code, Codex, and Copilot CLI loops on the same graph. Source-available under FSL-1.1-MIT; the CLI and SDK are MIT.
+- [RailWarden](https://github.com/advaith-1212/railwarden) - Deterministic execution and integration control plane for multi-agent development with dependency-aware work packages, isolated Git worktrees, validation evidence, and mechanical integration gates.
 
 ## Code Generation & Automation
 
@@ -284,6 +289,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [ghostest](https://github.com/ryooo/ghostest) - Output test code using LLM agents
 - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, orchestrating 50+ offensive tools through an MCP server with proof-based reporting and a local privacy gateway (the LLM never sees real IPs or credentials).
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - Advanced MCP server that enables AI agents (Claude, GPT, Copilot, etc.) to autonomously run 150+ cybersecurity tools for automated penetration testing, vulnerability discovery, bug bounty automation, and security research. A comprehensive security automation platform with 12+ autonomous AI agents and real-time dashboard.
+- [Solace Vera Observability](https://github.com/anchor-cloud/solace-vera-observability) - A 4-phase deterministic pipeline for auditing AI agent decision-making and post-action evaluation over time.
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - Learning to Generate Unit Tests for Automated Debugging
 - [VibeSec](https://github.com/untamed-theory/vibesec) - Security Rules & Workflows for the new wave of AI Development.
 - [OpenDeRisk](https://github.com/derisk-ai/OpenDerisk) - AI-Native Risk Intelligence Systems, OpenDeRisk——Your application system risk intelligent manager provides 7* 24-hour comprehensive and in-depth protection.
@@ -310,6 +316,8 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in.
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - Open-source LLM evaluation framework with 50+ metrics, LLM-as-Judge augmentation, and guardrail scanners (jailbreak, PII, prompt-injection); AutoEval pipelines with CI/CD support.
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - An open-source benchmark for evaluating LLM structured-output generation across 18 formats, including JSON, YAML, CSV, HTML, React, and SVG.
+- [mcp-audit](https://github.com/eltociear/mcp-audit) - Zero-dependency scanner for MCP servers and agent skills: 17 patterns / 60 regex signatures covering prompt injection in tool descriptions, credential exfiltration and download-and-execute. Published results of a 196-server scan of the MCP registry, with the false-positive rate calibrated from 14.8% down to 1.0% first.
+- [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - Zero-dependency scanner that inspects a PyPI package’s install-time hooks (setup.py, entry points) before pip executes them, plus a typosquat hunter for lookalike package names.
 
 ## MCP Servers & Integrations
 
@@ -465,6 +473,7 @@ Specialized language models and AI engines designed for coding and development t
 - [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - Code Large Language Model
 - [AutoCoder](https://github.com/bin123apple/AutoCoder) - Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - A series of open-source code language models that delivers state-of-the-art coding performance with fewer than 10 billion parameters
+- [FIM-Midtraining](https://github.com/TIGER-AI-Lab/FIM-Midtraining) - Open code-model mid-training release with function-aware fill-in-the-middle data, six checkpoints, training code, and SWE-Bench evaluation.
 - [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - The code version of Qwen2.5
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Inference code of Lingma SWE-GPT
 - [tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -516,6 +525,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - Fully autonomous AI development agent with stateful memory, live web access, pseudo self-improvement and more!
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - Autonomous code optimization that works while you sleep (Autoresearch with Claude Code). Define a metric, point it at your code, go to bed. Wake up to a faster, smaller, better system — with correctness verified at every step.
 - [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - A self-evolving Software Development Life Cycle (SDLC) enforcement system for AI coding agents. Makes Claude plan before coding, test before shipping, and ask when uncertain. Measures itself getting better over time.
+- [THROUGHLINE](https://github.com/hellomyoh/throughline) - Spec-driven development framework for AI coding agents, built from markdown and git with no runtime or CLI. Personas review each spec before code, and an append-only single source of truth keeps decisions consistent across sessions. Works with Claude Code, Codex, and Cursor.
 
 ## Code Analysis & Search
 
@@ -528,6 +538,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [Project Indexer](https://github.com/Dolfie-01/ProjectIndexer) - A simple script designed to index the locations of classes, files, and other components within a project
 - [codemapper](https://github.com/shaneholloman/codemapper) - A python script that creates a comprehensive Markdown document representing the structure and contents of a given directory
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast GUI and CLI
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - Intelligently package your project's code context for LLMs
 - [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Open-source CLI for analyzing Claude Code sessions locally and generating productivity reports
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
@@ -626,6 +637,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - AI-mentored development for junior engineers. Claude becomes your mentor, not your coder — guiding with questions, reviewing via 6 Gates, but YOU write every line. Less dependency, more ownership.
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ vibe coding tools, platforms, and resources organized by category with pricing, use cases, tutorials, and communities
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - The OWASP GenAI Security Project's consensus list of the most critical security risks in LLM and agentic applications, with mitigation guidance for developers building AI-driven systems
+- [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - Web handbook on building AI-assisted apps that work beyond the demo: plan, build, debug, harden, ship, operate, and scale.
 
 ## Frameworks & Libraries
 
@@ -700,6 +712,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for AI-driven development: 54 principles for FastAPI, Next.js 15 & Go 1.22+, with CLAUDE.md, Claude Code skills, and cursor rules.
+- [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - Budget limits and cost guardrails for AI agent frameworks. Framework-native hooks with hard-limit enforcement and circuit breakers for CrewAI, AutoGen, and LangGraph.
 
 ## Skills
 
@@ -723,10 +736,20 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - Instantly publish AI-generated web apps to MyVibe.so. Auto-detects Static, Vite, Next.js, Astro, and Nuxt projects with smart build integration.
 - [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - Agent skill that uses multi-model consensus to review plans, code, and PRs for coding agents
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - A Claude Code skill that sets up a two-tier codebase structure index for any project.
-- [pm-skills](https://github.com/product-on-purpose/pm-skills) - 24 plug-and-play product management agent skills with templates and workflow bundles, following the agentskills.io specification.
+- [pm-skills](https://github.com/product-on-purpose/pm-skills) - 68 product management agent skills covering discovery through iteration, with 6 sub-agents, 12 workflows, and 200+ sample outputs. CI-validated skill contracts, following the agentskills.io specification.
 - [Mysti](https://github.com/DeepMyst/Mysti) - Multi-agent AI coding assistant for VS Code with brainstorm mode | Claude Code, Codex, Gemini, Cline, GitHub Copilot |
 - [naming](https://github.com/glacierphonk/naming) - Metaphor-driven naming skill for products, SaaS, brands, and open source projects. Structured process that produces memorable, meaningful names.
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - CLI and MCP server that removes AI writing patterns from agent-generated text: tricolons, em-dash overuse, hedging stacks, sycophancy openers, and overused vocabulary. Works with Claude Code, Codex, Gemini CLI, and Cursor.
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - a coding agent skill that verifies code against organizational policies, code quality patterns, security requirements, and framework best practices — before code ships.
 - [fable-mode](https://github.com/mrtooher/fable-mode) - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+
+## Support
+
+This list is maintained for free, alongside the open-source scanners linked above.
+If it saved you time:
+
+- **USDC or ETH on Base** to `0x5bCDA55247B238a573A968B234F788a2D35664Dd`
+  ([BaseScan](https://basescan.org/address/0x5bCDA55247B238a573A968B234F788a2D35664Dd)) — straight to the address,
+  no platform account in between.
+- [Buy Me a Coffee](https://buymeacoffee.com/eltociear)

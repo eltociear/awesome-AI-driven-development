@@ -1,11 +1,10 @@
-### [AI駆動開発の最前線が集結する2日間！「AI駆動開発カンファレンス 2026夏」オンライン参加受付中！](https://aid.connpass.com/event/392229/)
 
 ![Logo](/logo.png)
 # 🤖 Awesome AI-Driven Development
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **600個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **614個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -113,6 +112,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [pi coding agent](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent) - AIエージェントツールキット：コーディングエージェントCLI、統合LLM API、TUI＆Web UIライブラリ、Slackボット、vLLMポッド
 - [zerostack](https://github.com/gi-dellav/zerostack) - Unixに着想を得た軽量（RAM使用量20MB未満）のRust製AIコーディングエージェント。worktreeと反復ループの統合に対応
 - [Loki Mode](https://github.com/asklokesh/loki-mode) - 仕様から製品までを自律的に構築するCLIエージェント。検証ゲートを備え、ブラインドレビュー方式の完了協議会とエビデンスチェックを通過するまで作業を完了とみなさない。ブラウンフィールド対応の`loki heal`、ローカルファースト（自前のAPIキー）、26ツールのMCPサーバー、AGENTS.md読み込み対応。ソースアベイラブル（BUSL-1.1）
+- [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAIのコーディングエージェントハーネス兼TUI。フルスクリーン、マウス操作対応、拡張可能。
+- [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - ローカルファーストのCLI兼TUIコーディングエージェント。llama.cppのフォークを通じてオープンウェイトモデルをすべて自分のマシン上で実行し、アカウントもAPIキーも不要。56個の組み込みツール（ブラウザ、ファイルシステム、git、メモリ、ビジョン）、MCP対応、5層のローカルメモリシステムを備える。macOS、Linux、Windowsに対応。
 
 ## IDE拡張機能
 
@@ -217,6 +218,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Agent Deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェント向けターミナルセッションマネージャー。GoとBubble Teaで構築
 - [PAF Framework](https://github.com/crack00r/paf-framework) - 38の専門AIエージェントを使用した完全なソフトウェア開発ライフサイクル（SDLC）を実装する包括的マルチエージェントオーケストレーションフレームワーク。階層的なチーム構造とnested-subagentプラグインにより、エンタープライズグレードのコードレビュー、機能開発、プロジェクト管理を実現
 - [1Code](https://github.com/21st-dev/1code) - コードエージェント（ClaudeCode、OpenCode、Codex）を並列実行するためのより良いUIアプリ
+- [AIWorkHub](https://github.com/shrec/AIWorkHub) - 依存関係付きタスクDAG、分離ワーカー、永続コンテキスト、ソースインテリジェンス、エビデンスベースのレビューを備えた、オープンソースでリポジトリネイティブなマルチモデルAIコーディングエージェント制御基盤。
 - [aistack](https://github.com/blackms/aistack) - 敵対的検証、永続メモリ、リアルタイムWebダッシュボードを備えた本番環境対応エージェントオーケストレーション
 - [OpenCode Orchestrator](https://github.com/agnusdei1207/opencode-orchestrator) - 高品質ソフトウェアエンジニアリングのための本番環境対応マルチエージェントオーケストレーションエンジン
 - [Cline ACP](https://github.com/Tonksthebear/cline-acp) - Clineを利用したACP（Agent Client Protocol）互換コーディングエージェント
@@ -225,6 +227,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Slate V1](https://randomlabs.ai/) - スウォーム向けに構築された汎用ソフトウェアエージェント
 - [Blackbox Code](https://github.com/blackboxaicode/cli) - マルチエージェントをローカルで実行し、最適なタスク実装を選択するジャッジ機能を備えたBLACKBOX CLI
 - [Parallel Code](https://github.com/johannesjo/parallel-code) - 複数のAIコーディングエージェント（Claude Code、Codex CLI、Gemini CLI）を独立したgit worktreeで同時実行するデスクトップアプリ
+- [PinkCode](https://github.com/3xian/PinkCode) - 複数の Grok Build コーディングセッションを並列実行し、アクティビティ、使用量、ファイル変更、権限を可視化するオープンソースのデスクトップ GUI
 - [cestDone](https://github.com/olkano/cestDone) - AIコーディングをDirector（計画・仕様）とCoder（実装）の役割に分割するCLIオーケストレーター。自動実行のためのスケジューラー内蔵
 - [Forge](https://github.com/LucasDuys/forge) - Claude Code向け自律的仕様駆動開発ループ。3コマンドパイプライン（brainstorm、plan、execute）でコンテキスト維持、バックプロパゲーション、Claude-on-Claudeコードレビュー機能搭載
 - [ORCH](https://github.com/oxgeneral/ORCH) - Claude Code、Codex、Cursor エージェントチームのためのCLIオーケストレーター。ステートマシン、自動リトライ、エージェント間メッセージング、TUIダッシュボード。TypeScript、MIT。
@@ -240,6 +243,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、Cline、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース。
 - [Garcon](https://github.com/cfal/garcon) - ブラウザとモバイルで利用できるセルフホスト型ワークスペース。Claude Code、Codex、Cursor Agent、OpenCode、Amp、Droid、Pi の並列セッションを実行・操作し、統合ターミナル、ファイル編集、差分レビュー、Git/PRワークフロー、モバイル承認、スケジュール実行、エージェント間転送を提供。
 - [fractal](https://github.com/plasma-ai/fractal) - 分離可能なサブタスクを子ノードへ再帰的に委譲し、各ノードを専用のGit worktreeで実行する階層型コーディングエージェントランタイム。反復回数・深度・子ノード数・コスト・時間の上限設定、ローカルのSQLiteデータベースによる状態管理、オペレーターによる実行中の指示と停止に対応。
+- [GraphCode](https://github.com/scgopi/GraphCode) - エージェントセッションをグラフとして配線するネイティブmacOSアプリ。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ・メッセージ・スポーン。Claude Code、Codex、Copilot CLIのループを同一グラフ上で扱える。FSL-1.1-MITのソースアベイラブルで、CLIとSDKはMIT
+- [RailWarden](https://github.com/advaith-1212/railwarden) - 依存関係を考慮した作業パッケージ、隔離されたGit worktree、検証エビデンス、機械的な統合ゲートを備えた、マルチエージェント開発向けの決定論的な実行・統合制御プレーン。
 
 ## コード生成 & 自動化
 
@@ -285,6 +290,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [ghostest](https://github.com/ryooo/ghostest) - LLMエージェントを使用してテストコードを出力
 - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Web、API、Active Directory、Kubernetesを対象とするオープンソース（GPL-3.0）の自律型AIペネトレーションテストプラットフォーム。MCPサーバー経由で50以上の攻撃ツールを制御し、証拠ベースのレポートとローカルのプライバシーゲートウェイ（LLMは実際のIPや認証情報を見ない）を提供。
 - [HexStrike AI](https://github.com/0x4m4/hexstrike-ai) - 高度なMCPサーバーで、AIエージェント（Claude、GPT、Copilotなど）が150以上のサイバーセキュリティツールを自律的に実行し、自動ペネトレーションテスト、脆弱性発見、バグバウンティ自動化、セキュリティ研究を実現。12以上の自律AIエージェントとリアルタイムダッシュボードを備えた包括的なセキュリティ自動化プラットフォーム
+- [Solace Vera Observability](https://github.com/anchor-cloud/solace-vera-observability) - AIエージェントの意思決定と事後評価を時系列で監査する、4フェーズの決定論的パイプライン
 - [UTGenDebug](https://github.com/archiki/UTGenDebug) - 自動デバッグ向けユニットテスト生成の学習
 - [VibeSec](https://github.com/untamed-theory/vibesec) - 新たなAI開発の潮流におけるセキュリティルールとワークフロー
 - [OpenDeRisk](https://github.com/derisk-ai/OpenDerisk) - AIネイティブリスク情報システム、OpenDeRisk——アプリケーションシステムリスクインテリジェント管理者が7×24時間包括的で深度な保護を提供
@@ -311,6 +317,8 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [traceAI](https://github.com/future-agi/traceAI) - LLM・エージェントアプリ向けのオープンソースOpenTelemetryネイティブトレーシング。Python、TypeScript、Java、C#の50以上のフレームワーク（OpenAI、Anthropic、LangChain、LlamaIndex、CrewAI、Bedrock）を自動計装。ベンダーロックインなし
 - [Future AGI ai-evaluation](https://github.com/future-agi/ai-evaluation) - 50以上のメトリクス、LLM-as-Judge補強、ガードレールスキャナー（ジェイルブレイク、PII、プロンプトインジェクション）を備えたオープンソースLLM評価フレームワーク。CI/CD対応のAutoEvalパイプライン
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - JSON、YAML、CSV、HTML、React、SVGを含む18種類のフォーマットで、LLMの構造化出力生成能力を評価するオープンソースベンチマーク
+- [mcp-audit](https://github.com/eltociear/mcp-audit) - MCPサーバーとエージェントスキル向けの依存関係ゼロのスキャナー。ツール説明文へのプロンプトインジェクション、認証情報の外部送信、ダウンロード実行を対象に17パターン/60の正規表現シグネチャを備える。誤検知率を14.8%から1.0%へ較正した上で、MCPレジストリ196サーバーのスキャン結果を公開
+- [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - pipが実行する前にPyPIパッケージのインストール時フック（setup.py、エントリーポイント）を検査する依存関係ゼロのスキャナー。よく似たパッケージ名を探すタイポスクワットハンターも同梱
 
 ## MCPサーバー & 統合
 
@@ -466,6 +474,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [aiXcoder-7B](https://github.com/aixcoder-plugin/aixcoder-7b) - コード大規模言語モデル
 - [AutoCoder](https://github.com/bin123apple/AutoCoder) - HumanEvalベースデータセットでのテスト精度がGPT-4 Turbo（2024年4月）とGPT-4oを上回る
 - [Yi-Coder](https://github.com/01-ai/Yi-Coder) - 100億パラメータ未満で最先端コーディング性能を提供するオープンソースコード言語モデルシリーズ
+- [FIM-Midtraining](https://github.com/TIGER-AI-Lab/FIM-Midtraining) - 関数認識型Fill-in-the-Middleデータ、6つのチェックポイント、学習コード、SWE-Bench評価を公開するコードモデル中間学習プロジェクト
 - [Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder) - Qwen2.5のコード版
 - [Lingma-SWE-GPT](https://github.com/LingmaTongyi/Lingma-SWE-GPT) - Lingma SWE-GPTの推論コード
 - [tabby](https://github.com/TabbyML/tabby) - セルフホスト型AIコーディングアシスタント
@@ -517,6 +526,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - ステートフルメモリ、ライブWebアクセス、疑似自己改善などを備えた完全自律AI開発エージェント
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - 寝ている間に動く自律コード最適化（Claude Codeによるオートリサーチ）。メトリクスを定義し、コードを指定して就寝。正確性を毎ステップ検証しながら、より速く、より小さく、より良いシステムに目覚める
 - [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - AIコーディングエージェント向けの自己進化型ソフトウェア開発ライフサイクル（SDLC）強制システム。Claudeにコーディング前のプランニング、出荷前のテスト、不確かなときの質問を促す。時間とともに自身が改善していく様子を測定する。
+- [THROUGHLINE](https://github.com/hellomyoh/throughline) - AIコーディングエージェント向けの仕様駆動開発フレームワーク。Markdownとgitのみで構成され、ランタイムもCLIも不要。コードを書く前にペルソナが各仕様をレビューし、追記専用の単一情報源（SSOT）がセッションをまたいで決定内容の一貫性を保つ。Claude Code、Codex、Cursorに対応。
 
 ## コード解析 & 検索
 
@@ -529,6 +539,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Project Indexer](https://github.com/Dolfie-01/ProjectIndexer) - プロジェクト内のクラス、ファイル、その他のコンポーネントの場所をインデックス化するシンプルスクリプト
 - [codemapper](https://github.com/shaneholloman/codemapper) - 指定ディレクトリの構造と内容を表現する包括的Markdownドキュメントを作成するpythonスクリプト
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - コードベース内容を含む包括的Markdownファイル生成により、大規模言語モデル（LLM）へのコンテキスト提供プロセスを簡素化する強力なコマンドラインツール
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - 高速なGUIとCLIで、フォルダツリー、ファイル内容、トークン数、Smart Ignore、プレビュー、複数形式へのエクスポートを組み合わせ、AI向けに整理されたプロジェクトコンテキストを作成するツール
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - LLM向けプロジェクトのコードコンテキストをインテリジェントにパッケージ化
 - [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Claude Codeセッションをローカル解析し生産性レポートを生成するオープンソースCLI
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - 予測と警告を備えたリアルタイムClaude Code使用量モニター
@@ -627,6 +638,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - ジュニアエンジニア向けAIメンター開発。Claudeはコーダーではなくメンターとして機能し、質問で導き、6つのゲートでレビューしつつ、すべてのコードはあなた自身が書く。依存を減らし、オーナーシップを高める
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - 245以上のVibeコーディングツール、プラットフォーム、リソースのキュレーションリスト。カテゴリ別に整理され、料金、ユースケース、チュートリアル、コミュニティ情報を含む
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - OWASP GenAI Security ProjectによるLLM・エージェントアプリケーションの最重要セキュリティリスクのコンセンサスリスト。AI駆動システムを構築する開発者向けの緩和策ガイダンスを含む
+- [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - デモ止まりにしないAI支援アプリ開発のWebハンドブック。計画、構築、デバッグ、堅牢化、リリース、運用、スケールまでを網羅
 
 ## フレームワーク & ライブラリ
 
@@ -701,6 +713,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [rtk - Rust Token Killer](https://github.com/rtk-ai/rtk) - 一般的な開発コマンドでのLLMトークン消費を60〜90%削減するCLIプロキシ。単一のRustバイナリで依存関係ゼロ
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - Claude Mythosアーキテクチャの理論的再構築。利用可能な研究文献を基に第一原理から構築
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - AI駆動開発のための本番アーキテクチャバイブル。FastAPI、Next.js 15、Go 1.22+向けの54の原則をCLAUDE.md、Claude Codeスキル、cursorルールとともに提供
+- [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - AIエージェントフレームワーク向けの予算制限・コストガードレール。CrewAI、AutoGen、LangGraphに対応したフレームワークネイティブフックとサーキットブレーカーを提供。
 
 ## スキル
 
@@ -724,10 +737,20 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [MyVibe Skills](https://github.com/ArcBlock/myvibe-skills) - AI生成Webアプリを即座にMyVibe.soに公開。Static、Vite、Next.js、Astro、Nuxtプロジェクトを自動検出し、スマートビルド統合を実現
 - [Heavy3 Code Audit (`/h3`)](https://github.com/heavy3-ai/code-audit) - コーディングエージェントのプラン、コード、PRをマルチモデルコンセンサスでレビューするエージェントスキル
 - [setup-structure-index](https://github.com/shannonbay/setup-structure-index) - 任意のプロジェクト用に2段階のコードベース構造インデックスをセットアップするClaude Codeスキル
-- [pm-skills](https://github.com/product-on-purpose/pm-skills) - agentskills.io仕様に準拠した、24のプラグアンドプレイ型プロダクトマネジメントエージェントスキル（テンプレートとワークフローバンドル付き）
+- [pm-skills](https://github.com/product-on-purpose/pm-skills) - agentskills.io仕様に準拠した、68のプロダクトマネジメントエージェントスキル。ディスカバリーからイテレーションまでを網羅し、6つのサブエージェント、12のワークフロー、200以上のサンプル出力を含む。スキル契約はCIで検証される
 - [Mysti](https://github.com/DeepMyst/Mysti) - VS Code向けマルチエージェントAIコーディングアシスタント（ブレインストームモード搭載）| Claude Code、Codex、Gemini、Cline、GitHub Copilot |
 - [naming](https://github.com/glacierphonk/naming) - プロダクト、SaaS、ブランド、オープンソースプロジェクトのためのメタファー駆動型ネーミングスキル。記憶に残る意味のある名前を生成する構造化プロセス
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - エージェント生成テキストからAIライティングパターン（三段論法、emダッシュの多用、ヘッジング、ご機嫌取りの書き出し、過剰使用語彙）を除去するCLIおよびMCPサーバー。Claude Code、Codex、Gemini CLI、Cursorに対応
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - コードを出荷する前に、組織のポリシー、コード品質パターン、セキュリティ要件、フレームワークのベストプラクティスに照らしてコードを検証するコーディングエージェントスキル
 - [fable-mode](https://github.com/mrtooher/fable-mode) - Fableスタイルのエージェント的振る舞い（明示的な多段階プランニング、サブエージェントへの委譲、自己検証）を有効化するClaudeスキル
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - AIエージェントを部屋で一番怠惰なシニア開発者のように考えさせる。最良のコードとは、書かずに済んだコードである。
+
+## サポート
+
+このリストは、上記のオープンソーススキャナーと合わせて無償でメンテナンスしています。
+役に立ったと感じたら:
+
+- **Base上のUSDCまたはETH** を `0x5bCDA55247B238a573A968B234F788a2D35664Dd` へ
+  ([BaseScan](https://basescan.org/address/0x5bCDA55247B238a573A968B234F788a2D35664Dd)) —
+  プラットフォームのアカウントを介さず、アドレスに直接。
+- [Buy Me a Coffee](https://buymeacoffee.com/eltociear)
