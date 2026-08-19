@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **614個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **591個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -47,7 +47,6 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [NotBadAI IDE](https://github.com/notbadai/ide) - AI支援機能を備えたコードエディタ。チャット、変更の適用、自動補完、インライングレー補完などをサポート
 - [Kiro](https://github.com/kirodotdev/Kiro) - プロトタイプから本番環境まで、仕様駆動開発、エージェントフック、自然言語コーディング支援により移行をサポートするエージェンティックIDE
 - [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - AIエージェント時代のターミナル中心IDE
-- [SquirlIDE](https://github.com/krishnak19a-del/SquirlIDE) - Tauri（Rust）をバックエンド、ReactJSをフロントエンドに使用した軽量クロスプラットフォームコードエディタ。コードアシスタンスとテキスト生成のためのGemini API経由のLLM統合を搭載
 - [Frontman](https://github.com/frontman-ai/frontman) - ブラウザ上で動作するオープンソースAIコーディングエージェント。ミドルウェアとして開発サーバーに接続し、ライブDOM、コンポーネントツリー、CSS、ルート、サーバーログを認識。任意の要素をクリックして変更を自然言語で記述すると、ホットリロード付きでソースコードを編集
 - [Cate](https://github.com/0-AI-UG/cate) - 無限ズームキャンバス上のオープンソースIDE。エディタ、ターミナル、ブラウザ、AIエージェント（Claude Code）のパネルをタブの代わりに空間的に配置。Electron、React、TypeScriptで構築
 - [Nimbalyst](https://nimbalyst.com) - CodexとClaude Codeで構築するためのビジュアルワークスペース。セッション・タスク管理、マークダウン・モックアップ・CSV・Excalidraw・Mermaid・コードのビジュアル編集
@@ -64,13 +63,11 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [plandex](https://github.com/plandex-ai/plandex) - ターミナルでのAI駆動開発
 - [OpenCode(@opencode-ai)](https://github.com/opencode-ai/opencode) - 開発者向けの強力なターミナルベースAIアシスタント
 - [opencode(@sst)](https://github.com/sst/opencode) - ターミナル用AIコーディングエージェント
-- [ANON KODE](https://github.com/dnakov/anon-kode) - OpenAI形式APIに対応したターミナルベースのAIコーディングツール
 - [OpenAI Codex CLI](https://github.com/openai/codex) - ターミナル上で動作する軽量コーディングエージェント
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) - 認証ファイルをコピーせず、分離されたCODEX_HOMEプロファイルでCodex CLIとDesktopのアカウントを切り替えるツール
 - [Gemini Code](https://github.com/raizamartin/gemini-code) - Gemini 2.5 ProとLLMモデルサポートによる強力なAIコーディングアシスタント
 - [AiCode](https://github.com/paul-nameless/aicode) - ソフトウェアエンジニアリング業務向けAI搭載CLIエージェント
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - ソフトウェア開発業務を支援するインタラクティブなCLI
-- [comandi](https://github.com/datavorous/comandi) - プログラミングサポート、エラーデバッグ、自動翻訳機能を持つ無料・APIキー不要のAI搭載CLI
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - 開発者向けAI搭載コマンドラインワークフローツール
 - [Grok CLI](https://github.com/superagent-ai/grok-cli) - インテリジェントなテキストエディタ機能とツール使用機能を備えたGrok搭載会話型AI CLIツール
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Geminiの力を直接ターミナルに持ち込むオープンソースAIエージェント
@@ -123,7 +120,6 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [continue](https://github.com/continuedev/continue) - 主要なオープンソースAIコードアシスタント
 - [cline](https://github.com/clinebot/cline) - IDE上で動作する自律コーディングエージェント
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - エディタ上で動作するAI搭載自律コーディングエージェント
-- [CoolCline](https://github.com/coolcline/CoolCline) - Cline、Roo Code、Bao Clineの最高機能を組み合わせたプロアクティブプログラミングアシスタント
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - IDE上で動作する自律コーディングエージェント
 - [twinny](https://github.com/twinnydotdev/twinny) - Visual Studio Code向けの直接的でローカル/API対応のAIコード補完プラグイン
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - VS Code向けオープンソース・ネイティブの真のGitHub Copilot代替品
@@ -216,7 +212,6 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [CodeMachine CLI](https://github.com/moazbuilds/CodeMachine-CLI) - 協調マルチエージェントAIワークフローを使用して仕様ファイルを本番環境対応コードに適応的に変換するCLIネイティブオーケストレーションプラットフォーム ⚡️
 - [Claudiomiro](https://github.com/samuelfaj/claudiomiro) - プロンプトを送信すると、分解、コーディング、レビュー、ビルド、テスト、コミットを並列で自律的に実行
 - [Agent Deck](https://github.com/asheshgoplani/agent-deck) - AIコーディングエージェント向けターミナルセッションマネージャー。GoとBubble Teaで構築
-- [PAF Framework](https://github.com/crack00r/paf-framework) - 38の専門AIエージェントを使用した完全なソフトウェア開発ライフサイクル（SDLC）を実装する包括的マルチエージェントオーケストレーションフレームワーク。階層的なチーム構造とnested-subagentプラグインにより、エンタープライズグレードのコードレビュー、機能開発、プロジェクト管理を実現
 - [1Code](https://github.com/21st-dev/1code) - コードエージェント（ClaudeCode、OpenCode、Codex）を並列実行するためのより良いUIアプリ
 - [AIWorkHub](https://github.com/shrec/AIWorkHub) - 依存関係付きタスクDAG、分離ワーカー、永続コンテキスト、ソースインテリジェンス、エビデンスベースのレビューを備えた、オープンソースでリポジトリネイティブなマルチモデルAIコーディングエージェント制御基盤。
 - [aistack](https://github.com/blackms/aistack) - 敵対的検証、永続メモリ、リアルタイムWebダッシュボードを備えた本番環境対応エージェントオーケストレーション
@@ -254,8 +249,6 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - 作りたいものを指定すると、AIが明確化を求め、その後構築
 - [amplication](https://github.com/amplication/amplication) - 唯一のプロダクション対応AI搭載バックエンドコード生成
 - [llamacoder](https://github.com/Nutlope/llamacoder) - オープンソースのClaude Artifacts – 一つのプロンプトで小さなアプリを生成
-- [ai-app-builder](https://github.com/fireproof-storage/ai-app-builder) - 単一ページアプリとしてデプロイされた最もフォークしやすいAIアプリジェネレーター
-- [vibes.diy](https://github.com/fireproof-storage/vibes.diy) - 最もフォークしやすいAIアプリジェネレーターで数秒で共有可能なアプリを生成
 - [oneShotCodeGen](https://github.com/vivek100/oneShotCodeGen) - 単一プロンプトでフルスタックWebアプリを作成
 - [aiCoder](https://github.com/mmiscool/aiCoder) - AIを使用してJSライブラリを書くツール
 - [CodePanda](https://github.com/jjleng/code-panda) - 自然言語でのやりとりによってフルスタックWebアプリケーションを構築するAI搭載コーディングツール
@@ -275,7 +268,6 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Vibe Coding a Full-Stack Budget App](https://github.com/wasp-lang/vibe-coding-video) - Vibe Codingフルスタックアプリスターターテンプレート
 - [Shadow Code](https://github.com/adifyr/shadow-code) - 人間が書いた擬似コードをターゲット言語のクリーンで正確な本番対応コードに変換するAIコーディング技術（少なくとも、それがシステムプロンプトでAIに指示した内容）
 - [InsForge](https://github.com/InsForge/InsForge) - AIコーディングエージェントとAIコードエディタ向けに構築されたバックエンド開発プラットフォーム
-- [Forge](https://github.com/sudo-rebase/forge) - AIパワードフルスタックアプリ作成ツール。自然言語からプロダクション対応のNext.jsアプリを生成。BYOK — Anthropic、OpenAI、Google AIの自前キーをマークアップなしで使用可能
 - [AI Agent Automations](https://github.com/ChmaraX/ai-agent-automations) - コード保守、CI、セキュリティ、調査、運用にまたがるCodex、Claude Code、Cursor、OpenCode向けワークフロー用の厳選された自動化プロンプト集
 
 ## テスト & セキュリティ
@@ -303,7 +295,6 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [codegate](https://github.com/stacklok/codegate) - AIコーディングアシスタントを安全にするローカルゲートウェイ
 - [AgentLint](https://github.com/0xmariowu/AgentLint) - AIフレンドリーなリポジトリのための33のエビデンスベースチェック — ファイル構造、指示品質、ビルド設定、セッション継続性、セキュリティ態勢。Claude Codeプラグインで自動修正対応
 - [Agent-Ready Repo Auditor](https://github.com/wrightops-ai/agent-ready-repo-auditor) - 公開リポジトリをクローンしたりコードを実行したりせず、Codex、Claude Code、Copilot、Cursor向けの準備状況をエビデンスに基づいて採点する、依存関係のないCLI、ライブラリ、GitHub Action。
-- [vibelint](https://github.com/mithranm/vibelint) - コードベースをLLMフレンドリーにする
 - [Vibe Security](https://github.com/astoj/vibe-security) - Vibeコーダー向け包括的セキュリティチェックリスト
 - [Strix](https://github.com/usestrix/strix) - 「AIハッカー」として機能するオープンソースのセキュリティエージェント。開発ワークフローに統合し、アプリケーションの脆弱性を能動的にテスト・発見する。ローカルで実行し、継続的なセキュリティテストを自動化できる
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - オフラインファースト、AI中心のSAST＆コードインテリジェンスプラットフォーム
@@ -348,7 +339,6 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP向けPlaywrightツール
 - [Web Accessibility-Testing MCP Server](https://github.com/ronantakizawa/a11ymcp) - LLMにWebアクセシビリティテストAPIへのアクセスを提供するMCP（Model Context Protocol）サーバー
 - [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - LLMが自律的にアプリケーションをリバースエンジニアリングできるModel Context Protocolサーバー
-- [Deebo](https://github.com/snagasuri/deebo-prototype) - Model Context Protocol（MCP）を使用したコーディングエージェントワークフローへの統合向け自律デバッグシステム
 - [Obsidian MCP Tool Server](https://github.com/Rwb3n/obsidian-mcp) - Obsidianボルトとのやりとりツールを公開するModel Context Protocol（MCP）サーバー
 - [Octocode MCP](https://github.com/bgauryy/octocode-mcp) - コード検索分析MCP
 - [Serena](https://github.com/oraios/serena) - セマンティック検索・編集機能を持つ強力なコーディングエージェント（MCPサーバー）
@@ -360,7 +350,6 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Kratos MCP](https://github.com/ceorkm/kratos-mcp) - プロジェクト分離の完璧さ、95.8%のコンテキスト精度、Four Pillarsフレームワークを備えたMCPサーバー
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 AI駆動開発向けインテリジェントタスク管理 - 複雑なプロジェクトを管理可能なタスクに分解し、セッション間でコンテキストを維持し、開発ワークフローを加速
 - [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 AIアシスタントからの古いRustコード提案を防止。このMCPサーバーは最新のクレートドキュメントを取得し、埋め込み/LLMを使用し、ツール呼び出し経由で正確なコンテキストを提供
-- [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - AIアシスタント向けのセマンティックメモリ検索と永続ストレージを提供するユニバーサルMCPメモリサービス
 - [Roslyn MCP Server](https://github.com/carquiza/RoslynMCP) - MicrosoftのRoslynコンパイラプラットフォームと統合し、Claude DesktopにC#コードベースのコード分析とナビゲーション機能を提供するC# MCP（Model Context Protocol）サーバー
 - [SharpTools](https://github.com/kooshi/sharptoolsmcp) - AIがC#ソリューションを分析・変更するための高精度、Roslyn搭載コンテキストを備えたMCPツールスイート
 - [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - Roslynコンパイラプラットフォームを使用してC#コード分析機能を提供するModel Context Protocol（MCP）サーバー
@@ -423,7 +412,6 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Task Master](https://github.com/eyaltoledano/claude-task-master) - ClaudeによるAI駆動開発向けタスク管理システム、Cursor AIとのシームレスな連携設計
 - [SprintCore](https://github.com/spicewoodlabs/sprintcore) - AIによるバグ修正、ユーザーストーリー作成、PRD作成、スプリント管理
 - [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - AIでコードベースを分かりやすいチュートリアルに変換
-- [reqtext](https://github.com/fred-terzi/reqtext) - 要求管理をワークフローに直接持ち込むGitネイティブ・CLIファースト要求・ドキュメンテーションフレームワーク
 - [Vibook](https://github.com/pinqy520/roo-code-vibook) - AI支援による継続的メンテナンス向けAIフレンドリープロジェクトドキュメント（Roo Code）
 - [Claude Code PM](https://github.com/automazeio/ccpm) - GitHub IssuesとGit worktreeを使用した並列エージェント実行によるClaude Code向けプロジェクト管理システム
 - [Claude Conductor](https://github.com/superbasicstudio/claude-conductor) - AI支援開発でClaude Code向けに設計された軽量・モジュラードキュメンテーションフレームワーク
@@ -482,7 +470,6 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - オプション公開・ストリーミング機能付きの使いやすいOllama自動補完エンジン
 - [O1-CODER](https://github.com/ADaM-BJTU/O1-CODER) - コーディング向けO1レプリケーション
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - ソフトウェアエンジニアを置き換えるのではなく、支援・強化するよう設計されたAI搭載機能のバックエンドとして機能するオープンソース言語サーバー
-- [rift](https://github.com/morph-labs/rift) - 個人AIソフトウェアエンジニア向けAIネイティブ言語サーバー
 - [FireCoder](https://github.com/FireCoderAI/firecoder) - ローカルマシン上でコーディング体験を最適化するために構築されたセルフホスト型AIアシスタント
 
 ## 開発ワークフロー & エージェント
@@ -506,7 +493,6 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - 複雑な現実世界のソフトウェア作成にアジャイル手法をエージェントに組み込む
 - [sparc2](https://github.com/agenticsorg/sparc2) - ソフトウェア開発の自動化・合理化向けインテリジェントコーディングエージェントフレームワーク、SPARC 2.0エージェント型コード解析・生成
 - [Kilo Code](https://github.com/Kilo-Org/kilocode) - 計画、構築、コード修正向けオープンソースAIコーディングアシスタント
-- [vespper](https://github.com/vespperhq/vespper) - オープンソースAI オンコール開発者
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - 実際にコーディングするAIエンジニア
 - [Localforge](https://github.com/rockbite/localforge) - ローカルWeb UIで実行され、ファイルと協働して自律動作
 - [Perpetual](https://github.com/DarkCaster/Perpetual) - LLM駆動ソフトウェア開発ヘルパー
@@ -523,7 +509,6 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - 世界初のL5自律コードエンジニア。自己修復コード、オンプレミスガバナンス、エンタープライズ向け暗号化コンプライアンス
 - [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - あなたが寝ている間にコンピュータに作業をさせるエージェントタスクランナー！「シンプルに、楽しく、一度に一つのことをする」というRalph Wiggum方式を採用
 - [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - AI支援開発向け高規律エージェントワークフロー。永続コンテキストによるAnalyze、Run、Confirm（ARC）プロジェクト実行
-- [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - ステートフルメモリ、ライブWebアクセス、疑似自己改善などを備えた完全自律AI開発エージェント
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - 寝ている間に動く自律コード最適化（Claude Codeによるオートリサーチ）。メトリクスを定義し、コードを指定して就寝。正確性を毎ステップ検証しながら、より速く、より小さく、より良いシステムに目覚める
 - [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - AIコーディングエージェント向けの自己進化型ソフトウェア開発ライフサイクル（SDLC）強制システム。Claudeにコーディング前のプランニング、出荷前のテスト、不確かなときの質問を促す。時間とともに自身が改善していく様子を測定する。
 - [THROUGHLINE](https://github.com/hellomyoh/throughline) - AIコーディングエージェント向けの仕様駆動開発フレームワーク。Markdownとgitのみで構成され、ランタイムもCLIも不要。コードを書く前にペルソナが各仕様をレビューし、追記専用の単一情報源（SSOT）がセッションをまたいで決定内容の一貫性を保つ。Claude Code、Codex、Cursorに対応。
@@ -533,7 +518,6 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 コードベースの解析、検索、理解のためのツール。
 
 - [AI Badger](https://github.com/PVRLabs/aibadger) - コードベースをマッピングし、AIがリクエストしたコンテキストのみを抽出するローカルファーストのCLI/TUIブリッジ。APIキー、テレメトリー、リポジトリ全体のアップロードは不要
-- [cody](https://github.com/sourcegraph/cody) - タイピング削減、コーディング増進：Codyは高度検索とコードベースコンテキストを使用してコード記述・修正を支援するAIコードアシスタント
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - ローカルファーストセマンティックコード検索エンジン
 - [VectorCode](https://github.com/Davidyz/VectorCode) - コードリポジトリインデックスツール。リポジトリのインデックス化と情報提供により、コーディングLLM向けの優れたプロンプト記述を支援
 - [Project Indexer](https://github.com/Dolfie-01/ProjectIndexer) - プロジェクト内のクラス、ファイル、その他のコンポーネントの場所をインデックス化するシンプルスクリプト
@@ -554,7 +538,6 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - コードベースを自動で解析し、AIコーディングアシスタント向けに最適化されたコンテキストドキュメント（例：CLAUDE.md、AGENTS.mdなど）の推奨事項を生成するGitHub Action
 - [ccusage](https://github.com/ryoppippi/ccusage) - ローカルJSONLファイルからClaude Code/Codex CLI使用状況を分析するCLIツール
 - [BurnRate](https://getburnrate.io) - ローカルファーストのAIコーディングコスト分析。Claude Code、Cursor、Codex、Copilot、Windsurf、Cline、Aiderを追跡。コスト内訳、23の最適化ルール、レート制限監視、プロバイダー比較、PDFレポート
-- [Agent Island](https://github.com/tristan666666/agent-island) - Claude CodeとCodex向けのオープンソースなステータスコンパニオン。macOSとWindowsでライブセッション状態、ユーザーの対応が必要なときの通知、ローカルモニタリングを提供
 - [Burnd](https://github.com/garvitsurana271/burnd) - Claude CodeのJSONLセッションファイルを解析し、8つのコストリーク検出器（リトライストーム、ツール過剰使用、繰り返し読み込み、スラッシング、疲労コーディングなど）を実行するローカルファーストCLI。節約見積もりと共有可能なレポートURLを出力。MITライセンス、npxでインストール可能、テレメトリなし
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Claude Code、Codex CLI、Gemini CLI、Aider、CursorエクスポートなどのAIコーディングエージェントセッションを可視化するローカルファーストTUI
 - [ax](https://github.com/Necmttn/ax) - Claude Code、CodexなどのAIコーディングエージェント向けローカルファーストなテレメトリ・リコールグラフ。セッション、コスト、スキル、ルーティング、フック分析に対応
@@ -592,23 +575,20 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 ### 言語固有
 - [coders](https://github.com/0xKoda/coders) - rustのAIコーディングアシスタント
 - [AutoBE](https://github.com/wrtnlabs/autobe) - コンパイラスキルで強化されたTSバックエンドサーバーのAI Vibeコーディングエージェント
-- [Winx Code Agent](https://github.com/rokytory/winx-code-agent) - WCGWとSerenaの最高機能を組み合わせた最大効率・セマンティック機能向けRust記述高性能コードエージェント
+- [Winx Code Agent](https://github.com/gabrielmaialva33/winx-code-agent) - WCGWとSerenaの最高機能を組み合わせた最大効率・セマンティック機能向けRust記述高性能コードエージェント
 - [cursor_agent](https://github.com/zalab-inc/cursor_agent) - Cursor AIエージェント向け構造化タスクシーケンス作成TypeScriptライブラリ
 
 ### ターミナル・シェル
 - [TmuxAI](https://github.com/alvinunreal/tmuxai) - tmuxセッション内での直接的なインテリジェントペアプログラマー
-- [devblahblah](https://github.com/devblahblah/devblahblah) - LLM APIを使用した開発業務支援のためのシンプルツール
 
 ### プロンプト・コンテキスト管理
 - [Prompt Tower](https://github.com/backnotprop/prompt-tower) - コードブロックが多数含まれるプロンプトの構築とコンテキスト管理支援ツール
 - [Oyren Prompter](https://github.com/oyren-dev/oyren-prompter) - 複数ファイルの閲覧・選択、内容の結合、カスタムプロンプトの前付けを可能にするローカルWebツール
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - 様々なAIモデル向けの効果的なプロンプトを保存・整理・共有する中央リポジトリ
-- [zoltraak](https://github.com/dai-motoki/zoltraak) - 自然言語を実行言語に変換するプロンプトコンパイラシステム
 - [cmpr](https://github.com/inimino/cmpr) - 英語でプログラミング！LLM対応プログラミングフレームワーク
 - [Scopeglass](https://github.com/zackabrah/scopeglass) - コーディングエージェントが継承するAGENTS.mdチェーンを検査するローカルCLI。優先順位、行レベルの出所、トークン推定、壊れた参照・重複・競合のチェックを提供
 
 ### Copilot拡張・代替品
-- [copilot-more](https://github.com/jjleng/copilot-more) - コーディング・その他向け月額10ドルのGPT-4oとClaude-3.5-Sonnet API
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - あらゆるLLMモデルでGH Copilot拡張機能を動作させる
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Neovim向け設定
 - [promptis](https://github.com/Fintan-contents/promptis) - GitHub Copilot Chatを通じて事前定義されたプロンプトの実行を半自動化することで、コーディング効率と一貫性を向上させるツール
@@ -617,7 +597,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 
 AI駆動開発ワークフロー向けの合成データセット生成ツール。
 
-- [DeepFabric](https://github.com/lukehinds/deepfabric) - 構造化出力とより効率的なツール呼び出しのためのモデルファインチューニング用合成データセット、およびエージェントとモデル評価データの生成
+- [DeepFabric](https://github.com/nolabs-ai/deepfabric) - 構造化出力とより効率的なツール呼び出しのためのモデルファインチューニング用合成データセット、およびエージェントとモデル評価データの生成
 
 ## 学習リソース
 
@@ -629,11 +609,9 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - 構造化AI支援開発ワークフローガイド
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - 実コンピュータ環境でのオープンエンド業務向けマルチモーダルエージェントのベンチマーク
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - CursorやCLINEなどのAIコーディングアシスタントの性能向上向けの堅牢で適応可能なルールフレームワーク
-- [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - 様々なベストプラクティスに従ったコード生成をAIコーディングアシスタントに指導する.windsurfrulesファイルの厳選コレクション
 - [Ruler](https://github.com/intellectronica/ruler) - すべてのコーディングエージェントに同じルールを適用
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - ソフトウェアエンジニアの日常的なプログラミング作業を支援するJava向けシステムプロンプトのコレクション
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub CopilotをAIペアプログラミングリソースとして使用するために必要なすべてを教えるマルチモジュールコース
-- [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDEのtips、tricks、ベストプラクティス - キーボードショートカット、Composerモード、.cursorrules例、Redditコミュニティの知恵
 - [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - Claude Codeを最大限活用するための完全ガイド：グローバルCLAUDE.md、MCPサーバー、コマンド、フック、スキル、そして単一目的チャットが重要な理由
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - ジュニアエンジニア向けAIメンター開発。Claudeはコーダーではなくメンターとして機能し、質問で導き、6つのゲートでレビューしつつ、すべてのコードはあなた自身が書く。依存を減らし、オーナーシップを高める
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - 245以上のVibeコーディングツール、プラットフォーム、リソースのキュレーションリスト。カテゴリ別に整理され、料金、ユースケース、チュートリアル、コミュニティ情報を含む
@@ -663,8 +641,6 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [DeepEvolve](https://github.com/liugangcode/deepevolve) - Deep ResearchとAlphaEvolveを用いて異なる科学分野での新アルゴリズム発見向け研究・コーディングエージェント
 - [cursorrules 「v5」](https://github.com/kinopeee/cursorrules) - Cursor Agent に最適化されたカスタムインストラクションです
 - [.windsurfrules 'v5'](https://github.com/kinopeee/windsurfrules) - Windsurf向けカスタム指示ファイル（.windsurfrules）。Windsurf Cascade向けcursorrulesの最適化適応
-- [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - DeepSeek-R1モデルのチャットインターフェースを提供
-- [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - Claude ProとOpenRouterを組み合わせてトークンコストを削減するVS Code向けリーンRoo Code設定
 - [RooFlow](https://github.com/GreatScottyMac/RooFlow) - ☢️Footgun Power☢️による強化メモリーバンクシステム 5つの統合モードとシステムレベルカスタマイゼーションを持つ次世代メモリーバンクシステム
 - [Roo Commander](https://github.com/jezweb/roo-commander) - 👑 Roo Commanderによって調整され、VS Code上のRoo Codeを動力とする、エディタ内に仮想的で専門的なソフトウェア開発チームを持つようなもの
 - [Vibe](https://github.com/wyojustin/Vibe) - プロジェクトでの増分コードパッチの適用、レビュー、管理を行い、会話プロンプトによるAI駆動パッチ生成も統合するインタラクティブツール

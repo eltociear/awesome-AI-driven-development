@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **614 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **591 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -47,7 +47,6 @@ Full-featured AI-powered code editors and integrated development environments.
 - [NotBadAI IDE](https://github.com/notbadai/ide) - A code editor with AI assistance. It supports chat, apply changes, autocomplete, and inline gray completions etc.
 - [Kiro](https://github.com/kirodotdev/Kiro) - an agentic IDE that helps you go from prototype to production with spec-driven development, agent hooks, and natural language coding assistance.
 - [SpaceManager](https://github.com/NEWBIE0413/SpaceManager) - A terminal-centric IDE for the age of AI agents.
-- [SquirlIDE](https://github.com/krishnak19a-del/SquirlIDE) - A lightweight, cross-platform code editor built using Tauri (Rust) for the backend and ReactJS for the frontend, with integration for large language model (LLM) calls using Gemini API for code assistance and text generation.
 - [Frontman](https://github.com/frontman-ai/frontman) - Open-source AI coding agent that lives in your browser. Hooks into your dev server as middleware, sees live DOM, component tree, CSS, routes, and server logs. Click any element, describe changes, get real source code edits with hot reload.
 - [Cate](https://github.com/0-AI-UG/cate) - Open source IDE on an infinite zoomable canvas. Editor, terminal, browser, and AI agent (Claude Code) panels are arranged in spatial workspaces instead of tabs. Built with Electron, React, and TypeScript
 - [Nimbalyst](https://nimbalyst.com) - Visual workspace for building with Codex and Claude Code. Session and task management. Visual editing of markdown, mockups, csv, excalidraw, mermaid, code.  
@@ -64,13 +63,11 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal
 - [OpenCode(@opencode-ai)](https://github.com/opencode-ai/opencode) - A powerful terminal-based AI assistant for developers, providing intelligent coding assistance directly in your terminal
 - [opencode(@sst)](https://github.com/sst/opencode) - AI coding agent, built for the terminal
-- [ANON KODE](https://github.com/dnakov/anon-kode) - Terminal-based AI coding tool that can use any model that supports the OpenAI-style API
 - [OpenAI Codex CLI](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [codex-profiles](https://github.com/Ducksss/codex-profiles) - Switch Codex CLI and Desktop accounts with isolated CODEX_HOME profiles instead of copying auth files
 - [Gemini Code](https://github.com/raizamartin/gemini-code) - A powerful AI coding assistant for your terminal, powered by Gemini 2.5 Pro with support for other LLM models
 - [AiCode](https://github.com/paul-nameless/aicode) - AI-powered CLI agent for software engineering tasks
 - [bedrock-engineer](https://github.com/daisuke-awaji/bedrock-engineer) - An interactive command-line interface (CLI) to assist with software development tasks
-- [comandi](https://github.com/datavorous/comandi) - A Free API-Keyless AI-powered CLI for Programming Support, Error Debugging and Automated Instruction Translations
 - [Qwen Code](https://github.com/QwenLM/qwen-code) - AI-powered command-line workflow tool for developers
 - [Grok CLI](https://github.com/superagent-ai/grok-cli) - A conversational AI CLI tool powered by Grok with intelligent text editor capabilities and tool usage.
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
@@ -123,7 +120,6 @@ Plugins and extensions for popular IDEs and text editors.
 - [continue](https://github.com/continuedev/continue) - The leading open-source AI code assistant
 - [cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - An AI-powered autonomous coding agent that lives in your editor
-- [CoolCline](https://github.com/coolcline/CoolCline) - A proactive programming assistant that combines the best features of Cline, Roo Code, and Bao Cline
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - An autonomous coding agent that lives in your IDE
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
@@ -216,7 +212,6 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [CodeMachine CLI](https://github.com/moazbuilds/CodeMachine-CLI) - a CLI-native orchestration platform that uses coordinated multi-agent AI workflows to adaptively transform specification files into production-ready code. ⚡️
 - [Claudiomiro](https://github.com/samuelfaj/claudiomiro) - Send your prompt — it decomposes, codes, reviews, builds, tests, and commits autonomously, in PARALLEL.
 - [Agent Deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. Built with Go + Bubble Tea.
-- [PAF Framework](https://github.com/crack00r/paf-framework) - A comprehensive multi-agent orchestration framework that implements a complete Software Development Life Cycle (SDLC) with 38 specialized AI agents. Using hierarchical team structures and the nested-subagent plugin, PAF enables enterprise-grade code reviews, feature development, and project management.
 - [1Code](https://github.com/21st-dev/1code) - Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 - [AIWorkHub](https://github.com/shrec/AIWorkHub) - Open-source, repository-native control plane for multi-model coding agents with dependency-aware task DAGs, isolated workers, durable context, source intelligence, and evidence-based review.
 - [aistack](https://github.com/blackms/aistack) - Production-grade agent orchestration with adversarial validation, persistent memory, and real-time web dashboard
@@ -253,8 +248,6 @@ Tools for generating code, automating development tasks, and creating project te
 - [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it
 - [amplication](https://github.com/amplication/amplication) - The Only Production-Ready AI-Powered Backend Code Generation
 - [llamacoder](https://github.com/Nutlope/llamacoder) - An open source Claude Artifacts – generate small apps with one prompt
-- [ai-app-builder](https://github.com/fireproof-storage/ai-app-builder) - The most forkable AI app generator, deployed as single page app
-- [vibes.diy](https://github.com/fireproof-storage/vibes.diy) - Generate shareable apps in seconds with the most forkable AI app generator, deployed as single page app
 - [oneShotCodeGen](https://github.com/vivek100/oneShotCodeGen) - Create full stack webapps with single prompt
 - [aiCoder](https://github.com/mmiscool/aiCoder) - A tool to write JS libraries using AI
 - [CodePanda](https://github.com/jjleng/code-panda) - An AI-powered coding tool that helps you build full-stack web applications through natural language interaction
@@ -274,7 +267,6 @@ Tools for generating code, automating development tasks, and creating project te
 - [Compose-Lang](https://github.com/darula-hpp/compose-lang) - An LLM-assisted compiler for architecture specifications. Define your application in structured .compose files, and the compiler generates framework-specific code through LLM-powered code generation with reproducible builds via caching.
 - [Shadow Code](https://github.com/adifyr/shadow-code) - an AI coding technique that involves transforming human-written pseudocode to clean, accurate & production-ready code in the target language. (At least, that's what I've told the AI to do in the system prompt.)
 - [InsForge](https://github.com/InsForge/InsForge) - A backend development platform built for AI coding agents and AI code editors.
-- [Forge](https://github.com/sudo-rebase/forge) - AI-powered full-stack app creator. Generate production-ready Next.js apps from natural language. BYOK — use your own Anthropic, OpenAI, or Google AI key with no markup.
 - [AI Agent Automations](https://github.com/ChmaraX/ai-agent-automations) - Curated automation prompt library for Codex, Claude Code, Cursor, and OpenCode workflows across code maintenance, CI, security, research, and operations.
 
 ## Testing & Security
@@ -302,7 +294,6 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [codegate](https://github.com/stacklok/codegate) - A local gateway that makes AI coding assistants safer
 - [AgentLint](https://github.com/0xmariowu/AgentLint) - 33 evidence-backed checks for AI-friendly repos — file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix.
 - [Agent-Ready Repo Auditor](https://github.com/wrightops-ai/agent-ready-repo-auditor) - Dependency-free CLI, library, and GitHub Action that scores public repository evidence for Codex, Claude Code, Copilot, and Cursor readiness without cloning or executing code.
-- [vibelint](https://github.com/mithranm/vibelint) - Make codebases more LLM friendly
 - [Vibe Security](https://github.com/astoj/vibe-security) - A comprehensive security checklist for vibe coders
 - [Strix](https://github.com/usestrix/strix) - Open-source AI hackers for your apps
 - [TheAuditor](https://github.com/TheAuditorTool/Auditor) - Offline-First, AI-Centric SAST & Code Intelligence Platform
@@ -349,7 +340,6 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
 - [Web Accessibility-Testing MCP Server](https://github.com/ronantakizawa/a11ymcp) - An MCP (Model Context Protocol) server that gives LLMs access to web accessibility testing APIs
 - [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - An Model Context Protocol server for allowing LLMs to autonomously reverse engineer applications
-- [Deebo](https://github.com/snagasuri/deebo-prototype) - An autonomous debugging system built for integration into coding agent workflows using the Model Context Protocol (MCP)
 - [Obsidian MCP Tool Server](https://github.com/Rwb3n/obsidian-mcp) - This project provides a Model Context Protocol (MCP) server that exposes tools for interacting with an Obsidian vault
 - [Octocode MCP](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
 - [Serena](https://github.com/oraios/serena) - A powerful coding agent with semantic retrieval and editing capabilities (MCP server)
@@ -362,7 +352,6 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [MCP Shrimp Task Manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - 🦐 Intelligent task management for AI-powered development - Break down complex projects into manageable tasks, maintain context across sessions, and accelerate your development workflow.
 - [Rust Docs MCP Server](https://github.com/Govcraft/rust-docs-mcp-server) - 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate context via a tool call.
 - [Docker MCP Plugin and Docker MCP Gateway](https://github.com/docker/mcp-gateway/) - docker mcp CLI plugin / MCP Gateway
-- [MCP Memory Service](https://github.com/doobidoo/mcp-memory-service) - Universal MCP memory service providing semantic memory search and persistent storage for AI assistants.
 - [Roslyn MCP Server](https://github.com/carquiza/RoslynMCP) - A C# MCP (Model Context Protocol) server that integrates with Microsoft's Roslyn compiler platform to provide Claude Desktop with code analysis and navigation capabilities for C# codebases.
 - [SharpTools](https://github.com/kooshi/sharptoolsmcp) - A suite of MCP tools for AIs to analyze and modify C# solutions with high signal, Roslyn powered context.
 - [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - A Model Context Protocol (MCP) server that provides C# code analysis capabilities using the Roslyn compiler platform.
@@ -422,7 +411,6 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Task Master](https://github.com/eyaltoledano/claude-task-master) - A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI
 - [SprintCore](https://github.com/spicewoodlabs/sprintcore) - Fix bugs, create user stories, create PRDs, manage sprints - by AI
 - [Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
-- [reqtext](https://github.com/fred-terzi/reqtext) - A Git-native, CLI first requirements and documentation framework meant to bring requirement management directly into your workflow
 - [Vibook](https://github.com/pinqy520/roo-code-vibook) - AI-friendly project documentation for continuous maintenance through AI assistance (Roo Code)
 - [Claude Code PM](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Claude Conductor](https://github.com/superbasicstudio/claude-conductor) - A lightweight + modular documentation framework designed for AI-assisted development with Claude Code.
@@ -481,7 +469,6 @@ Specialized language models and AI engines designed for coding and development t
 - [ollama-autocoder](https://github.com/10Nates/ollama-autocoder) - A simple to use Ollama autocompletion engine with options exposed and streaming functionality
 - [O1-CODER](https://github.com/ADaM-BJTU/O1-CODER) - AN O1 REPLICATION FOR CODING
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - An open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them
-- [rift](https://github.com/morph-labs/rift) - An AI-native language server for your personal AI software engineer
 - [FireCoder](https://github.com/FireCoderAI/firecoder) - your self-hosted AI assistant, purpose-built to optimize your coding experience directly on your local machine.
 
 ## Development Workflows & Agents
@@ -505,7 +492,6 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [agilecoder](https://github.com/fsoft-ai4code/agilecoder) - Incorporating Agile methodology into agents to create complex real-world softwares
 - [sparc2](https://github.com/agenticsorg/sparc2) - SPARC 2.0, agentic code analysis and generation, is an intelligent coding agent framework built to automate and streamline software development
 - [Kilo Code](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code
-- [vespper](https://github.com/vespperhq/vespper) - Open-source AI on-call developer
 - [droid.dev](https://github.com/bootstrapguru/droid.dev) - AI Engineer that actually codes
 - [Localforge](https://github.com/rockbite/localforge) - Runs in a local web UI and autonomously works on your files alongside you
 - [Perpetual](https://github.com/DarkCaster/Perpetual) - LLM-driven software development helper
@@ -522,7 +508,6 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [Autonoma (L5 Local Agent)](https://github.com/VihaanInnovations/autonoma) - The World's First L5 Autonomous Code Engineer. Self-healing code, on-premise governance, and cryptographic compliance for the enterprise.
 - [Chief Wiggum](https://github.com/0kenx/chief-wiggum) - An agentic task runner that helps your computer do things while you're sleeping! It uses the Ralph Wiggum way of doing things: "simple, happy, and do one thing at a time."
 - [ARC Protocol v2.1 (Technical Preview)](https://github.com/AshishOP/arc-protocol) - High-discipline agentic workflow for AI-assisted development. Analyze, Run, Confirm (ARC) project execution with persistent context.
-- [Holy Grail AI System](https://github.com/dakotalock/holygrailopensource) - Fully autonomous AI development agent with stateful memory, live web access, pseudo self-improvement and more!
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - Autonomous code optimization that works while you sleep (Autoresearch with Claude Code). Define a metric, point it at your code, go to bed. Wake up to a faster, smaller, better system — with correctness verified at every step.
 - [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - A self-evolving Software Development Life Cycle (SDLC) enforcement system for AI coding agents. Makes Claude plan before coding, test before shipping, and ask when uncertain. Measures itself getting better over time.
 - [THROUGHLINE](https://github.com/hellomyoh/throughline) - Spec-driven development framework for AI coding agents, built from markdown and git with no runtime or CLI. Personas review each spec before code, and an append-only single source of truth keeps decisions consistent across sessions. Works with Claude Code, Codex, and Cursor.
@@ -532,7 +517,6 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 Tools for analyzing, searching, and understanding codebases.
 
 - [AI Badger](https://github.com/PVRLabs/aibadger) - Local-first CLI/TUI bridge that maps your codebase and extracts only the context the AI requests for any chat — no API keys, telemetry, or full-repo upload
-- [cody](https://github.com/sourcegraph/cody) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code
 - [SeaGOAT](https://github.com/kantord/SeaGOAT) - Local-first semantic code search engine
 - [VectorCode](https://github.com/Davidyz/VectorCode) - A code repository indexing tool. It helps you write better prompt for your coding LLMs by indexing and providing information about the code repository you're working on
 - [Project Indexer](https://github.com/Dolfie-01/ProjectIndexer) - A simple script designed to index the locations of classes, files, and other components within a project
@@ -553,7 +537,6 @@ Tools for analyzing, searching, and understanding codebases.
 - [AI Agent Context Optimizer 🤖](https://github.com/guyaluk/contextor) - A GitHub Action that automatically analyzes your codebase and generates focused AI agent context documentation recommendations (CLAUDE.md, AGENTS.md, or similar) for AI coding assistants
 - [ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [BurnRate](https://getburnrate.io) - Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
-- [Agent Island](https://github.com/tristan666666/agent-island) - Open-source status companion for Claude Code and Codex on macOS and Windows, with live session state, your-turn alerts, and local monitoring.
 - [Burnd](https://github.com/garvitsurana271/burnd) - Local-first CLI that parses Claude Code JSONL session files and runs 8 cost-leak detectors (retry storms, tool overuse, repeated reads, thrash, tired-coding). Prints savings estimates plus shareable report URLs. MIT, npx-installable, zero telemetry.
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Local-first TUI observability for AI coding agent sessions across Claude Code, Codex CLI, Gemini CLI, Aider, Cursor exports, and more.
 - [ax](https://github.com/Necmttn/ax) - Local-first telemetry and recall graph for AI coding agents, with session, cost, skill, routing, and hook analytics across Claude Code, Codex, and related CLIs.
@@ -591,23 +574,20 @@ Specialized AI tools for specific development domains and tasks.
 ### Language-Specific
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust
 - [AutoBE](https://github.com/wrtnlabs/autobe) - AI Vibe Coding Agent of TS backend server, enhanced by compiler skills
-- [Winx Code Agent](https://github.com/rokytory/winx-code-agent) - A high-performance code agent written in Rust, combining the best features of WCGW and Serena for maximum efficiency and semantic capabilities
+- [Winx Code Agent](https://github.com/gabrielmaialva33/winx-code-agent) - A high-performance code agent written in Rust, combining the best features of WCGW and Serena for maximum efficiency and semantic capabilities
 - [cursor_agent](https://github.com/zalab-inc/cursor_agent) - A TypeScript library for creating structured task sequences for Cursor AI agents
 
 ### Terminal & Shell
 - [TmuxAI](https://github.com/alvinunreal/tmuxai) - Your intelligent pair programmer directly within your tmux sessions
-- [devblahblah](https://github.com/devblahblah/devblahblah) - Just a simple tool to help out with development tasks using LLM APIs
 
 ### Prompt & Context Management
 - [Prompt Tower](https://github.com/backnotprop/prompt-tower) - A tool that helps you build prompts and manage context with lots of code blocks in them
 - [Oyren Prompter](https://github.com/oyren-dev/oyren-prompter) - A local web tool that allows you to browse and select multiple files, combine their contents, and prepend a custom prompt
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - This repository serves as a central place to store, organize, and share effective prompts for various AI models
-- [zoltraak](https://github.com/dai-motoki/zoltraak) - A prompt compiler system that converts natural language into an execution language
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
 - [Scopeglass](https://github.com/zackabrah/scopeglass) - Local CLI that inspects the AGENTS.md chain a coding agent inherits: precedence, line-level provenance, token estimates, and checks for broken references, duplicates, and conflicts
 
 ### Copilot Extensions & Alternatives
-- [copilot-more](https://github.com/jjleng/copilot-more) - $10/month GPT-4o and Claude-3.5-Sonnet APIs for coding and beyond
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
 - [Copilot LSP](https://github.com/copilotlsp-nvim/copilot-lsp) - Configuration for Neovim
 - [promptis](https://github.com/Fintan-contents/promptis) - a tool that enhances coding efficiency and consistency by semi-automating the execution of predefined prompts through GitHub Copilot Chat.
@@ -616,7 +596,7 @@ Specialized AI tools for specific development domains and tasks.
 
 Tools for generating synthetic datasets and data for AI-driven development workflows.
 
-- [DeepFabric](https://github.com/lukehinds/deepfabric) - Generate synthetic datasets for fine-tuning models, structured output and more efficient tool calling, along with agent and model eval data
+- [DeepFabric](https://github.com/nolabs-ai/deepfabric) - Generate synthetic datasets for fine-tuning models, structured output and more efficient tool calling, along with agent and model eval data
 
 ## Learning Resources
 
@@ -628,11 +608,9 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - Structured AI-Assisted Development Workflow Guide
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - This template provides a robust and adaptable framework of rules designed to enhance the performance of AI coding assistants like Cursor and CLINE
-- [Vibe Rules Collection](https://github.com/copyleftdev/vibe-rules-collection) - A curated collection of .windsurfrules files designed to guide AI coding assistants in generating code that adheres to various best practices
 - [Ruler](https://github.com/intellectronica/ruler) - Apply the same rules to all coding agents
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - The project provides a collection of System prompts for Java that help software engineers in their daily programming work.
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A multi-module course teaching everything you need to know about using GitHub Copilot as an AI Peer Programming resource.
-- [Cursor AI Tips & Tricks](https://github.com/murataslan1/cursor-ai-tips) - Cursor AI IDE tips, tricks & best practices - Keyboard shortcuts, Composer mode, .cursorrules examples, and Reddit community wisdom
 - [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - The complete guide to maximizing Claude Code: Global CLAUDE.md, MCP Servers, Commands, Hooks, Skills, and Why Single-Purpose Chats Matter.
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - AI-mentored development for junior engineers. Claude becomes your mentor, not your coder — guiding with questions, reviewing via 6 Gates, but YOU write every line. Less dependency, more ownership.
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ vibe coding tools, platforms, and resources organized by category with pricing, use cases, tutorials, and communities
@@ -659,8 +637,6 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [zcc](https://github.com/Git-on-my-level/zcc) - Transform Claude Code from a basic AI assistant into a project-aware, context-intelligent development powerhouse.
 - [CursorCore](https://github.com/TechxGenus/CursorCore) - Assist Programming through Aligning Anything
 - [cursor-deepseek](https://github.com/danilofalcao/cursor-deepseek) - A high-performance HTTP/2-enabled proxy server designed specifically to enable Cursor IDE's Composer to use DeepSeek's and OpenRouter's language models
-- [deepseek-r1-ext](https://github.com/fvciprian/deepseek-r1-ext) - Provides a chat interface for the DeepSeek-R1 model
-- [roocode-memorybank-optimized](https://github.com/shipdocs/roocode-memorybank-optimized) - A lean Roo Code config for VS Code, blending Claude Pro and OpenRouter to cut token costs
 - [RooFlow](https://github.com/GreatScottyMac/RooFlow) - Enhanced Memory Bank System with ☢️Footgun Power☢️ Next-gen Memory Bank system with five integrated modes and system-level customization
 - [Roo Commander](https://github.com/jezweb/roo-commander) - Think of it like having a virtual, specialized software development team right inside your editor, orchestrated by the 👑 Roo Commander
 - [Vibe](https://github.com/wyojustin/Vibe) - An interactive tool for applying, reviewing, and managing incremental code patches in your projects that also integrates AI-driven patch generation via conversational prompts
