@@ -27,6 +27,8 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 - [🧩 Skills](#skills)
 
 ## AI Code Editors & IDEs
+| **[Coworker](https://github.com/leonjackman/coworker)** | Desktop (Electron) | ✅ (MIT) | Free/BYOK | 20+ providers, MCP | Local-first coding agent with memory, HITL, and 11 languages |
+
 
 Full-featured AI-powered code editors and integrated development environments.
 
