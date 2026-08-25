@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **591個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **592個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -111,6 +111,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Loki Mode](https://github.com/asklokesh/loki-mode) - 仕様から製品までを自律的に構築するCLIエージェント。検証ゲートを備え、ブラインドレビュー方式の完了協議会とエビデンスチェックを通過するまで作業を完了とみなさない。ブラウンフィールド対応の`loki heal`、ローカルファースト（自前のAPIキー）、26ツールのMCPサーバー、AGENTS.md読み込み対応。ソースアベイラブル（BUSL-1.1）
 - [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAIのコーディングエージェントハーネス兼TUI。フルスクリーン、マウス操作対応、拡張可能。
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - ローカルファーストのCLI兼TUIコーディングエージェント。llama.cppのフォークを通じてオープンウェイトモデルをすべて自分のマシン上で実行し、アカウントもAPIキーも不要。56個の組み込みツール（ブラウザ、ファイルシステム、git、メモリ、ビジョン）、MCP対応、5層のローカルメモリシステムを備える。macOS、Linux、Windowsに対応。
+- [OB-1](https://github.com/Overbrilliant/ob-1) - アカウント・APIキー・クレジットカードなしで動作するターミナルコーディングエージェント。CLIプロセス内に組み込まれたルーターが、署名済みの無料モデルカタログを使ってキー不要の無料プロバイダー経由で最初のメッセージに応答し、自分のキー（OpenRouter、OpenAI、Gemini、Groq）やローカルランタイム（Ollama、LM Studio、llama.cpp、vLLM、OpenAI互換エンドポイント）へフェイルオーバーする。SQLiteによる永続的なプロジェクトメモリ（検査可能なファクト/関係グラフ）、リポジトリマップ、MCP、OSサンドボックス（Seatbelt/bubblewrap）に対応。キー不要ティアはモデル品質が一定せず制限も共有されるブートストラップ用の経路。Apache-2.0、npm `@overbrilliant/ob1`。
 
 ## IDE拡張機能
 
