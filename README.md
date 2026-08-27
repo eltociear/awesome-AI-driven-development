@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **592 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **593 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -27,8 +27,6 @@ A curated list of awesome AI-Driven development tools, frameworks, and resources
 - [🧩 Skills](#skills)
 
 ## AI Code Editors & IDEs
-| **[Coworker](https://github.com/leonjackman/coworker)** | Desktop (Electron) | ✅ (MIT) | Free/BYOK | 20+ providers, MCP | Local-first coding agent with memory, HITL, and 11 languages |
-
 
 Full-featured AI-powered code editors and integrated development environments.
 
@@ -514,6 +512,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [AGR: Artificial General Research](https://github.com/JoaquinMulet/Artificial-General-Research) - Autonomous code optimization that works while you sleep (Autoresearch with Claude Code). Define a metric, point it at your code, go to bed. Wake up to a faster, smaller, better system — with correctness verified at every step.
 - [Claude Code SDLC Wizard](https://github.com/BaseInfinity/claude-sdlc-wizard) - A self-evolving Software Development Life Cycle (SDLC) enforcement system for AI coding agents. Makes Claude plan before coding, test before shipping, and ask when uncertain. Measures itself getting better over time.
 - [THROUGHLINE](https://github.com/hellomyoh/throughline) - Spec-driven development framework for AI coding agents, built from markdown and git with no runtime or CLI. Personas review each spec before code, and an append-only single source of truth keeps decisions consistent across sessions. Works with Claude Code, Codex, and Cursor.
+- [Coworker](https://github.com/leonjackman/coworker) - Local-first desktop coding agent (Electron + React over a Python/LangGraph backend). Plan and Build modes keep write and execute behind a human step; subagents run in parallel or in sequence, each with its own memory and restricted toolset; long-term memory is per-agent/per-project markdown with LLM auto-extract and zip export/import. Ships an embedded Chromium the agent can drive and MCP over stdio/HTTP/SSE/WebSocket/Streamable HTTP, with the UI in 11 languages. Runs against OpenAI, Ollama or any OpenAI-compatible endpoint using your own key. MIT
 
 ## Code Analysis & Search
 
