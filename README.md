@@ -692,7 +692,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for AI-driven development: 54 principles for FastAPI, Next.js 15 & Go 1.22+, with CLAUDE.md, Claude Code skills, and cursor rules.
 - [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - Budget limits and cost guardrails for AI agent frameworks. Framework-native hooks with hard-limit enforcement and circuit breakers for CrewAI, AutoGen, and LangGraph.
-- [snip](https://github.com/edouard-claude/snip) - CLI proxy that filters shell output before it reaches an AI coding agent, cutting token consumption by 60-90% on common dev commands. Single Go binary; its 132 filters are declarative YAML files rather than compiled code, and it installs as a native hook for 13 agents.
+- [snip](https://github.com/edouard-claude/snip) - CLI proxy that filters shell output before it reaches an AI coding agent, cutting token consumption by 60-90% on common dev commands. Single Go binary; its 132 filters are declarative YAML files rather than compiled code, and it integrates with 13 agents, as a native shell hook for Claude Code, Cursor, Copilot, Codex, Pi and Grok, and as injected rules files for the others.
 
 ## Skills
 
