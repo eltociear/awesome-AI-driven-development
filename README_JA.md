@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **594個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **595個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -693,6 +693,7 @@ AIコーディングアシスタントを構築・強化するためのフレー
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - Claude Mythosアーキテクチャの理論的再構築。利用可能な研究文献を基に第一原理から構築
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - AI駆動開発のための本番アーキテクチャバイブル。FastAPI、Next.js 15、Go 1.22+向けの54の原則をCLAUDE.md、Claude Codeスキル、cursorルールとともに提供
 - [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - AIエージェントフレームワーク向けの予算制限・コストガードレール。CrewAI、AutoGen、LangGraphに対応したフレームワークネイティブフックとサーキットブレーカーを提供。
+- [snip](https://github.com/edouard-claude/snip) - シェル出力をAIコーディングエージェントに渡す前にフィルタリングし、一般的な開発コマンドでトークン消費を60〜90%削減するCLIプロキシ。単一のGoバイナリで、132個のフィルターはコンパイル済みコードではなく宣言的なYAMLファイルとして定義され、13種類のエージェントに対応し、Claude Code、Cursor、Copilot、Codex、Pi、Grokにはネイティブなシェルフック、その他にはルールファイルの注入として導入される
 
 ## スキル
 
