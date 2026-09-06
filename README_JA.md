@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **594個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **595個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -381,6 +381,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - 30以上の画像生成モデル間でリクエストをルーティングし、本番環境向けビジュアルアセット（アプリアイコン、ファビコン、OG画像、ロゴ、ワードマーク）を生成するMCPサーバー。PollinationsとStable Hordeの無料枠を利用して初回実行時にAPIキーが不要
 - [Scalekit](https://scalekit.com/) - 委任OAuth、セキュアトークンボールト、3000以上のコネクタを備えたAIエージェント向けの認証・ツール呼び出しインフラ
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - AIコーディングエージェント向けの最速かつ最も効率的なコードインテリジェンスエンジン。平均的なリポジトリをミリ秒で、Linuxカーネル（2800万行、7万5千ファイル）を3分で完全インデックス化する。
+- [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - リポジトリを一度インデックス化し、ファイルの再読み込みではなくインデックスから構造的な問い合わせ（ファイルのアウトライン、シンボルの定義、参照箇所、コールグラフ、変更影響）に回答するローカルのコードグラフMCPサーバー。81言語に対応し、フレームワークをまたぐ参照関係も解決する。デスクトップアプリも同梱。
 
 ## コードレビュー & コラボレーション
 
