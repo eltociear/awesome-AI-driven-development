@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **594 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **595 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -619,6 +619,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ vibe coding tools, platforms, and resources organized by category with pricing, use cases, tutorials, and communities
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - The OWASP GenAI Security Project's consensus list of the most critical security risks in LLM and agentic applications, with mitigation guidance for developers building AI-driven systems
 - [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - Web handbook on building AI-assisted apps that work beyond the demo: plan, build, debug, harden, ship, operate, and scale.
+- [Yupi's Vibe Coding Guide](https://github.com/liyupi/ai-guide) - Free Chinese handbook on AI-driven development covering tool selection, prompting and context management, dozens of end-to-end project builds, and shipping to production.
 
 ## Frameworks & Libraries
 
