@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **595個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **596個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -208,6 +208,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [HyperAgent](https://github.com/FSoft-AI4Code/HyperAgent) - 様々なプログラミング言語で幅広いソフトウェアエンジニアリング（SE）タスクに対応する汎用マルチエージェントシステム
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - AI搭載ソフトウェア開発エージェント向けプラットフォーム。コード修正、コマンド実行、Web閲覧、API呼び出しなど人間の開発者ができることを実行
 - [Prodigy](https://github.com/iepathos/prodigy) - 構造化されたYAMLワークフローを通じてClaude AIを使用した複雑なタスクの自動化を可能にするワークフローオーケストレーションツール
+- [ReadyAgents](https://github.com/readyagents/readyagents-core) - Apache-2.0のローカルワンショットYAML/JSONエージェントワークフローCLI。ツール、承認、再開、オプションのstdio MCPに対応（BYOK）。
 - [orchestr8](https://github.com/seth-schultz/orchestr8) - リサーチ駆動開発を備えたClaude Code向けエンタープライズグレードの自律ソフトウェアオーケストレーション。79以上の専門エージェント、31の自動化ワークフロー、並列処理とエビデンスベースの意思決定による3〜6倍の高速化
 - [SWORDSwarm](https://github.com/SWORDOps/SWORDSwarm) - ハードウェアアクセラレーションとAI駆動開発ツールを備えた、本番環境対応のマルチエージェントAIオーケストレーションシステム
 - [CodeMachine CLI](https://github.com/moazbuilds/CodeMachine-CLI) - 協調マルチエージェントAIワークフローを使用して仕様ファイルを本番環境対応コードに適応的に変換するCLIネイティブオーケストレーションプラットフォーム ⚡️
