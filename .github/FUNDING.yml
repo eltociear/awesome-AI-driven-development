@@ -1,5 +1,25 @@
-# GitHub Sponsors is not enabled on this account (hasSponsorsListing = false),
-# so a `github:` entry would render a Sponsor button that leads nowhere.
+# The Sponsor button on THIS repo is the monetisation surface with the audience.
+# Measured 2026-09-07 with the GitHub traffic API (14-day window), per repo:
+#   awesome-AI-driven-development   649 views / 232 UNIQUE   (Google:92, github.com:40)
+#   awesome-molt-ecosystem          193 views /  39 unique
+#   skill-audit-mcp                  79 views /  15 unique   (Google:2)
+# skill-audit-mcp's own FUNDING.yml claimed it "receives the ~600 Google visits a month
+# that are our entire human audience". The traffic API refutes that: Google sends 2 uniques
+# there and 92 here, and its 543 clones against 79 views say its traffic is machines.
+# Yet all three sellable products sat on that repo and NONE on this one, so the shelf was
+# never once placed in front of the visitors. Polar lifetime: 0 orders, $0.00 — which is
+# therefore not evidence of no demand, it is evidence the experiment never ran.
+#
+# GitHub renders at most FOUR custom URLs. The basescan.org address view was dropped to make
+# room: a block explorer is a viewer, not a payment flow (skill-audit-mcp's own file says so).
+# Every link below returned HTTP 200 and redirected to a live polar.sh/checkout session on
+# 2026-09-07. Re-check with a fetch before adding anything — a Sponsor button that 404s is
+# worse than no Sponsor button.
+#
+# `github:` is deliberately absent: GitHub Sponsors is not enabled on this account
+# (hasSponsorsListing = false), so the button would lead nowhere.
 custom:
+  - "https://buy.polar.sh/polar_cl_sut9rtngBRutEhBAGk1FmwRYSLrAebowkPw8g2C5Op7"  # MCP Security Audit Report, $5
+  - "https://buy.polar.sh/polar_cl_jKHyL3Ge9u5YGAsjgixp16UYrhU0WGldxvRmN03expZ"  # Security Pulse — Monthly MCP Vuln Briefing, $5
+  - "https://buy.polar.sh/polar_cl_C37THjfoFMdOnu6xc1TnMIezYNuBbbivXbvFb3DCpZa"  # Pro Audit Stack — MCP CI Power-User, $20
   - "https://buymeacoffee.com/eltociear"
-  - "https://basescan.org/address/0x5bCDA55247B238a573A968B234F788a2D35664Dd"
