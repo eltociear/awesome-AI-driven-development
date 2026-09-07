@@ -525,7 +525,7 @@ Tools for analyzing, searching, and understanding codebases.
 - [Project Indexer](https://github.com/Dolfie-01/ProjectIndexer) - A simple script designed to index the locations of classes, files, and other components within a project
 - [codemapper](https://github.com/shaneholloman/codemapper) - A python script that creates a comprehensive Markdown document representing the structure and contents of a given directory
 - [code2prompt](https://github.com/raphaelmansuy/code2prompt) - Code2Prompt is a powerful command-line tool that simplifies the process of providing context to Large Language Models (LLMs) by generating a comprehensive Markdown file containing the content of your codebase
-- [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast GUI and CLI
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - A cross-platform .NET/Avalonia codebase-context suite with GUI, TUI, CLI, and a built-in read-only MCP server for controlled, token-efficient context packing
 - [Code-to-Clipboard-for-LLMs](https://github.com/yigitkonur/code-to-clipboard-for-llms) - Intelligently package your project's code context for LLMs
 - [vibe-log-cli](https://github.com/vibe-log/vibe-log-cli) - Open-source CLI for analyzing Claude Code sessions locally and generating productivity reports
 - [Claude Code Usage Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
