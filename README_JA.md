@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **596個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **597個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -53,6 +53,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Devin](https://devin.ai/) - 開発者がより良いソフトウェアをより速く構築するためのAIコーディングエージェント兼ソフトウェアエンジニア。本格的なエンジニアリングチーム向けの並列クラウドエージェント
 - [Windsurf Editor](https://windsurf.com/editor) - 初のエージェント型IDE。開発者とAIの作業が真に融合し、まるで魔法のようなコーディング体験を実現
 - [RapidNative](https://rapidnative.com/) - アイデア、スケッチ、スクリーンショットから動作するReact Native／Expoアプリを生成するAIネイティブなモバイルアプリビルダー。閲覧・編集・拡張可能な本番品質のコードを生成し、リアルタイムのチームコラボレーションに対応
+- [Adnify](https://github.com/ad-naan/Adnify) - AIエージェントによる計画、コード編集、ターミナル実行、ブラウザ検証、マルチエージェントワークフローに対応したローカルファーストのAI開発IDE。
 
 ## ターミナル & CLIエージェント
 
