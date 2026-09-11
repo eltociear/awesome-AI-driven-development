@@ -236,7 +236,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - タスク委譲、エージェント間メッセージング、カンバンボード、コードレビューを備え、複数のエージェント実行環境に対応するオープンソースの自律型コーディングエージェントチーム向けデスクトップオーケストレーター。
 - [Agentlas OS](https://github.com/agentlas-ai/Agentlas-OS) - 専門エージェントの構築・借用、チーム編成、Claude Code・Codex・Gemini CLI・Cursor・ローカルモデルでの実行に対応し、権限と検証ゲートを備えたローカルファーストのAgent Operation Environment (AOE)。
 - [Better Agent](https://github.com/ofekron/better-agent) - Claude、Codex、Geminiのコーディングエージェントセッションを一つのローカルワークスペースで管理し、並列フォーク、タスク委譲、永続状態、再起動後の復旧に対応。非商用利用向けにソース公開され、商用利用には許可が必要。
-- [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、Cline、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース。
+- [Orkas](https://github.com/Orkas-AI/Orkas) - Claude Code、Codex CLI、OpenCode、OpenClaw、Hermes、内蔵エージェントを共有ファイルと承認制御のもとで並列実行・オーケストレーションする、オープンソースかつローカルファーストのデスクトップワークスペース。
 - [Garcon](https://github.com/cfal/garcon) - ブラウザとモバイルで利用できるセルフホスト型ワークスペース。Claude Code、Codex、Cursor Agent、OpenCode、Amp、Droid、Pi の並列セッションを実行・操作し、統合ターミナル、ファイル編集、差分レビュー、Git/PRワークフロー、モバイル承認、スケジュール実行、エージェント間転送を提供。
 - [Sillage](https://github.com/MarlBurroW/sillage) - モバイルファーストのセルフホスト型WebUI。自分のマシン上でネイティブの Claude Code / Codex CLI を駆動する。クライアントを閉じてもセッションは継続し、全会話の全文検索、IDEパネル（ファイルエクスプローラ、エディタ、差分、ターミナル）、専用MCPサーバー経由でエージェントが読むボード、プッシュ通知付きのインストール可能なPWAを備える。単一のDockerコンテナ。MIT。
 - [fractal](https://github.com/plasma-ai/fractal) - 分離可能なサブタスクを子ノードへ再帰的に委譲し、各ノードを専用のGit worktreeで実行する階層型コーディングエージェントランタイム。反復回数・深度・子ノード数・コスト・時間の上限設定、ローカルのSQLiteデータベースによる状態管理、オペレーターによる実行中の指示と停止に対応。
