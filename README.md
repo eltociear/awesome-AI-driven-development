@@ -53,6 +53,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [Devin](https://devin.ai/) - An AI coding agent and software engineer that helps developers build better software faster. Parallel cloud agents for serious engineering teams.
 - [Windsurf Editor](https://windsurf.com/editor) - The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
 - [RapidNative](https://rapidnative.com/) - AI-native mobile app builder that turns ideas, sketches, or screenshots into working React Native and Expo apps. Generates production-ready code you can view, edit, and extend, with real-time team collaboration.
+- [Adnify](https://github.com/ad-naan/Adnify) - An AI-native engineering workspace with agentic planning, code editing, terminal execution, browser verification, and multi-agent workflows.
 
 ## Terminal & CLI Agents
 
