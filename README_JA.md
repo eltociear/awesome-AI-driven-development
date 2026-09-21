@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **596個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **597個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -312,6 +312,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [StructEval](https://github.com/TIGER-AI-Lab/StructEval) - JSON、YAML、CSV、HTML、React、SVGを含む18種類のフォーマットで、LLMの構造化出力生成能力を評価するオープンソースベンチマーク
 - [mcp-audit](https://github.com/eltociear/mcp-audit) - MCPサーバーとエージェントスキル向けの依存関係ゼロのスキャナー。ツール説明文へのプロンプトインジェクション、認証情報の外部送信、ダウンロード実行を対象に17パターン/60の正規表現シグネチャを備える。誤検知率を14.8%から1.0%へ較正した上で、MCPレジストリ196サーバーのスキャン結果を公開
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - pipが実行する前にPyPIパッケージのインストール時フック（setup.py、エントリーポイント）を検査する依存関係ゼロのスキャナー。よく似たパッケージ名を探すタイポスクワットハンターも同梱
+- [isitdone](https://github.com/raimondasl/isitdone) - リポジトリの実際のテスト・型チェック・lintが通るまで、コーディングエージェントの「完了」宣言をブロックするStopフック兼CLI。Claude Code、Codex CLI、Cursor、Gemini CLI、Copilot CLIほか7種のエージェントに対応、LLM呼び出しなし。
 
 ## MCPサーバー & 統合
 
