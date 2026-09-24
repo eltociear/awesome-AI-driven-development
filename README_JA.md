@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -518,6 +518,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [THROUGHLINE](https://github.com/hellomyoh/throughline) - AIコーディングエージェント向けの仕様駆動開発フレームワーク。Markdownとgitのみで構成され、ランタイムもCLIも不要。コードを書く前にペルソナが各仕様をレビューし、追記専用の単一情報源（SSOT）がセッションをまたいで決定内容の一貫性を保つ。Claude Code、Codex、Cursorに対応。
 - [Coworker](https://github.com/leonjackman/coworker) - ローカルファーストのデスクトップ型コーディングエージェント（Electron + React、バックエンドはPython/LangGraph）。PlanモードとBuildモードで書き込みと実行の前に人間の確認を挟み、サブエージェントはそれぞれ独自のメモリと制限付きツールセットを持って並列・逐次に動作する。長期メモリはエージェント単位/プロジェクト単位のMarkdownで、LLMによる自動抽出とzip形式のエクスポート/インポートに対応。エージェントが操作できる組み込みChromium、stdio/HTTP/SSE/WebSocket/Streamable HTTP経由のMCPを備え、UIは11言語対応。OpenAI、Ollama、またはOpenAI互換エンドポイントを自分のキーで利用可能。MIT
 - [Octomind](https://github.com/muvon/octomind) - 単一のRustバイナリで動くオープンソースのAIコーディングエージェント兼エージェントランタイム。モデル非依存（13以上のプロバイダ対応）・MCPネイティブ・設定不要で、ターミナル・CI・常駐デーモンのいずれでも動作し、コミュニティ製の専門エージェントを同梱する。Apache 2.0
+- [Orbi](https://github.com/orbi-build/orbi) - GitHub Issue駆動のセルフホスト型自律コーディングエージェント。Issueに `ai-ready` ラベルを付けると、独立したworktreeで実装してPRを作成し、別セッションのレビューがIssueの受け入れ条件と照合し、レビュー済みのheadだけをマージしてタグ付きリリースを作成する。Codex、DeepSeek、GLM、ローカルモデルで動作。ソース公開（fair-code、Sustainable Use License）
 
 ## コード解析 & 検索
 

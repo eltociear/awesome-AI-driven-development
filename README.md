@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **598 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **599 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -517,6 +517,7 @@ Tools, frameworks, and autonomous agents for managing AI-assisted development wo
 - [THROUGHLINE](https://github.com/hellomyoh/throughline) - Spec-driven development framework for AI coding agents, built from markdown and git with no runtime or CLI. Personas review each spec before code, and an append-only single source of truth keeps decisions consistent across sessions. Works with Claude Code, Codex, and Cursor.
 - [Coworker](https://github.com/leonjackman/coworker) - Local-first desktop coding agent (Electron + React over a Python/LangGraph backend). Plan and Build modes keep write and execute behind a human step; subagents run in parallel or in sequence, each with its own memory and restricted toolset; long-term memory is per-agent/per-project markdown with LLM auto-extract and zip export/import. Ships an embedded Chromium the agent can drive and MCP over stdio/HTTP/SSE/WebSocket/Streamable HTTP, with the UI in 11 languages. Runs against OpenAI, Ollama or any OpenAI-compatible endpoint using your own key. MIT
 - [Octomind](https://github.com/muvon/octomind) - Open-source AI coding agent and agent runtime in a single Rust binary — model-agnostic (13+ providers), MCP-native, and zero-config. Runs in the terminal, in CI, or as a long-lived daemon, and ships community-built specialist agents. Apache 2.0
+- [Orbi](https://github.com/orbi-build/orbi) - Self-hosted autonomous coding agent driven by GitHub Issues: label an Issue `ai-ready` and it implements in an isolated worktree, opens a PR, runs an independent review session against the Issue's acceptance criteria, merges only the reviewed head, and cuts a tagged release. Works with Codex, DeepSeek, GLM or local models. Source-available (fair-code, Sustainable Use License)
 
 ## Code Analysis & Search
 
