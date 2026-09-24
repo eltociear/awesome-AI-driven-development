@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **598 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **599 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -696,6 +696,7 @@ Frameworks, libraries, and configurations for building and enhancing AI coding a
 - [OpenMythos](https://github.com/kyegomez/OpenMythos) - A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.
 - [vibecodex](https://github.com/yerdaulet-damir/vibecodex) - Production architecture bible for AI-driven development: 54 principles for FastAPI, Next.js 15 & Go 1.22+, with CLAUDE.md, Claude Code skills, and cursor rules.
 - [agent-cost-guardrails](https://github.com/sapph1re/agent-cost-guardrails) - Budget limits and cost guardrails for AI agent frameworks. Framework-native hooks with hard-limit enforcement and circuit breakers for CrewAI, AutoGen, and LangGraph.
+- [Requesty](https://www.requesty.ai) - OpenAI compatible LLM gateway with an Anthropic Messages route, so Claude Code and other coding agents can reach 600+ models through one API key, with fallbacks, caching and spend limits.
 
 ## Skills
 
