@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **602個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -314,6 +314,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [mcp-audit](https://github.com/eltociear/mcp-audit) - MCPサーバーとエージェントスキル向けの依存関係ゼロのスキャナー。ツール説明文へのプロンプトインジェクション、認証情報の外部送信、ダウンロード実行を対象に17パターン/60の正規表現シグネチャを備える。誤検知率を14.8%から1.0%へ較正した上で、MCPレジストリ196サーバーのスキャン結果を公開
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - pipが実行する前にPyPIパッケージのインストール時フック（setup.py、エントリーポイント）を検査する依存関係ゼロのスキャナー。よく似たパッケージ名を探すタイポスクワットハンターも同梱
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - コーディングエージェントの実行をハーネスより下のレイヤーで記録し、オフラインでバイト単位に再現、または任意のチェックポイントから別のモデルへ分岐させるツール
+- [LLMAuditor](https://poe.com/LLMAuditor) - 開発者とSEO向けにllms.txtやエージェント向けディスカバリーファイルを監査するPoeボット。構造・リンク・完全性をチェック
 
 ## MCPサーバー & 統合
 
@@ -405,6 +406,8 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - GitHub PRステータス、CI/CDチェック、マージ可能性をターミナルで直接表示するClaude Codeプラグイン
 - [prpack](https://github.com/Lucas2944/prpack) - プルリクエスト（差分＋コミット＋変更後の全ファイル内容）をLLMコードレビューに最適化された1つのMarkdownファイルにパックするCLI。MITライセンス
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - すべてのPRでprpackを実行し、パックされたMarkdownをアーティファクトとしてアップロードし、サマリーコメントを投稿するGitHub Action
+- [DeployReview](https://poe.com/DeployReview) - Poe上で動作するAIコードレビューボット。コードや差分を貼り付けると、セキュリティ・正確性・可読性を重視したシニアエンジニア級のレビューを提供
+- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - コードの差分を平易な言葉で説明し、コミットメッセージの生成も行うPoeボット
 
 ## プロジェクト & ナレッジ管理
 
@@ -577,6 +580,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [K8sWhisperer-](https://github.com/ARAldhafeeri/K8sWhisperer-) - ログのクエリと自然言語での読み取りを可能にするAI搭載Kubernetes Operator
 - [Arconia Framework](https://github.com/arconia-io/arconia) - 開発者体験とクラウドネイティブアーキテクチャに重点を置き、JavaとSpring Bootを使用したモダンエンタープライズアプリケーション構築向けフレームワーク
 - [CompliancePilot](https://github.com/prajapatimehul/comp-agent) - ProwlerとClaude Codeで動くクラウドコンプライアンス自動化。AWSインフラをスキャンし、コンプライアンスの欠落を発見し、AI支援で修正
+- [DeployCheck](https://x402-extract-service.onrender.com) - コーディングエージェント向けのデプロイ前監査API。リンク切れチェック、llms.txt監査、HTTPS移行チェックを提供
 
 ### 言語固有
 - [coders](https://github.com/0xKoda/coders) - rustのAIコーディングアシスタント
