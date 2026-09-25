@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **598 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **602 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -313,6 +313,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [mcp-audit](https://github.com/eltociear/mcp-audit) - Zero-dependency scanner for MCP servers and agent skills: 17 patterns / 60 regex signatures covering prompt injection in tool descriptions, credential exfiltration and download-and-execute. Published results of a 196-server scan of the MCP registry, with the false-positive rate calibrated from 14.8% down to 1.0% first.
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - Zero-dependency scanner that inspects a PyPI package’s install-time hooks (setup.py, entry points) before pip executes them, plus a typosquat hunter for lookalike package names.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness and replays it offline with the network off, or forks it from a checkpoint onto another model
+- [LLMAuditor](https://poe.com/LLMAuditor) - Audits llms.txt and agent-discovery files for developers and SEOs, checking structure, links, and completeness
 
 ## MCP Servers & Integrations
 
@@ -404,6 +405,8 @@ Tools for code review, pull request automation, and team collaboration.
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - A Claude Code plugin that displays GitHub PR status, CI/CD checks, and merge capability directly in your terminal.
 - [prpack](https://github.com/Lucas2944/prpack) - CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. MIT.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment.
+- [DeployReview](https://poe.com/DeployReview) - AI code reviewer on Poe: paste code or a diff for senior-engineer-grade review focused on security, correctness, and readability
+- [DiffExplainerHQ](https://poe.com/DiffExplainerHQ) - Explains code diffs in plain language, plus commit-message generation for faster reviews
 
 ## Project & Knowledge Management
 
@@ -576,6 +579,7 @@ Specialized AI tools for specific development domains and tasks.
 - [K8sWhisperer-](https://github.com/ARAldhafeeri/K8sWhisperer-) - An AI-powered Kubernetes Operator that lets users query logs and read them as natural language
 - [Arconia Framework](https://github.com/arconia-io/arconia) - A framework designed to build modern enterprise applications using Java and Spring Boot, emphasizing developer experience and cloud native architectures
 - [CompliancePilot](https://github.com/prajapatimehul/comp-agent) - Cloud compliance automation powered by Prowler and Claude Code. Scan your AWS infrastructure, find compliance gaps, and fix them with AI assistance.
+- [DeployCheck](https://x402-extract-service.onrender.com) - Pre-deploy audit API for coding agents: link checking, llms.txt auditing, and HTTPS migration checks
 
 ### Language-Specific
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust
