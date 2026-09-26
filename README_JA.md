@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -557,6 +557,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - 世界初のエージェント型リバースエンジニアリングツール
 - [skillreaper](https://github.com/thousandflowers/skillreaper) - AIコーディングエージェントのセッション記録（Claude Code、Codexなど）を解析し、コンテキストに読み込まれるものの一度も発火しないスキル・MCPサーバー・エージェントを検出する100%ローカルのCLI。無駄になったトークン/コストを定量化し、不要なものを可逆的に削除できる。単一のGoバイナリで、テレメトリは一切なし
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - コードベースをインデックス化し、コンパクトで関連性の高いスニペットを返してコーディングエージェントのコンテキスト使用量を削減するAST/tree-sitterコード検索エンジン兼MCPサーバー
+- [saver-audit](https://github.com/VladUZH/saver-audit) - ローカルのClaude CodeとCodexのセッションログを読み込み、プロンプトキャッシュの読み書きを含めてコストを算出し、記録されたツール出力をインストール済みのトークン節約ツール（rtk、headroom、lean-ctxなど）で再生して各ツールの削減量を測定するオフラインCLI。各結果にはreplayed・modeled・upper boundのラベルが付く
 
 ## ドメイン固有ツール
 
