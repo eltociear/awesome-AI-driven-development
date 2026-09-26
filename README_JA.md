@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -593,6 +593,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - 様々なAIモデル向けの効果的なプロンプトを保存・整理・共有する中央リポジトリ
 - [cmpr](https://github.com/inimino/cmpr) - 英語でプログラミング！LLM対応プログラミングフレームワーク
 - [Scopeglass](https://github.com/zackabrah/scopeglass) - コーディングエージェントが継承するAGENTS.mdチェーンを検査するローカルCLI。優先順位、行レベルの出所、トークン推定、壊れた参照・重複・競合のチェックを提供
+- [since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff) - 固定したPython依存関係のうち、コーディングモデルの学習カットオフ以降に公開APIが変わったものを特定するCLI。モデルが古いAPIを書く箇所を型チェッカーで測定し、例が型チェックを通るAGENTS.md / CLAUDE.mdのメモだけを追加する
 
 ### Copilot拡張・代替品
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - あらゆるLLMモデルでGH Copilot拡張機能を動作させる
