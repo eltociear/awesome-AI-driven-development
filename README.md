@@ -736,3 +736,9 @@ If it saved you time:
   ([BaseScan](https://basescan.org/address/0x5bCDA55247B238a573A968B234F788a2D35664Dd)) — straight to the address,
   no platform account in between.
 - [Buy Me a Coffee](https://buymeacoffee.com/eltociear)
+
+
+## API Gateways
+
+- [APIClaw](https://apiclaw.biz/) - Flat-rate, OpenAI-compatible access to Claude, GPT, Kimi, Qwen, DeepSeek, and GLM with plans from $19/month and a 50 free trial.
+- 
