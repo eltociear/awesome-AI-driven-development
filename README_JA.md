@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **598個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -243,6 +243,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [GraphCode](https://github.com/scgopi/GraphCode) - エージェントセッションをグラフとして配線するネイティブmacOSアプリ。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ・メッセージ・スポーン。Claude Code、Codex、Copilot CLIのループを同一グラフ上で扱える。FSL-1.1-MITのソースアベイラブルで、CLIとSDKはMIT
 - [RailWarden](https://github.com/advaith-1212/railwarden) - 依存関係を考慮した作業パッケージ、隔離されたGit worktree、検証エビデンス、機械的な統合ゲートを備えた、マルチエージェント開発向けの決定論的な実行・統合制御プレーン。
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - 1つの`npx`コマンドで起動する、稼働中のClaude Code / Codexセッションをブラウザ上にグリッド表示するツール。各セルは色分けされたステータスを持つ実際のPTYで、tmuxによる永続化とセルごとのgit worktreeを備える。Claude Codeでは、CLI自身のフックを読み取ることで「要対応」と「完了」を区別して表示する。
+- [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
 
 ## コード生成 & 自動化
 
