@@ -243,6 +243,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [GraphCode](https://github.com/scgopi/GraphCode) - Native macOS app that wires agent sessions into a graph: each node is a live terminal you can attach to mid-run, each edge a hand-off, message, or spawn that fires unattended. Claude Code, Codex, and Copilot CLI loops on the same graph. Source-available under FSL-1.1-MIT; the CLI and SDK are MIT.
 - [RailWarden](https://github.com/advaith-1212/railwarden) - Deterministic execution and integration control plane for multi-agent development with dependency-aware work packages, isolated Git worktrees, validation evidence, and mechanical integration gates.
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code / Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks.
+- [Lunavect](https://github.com/lovach/Lunavect) - macOS menu bar app that shows which Claude Code or Codex session is working, waiting for you, or done, with both tools' weekly and five-hour usage limits and reset times.
 
 ## Code Generation & Automation
 
