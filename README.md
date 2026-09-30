@@ -593,6 +593,7 @@ Specialized AI tools for specific development domains and tasks.
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - This repository serves as a central place to store, organize, and share effective prompts for various AI models
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
 - [Scopeglass](https://github.com/zackabrah/scopeglass) - Local CLI that inspects the AGENTS.md chain a coding agent inherits: precedence, line-level provenance, token estimates, and checks for broken references, duplicates, and conflicts
+- [Archcore](https://github.com/archcore-ai/archcore) - Git-native context engineering and spec-driven development for AI coding agents
 
 ### Copilot Extensions & Alternatives
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
