@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **600個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -406,6 +406,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - GitHub PRステータス、CI/CDチェック、マージ可能性をターミナルで直接表示するClaude Codeプラグイン
 - [prpack](https://github.com/Lucas2944/prpack) - プルリクエスト（差分＋コミット＋変更後の全ファイル内容）をLLMコードレビューに最適化された1つのMarkdownファイルにパックするCLI。MITライセンス
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - すべてのPRでprpackを実行し、パックされたMarkdownをアーティファクトとしてアップロードし、サマリーコメントを投稿するGitHub Action
+- [Manifest API Bot](https://manifest.build/api-bot/) - リポジトリが呼び出しているサードパーティAPIを検出して毎日変更をチェックし、APIの変更がコードに影響する場合はLLMが書いたコード修正を含むプルリクエストを作成するGitHub App
 
 ## プロジェクト & ナレッジ管理
 
