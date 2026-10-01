@@ -625,6 +625,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - OWASP GenAI Security ProjectによるLLM・エージェントアプリケーションの最重要セキュリティリスクのコンセンサスリスト。AI駆動システムを構築する開発者向けの緩和策ガイダンスを含む
 - [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - デモ止まりにしないAI支援アプリ開発のWebハンドブック。計画、構築、デバッグ、堅牢化、リリース、運用、スケールまでを網羅
 - [Yupi's Vibe Coding Guide](https://github.com/liyupi/ai-guide) - AI駆動開発の無料中国語ハンドブック。ツール選定、プロンプトとコンテキスト管理、多数のエンドツーエンドのプロジェクト実践、本番リリースまでを網羅
+- [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - 2025年以降に公開された実際のAIエージェントのセキュリティインシデントを一次情報源付きで収録したオープンデータベース。本番データを削除したコーディングエージェント、汚染された拡張機能・パッケージ、コーディングアシスタントへのプロンプトインジェクションなどを含み、JSON/CSVでエクスポート可能
 
 ## フレームワーク & ライブラリ
 
