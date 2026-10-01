@@ -122,7 +122,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [cline](https://github.com/clinebot/cline) - IDE上で動作する自律コーディングエージェント
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - エディタ上で動作するAI搭載自律コーディングエージェント
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - IDE上で動作する自律コーディングエージェント
-- [twinny](https://github.com/twinnydotdev/twinny) - Visual Studio Code向けの直接的でローカル/API対応のAIコード補完プラグイン
+- [twinny](https://github.com/twinnydotdev/twinny) - ローカルモデル（Ollama、LM Studio、llama.cpp）またはホスト型APIで動作する、コード補完・チャット・インライン編集・コードレビュー用の無料オープンソースVS Code拡張機能
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - VS Code向けオープンソース・ネイティブの真のGitHub Copilot代替品
 - [couscous](https://github.com/ARAldhafeeri/couscous) - ベストプラクティスとチーム規約に対してコード品質を分析するAI搭載VS Code拡張機能
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - WizardCoder向けVisual Studio Code拡張機能
