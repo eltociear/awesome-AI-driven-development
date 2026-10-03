@@ -558,6 +558,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Kong: The Agentic Reverse Engineer](https://github.com/amruth-sn/kong) - 世界初のエージェント型リバースエンジニアリングツール
 - [skillreaper](https://github.com/thousandflowers/skillreaper) - AIコーディングエージェントのセッション記録（Claude Code、Codexなど）を解析し、コンテキストに読み込まれるものの一度も発火しないスキル・MCPサーバー・エージェントを検出する100%ローカルのCLI。無駄になったトークン/コストを定量化し、不要なものを可逆的に削除できる。単一のGoバイナリで、テレメトリは一切なし
 - [cocoindex-code](https://github.com/cocoindex-io/cocoindex-code) - コードベースをインデックス化し、コンパクトで関連性の高いスニペットを返してコーディングエージェントのコンテキスト使用量を削減するAST/tree-sitterコード検索エンジン兼MCPサーバー
+- [OpenTokenUsage](https://github.com/PowerUserZ/OpenTokenUsage) - Claude Code、Codex、Cursor、GitHub Copilot などのAIコーディングサブスクリプションについて、セッション・週間の使用上限、リセット時刻、消費ペースを表示するWindowsタスクトレイアプリ
 
 ## ドメイン固有ツール
 
