@@ -405,7 +405,7 @@ Tools for code review, pull request automation, and team collaboration.
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - A Claude Code plugin that displays GitHub PR status, CI/CD checks, and merge capability directly in your terminal.
 - [prpack](https://github.com/Lucas2944/prpack) - CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. MIT.
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment.
-- [Crit](https://github.com/tomasz-tomczyk/crit) - Local browser UI for reviewing AI agent plans and code diffs, with inline comments sent back to the agent.
+- [Crit](https://github.com/tomasz-tomczyk/crit) - Local browser UI for reviewing AI agent plans, code diffs, HTML artifacts and a running dev server, with inline comments sent back to the agent.
 
 ## Project & Knowledge Management
 
