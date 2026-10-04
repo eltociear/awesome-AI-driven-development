@@ -406,7 +406,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - GitHub PRステータス、CI/CDチェック、マージ可能性をターミナルで直接表示するClaude Codeプラグイン
 - [prpack](https://github.com/Lucas2944/prpack) - プルリクエスト（差分＋コミット＋変更後の全ファイル内容）をLLMコードレビューに最適化された1つのMarkdownファイルにパックするCLI。MITライセンス
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - すべてのPRでprpackを実行し、パックされたMarkdownをアーティファクトとしてアップロードし、サマリーコメントを投稿するGitHub Action
-- [Crit](https://github.com/tomasz-tomczyk/crit) - AIエージェントのプランとコード差分をローカルのブラウザUIでレビューし、インラインコメントをエージェントに返す。
+- [Crit](https://github.com/tomasz-tomczyk/crit) - AIエージェントのプラン、コード差分、HTML成果物、実行中の開発サーバーをローカルのブラウザUIでレビューし、インラインコメントをエージェントに返す。
 
 ## プロジェクト & ナレッジ管理
 
