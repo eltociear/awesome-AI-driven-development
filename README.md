@@ -122,7 +122,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [cline](https://github.com/clinebot/cline) - Autonomous coding agent right in your IDE
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - An AI-powered autonomous coding agent that lives in your editor
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - An autonomous coding agent that lives in your IDE
-- [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code
+- [twinny](https://github.com/twinnydotdev/twinny) - Free, open-source VS Code extension for code completion, chat, inline edit and code review, using local models (Ollama, LM Studio, llama.cpp) or hosted APIs
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - Open-Source, Native and a True GitHub Copilot Alternative for VS Code
 - [couscous](https://github.com/ARAldhafeeri/couscous) - A VS Code extension that uses AI to analyze your code quality against best practices and team conventions
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - Visual Studio Code extension for WizardCoder
