@@ -387,6 +387,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Scalekit](https://scalekit.com/) - 委任OAuth、セキュアトークンボールト、3000以上のコネクタを備えたAIエージェント向けの認証・ツール呼び出しインフラ
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - AIコーディングエージェント向けの最速かつ最も効率的なコードインテリジェンスエンジン。平均的なリポジトリをミリ秒で、Linuxカーネル（2800万行、7万5千ファイル）を3分で完全インデックス化する。
 - [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - リポジトリを一度インデックス化し、ファイルの再読み込みではなくインデックスから構造的な問い合わせ（ファイルのアウトライン、シンボルの定義、参照箇所、コールグラフ、変更影響）に回答するローカルのコードグラフMCPサーバー。81言語に対応し、フレームワークをまたぐ参照関係も解決する。デスクトップアプリも同梱。
+- [Unified AI System](https://github.com/happy520ai/unified-ai-system) - あらゆるモデルプロバイダーの前にかざすセルフホストの AI ゲートウェイ。仮想キー、キー単位の予算とレート制限、そして呼び出し単位の許可リストと監査ログによるガバナンスを備えた MCP ツール面を公開します。
 
 ## コードレビュー & コラボレーション
 
