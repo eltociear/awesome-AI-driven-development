@@ -408,6 +408,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - GitHub PRステータス、CI/CDチェック、マージ可能性をターミナルで直接表示するClaude Codeプラグイン
 - [prpack](https://github.com/Lucas2944/prpack) - プルリクエスト（差分＋コミット＋変更後の全ファイル内容）をLLMコードレビューに最適化された1つのMarkdownファイルにパックするCLI。MITライセンス
 - [prpack-action](https://github.com/Lucas2944/prpack-action) - すべてのPRでprpackを実行し、パックされたMarkdownをアーティファクトとしてアップロードし、サマリーコメントを投稿するGitHub Action
+- [Bubo](https://github.com/mountainowl/bubo) - GitHubとGitLab向けのセルフホスト型オープンソースAIコードレビュアー。根拠付きの指摘を投稿し、メンテナーの対応結果から学習してリポジトリ固有のノイズを減らす。
 
 ## プロジェクト & ナレッジ管理
 
