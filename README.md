@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **600 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **601 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -422,6 +422,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [Claude Code PM](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
 - [Claude Conductor](https://github.com/superbasicstudio/claude-conductor) - A lightweight + modular documentation framework designed for AI-assisted development with Claude Code.
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - A knowledge management system that allows you to build a persistent semantic graph from conversations with AI assistants
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha knowledge store in Rust with encrypted, append-only records and MCP access through scoped, expiring grants.
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - A command-line tool to scan a project directory, identify files that are not ignored by .gitignore rules, and concatenate their contents into a single text file
 - [AndAI](https://github.com/andrejsstepanovs/andai) - A local tool for organizing AI-assisted coding tasks with ticketing system and git integration.
 - [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Give Claude perfect memory of all your conversations. Search past discussions instantly. Never lose context again.
