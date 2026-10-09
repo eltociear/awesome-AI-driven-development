@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **600個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **601個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -345,6 +345,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP向けPlaywrightツール
 - [Web Accessibility-Testing MCP Server](https://github.com/ronantakizawa/a11ymcp) - LLMにWebアクセシビリティテストAPIへのアクセスを提供するMCP（Model Context Protocol）サーバー
 - [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - LLMが自律的にアプリケーションをリバースエンジニアリングできるModel Context Protocolサーバー
+- [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) - 配布済みのネイティブバイナリ、マネージドコード、JavaScript/Electronアプリを証拠に基づいて分析するローカルCLI・MCPサーバー。ネイティブの詳細分析には、別途インストールしたHopper、Ghidra、IDAのいずれかが必要。
 - [Obsidian MCP Tool Server](https://github.com/Rwb3n/obsidian-mcp) - Obsidianボルトとのやりとりツールを公開するModel Context Protocol（MCP）サーバー
 - [Octocode MCP](https://github.com/bgauryy/octocode-mcp) - コード検索分析MCP
 - [Serena](https://github.com/oraios/serena) - セマンティック検索・編集機能を持つ強力なコーディングエージェント（MCPサーバー）
