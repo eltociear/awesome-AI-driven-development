@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **600 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **601 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -708,6 +708,7 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [Agent Skills](https://github.com/agentskills/agentskills) - a simple, open format for giving agents new capabilities and expertise.
 - [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - A Claude Code skill that enables effective use of Google's Gemini CLI as a powerful auxiliary tool.
 - [Superpowers](https://github.com/obra/superpowers) - Give Claude Code superpowers with a comprehensive skills library of proven techniques, patterns, and tools.
+- [The Enso Method](https://github.com/EnsoDynamics/enso-method) - Agent skills for Claude Code and Codex that record business assumptions with evidence and confidence, and preserve requirements as the source of truth.
 - [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Enable Claude Code to invoke the Codex CLI (codex exec and session resumes) for automated code analysis, refactoring, and editing workflows.
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A comprehensive collection of ready-to-use scientific skills for Claude, curated by the K-Dense team.
 - [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - A skill that adds scaffolding to IDE's such as cursor and VS code to create new projects.
