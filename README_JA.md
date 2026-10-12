@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **601個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **602個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -458,6 +458,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - AIコーディングコンテキストファイル（CLAUDE.md、.cursorrules、AGENTS.md）のセキュリティ問題、構造的問題、AIアンチパターンを検出するGitHub Action
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - 任意のURLをLLM向けのクリーンなMarkdownに変換。無料API、サインアップ不要
 - [DevIntern](https://github.com/getdevintern/devintern) - Jira、Linear、Trello、Asana、Azure DevOps、GitHub Issues、またはMarkdownファイルからチケットを取得し、任意のコーディングエージェント（Claude Code、Codex、Cursor、OpenCode）でセルフレビュー済みのプルリクエストに変換するツール。自分のマシン上で自分のモデルキーを使って動作します
+- [aven](https://github.com/raine/aven) - パワーユーザーとAIエージェントのためのローカルファーストのタスク管理ツール。キーボード中心で操作できるTUIと、AIエージェント向けのCLIを備える
 
 ## 言語モデル & エンジン
 
