@@ -423,6 +423,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [Claude Code PM](https://github.com/automazeio/ccpm) - GitHub IssuesとGit worktreeを使用した並列エージェント実行によるClaude Code向けプロジェクト管理システム
 - [Claude Conductor](https://github.com/superbasicstudio/claude-conductor) - AI支援開発でClaude Code向けに設計された軽量・モジュラードキュメンテーションフレームワーク
 - [Basic Memory](https://github.com/basicmachines-co/basic-memory) - AIアシスタントとの会話から永続的セマンティックグラフを構築できる知識管理システム
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Rust製の開発者向けアルファ版ナレッジストア。暗号化された追記専用レコードを保存し、範囲と有効期限を指定した権限でMCPアクセスを提供。
 - [RepoScribe](https://github.com/mikeusru/reposcribe) - プロジェクトディレクトリをスキャンし、.gitignoreルールで無視されないファイルを特定し、内容を単一テキストファイルに連結するコマンドラインツール
 - [AndAI](https://github.com/andrejsstepanovs/andai) - チケットシステムとgit統合を備えたAI支援コーディングタスクを整理するローカルツール
 - [Claude Self-Reflect](https://github.com/ramakay/claude-self-reflect) - Claudeにすべての会話の完璧なメモリを提供。過去のディスカッションを即座に検索。コンテキストを失わない
