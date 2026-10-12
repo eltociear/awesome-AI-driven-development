@@ -458,6 +458,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - AIコーディングコンテキストファイル（CLAUDE.md、.cursorrules、AGENTS.md）のセキュリティ問題、構造的問題、AIアンチパターンを検出するGitHub Action
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - 任意のURLをLLM向けのクリーンなMarkdownに変換。無料API、サインアップ不要
 - [DevIntern](https://github.com/getdevintern/devintern) - Jira、Linear、Trello、Asana、Azure DevOps、GitHub Issues、またはMarkdownファイルからチケットを取得し、任意のコーディングエージェント（Claude Code、Codex、Cursor、OpenCode）でセルフレビュー済みのプルリクエストに変換するツール。自分のマシン上で自分のモデルキーを使って動作します
+- [MacMD Viewer](https://macmdviewer.com) - コーディングエージェントが書くMarkdownのプラン、仕様書、CLAUDE.mdを読むためのmacOS用閲覧専用ビューア。Mermaid図とシンタックスハイライトを表示し、ディスク上のファイルが変更されると自動で再読み込みします。有料アプリ
 
 ## 言語モデル & エンジン
 
