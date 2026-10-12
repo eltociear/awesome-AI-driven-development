@@ -345,6 +345,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - MCP向けPlaywrightツール
 - [Web Accessibility-Testing MCP Server](https://github.com/ronantakizawa/a11ymcp) - LLMにWebアクセシビリティテストAPIへのアクセスを提供するMCP（Model Context Protocol）サーバー
 - [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - LLMが自律的にアプリケーションをリバースエンジニアリングできるModel Context Protocolサーバー
+- [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) - 配布済みのネイティブバイナリ、マネージドコード、JavaScript/Electronアプリを証拠に基づいて分析するローカルCLI・MCPサーバー。ネイティブの詳細分析には、別途インストールしたHopper、Ghidra、IDAのいずれかが必要。
 - [Obsidian MCP Tool Server](https://github.com/Rwb3n/obsidian-mcp) - Obsidianボルトとのやりとりツールを公開するModel Context Protocol（MCP）サーバー
 - [Octocode MCP](https://github.com/bgauryy/octocode-mcp) - コード検索分析MCP
 - [Serena](https://github.com/oraios/serena) - セマンティック検索・編集機能を持つ強力なコーディングエージェント（MCPサーバー）

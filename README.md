@@ -346,6 +346,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Playwright MCP](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
 - [Web Accessibility-Testing MCP Server](https://github.com/ronantakizawa/a11ymcp) - An MCP (Model Context Protocol) server that gives LLMs access to web accessibility testing APIs
 - [ghidraMCP](https://github.com/LaurieWired/GhidraMCP) - An Model Context Protocol server for allowing LLMs to autonomously reverse engineer applications
+- [REA (Reverse Engineer Anything)](https://github.com/morluto/rea) - Local CLI and MCP server that gives coding agents evidence-backed analysis of shipped native, managed, and JavaScript/Electron apps. Deep native analysis requires separately installed Hopper, Ghidra, or IDA.
 - [Obsidian MCP Tool Server](https://github.com/Rwb3n/obsidian-mcp) - This project provides a Model Context Protocol (MCP) server that exposes tools for interacting with an Obsidian vault
 - [Octocode MCP](https://github.com/bgauryy/octocode-mcp) - Code search analysys MCP
 - [Serena](https://github.com/oraios/serena) - A powerful coding agent with semantic retrieval and editing capabilities (MCP server)
