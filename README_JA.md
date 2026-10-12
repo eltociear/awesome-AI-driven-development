@@ -710,6 +710,7 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [Agent Skills](https://github.com/agentskills/agentskills) - エージェントに新しい能力と専門知識を与えるためのシンプルでオープンなフォーマット
 - [Gemini CLI Skill for Claude Code](https://github.com/forayconsulting/gemini_cli_skill) - Google Gemini CLIを強力な補助ツールとして効果的に使用できるようにするClaude Codeスキル
 - [Superpowers](https://github.com/obra/superpowers) - 実証済みのテクニック、パターン、ツールの包括的なスキルライブラリでClaude Codeにスーパーパワーを与える
+- [The Enso Method](https://github.com/EnsoDynamics/enso-method) - ビジネス上の前提を根拠と確信度とともに記録し、要件を信頼できる基準として維持するClaude CodeとCodex向けのエージェントスキル
 - [Codex Integration for Claude Code](https://github.com/skills-directory/skill-codex) - Claude CodeでCodex CLI（codex execとセッション再開）を呼び出し、自動コード解析、リファクタリング、編集ワークフローを可能にする
 - [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - K-Denseチームによって厳選された、Claudeのためのすぐに使える科学的スキルの包括的コレクション
 - [Project Scaffolding Skill for Claude Code](https://github.com/hmohamed01/Claude-Code-Scaffolding-Skill) - CursorやVS Codeなどのエディタにスキャフォールディングを追加し、新規プロジェクトを作成するスキル
