@@ -176,6 +176,7 @@ Plugins and extensions for popular IDEs and text editors.
 
 Frameworks and tools for orchestrating and managing multiple AI agents in development workflows.
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - [Stoneforge](https://github.com/stoneforge-ai/stoneforge) - Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery
 - [Factory](https://github.com/Factory-AI/factory) - The agent-native development platform. Works across CLI, Web, Slack/Teams, Linear/Jira and Mobile.
 - [Factory Floor](https://github.com/alltuner/factoryfloor) - Native macOS workspace that orchestrates parallel Claude Code agents, each in its own git worktree with automatic dev server port detection. Built on libghostty for GPU-rendered terminals.
