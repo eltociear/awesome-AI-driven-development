@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **599個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **602個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -122,7 +122,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [cline](https://github.com/clinebot/cline) - IDE上で動作する自律コーディングエージェント
 - [Roo-Code](https://github.com/RooVetGit/Roo-Code) - エディタ上で動作するAI搭載自律コーディングエージェント
 - [kodu-coder](https://github.com/kodu-ai/kodu-coder) - IDE上で動作する自律コーディングエージェント
-- [twinny](https://github.com/twinnydotdev/twinny) - Visual Studio Code向けの直接的でローカル/API対応のAIコード補完プラグイン
+- [twinny](https://github.com/twinnydotdev/twinny) - ローカルモデル（Ollama、LM Studio、llama.cpp）またはホスト型APIで動作する、コード補完・チャット・インライン編集・コードレビュー用の無料オープンソースVS Code拡張機能
 - [vscode-extension](https://github.com/flexpilot-ai/vscode-extension) - VS Code向けオープンソース・ネイティブの真のGitHub Copilot代替品
 - [couscous](https://github.com/ARAldhafeeri/couscous) - ベストプラクティスとチーム規約に対してコード品質を分析するAI搭載VS Code拡張機能
 - [wizardCoder-vsc](https://github.com/mzbac/wizardCoder-vsc) - WizardCoder向けVisual Studio Code拡張機能
@@ -243,6 +243,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [GraphCode](https://github.com/scgopi/GraphCode) - エージェントセッションをグラフとして配線するネイティブmacOSアプリ。各ノードは実行中に接続できるライブターミナル、各エッジは無人で発火するハンドオフ・メッセージ・スポーン。Claude Code、Codex、Copilot CLIのループを同一グラフ上で扱える。FSL-1.1-MITのソースアベイラブルで、CLIとSDKはMIT
 - [RailWarden](https://github.com/advaith-1212/railwarden) - 依存関係を考慮した作業パッケージ、隔離されたGit worktree、検証エビデンス、機械的な統合ゲートを備えた、マルチエージェント開発向けの決定論的な実行・統合制御プレーン。
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - 1つの`npx`コマンドで起動する、稼働中のClaude Code / Codexセッションをブラウザ上にグリッド表示するツール。各セルは色分けされたステータスを持つ実際のPTYで、tmuxによる永続化とセルごとのgit worktreeを備える。Claude Codeでは、CLI自身のフックを読み取ることで「要対応」と「完了」を区別して表示する。
+- [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
 
 ## コード生成 & 自動化
 
@@ -314,6 +315,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [mcp-audit](https://github.com/eltociear/mcp-audit) - MCPサーバーとエージェントスキル向けの依存関係ゼロのスキャナー。ツール説明文へのプロンプトインジェクション、認証情報の外部送信、ダウンロード実行を対象に17パターン/60の正規表現シグネチャを備える。誤検知率を14.8%から1.0%へ較正した上で、MCPレジストリ196サーバーのスキャン結果を公開
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - pipが実行する前にPyPIパッケージのインストール時フック（setup.py、エントリーポイント）を検査する依存関係ゼロのスキャナー。よく似たパッケージ名を探すタイポスクワットハンターも同梱
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - コーディングエージェントの実行をハーネスより下のレイヤーで記録し、オフラインでバイト単位に再現、または任意のチェックポイントから別のモデルへ分岐させるツール
+- [VibeFix](https://vibe-fixer.com/) - 公開済みのWebアプリを最初の顧客のようにスマホとPCで実際に使ってテストし、壊れている箇所を報告するAIエージェント。AIビルダーに貼り付ける修正プロンプトを提示し、修正後に本番アプリを再テストする。リモートMCPサーバー（https://vibe-fixer.com/mcp）としても利用可能
 
 ## MCPサーバー & 統合
 
@@ -384,6 +386,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - 30以上の画像生成モデル間でリクエストをルーティングし、本番環境向けビジュアルアセット（アプリアイコン、ファビコン、OG画像、ロゴ、ワードマーク）を生成するMCPサーバー。PollinationsとStable Hordeの無料枠を利用して初回実行時にAPIキーが不要
 - [Scalekit](https://scalekit.com/) - 委任OAuth、セキュアトークンボールト、3000以上のコネクタを備えたAIエージェント向けの認証・ツール呼び出しインフラ
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - AIコーディングエージェント向けの最速かつ最も効率的なコードインテリジェンスエンジン。平均的なリポジトリをミリ秒で、Linuxカーネル（2800万行、7万5千ファイル）を3分で完全インデックス化する。
+- [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - リポジトリを一度インデックス化し、ファイルの再読み込みではなくインデックスから構造的な問い合わせ（ファイルのアウトライン、シンボルの定義、参照箇所、コールグラフ、変更影響）に回答するローカルのコードグラフMCPサーバー。81言語に対応し、フレームワークをまたぐ参照関係も解決する。デスクトップアプリも同梱。
 
 ## コードレビュー & コラボレーション
 
@@ -594,6 +597,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [Nomad's AI Prompt Library](https://github.com/TechNomadCode/Open-Source-Prompt-Library) - 様々なAIモデル向けの効果的なプロンプトを保存・整理・共有する中央リポジトリ
 - [cmpr](https://github.com/inimino/cmpr) - 英語でプログラミング！LLM対応プログラミングフレームワーク
 - [Scopeglass](https://github.com/zackabrah/scopeglass) - コーディングエージェントが継承するAGENTS.mdチェーンを検査するローカルCLI。優先順位、行レベルの出所、トークン推定、壊れた参照・重複・競合のチェックを提供
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - 1セットのAIコーディングルールを各ツールが読み込むルールファイル（AGENTS.md、CLAUDE.md、Cursorルール、Copilot instructionsなど全30形式）に変換するセルフホスト型のWebアプリとCLI。チームで共有できるブループリントにも対応
 
 ### Copilot拡張・代替品
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - あらゆるLLMモデルでGH Copilot拡張機能を動作させる
