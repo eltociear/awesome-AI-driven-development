@@ -457,7 +457,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - Any URL to clean markdown for LLMs. Free API, no signup.
 - [DevIntern](https://github.com/getdevintern/devintern) - A tool that picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests with the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode), running on your machines with your own model keys.
-- [Mnemoverse](https://github.com/mnemoverse/claude-plugin) - A Claude Code plugin that gives your agent persistent memory over MCP, shared with Cursor, VS Code and other MCP clients. OAuth sign-in, no key to paste. Recall is re-ranked by feedback on whether a memory helped. Bundles the CC0 agent-memory-discipline skill.
+- [Mnemoverse](https://github.com/mnemoverse/claude-plugin) - A Claude Code plugin that gives your agent persistent memory over MCP, shared with Cursor, VS Code and other MCP clients. OAuth sign-in, no key to paste. Rating a recalled memory as helpful or misleading re-ranks what comes back next. Bundles the CC0 agent-memory-discipline skill.
 
 ## Language Models & Engines
 
