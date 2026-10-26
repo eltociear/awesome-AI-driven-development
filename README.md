@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **601 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **602 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -136,6 +136,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - A lightweight VS Code extension that monitors your Antigravity AI model usage quota and displays it in the status bar.
 - [Antigravity Pulse](https://github.com/codavidgarcia/antigravity-pulse) - 100% local & private. Super lightweight. A 120 KB status bar extension for Antigravity Pro & Ultra users who want to monitor their AI model quota at a glance
 - [Pixel Agents](https://github.com/pablodelucca/pixel-agents) - A VS Code extension that turns your AI coding agents into animated pixel art characters in a virtual office.
+- [Lookout for VS Code](https://github.com/nimrod-teich/lookout) - A VS Code extension that shows every Claude Code, Codex and Copilot CLI session on one board in the side bar: what each waiting session asks, a one-key jump to its tab or terminal, and search across every conversation.
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
