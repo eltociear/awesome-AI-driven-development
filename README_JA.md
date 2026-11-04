@@ -331,6 +331,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - カスタムエージェントでmcpサーバーとやりとりする最も簡単な方法
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - AIアシスタントに構造化されたデータベースアクセスを提供するModel Context Protocol（MCP）実装の強力なマルチデータベースサーバー
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - SupabaseプロジェクトをCursor、Claude、Windsurf、その他のAIアシスタントに接続
+- [Nhost MCP Server](https://github.com/nhost/nhost/tree/main/cli) - Nhost（エージェント型アプリ向けのマネージドバックエンド）の公式MCPサーバー。AIエージェントがGraphQLスキーマの読み取り、許可されたクエリの実行、権限とマイグレーションの管理を行える
 - [claude-context](https://github.com/zilliztech/claude-context) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに
 - [Kodit](https://github.com/helixml/kodit) - 外部リポジトリをインデックス化するMCPサーバー
 - [PageSpeed Insights MCP Server](https://github.com/ruslanlap/pagespeed-insights-mcp) - Google PageSpeed Insights APIのMCPサーバー、Claudeから直接Webページパフォーマンス解析を可能にする
