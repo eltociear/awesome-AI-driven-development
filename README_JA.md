@@ -112,6 +112,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAIのコーディングエージェントハーネス兼TUI。フルスクリーン、マウス操作対応、拡張可能。
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - ローカルファーストのCLI兼TUIコーディングエージェント。llama.cppのフォークを通じてオープンウェイトモデルをすべて自分のマシン上で実行し、アカウントもAPIキーも不要。56個の組み込みツール（ブラウザ、ファイルシステム、git、メモリ、ビジョン）、MCP対応、5層のローカルメモリシステムを備える。macOS、Linux、Windowsに対応。
 - [OB-1](https://github.com/Overbrilliant/ob-1) - アカウント・APIキー・クレジットカードなしで動作するターミナルコーディングエージェント。CLIプロセス内に組み込まれたルーターが、署名済みの無料モデルカタログを使ってキー不要の無料プロバイダー経由で最初のメッセージに応答し、自分のキー（OpenRouter、OpenAI、Gemini、Groq）やローカルランタイム（Ollama、LM Studio、llama.cpp、vLLM、OpenAI互換エンドポイント）へフェイルオーバーする。SQLiteによる永続的なプロジェクトメモリ（検査可能なファクト/関係グラフ）、リポジトリマップ、MCP、OSサンドボックス（Seatbelt/bubblewrap）に対応。キー不要ティアはモデル品質が一定せず制限も共有されるブートストラップ用の経路。Apache-2.0、npm `@overbrilliant/ob1`。
+- [Borg](https://github.com/adelphidata/borg) - Rust製のセキュリティ重視パーソナルAIアシスタント兼コーディングエージェント。ターミナルUI、読み取り専用のPlanモード、チェック通過まで続くゴールループ、git worktree、長期記憶、自己修復デーモンを備える
 
 ## IDE拡張機能
 
