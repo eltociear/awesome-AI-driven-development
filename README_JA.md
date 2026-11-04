@@ -244,6 +244,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [RailWarden](https://github.com/advaith-1212/railwarden) - 依存関係を考慮した作業パッケージ、隔離されたGit worktree、検証エビデンス、機械的な統合ゲートを備えた、マルチエージェント開発向けの決定論的な実行・統合制御プレーン。
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - 1つの`npx`コマンドで起動する、稼働中のClaude Code / Codexセッションをブラウザ上にグリッド表示するツール。各セルは色分けされたステータスを持つ実際のPTYで、tmuxによる永続化とセルごとのgit worktreeを備える。Claude Codeでは、CLI自身のフックを読み取ることで「要対応」と「完了」を区別して表示する。
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
+- [Friday](https://github.com/splashxmoon/friday) - Claude Code、Codex、Cursor、Gemini CLIなどのコーディングエージェントを共有タスクボード上で並行して動かすクロスプラットフォームのデスクトップアプリ。エージェント同士がメッセージをやり取りし、利用上限に達したエージェントのタスクは進捗ごと別のエージェントに引き継がれる。エージェントごとのgit worktreeとdiffレビューに対応。MITライセンス、アカウント不要。
 
 ## コード生成 & 自動化
 
