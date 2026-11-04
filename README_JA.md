@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **601個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **602個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -731,6 +731,7 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - コードを出荷する前に、組織のポリシー、コード品質パターン、セキュリティ要件、フレームワークのベストプラクティスに照らしてコードを検証するコーディングエージェントスキル
 - [fable-mode](https://github.com/mrtooher/fable-mode) - Fableスタイルのエージェント的振る舞い（明示的な多段階プランニング、サブエージェントへの委譲、自己検証）を有効化するClaudeスキル
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - AIエージェントを部屋で一番怠惰なシニア開発者のように考えさせる。最良のコードとは、書かずに済んだコードである。
+- [DESIGN:OS Bridge](https://github.com/jangtrinh/design-os-figma-plugin) - Claude Code、Codex、Gemini CLIからFigma Desktopで開いているファイルをローカルWebSocket経由で読み取り・編集できる無料のCLIとエージェントスキル。ソースアベイラブル（PolyForm Shield）。
 
 ## サポート
 
