@@ -389,6 +389,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Scalekit](https://scalekit.com/) - Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes.
 - [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - Local code-graph MCP server that indexes a repository once, then answers structural questions (file outline, symbol source, usages, call graph, change impact) from the index instead of re-reading files. 81 languages, with cross-language framework edges; ships a desktop app.
+- [LLMSlim](https://github.com/Thanatos9404/llmslim) - Local MCP server and Claude Code plugin that gives coding agents long-term memory with no LLM call; recall returns the stored messages that answer a question within a token budget.
 
 ## Code Review & Collaboration
 
