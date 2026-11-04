@@ -137,6 +137,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - Antigravity AIモデルの使用量クォータを監視してステータスバーに表示する軽量VS Code拡張機能
 - [Antigravity Pulse](https://github.com/codavidgarcia/antigravity-pulse) - 100%ローカル＆プライベート。超軽量。Antigravity Pro & Ultraユーザー向けのAIモデルクォータを一目で監視できる120KBのステータスバー拡張機能
 - [Pixel Agents](https://github.com/pablodelucca/pixel-agents) - AIコーディングエージェントをバーチャルオフィス内のアニメーションピクセルアートキャラクターとして表示するVS Code拡張機能
+- [Lookout for VS Code](https://github.com/nimrod-teich/lookout) - Claude Code、Codex、Copilot CLIのセッションをサイドバーの1つのボードにまとめて表示するVS Code拡張機能。待機中のセッションが求めている内容（コマンド、ファイル、質問）を示し、キー1つでそのタブやターミナルへ移動でき、すべての会話を検索できる
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
