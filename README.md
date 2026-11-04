@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **601 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **602 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -730,6 +730,7 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - a coding agent skill that verifies code against organizational policies, code quality patterns, security requirements, and framework best practices — before code ships.
 - [fable-mode](https://github.com/mrtooher/fable-mode) - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [DESIGN:OS Bridge](https://github.com/jangtrinh/design-os-figma-plugin) - Free CLI and agent skill that lets Claude Code, Codex or Gemini CLI read and edit the file open in Figma Desktop over a local WebSocket. Source-available (PolyForm Shield).
 
 ## Support
 
