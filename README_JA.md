@@ -627,7 +627,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [Mastering GitHub Copilot](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - GitHub CopilotをAIペアプログラミングリソースとして使用するために必要なすべてを教えるマルチモジュールコース
 - [Claude Code Mastery](https://github.com/TheDecipherist/claude-code-mastery) - Claude Codeを最大限活用するための完全ガイド：グローバルCLAUDE.md、MCPサーバー、コマンド、フック、スキル、そして単一目的チャットが重要な理由
 - [OwnYourCode](https://github.com/DanielPodolsky/ownyourcode) - ジュニアエンジニア向けAIメンター開発。Claudeはコーダーではなくメンターとして機能し、質問で導き、6つのゲートでレビューしつつ、すべてのコードはあなた自身が書く。依存を減らし、オーナーシップを高める
-- [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - 245以上のVibeコーディングツール、プラットフォーム、リソースのキュレーションリスト。カテゴリ別に整理され、料金、ユースケース、チュートリアル、コミュニティ情報を含む
+- [awesome-vibe-coding](https://github.com/taskade/awesome-vibe-coding) - 350以上のVibeコーディングツール、プラットフォーム、リソースのキュレーションリスト。カテゴリ別に整理され、料金、ユースケース、チュートリアル、コミュニティ情報を含む
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - OWASP GenAI Security ProjectによるLLM・エージェントアプリケーションの最重要セキュリティリスクのコンセンサスリスト。AI駆動システムを構築する開発者向けの緩和策ガイダンスを含む
 - [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - デモ止まりにしないAI支援アプリ開発のWebハンドブック。計画、構築、デバッグ、堅牢化、リリース、運用、スケールまでを網羅
 - [Yupi's Vibe Coding Guide](https://github.com/liyupi/ai-guide) - AI駆動開発の無料中国語ハンドブック。ツール選定、プロンプトとコンテキスト管理、多数のエンドツーエンドのプロジェクト実践、本番リリースまでを網羅
