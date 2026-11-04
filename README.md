@@ -328,6 +328,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - The easiest way to interact with mcp servers with custom agents
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - Connect your Supabase projects to Cursor, Claude, Windsurf, and other AI assistants
+- [Nhost MCP Server](https://github.com/nhost/nhost/tree/main/cli) - Official MCP server for Nhost, a managed backend for agentic apps. Lets AI agents read the GraphQL schema, run the queries you allow and manage permissions and migrations
 - [claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Kodit](https://github.com/helixml/kodit) - MCP server to index external repositories
 - [PageSpeed Insights MCP Server](https://github.com/ruslanlap/pagespeed-insights-mcp) - MCP server for Google PageSpeed Insights API that enables web page performance analysis directly through Claude.
