@@ -389,6 +389,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Scalekit](https://scalekit.com/) - Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes.
 - [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - Local code-graph MCP server that indexes a repository once, then answers structural questions (file outline, symbol source, usages, call graph, change impact) from the index instead of re-reading files. 81 languages, with cross-language framework edges; ships a desktop app.
+- [CurlShot MCP](https://github.com/SergiuPogor/curlshot-mcp) - Hosted MCP server that lets AI agents take screenshots of web pages as PNG, JPEG, WebP, PDF or a scrolling video, with device presets. Free plan with 100 screenshots a month.
 
 ## Code Review & Collaboration
 
