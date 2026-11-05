@@ -576,6 +576,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [aider-github-action](https://github.com/mirrajabi/aider-github-action) - GithubワークフローでAider AIアシスタントを実行！
 - [aider-github-workflows](https://github.com/mirrajabi/aider-github-workflows) - aider-github-actionを使用するワークフロー
 - [CodeWave: AI-Powered Commit Intelligence](https://github.com/techdebtgpt/codewave) - 複数のAIエージェントを調整されたディスカッションフレームワークで活用してGitコミットの詳細な分析を実行する、洗練されたNode.js CLIツール
+- [aiblame](https://github.com/celaldrg/aiblame) - リポジトリ全体に git blame を実行し、HEAD 時点のコードのうち AI 支援コミットで最後に書かれた割合をエージェント別（Claude Code、Cursor、Copilot、Codex、Aider、Devin など）に集計する CLI 兼 GitHub Action。コミットトレーラーとボット作者から検出。JSON/Markdown 出力、SVG バッジ、CI 用のしきい値チェックに対応。
 
 ### クラウド・DevOps
 - [kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - ターミナルで動作するAI搭載kubernetesエージェント
