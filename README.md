@@ -460,6 +460,7 @@ Tools for project management, documentation, and knowledge organization in AI-dr
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - GitHub Action that lints AI coding context files (CLAUDE.md, .cursorrules, AGENTS.md) for security issues, structural problems, and AI anti-patterns.
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - Any URL to clean markdown for LLMs. Free API, no signup.
 - [DevIntern](https://github.com/getdevintern/devintern) - A tool that picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests with the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode), running on your machines with your own model keys.
+- [Skim](https://github.com/skim-md/skim) - Browser extension that renders the Markdown files AI coding agents write (plans, specs, reports), live-reloading as they change.
 
 ## Language Models & Engines
 
