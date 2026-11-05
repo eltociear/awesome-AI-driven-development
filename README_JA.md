@@ -461,6 +461,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [AI Context Linter](https://github.com/MrDwarf7/ai-context-linter) - AIコーディングコンテキストファイル（CLAUDE.md、.cursorrules、AGENTS.md）のセキュリティ問題、構造的問題、AIアンチパターンを検出するGitHub Action
 - [url-to-md](https://github.com/MrDwarf7/url-to-md) - 任意のURLをLLM向けのクリーンなMarkdownに変換。無料API、サインアップ不要
 - [DevIntern](https://github.com/getdevintern/devintern) - Jira、Linear、Trello、Asana、Azure DevOps、GitHub Issues、またはMarkdownファイルからチケットを取得し、任意のコーディングエージェント（Claude Code、Codex、Cursor、OpenCode）でセルフレビュー済みのプルリクエストに変換するツール。自分のマシン上で自分のモデルキーを使って動作します
+- [Mnemoverse](https://github.com/mnemoverse/claude-plugin) - MCP経由でエージェントに永続メモリを提供するClaude Codeプラグイン。CursorやVS Codeなど他のMCPクライアントと同じメモリを共有。OAuthでサインインし、APIキーの貼り付けは不要。想起したメモリを「役に立った」または「誤解を招いた」と評価すると、次に返ってくる結果の順位が変わる。CC0のagent-memory-disciplineスキルを同梱
 
 ## 言語モデル & エンジン
 
