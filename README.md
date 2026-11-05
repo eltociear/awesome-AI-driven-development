@@ -246,6 +246,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [RailWarden](https://github.com/advaith-1212/railwarden) - Deterministic execution and integration control plane for multi-agent development with dependency-aware work packages, isolated Git worktrees, validation evidence, and mechanical integration gates.
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code / Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks.
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs Claude Code, Codex, OpenCode, Gemini CLI, and other coding-agent CLIs side by side in persistent tmux sessions, with live status, diff review, and a built-in MCP server that lets one agent spawn, message, and wait on another session. Built with Go + Bubble Tea, Apache-2.0.
+- [workkit](https://github.com/ITW-Creative-Works/workkit) - Claude Code plugin that runs GitHub Issues as the agent work pipeline. A manager agent specs each issue, dispatches scout, worker and verifier subagents, and parks the result for human QA, with labels tracking each stage.
 
 ## Code Generation & Automation
 
