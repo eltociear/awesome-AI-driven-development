@@ -582,6 +582,7 @@ Specialized AI tools for specific development domains and tasks.
 - [K8sWhisperer-](https://github.com/ARAldhafeeri/K8sWhisperer-) - An AI-powered Kubernetes Operator that lets users query logs and read them as natural language
 - [Arconia Framework](https://github.com/arconia-io/arconia) - A framework designed to build modern enterprise applications using Java and Spring Boot, emphasizing developer experience and cloud native architectures
 - [CompliancePilot](https://github.com/prajapatimehul/comp-agent) - Cloud compliance automation powered by Prowler and Claude Code. Scan your AWS infrastructure, find compliance gaps, and fix them with AI assistance.
+- [Latchkey](https://latchkey.dev) - CI your coding agents can run, read and fix: self-healing GitHub Actions runners plus a CLI and MCP server
 
 ### Language-Specific
 - [coders](https://github.com/0xKoda/coders) - AI coding assistant in rust
