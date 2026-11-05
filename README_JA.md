@@ -600,6 +600,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [cmpr](https://github.com/inimino/cmpr) - 英語でプログラミング！LLM対応プログラミングフレームワーク
 - [Scopeglass](https://github.com/zackabrah/scopeglass) - コーディングエージェントが継承するAGENTS.mdチェーンを検査するローカルCLI。優先順位、行レベルの出所、トークン推定、壊れた参照・重複・競合のチェックを提供
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - 1セットのAIコーディングルールを各ツールが読み込むルールファイル（AGENTS.md、CLAUDE.md、Cursorルール、Copilot instructionsなど全30形式）に変換するセルフホスト型のWebアプリとCLI。チームで共有できるブループリントにも対応
+- [ai-coding-rules-sampler](https://github.com/elirankotzero/ai-coding-rules-sampler) - セキュリティ、計画優先ワークフロー、意思決定ログのための無料MITルールとスキル。Cursor .mdc、CLAUDE.md + AGENTS.md、Windsurf、Copilot向けファイルとして提供
 
 ### Copilot拡張・代替品
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - あらゆるLLMモデルでGH Copilot拡張機能を動作させる

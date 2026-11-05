@@ -599,6 +599,7 @@ Specialized AI tools for specific development domains and tasks.
 - [cmpr](https://github.com/inimino/cmpr) - Program in English! LLM-enabled programming framework
 - [Scopeglass](https://github.com/zackabrah/scopeglass) - Local CLI that inspects the AGENTS.md chain a coding agent inherits: precedence, line-level provenance, token estimates, and checks for broken references, duplicates, and conflicts
 - [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Self-hosted web app and CLI that turn one set of AI coding rules into the rule file each coding tool reads (AGENTS.md, CLAUDE.md, Cursor rules, Copilot instructions, 30 formats in all), with blueprints a team can share
+- [ai-coding-rules-sampler](https://github.com/elirankotzero/ai-coding-rules-sampler) - Free MIT rules and skills (security, plan-first workflow, decisions log) shipped as Cursor .mdc, CLAUDE.md + AGENTS.md, Windsurf and Copilot files
 
 ### Copilot Extensions & Alternatives
 - [copilot-proxy](https://github.com/jjleng/copilot-proxy) - Make GH Copilot extension work with any LLM models
