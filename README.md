@@ -630,6 +630,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - The OWASP GenAI Security Project's consensus list of the most critical security risks in LLM and agentic applications, with mitigation guidance for developers building AI-driven systems
 - [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - Web handbook on building AI-assisted apps that work beyond the demo: plan, build, debug, harden, ship, operate, and scale.
 - [Yupi's Vibe Coding Guide](https://github.com/liyupi/ai-guide) - Free Chinese handbook on AI-driven development covering tool selection, prompting and context management, dozens of end-to-end project builds, and shipping to production.
+- [What Agents Pick](https://whatagentspick.com) - Records which third party tools Claude Code installs by default across 10 categories (database, auth, payments, email and more) when the prompt names none, with per model counts and raw run data
 
 ## Frameworks & Libraries
 
