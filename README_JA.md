@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **603個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **604個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -552,6 +552,7 @@ AI支援開発ワークフローを管理するツール、フレームワーク
 - [ccusage](https://github.com/ryoppippi/ccusage) - ローカルJSONLファイルからClaude Code/Codex CLI使用状況を分析するCLIツール
 - [BurnRate](https://getburnrate.io) - ローカルファーストのAIコーディングコスト分析。Claude Code、Cursor、Codex、Copilot、Windsurf、Cline、Aiderを追跡。コスト内訳、23の最適化ルール、レート制限監視、プロバイダー比較、PDFレポート
 - [Burnd](https://github.com/garvitsurana271/burnd) - Claude CodeのJSONLセッションファイルを解析し、8つのコストリーク検出器（リトライストーム、ツール過剰使用、繰り返し読み込み、スラッシング、疲労コーディングなど）を実行するローカルファーストCLI。節約見積もりと共有可能なレポートURLを出力。MITライセンス、npxでインストール可能、テレメトリなし
+- [who-said-yes](https://github.com/skprasad-korture/who-said-yes) - Claude CodeとCodexのログから、コーディングエージェントの操作のうち自分で承認したものを数えるCLI。読み取り専用で、データはマシンの外に出ません。
 - [agenttrace](https://github.com/luoyuctl/agenttrace) - Claude Code、Codex CLI、Gemini CLI、Aider、CursorエクスポートなどのAIコーディングエージェントセッションを可視化するローカルファーストTUI
 - [ax](https://github.com/Necmttn/ax) - Claude Code、CodexなどのAIコーディングエージェント向けローカルファーストなテレメトリ・リコールグラフ。セッション、コスト、スキル、ルーティング、フック分析に対応
 - [Sourcebot](https://github.com/sourcebot-dev/sourcebot) - コードベースを理解するためのセルフホスト型ツール
