@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **603個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **604個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -247,6 +247,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - 1つの`npx`コマンドで起動する、稼働中のClaude Code / Codexセッションをブラウザ上にグリッド表示するツール。各セルは色分けされたステータスを持つ実際のPTYで、tmuxによる永続化とセルごとのgit worktreeを備える。Claude Codeでは、CLI自身のフックを読み取ることで「要対応」と「完了」を区別して表示する。
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Rust製のAgent Runtimeを備えたオープンソースのデスクトップ向けエージェントワークスペース。4つのAgent Harnessモード（Minimal、Standard、Ultimate、Creative）、マルチエージェントセッション、SSHによるリモートワークスペース、スマートフォンからのリモート操作、MCP、Skills、Hooksに対応。コアコードはMITライセンス。
+- [Aixle Flow](https://github.com/AixleHQ/flow) - Claude Code、Codex、Gemini CLIなどのCLIコーディングエージェントを隔離コンテナで実行するセルフホスト型カンバンボード。カードを移動するとTemporalの永続ワークフローが起動し、並列ステップ、人による承認ゲート、セッション単位のトークン・コスト記録に対応（Apache-2.0）。
 
 ## コード生成 & 自動化
 
