@@ -247,6 +247,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - 1つの`npx`コマンドで起動する、稼働中のClaude Code / Codexセッションをブラウザ上にグリッド表示するツール。各セルは色分けされたステータスを持つ実際のPTYで、tmuxによる永続化とセルごとのgit worktreeを備える。Claude Codeでは、CLI自身のフックを読み取ることで「要対応」と「完了」を区別して表示する。
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Rust製のAgent Runtimeを備えたオープンソースのデスクトップ向けエージェントワークスペース。4つのAgent Harnessモード（Minimal、Standard、Ultimate、Creative）、マルチエージェントセッション、SSHによるリモートワークスペース、スマートフォンからのリモート操作、MCP、Skills、Hooksに対応。コアコードはMITライセンス。
+- [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - オーケストレーターエージェントが作業を分割し、Claude Code、Codex、Cursor など38種類のコーディングエージェントをそれぞれ独立したgit worktreeで並列実行する、オープンソースのデスクトップアプリ（macOS、Windows、Linux）。カンバンボードで各PRのCIとレビューを追跡し、失敗や指摘は担当エージェントに戻される。リモートセッション用のiOS・Androidアプリあり。
 
 ## コード生成 & 自動化
 

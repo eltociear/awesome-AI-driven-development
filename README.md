@@ -247,6 +247,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code / Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks.
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs Claude Code, Codex, OpenCode, Gemini CLI, and other coding-agent CLIs side by side in persistent tmux sessions, with live status, diff review, and a built-in MCP server that lets one agent spawn, message, and wait on another session. Built with Go + Bubble Tea, Apache-2.0.
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Open-source desktop agent workspace with a Rust agent runtime. Four Agent Harness modes (Minimal, Standard, Ultimate, Creative), multi-agent sessions, remote workspaces over SSH, remote control from a phone, MCP, Skills, and Hooks. Core code is MIT.
+- [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - Open-source desktop app (macOS, Windows, Linux) where an orchestrator agent splits work across Claude Code, Codex, Cursor and other coding agents (38 supported), each in its own git worktree, with a Kanban board that tracks every PR through CI and review and sends failures back to the owning agent. iOS and Android apps for remote sessions.
 
 ## Code Generation & Automation
 
