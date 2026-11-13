@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **603 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **604 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -113,6 +113,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system. Runs on macOS, Linux, and Windows.
 - [OB-1](https://github.com/Overbrilliant/ob-1) - Terminal coding agent that runs with no account, no API key and no card: an embedded router inside the CLI process answers the first message through keyless free providers using a signed bundled free-model catalog, with failover to your own keys (OpenRouter, OpenAI, Gemini, Groq) or local runtimes (Ollama, LM Studio, llama.cpp, vLLM, any OpenAI-compatible endpoint). Persistent SQLite project memory with an inspectable fact/relationship graph, repo map, MCP, and OS sandboxing (Seatbelt/bubblewrap). The keyless tier is a bootstrap path with variable model quality and shared limits. Apache-2.0, npm `@overbrilliant/ob1`.
 - [Borg](https://github.com/adelphidata/borg) - Security-first personal AI assistant and coding agent in Rust with a terminal UI, read-only Plan mode, goal loops gated on your checks, git worktrees, long-term memory, and a self-healing daemon
+- [Atlarix](https://www.atlarix.dev/) - Coding agent for the terminal, desktop, VS Code-family editors, Zed, JetBrains and Chrome. Works with any model (your own API key, a local model or Atlarix Core); file edits show a diff and wait for approval.
 
 ## IDE Extensions
 
