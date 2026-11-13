@@ -621,6 +621,7 @@ Tutorials, best practices, and resources for learning AI-driven development.
 - [The BMAD-Method 3.1](https://github.com/bmadcode/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - Structured AI-Assisted Development Workflow Guide
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+- [A home for your mind: the AI harness that powers up your work](https://waldo.vanderlore.de/blog/personal-ai-operating-system/) - Five small steps from a chat window to an AI setup that knows your work, remembers decisions and runs on its own.
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - This template provides a robust and adaptable framework of rules designed to enhance the performance of AI coding assistants like Cursor and CLINE
 - [Ruler](https://github.com/intellectronica/ruler) - Apply the same rules to all coding agents
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - The project provides a collection of System prompts for Java that help software engineers in their daily programming work.
