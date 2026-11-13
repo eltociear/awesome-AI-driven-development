@@ -622,6 +622,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [The BMAD-Method 3.1](https://github.com/bmadcode/BMAD-METHOD) - アジャイルAI駆動開発のブレークスルー手法
 - [Guide to AI-Assisted Development Using kliewerdaniel/workflow](https://github.com/kliewerdaniel/workflow) - 構造化AI支援開発ワークフローガイド
 - [OSWorld](https://github.com/xlang-ai/OSWorld) - 実コンピュータ環境でのオープンエンド業務向けマルチモーダルエージェントのベンチマーク
+- [A home for your mind: the AI harness that powers up your work](https://waldo.vanderlore.de/blog/personal-ai-operating-system/) - チャット画面から、仕事を理解し決定を記憶し自律的に動くAI環境へ進む5つの小さなステップ
 - [The Rules Template: Universal Rules for AI Coding Assistants](https://github.com/Bhartendu-Kumar/rules_template) - CursorやCLINEなどのAIコーディングアシスタントの性能向上向けの堅牢で適応可能なルールフレームワーク
 - [Ruler](https://github.com/intellectronica/ruler) - すべてのコーディングエージェントに同じルールを適用
 - [Cursor AI rules for Java](https://github.com/jabrena/cursor-rules-java) - ソフトウェアエンジニアの日常的なプログラミング作業を支援するJava向けシステムプロンプトのコレクション
