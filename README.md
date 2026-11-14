@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **603 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **600 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -396,10 +396,9 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 Tools for code review, pull request automation, and team collaboration.
 
 - [pr-agent](https://github.com/Codium-ai/pr-agent) - CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More!
-- [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer) - AI-based Pull Request Summarizer and Reviewer with Chat Capabilities
+- [IonWarp](https://ionwarp.com/) - GitHub App that reviews pull requests with AI and posts its findings as review comments; it publishes its benchmark scores
 - [gitpack-ai](https://github.com/gitpack-ai/gitpack-ai) - Automate Pull Request Reviews with AI
 - [lgtm-ai](https://github.com/elementsinteractive/lgtm-ai) - Your AI-powered code review companion
-- [pr-pilot](https://github.com/PR-Pilot-AI/pr-pilot) - An AI agent for your development workflow that can search and manipulate the code base, browse the internet and interact with Github issues and pull requests
 - [pr-pilot-cli](https://github.com/PR-Pilot-AI/pr-pilot-cli) - Command-line interface for PR Pilot
 - [Review Gate for Cursor IDE ゲート](https://github.com/LakshmanTurlapati/Review-Gate) - A powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests
 - [PR-Agent](https://github.com/qodo-ai/pr-agent) - An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
@@ -409,8 +408,6 @@ Tools for code review, pull request automation, and team collaboration.
 - [LegacyDoc AI](https://www.romanticode.com/tools/ai-code-audit-report/) - Audits AI-generated code inside VS Code and produces architecture notes, risk areas, cleanup priorities, and an AI-ready context pack
 - [Aura](https://github.com/Naridon-Inc/aura) - Semantic layer on top of Git for reviewing AI-generated code with intent, provenance, semantic blast radius, AI usage tracking, and function-level rewind.
 - [gh-dash - GitHub PR Dashboard for Claude Code](https://github.com/jakozloski/claude-code-gh-dash) - A Claude Code plugin that displays GitHub PR status, CI/CD checks, and merge capability directly in your terminal.
-- [prpack](https://github.com/Lucas2944/prpack) - CLI that packs a pull request (diff + commits + full post-change file contents) into one markdown file optimized for LLM code review. MIT.
-- [prpack-action](https://github.com/Lucas2944/prpack-action) - GitHub Action that runs prpack on every PR, uploads the packed markdown as an artifact, and posts a summary comment.
 
 ## Project & Knowledge Management
 
