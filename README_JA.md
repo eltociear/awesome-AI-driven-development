@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **603個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **604個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -482,6 +482,7 @@ AI駆動開発におけるプロジェクト管理、ドキュメント、ナレ
 - [O1-CODER](https://github.com/ADaM-BJTU/O1-CODER) - コーディング向けO1レプリケーション
 - [lsp-ai](https://github.com/SilasMarvin/lsp-ai) - ソフトウェアエンジニアを置き換えるのではなく、支援・強化するよう設計されたAI搭載機能のバックエンドとして機能するオープンソース言語サーバー
 - [FireCoder](https://github.com/FireCoderAI/firecoder) - ローカルマシン上でコーディング体験を最適化するために構築されたセルフホスト型AIアシスタント
+- [Requesty](https://www.requesty.ai) - Anthropic Messagesルートを備えたOpenAI互換のLLMゲートウェイ。フォールバック、キャッシュ、APIキーごとの支出上限に対応
 
 ## 開発ワークフロー & エージェント
 
