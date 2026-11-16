@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **603個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **604個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -319,6 +319,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - pipが実行する前にPyPIパッケージのインストール時フック（setup.py、エントリーポイント）を検査する依存関係ゼロのスキャナー。よく似たパッケージ名を探すタイポスクワットハンターも同梱
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - コーディングエージェントの実行をハーネスより下のレイヤーで記録し、オフラインでバイト単位に再現、または任意のチェックポイントから別のモデルへ分岐させるツール
 - [VibeFix](https://vibe-fixer.com/) - 公開済みのWebアプリを最初の顧客のようにスマホとPCで実際に使ってテストし、壊れている箇所を報告するAIエージェント。AIビルダーに貼り付ける修正プロンプトを提示し、修正後に本番アプリを再テストする。リモートMCPサーバー（https://vibe-fixer.com/mcp）としても利用可能
+- [Madsalt Supabase Checker](https://madsalt.tech/tools/supabase-security-check/) - Lovable、Bolt、Cursor、v0で作ったアプリの裏にあるSupabaseプロジェクトを読み取り専用で無料スキャン。RLS、権限、関数、認証・ストレージ設定を46項目でチェックし、各指摘に修正SQLとコーディングエージェントに貼り付けるプロンプトを付ける。テーブルの行は読まない
 
 ## MCPサーバー & 統合
 
