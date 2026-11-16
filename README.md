@@ -418,6 +418,8 @@ Tools for code review, pull request automation, and team collaboration.
 
 ## Project & Knowledge Management
 
+- [HumanPen](https://humanpen.net/) - Document-level AI editing & API for Humanize (DOCX/PPTX/TXT), Condense (DOCX word-budget), Citation Format Correction (DOCX, 12 styles), and Translate (12 languages). 100 signup credits; commercial credit-based pricing.
+
 Tools for project management, documentation, and knowledge organization in AI-driven development.
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
