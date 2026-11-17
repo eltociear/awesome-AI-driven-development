@@ -1,6 +1,6 @@
-[AI-Driven Development Summit is coming soon! Online streaming will also be available!](https://aid.connpass.com/event/411003/)
+<!-- [AI-Driven Development Summit is coming soon! Online streaming will also be available!](https://aid.connpass.com/event/411003/)
 
----
+--- -->
 
 
 ![Logo](/logo.png)
