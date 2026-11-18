@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **608 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **609 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -324,6 +324,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - Zero-dependency scanner that inspects a PyPI package’s install-time hooks (setup.py, entry points) before pip executes them, plus a typosquat hunter for lookalike package names.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness and replays it offline with the network off, or forks it from a checkpoint onto another model
 - [VibeFix](https://vibe-fixer.com/) - AI agent that tests a live, published web app like a first customer on a phone and a computer, reports what breaks, gives a fix prompt to paste into the AI builder, then re-tests the live app. Also a remote MCP server (https://vibe-fixer.com/mcp)
+- [Keybrum](https://keybrum.com) - Automated penetration test for live apps built with Lovable, Bolt, Cursor, Replit, v0 or Claude Code. It attacks the deployed app with no account, as a new user, then as a second user, and writes each fix for the coding agent.
 
 ## MCP Servers & Integrations
 
