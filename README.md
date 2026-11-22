@@ -1,10 +1,14 @@
+<!-- [AI-Driven Development Summit is coming soon! Online streaming will also be available!](https://aid.connpass.com/event/411003/)
+
+--- -->
+
 
 ![Logo](/logo.png)
 # 🤖 Awesome AI-Driven Development
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **602 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **610 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -53,6 +57,7 @@ Full-featured AI-powered code editors and integrated development environments.
 - [Devin](https://devin.ai/) - An AI coding agent and software engineer that helps developers build better software faster. Parallel cloud agents for serious engineering teams.
 - [Windsurf Editor](https://windsurf.com/editor) - The first agentic IDE, and then some. The Windsurf Editor is where the work of developers and AI truly flow together, allowing for a coding experience that feels like literal magic.
 - [RapidNative](https://rapidnative.com/) - AI-native mobile app builder that turns ideas, sketches, or screenshots into working React Native and Expo apps. Generates production-ready code you can view, edit, and extend, with real-time team collaboration.
+- [Vibeminter](https://vibeminter.com/) - AI app builder that builds a native iPhone app from a chat in the browser. You can browse, search and edit the generated Swift files and download the project as a zip.
 
 ## Terminal & CLI Agents
 
@@ -112,6 +117,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - Local-first CLI and TUI coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with no account or API key required. Ships 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer local memory system. Runs on macOS, Linux, and Windows.
 - [OB-1](https://github.com/Overbrilliant/ob-1) - Terminal coding agent that runs with no account, no API key and no card: an embedded router inside the CLI process answers the first message through keyless free providers using a signed bundled free-model catalog, with failover to your own keys (OpenRouter, OpenAI, Gemini, Groq) or local runtimes (Ollama, LM Studio, llama.cpp, vLLM, any OpenAI-compatible endpoint). Persistent SQLite project memory with an inspectable fact/relationship graph, repo map, MCP, and OS sandboxing (Seatbelt/bubblewrap). The keyless tier is a bootstrap path with variable model quality and shared limits. Apache-2.0, npm `@overbrilliant/ob1`.
+- [Borg](https://github.com/adelphidata/borg) - Security-first personal AI assistant and coding agent in Rust with a terminal UI, read-only Plan mode, goal loops gated on your checks, git worktrees, long-term memory, and a self-healing daemon
 
 ## IDE Extensions
 
@@ -136,6 +142,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - A lightweight VS Code extension that monitors your Antigravity AI model usage quota and displays it in the status bar.
 - [Antigravity Pulse](https://github.com/codavidgarcia/antigravity-pulse) - 100% local & private. Super lightweight. A 120 KB status bar extension for Antigravity Pro & Ultra users who want to monitor their AI model quota at a glance
 - [Pixel Agents](https://github.com/pablodelucca/pixel-agents) - A VS Code extension that turns your AI coding agents into animated pixel art characters in a virtual office.
+- [Lookout for VS Code](https://github.com/nimrod-teich/lookout) - A VS Code extension that shows every Claude Code, Codex and Copilot CLI session on one board in the side bar: what each waiting session asks, a one-key jump to its tab or terminal, and search across every conversation.
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - A Neovim plugin designed to emulate the behaviour of the Cursor AI IDE
@@ -244,7 +251,9 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [RailWarden](https://github.com/advaith-1212/railwarden) - Deterministic execution and integration control plane for multi-agent development with dependency-aware work packages, isolated Git worktrees, validation evidence, and mechanical integration gates.
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - Browser grid of live Claude Code / Codex sessions started with one `npx` command. Each cell is a real PTY with a colour-coded status, tmux-backed persistence, and a git worktree per cell. For Claude Code, needs-you is shown separately from done, read from the CLI's own hooks.
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs Claude Code, Codex, OpenCode, Gemini CLI, and other coding-agent CLIs side by side in persistent tmux sessions, with live status, diff review, and a built-in MCP server that lets one agent spawn, message, and wait on another session. Built with Go + Bubble Tea, Apache-2.0.
-- [Codealong](https://github.com/codealong/codealong) - Desktop app for macOS and Linux that finds every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine and puts them on one board by repo, worktree, branch and PR. Allow commands, answer questions and reply from a floating bar, and see each account's plan limits. Apache-2.0.
+- [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Open-source desktop agent workspace with a Rust agent runtime. Four Agent Harness modes (Minimal, Standard, Ultimate, Creative), multi-agent sessions, remote workspaces over SSH, remote control from a phone, MCP, Skills, and Hooks. Core code is MIT.
+- [pando](https://github.com/xseman/pando) - Terminal workspace that runs Claude Code, Codex, Gemini CLI, OpenCode or any shell side by side, each session in its own Git worktree. A daemon keeps agents running when the TUI closes and resumes their conversations after a restart; diffs are reviewed and committed in the TUI, and a CLI with blocking waits lets scripts or other agents drive sessions. Built with Go + Bubble Tea, Apache-2.0.
+- [Codealong](https://github.com/codealong/codealong) - Desktop app for macOS, Linux and Windows that finds every Claude Code, Codex, OpenCode, Antigravity and Cursor session on your machine and puts them on one board by repo, worktree, branch and PR. Allow commands, answer questions, run automated draft PR reviews and reply from a floating bar or the notch, and see each account's plan limits. Apache-2.0.
 
 ## Code Generation & Automation
 
@@ -316,6 +325,7 @@ AI-powered tools for testing, quality assurance, security analysis, and code cov
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - Zero-dependency scanner that inspects a PyPI package’s install-time hooks (setup.py, entry points) before pip executes them, plus a typosquat hunter for lookalike package names.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records a coding-agent run below the harness and replays it offline with the network off, or forks it from a checkpoint onto another model
 - [VibeFix](https://vibe-fixer.com/) - AI agent that tests a live, published web app like a first customer on a phone and a computer, reports what breaks, gives a fix prompt to paste into the AI builder, then re-tests the live app. Also a remote MCP server (https://vibe-fixer.com/mcp)
+- [Keybrum](https://keybrum.com) - Automated penetration test for live apps built with Lovable, Bolt, Cursor, Replit, v0 or Claude Code. It attacks the deployed app with no account, as a new user, then as a second user, and writes each fix for the coding agent.
 
 ## MCP Servers & Integrations
 
@@ -329,6 +339,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - The easiest way to interact with mcp servers with custom agents
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - A powerful multi-database server implementing the Model Context Protocol (MCP) to provide AI assistants with structured access to databases
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - Connect your Supabase projects to Cursor, Claude, Windsurf, and other AI assistants
+- [Nhost MCP Server](https://github.com/nhost/nhost/tree/main/cli) - Official MCP server for Nhost, a managed backend for agentic apps. Lets AI agents read the GraphQL schema, run the queries you allow and manage permissions and migrations
 - [claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [Kodit](https://github.com/helixml/kodit) - MCP server to index external repositories
 - [PageSpeed Insights MCP Server](https://github.com/ruslanlap/pagespeed-insights-mcp) - MCP server for Google PageSpeed Insights API that enables web page performance analysis directly through Claude.
@@ -731,6 +742,7 @@ Reusable skill packages, collections, and tools for enhancing AI coding agents w
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - a coding agent skill that verifies code against organizational policies, code quality patterns, security requirements, and framework best practices — before code ships.
 - [fable-mode](https://github.com/mrtooher/fable-mode) - A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [DESIGN:OS Bridge](https://github.com/jangtrinh/design-os-figma-plugin) - Free CLI and agent skill that lets Claude Code, Codex or Gemini CLI read and edit the file open in Figma Desktop over a local WebSocket. Source-available (PolyForm Shield).
 
 ## Support
 

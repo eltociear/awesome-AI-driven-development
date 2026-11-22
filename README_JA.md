@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **602個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **610個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -53,6 +53,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Devin](https://devin.ai/) - 開発者がより良いソフトウェアをより速く構築するためのAIコーディングエージェント兼ソフトウェアエンジニア。本格的なエンジニアリングチーム向けの並列クラウドエージェント
 - [Windsurf Editor](https://windsurf.com/editor) - 初のエージェント型IDE。開発者とAIの作業が真に融合し、まるで魔法のようなコーディング体験を実現
 - [RapidNative](https://rapidnative.com/) - アイデア、スケッチ、スクリーンショットから動作するReact Native／Expoアプリを生成するAIネイティブなモバイルアプリビルダー。閲覧・編集・拡張可能な本番品質のコードを生成し、リアルタイムのチームコラボレーションに対応
+- [Vibeminter](https://vibeminter.com/) - ブラウザ上のチャットからネイティブのiPhoneアプリを構築するAIアプリビルダー。生成されたSwiftファイルの閲覧・検索・編集と、プロジェクトのzipダウンロードに対応
 
 ## ターミナル & CLIエージェント
 
@@ -112,6 +113,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Grok Build (`grok`)](https://github.com/xai-org/grok-build) - SpaceXAIのコーディングエージェントハーネス兼TUI。フルスクリーン、マウス操作対応、拡張可能。
 - [Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent) - ローカルファーストのCLI兼TUIコーディングエージェント。llama.cppのフォークを通じてオープンウェイトモデルをすべて自分のマシン上で実行し、アカウントもAPIキーも不要。56個の組み込みツール（ブラウザ、ファイルシステム、git、メモリ、ビジョン）、MCP対応、5層のローカルメモリシステムを備える。macOS、Linux、Windowsに対応。
 - [OB-1](https://github.com/Overbrilliant/ob-1) - アカウント・APIキー・クレジットカードなしで動作するターミナルコーディングエージェント。CLIプロセス内に組み込まれたルーターが、署名済みの無料モデルカタログを使ってキー不要の無料プロバイダー経由で最初のメッセージに応答し、自分のキー（OpenRouter、OpenAI、Gemini、Groq）やローカルランタイム（Ollama、LM Studio、llama.cpp、vLLM、OpenAI互換エンドポイント）へフェイルオーバーする。SQLiteによる永続的なプロジェクトメモリ（検査可能なファクト/関係グラフ）、リポジトリマップ、MCP、OSサンドボックス（Seatbelt/bubblewrap）に対応。キー不要ティアはモデル品質が一定せず制限も共有されるブートストラップ用の経路。Apache-2.0、npm `@overbrilliant/ob1`。
+- [Borg](https://github.com/adelphidata/borg) - Rust製のセキュリティ重視パーソナルAIアシスタント兼コーディングエージェント。ターミナルUI、読み取り専用のPlanモード、チェック通過まで続くゴールループ、git worktree、長期記憶、自己修復デーモンを備える
 
 ## IDE拡張機能
 
@@ -136,6 +138,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Antigravity Quota Watcher](https://github.com/Henrik-3/AntigravityQuota) - Antigravity AIモデルの使用量クォータを監視してステータスバーに表示する軽量VS Code拡張機能
 - [Antigravity Pulse](https://github.com/codavidgarcia/antigravity-pulse) - 100%ローカル＆プライベート。超軽量。Antigravity Pro & Ultraユーザー向けのAIモデルクォータを一目で監視できる120KBのステータスバー拡張機能
 - [Pixel Agents](https://github.com/pablodelucca/pixel-agents) - AIコーディングエージェントをバーチャルオフィス内のアニメーションピクセルアートキャラクターとして表示するVS Code拡張機能
+- [Lookout for VS Code](https://github.com/nimrod-teich/lookout) - Claude Code、Codex、Copilot CLIのセッションをサイドバーの1つのボードにまとめて表示するVS Code拡張機能。待機中のセッションが求めている内容（コマンド、ファイル、質問）を示し、キー1つでそのタブやターミナルへ移動でき、すべての会話を検索できる
 
 ### Neovim/Vim
 - [avante.nvim](https://github.com/yetone/avante.nvim) - Cursor AI IDEの動作を模倣するNeovimプラグイン
@@ -244,7 +247,9 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [RailWarden](https://github.com/advaith-1212/railwarden) - 依存関係を考慮した作業パッケージ、隔離されたGit worktree、検証エビデンス、機械的な統合ゲートを備えた、マルチエージェント開発向けの決定論的な実行・統合制御プレーン。
 - [MulmoTerminal](https://github.com/receptron/mulmoterminal) - 1つの`npx`コマンドで起動する、稼働中のClaude Code / Codexセッションをブラウザ上にグリッド表示するツール。各セルは色分けされたステータスを持つ実際のPTYで、tmuxによる永続化とセルごとのgit worktreeを備える。Claude Codeでは、CLI自身のフックを読み取ることで「要対応」と「完了」を区別して表示する。
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
-- [Codealong](https://github.com/codealong/codealong) - マシン上のClaude Code、Codex、OpenCode、Antigravity、Cursorのセッションをすべて見つけ、リポジトリ・worktree・ブランチ・PRごとに1つのボードにまとめるmacOS・Linux向けデスクトップアプリ。フローティングバーからコマンドの許可、質問への回答、返信ができ、アカウントごとのプランの利用上限も表示する。Apache-2.0。
+- [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Rust製のAgent Runtimeを備えたオープンソースのデスクトップ向けエージェントワークスペース。4つのAgent Harnessモード（Minimal、Standard、Ultimate、Creative）、マルチエージェントセッション、SSHによるリモートワークスペース、スマートフォンからのリモート操作、MCP、Skills、Hooksに対応。コアコードはMITライセンス。
+- [pando](https://github.com/xseman/pando) - Claude Code、Codex、Gemini CLI、OpenCode、任意のシェルを並べて実行するターミナルワークスペース。各セッションは専用のGit worktreeで動作し、デーモンがTUIを閉じてもエージェントを動かし続け、再起動後は会話を再開する。TUI内でdiffをレビューしてコミットでき、ブロッキング待機を備えたCLIでスクリプトや他のエージェントからセッションを操作できる。GoとBubble Teaで構築、Apache-2.0。
+- [Codealong](https://github.com/codealong/codealong) - マシン上のClaude Code、Codex、OpenCode、Antigravity、Cursorのセッションをすべて見つけ、リポジトリ・worktree・ブランチ・PRごとに1つのボードにまとめるmacOS・Linux・Windows向けデスクトップアプリ。フローティングバーやノッチからコマンドの許可、質問への回答、自動PRレビュー、返信ができ、アカウントごとのプラン利用上限も表示する。Apache-2.0。
 
 ## コード生成 & 自動化
 
@@ -317,6 +322,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [pypi-supply-scan](https://github.com/eltociear/pypi-supply-scan) - pipが実行する前にPyPIパッケージのインストール時フック（setup.py、エントリーポイント）を検査する依存関係ゼロのスキャナー。よく似たパッケージ名を探すタイポスクワットハンターも同梱
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - コーディングエージェントの実行をハーネスより下のレイヤーで記録し、オフラインでバイト単位に再現、または任意のチェックポイントから別のモデルへ分岐させるツール
 - [VibeFix](https://vibe-fixer.com/) - 公開済みのWebアプリを最初の顧客のようにスマホとPCで実際に使ってテストし、壊れている箇所を報告するAIエージェント。AIビルダーに貼り付ける修正プロンプトを提示し、修正後に本番アプリを再テストする。リモートMCPサーバー（https://vibe-fixer.com/mcp）としても利用可能
+- [Keybrum](https://keybrum.com) - Lovable、Bolt、Cursor、Replit、v0、Claude Codeで作られた公開済みアプリ向けの自動ペネトレーションテスト。未ログイン、新規ユーザー、さらに別ユーザーとしてデプロイ済みアプリを攻撃し、各修正をコーディングエージェント向けに記述する。
 
 ## MCPサーバー & 統合
 
@@ -330,6 +336,7 @@ AI機能強化のためのModel Context Protocolサーバーと統合。
 - [Unified MCP Client Library](https://github.com/pietrozullo/mcp-use) - カスタムエージェントでmcpサーバーとやりとりする最も簡単な方法
 - [Multi Database MCP Server](https://github.com/FreePeak/db-mcp-server) - AIアシスタントに構造化されたデータベースアクセスを提供するModel Context Protocol（MCP）実装の強力なマルチデータベースサーバー
 - [Supabase MCP Server](https://github.com/supabase-community/supabase-mcp) - SupabaseプロジェクトをCursor、Claude、Windsurf、その他のAIアシスタントに接続
+- [Nhost MCP Server](https://github.com/nhost/nhost/tree/main/cli) - Nhost（エージェント型アプリ向けのマネージドバックエンド）の公式MCPサーバー。AIエージェントがGraphQLスキーマの読み取り、許可されたクエリの実行、権限とマイグレーションの管理を行える
 - [claude-context](https://github.com/zilliztech/claude-context) - Claude Code用コード検索MCP。全コードベースを任意のコーディングエージェントのコンテキストに
 - [Kodit](https://github.com/helixml/kodit) - 外部リポジトリをインデックス化するMCPサーバー
 - [PageSpeed Insights MCP Server](https://github.com/ruslanlap/pagespeed-insights-mcp) - Google PageSpeed Insights APIのMCPサーバー、Claudeから直接Webページパフォーマンス解析を可能にする
@@ -732,6 +739,7 @@ AIコーディングエージェントに専門的な機能を付与するため
 - [🔍 Aurite Agent Verifier](https://github.com/aurite-ai/agent-verifier) - コードを出荷する前に、組織のポリシー、コード品質パターン、セキュリティ要件、フレームワークのベストプラクティスに照らしてコードを検証するコーディングエージェントスキル
 - [fable-mode](https://github.com/mrtooher/fable-mode) - Fableスタイルのエージェント的振る舞い（明示的な多段階プランニング、サブエージェントへの委譲、自己検証）を有効化するClaudeスキル
 - [Ponytail](https://github.com/DietrichGebert/ponytail) - AIエージェントを部屋で一番怠惰なシニア開発者のように考えさせる。最良のコードとは、書かずに済んだコードである。
+- [DESIGN:OS Bridge](https://github.com/jangtrinh/design-os-figma-plugin) - Claude Code、Codex、Gemini CLIからFigma Desktopで開いているファイルをローカルWebSocket経由で読み取り・編集できる無料のCLIとエージェントスキル。ソースアベイラブル（PolyForm Shield）。
 
 ## サポート
 
