@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **609個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **610個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -635,6 +635,7 @@ AI駆動開発を学ぶためのチュートリアル、ベストプラクティ
 - [OWASP Top 10 for LLM Applications](https://github.com/GenAI-Security-Project/GenAI-LLM-Top10) - OWASP GenAI Security ProjectによるLLM・エージェントアプリケーションの最重要セキュリティリスクのコンセンサスリスト。AI駆動システムを構築する開発者向けの緩和策ガイダンスを含む
 - [Vibe Coding with Confidence](https://zalt.me/guides/vibe-coding) - デモ止まりにしないAI支援アプリ開発のWebハンドブック。計画、構築、デバッグ、堅牢化、リリース、運用、スケールまでを網羅
 - [Yupi's Vibe Coding Guide](https://github.com/liyupi/ai-guide) - AI駆動開発の無料中国語ハンドブック。ツール選定、プロンプトとコンテキスト管理、多数のエンドツーエンドのプロジェクト実践、本番リリースまでを網羅
+- [ローカルLLMナビ：OpenCodeとOllama](https://local-llm-navi.com/guide/opencode-ollama-agent-terminal/) - ローカルのコーディングエージェントを動かし、メモリに合うモデルを選び、小さなコード変更とテストを確認する日本語ガイド。
 
 ## フレームワーク & ライブラリ
 
