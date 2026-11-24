@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **609 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **610 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -202,6 +202,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [GitAGU (Git Agent Unblock)](https://github.com/microsoft/gitagu) - A centralized platform for discovering, configuring, and integrating AI agents into your development workflow. Simplifies AI adoption across the entire Software Development Life Cycle
 - [Floki](https://github.com/FinnaAI/floki) - Floki creates a new paradigm for working with multiple AI coding agents in parallel, letting you build better software, faster with AI-powered assistance.
 - [Omnara](https://github.com/omnara-ai/omnara) - Get real-time visibility into what your agents are doing, and respond to their questions instantly from a single dashboard on web and mobile.
+- [Alook](https://github.com/alookai/alook) - Open-source, local-first group chat where people and local coding agents collaborate in shared rooms.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - Generate fully functional crews based on the crew's purpose and desired output data
 - [Symphony v0.2](https://github.com/sincover/Symphony) - A sophisticated multi-agent software development framework designed to orchestrate AI agents in a structured, efficient workflow

@@ -4,7 +4,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **609個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **610個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -204,6 +204,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [GitAGU (Git Agent Unblock)](https://github.com/microsoft/gitagu) - 開発ワークフローにAIエージェントを発見、設定、統合するための一元プラットフォーム。ソフトウェア開発ライフサイクル全体にわたるAI導入を簡素化
 - [Floki](https://github.com/FinnaAI/floki) - 複数のAIコーディングエージェントを並行して使用する新しいパラダイムを創造し、AI搭載アシスタンスでより良いソフトウェアをより速く構築
 - [Omnara](https://github.com/omnara-ai/omnara) - エージェントが何をしているかをリアルタイムで可視化し、Webとモバイルの単一ダッシュボードから質問に即座に応答
+- [Alook](https://github.com/alookai/alook) - 人とローカルのコーディングエージェントが共有ルームで協働するための、オープンソースでローカルファーストなグループチャット。
 - [Giselle](https://github.com/giselles-ai/giselle) - AI駆動ソリューションを簡単に作成できるエージェント型ワークフロービルダー
 - [hcom](https://github.com/aannoo/hcom) - AIエージェントがターミナル間でメッセージ、監視、生成し合えるようにする。Claude Code、Gemini CLI、Codex、OpenCode対応。
 - [development-workforce](https://github.com/Grusinator/development-workforce) - AIエージェントを既存のソフトウェア開発セットアップに統合する実験
