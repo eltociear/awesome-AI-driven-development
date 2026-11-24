@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **609 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **610 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -372,6 +372,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Roslyn MCP Server](https://github.com/carquiza/RoslynMCP) - A C# MCP (Model Context Protocol) server that integrates with Microsoft's Roslyn compiler platform to provide Claude Desktop with code analysis and navigation capabilities for C# codebases.
 - [SharpTools](https://github.com/kooshi/sharptoolsmcp) - A suite of MCP tools for AIs to analyze and modify C# solutions with high signal, Roslyn powered context.
 - [Roslyn Code Analysis MCP Server](https://github.com/egorpavlikhin/roslyn-mcp) - A Model Context Protocol (MCP) server that provides C# code analysis capabilities using the Roslyn compiler platform.
+- [Runheed](https://github.com/getrunheed/runheed-plugin) - Error tracking with a remote MCP server so Claude Code, Cursor and Codex read production errors with stack traces, fix them and mark them resolved
 - [Things 3 MCP Server](https://github.com/ebowman/mcp-server-things) - A Model Context Protocol (MCP) server that connects Claude and other AI assistants to Things 3 for natural language task management.
 - [Claude Context Local](https://github.com/FarhanAliRaza/claude-context-local) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent. Embeddings are created and stored locally. No API cost.
 - [MCP Code Checker](https://github.com/MarcusJellinghaus/mcp-code-checker) - A Model Context Protocol (MCP) server providing code quality checking operations with easy client configuration.
