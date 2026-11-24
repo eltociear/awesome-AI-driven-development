@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **609 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **610 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -253,6 +253,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Terminal UI that runs Claude Code, Codex, OpenCode, Gemini CLI, and other coding-agent CLIs side by side in persistent tmux sessions, with live status, diff review, and a built-in MCP server that lets one agent spawn, message, and wait on another session. Built with Go + Bubble Tea, Apache-2.0.
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Open-source desktop agent workspace with a Rust agent runtime. Four Agent Harness modes (Minimal, Standard, Ultimate, Creative), multi-agent sessions, remote workspaces over SSH, remote control from a phone, MCP, Skills, and Hooks. Core code is MIT.
 - [pando](https://github.com/xseman/pando) - Terminal workspace that runs Claude Code, Codex, Gemini CLI, OpenCode or any shell side by side, each session in its own Git worktree. A daemon keeps agents running when the TUI closes and resumes their conversations after a restart; diffs are reviewed and committed in the TUI, and a CLI with blocking waits lets scripts or other agents drive sessions. Built with Go + Bubble Tea, Apache-2.0.
+- [TernaryCode](https://github.com/ilhamnadhif/ternarycode) - Native cross-platform Rust workspace (macOS, Windows, Linux) for running Claude Code, Codex, OpenCode, and Antigravity CLI across projects with hook-backed status, git worktrees, multi-account failover, an MCP browser panel, and a local phone companion.
 
 ## Code Generation & Automation
 
