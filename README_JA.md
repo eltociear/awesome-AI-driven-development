@@ -249,6 +249,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Rust製のAgent Runtimeを備えたオープンソースのデスクトップ向けエージェントワークスペース。4つのAgent Harnessモード（Minimal、Standard、Ultimate、Creative）、マルチエージェントセッション、SSHによるリモートワークスペース、スマートフォンからのリモート操作、MCP、Skills、Hooksに対応。コアコードはMITライセンス。
 - [pando](https://github.com/xseman/pando) - Claude Code、Codex、Gemini CLI、OpenCode、任意のシェルを並べて実行するターミナルワークスペース。各セッションは専用のGit worktreeで動作し、デーモンがTUIを閉じてもエージェントを動かし続け、再起動後は会話を再開する。TUI内でdiffをレビューしてコミットでき、ブロッキング待機を備えたCLIでスクリプトや他のエージェントからセッションを操作できる。GoとBubble Teaで構築、Apache-2.0。
+- [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator) - オーケストレーターエージェントが作業を分割し、Claude Code、Codex、Cursor など38種類のコーディングエージェントをそれぞれ独立したgit worktreeで並列実行する、オープンソースのデスクトップアプリ（macOS、Windows、Linux）。カンバンボードで各PRのCIとレビューを追跡し、失敗や指摘は担当エージェントに戻される。リモートセッション用のiOS・Androidアプリあり。
 
 ## コード生成 & 自動化
 
