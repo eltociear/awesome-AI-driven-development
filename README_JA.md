@@ -1,3 +1,7 @@
+[AI駆動開発サミット開催決定！オンライン配信もあります！](https://aid.connpass.com/event/411003/)
+
+---
+
 
 ![Logo](/logo.png)
 # 🤖 Awesome AI-Driven Development
