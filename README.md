@@ -203,6 +203,7 @@ Frameworks and tools for orchestrating and managing multiple AI agents in develo
 - [GitAGU (Git Agent Unblock)](https://github.com/microsoft/gitagu) - A centralized platform for discovering, configuring, and integrating AI agents into your development workflow. Simplifies AI adoption across the entire Software Development Life Cycle
 - [Floki](https://github.com/FinnaAI/floki) - Floki creates a new paradigm for working with multiple AI coding agents in parallel, letting you build better software, faster with AI-powered assistance.
 - [Omnara](https://github.com/omnara-ai/omnara) - Get real-time visibility into what your agents are doing, and respond to their questions instantly from a single dashboard on web and mobile.
+- [Alook](https://github.com/alookai/alook) - Open-source, local-first group chat where people and local coding agents collaborate in shared rooms.
 - [nous](https://github.com/TrafficGuard/nous) - The open-source TypeScript platform for autonomous AI agents and LLM based workflows
 - [crewai-factory-crew](https://github.com/opahopa/crewai-factory-crew) - Generate fully functional crews based on the crew's purpose and desired output data
 - [Symphony v0.2](https://github.com/sincover/Symphony) - A sophisticated multi-agent software development framework designed to orchestrate AI agents in a structured, efficient workflow
