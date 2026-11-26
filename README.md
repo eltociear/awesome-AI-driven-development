@@ -396,7 +396,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [SymDex](https://github.com/husnainpk/SymDex) - Code-indexer MCP server for AI agents — 97% fewer tokens per lookup. Supports 13 languages, semantic search, call graph, and cross-repo search.
 - [DebugMCP (MCP Server)](https://github.com/microsoft/DebugMCP) - Gift your VS Code agent a real debugger: breakpoints, stepping, inspection.
 - [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing requests across 30+ image generation models. Zero API key required on first run via Pollinations and Stable Horde free tiers.
-- [Scalekit](https://scalekit.com/) - Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
+- [Scalekit](https://scalekit.com/) - Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 1,100+ connectors / 55,000+ tools.
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes.
 - [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - Local code-graph MCP server that indexes a repository once, then answers structural questions (file outline, symbol source, usages, call graph, change impact) from the index instead of re-reading files. 81 languages, with cross-language framework edges; ships a desktop app.
 
