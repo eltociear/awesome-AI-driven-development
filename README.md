@@ -400,7 +400,7 @@ Model Context Protocol servers and integrations for enhanced AI capabilities.
 - [Scalekit](https://scalekit.com/) - Auth and tool-calling infrastructure for AI agents with delegated OAuth, secure token vault, and 3000+ connectors.
 - [codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - The fastest and most efficient code intelligence engine for AI coding agents. Full-indexes an average repository in milliseconds, the Linux kernel (28M LOC, 75K files) in 3 minutes.
 - [trace-mcp](https://github.com/nikolai-vysotskyi/trace-mcp) - Local code-graph MCP server that indexes a repository once, then answers structural questions (file outline, symbol source, usages, call graph, change impact) from the index instead of re-reading files. 81 languages, with cross-language framework edges; ships a desktop app.
-- [UberLLM MCP](https://uberllm.dev/docs/mcp) - Remote MCP server (`https://api.uberllm.dev/mcp`, Streamable HTTP, API key) that lets Claude Code, Cursor and other MCP clients list and price text, image, video and music models, generate images and videos, and check the account balance. Prepaid, pay per use.
+- [MartLLM MCP](https://martllm.com/docs/mcp) - Remote MCP server (`https://api.martllm.com/mcp`, Streamable HTTP, API key) that lets Claude Code, Cursor and other MCP clients list and price text, image, video and music models, generate images and videos, and check the account balance. Prepaid, pay per use.
 
 ## Code Review & Collaboration
 
