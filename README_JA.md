@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **611個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **612個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -255,6 +255,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [agent-manager](https://github.com/YoanWai/agent-manager) - Claude Code、Codex、OpenCode、Gemini CLIなどのコーディングエージェントCLIを永続tmuxセッションで並べて実行するターミナルUI。ライブステータス表示、差分レビュー、あるエージェントが別セッションを起動・メッセージ送信・完了待機できる内蔵MCPサーバーを備える。GoとBubble Teaで構築、Apache-2.0。
 - [OpenBitFun](https://github.com/GCWing/OpenBitFun) - Rust製のAgent Runtimeを備えたオープンソースのデスクトップ向けエージェントワークスペース。4つのAgent Harnessモード（Minimal、Standard、Ultimate、Creative）、マルチエージェントセッション、SSHによるリモートワークスペース、スマートフォンからのリモート操作、MCP、Skills、Hooksに対応。コアコードはMITライセンス。
 - [pando](https://github.com/xseman/pando) - Claude Code、Codex、Gemini CLI、OpenCode、任意のシェルを並べて実行するターミナルワークスペース。各セッションは専用のGit worktreeで動作し、デーモンがTUIを閉じてもエージェントを動かし続け、再起動後は会話を再開する。TUI内でdiffをレビューしてコミットでき、ブロッキング待機を備えたCLIでスクリプトや他のエージェントからセッションを操作できる。GoとBubble Teaで構築、Apache-2.0。
+- [Codeman](https://github.com/Ark0N/Codeman) - Claude Code、Codex、OpenCode、Gemini CLI、Copilot CLIなどのコーディングエージェントCLIを永続的なtmuxセッションで実行し、実際のターミナルを任意のブラウザやスマートフォンにストリーミングするセルフホスト型Webダッシュボード。タイルグリッド表示、エージェントが入力待ちの際の通知、利用制限リセット後の自動再開、あるエージェントから他のセッションを起動・操作できるスキルとMCPサーバーを備える。TypeScript、MIT。
 
 ## コード生成 & 自動化
 
