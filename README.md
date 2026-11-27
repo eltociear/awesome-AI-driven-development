@@ -179,6 +179,7 @@ Plugins and extensions for popular IDEs and text editors.
 - [Wingman](https://github.com/winstxnhdw/Wingman) - Your offline AI pair programmer for VSCode on Windows
 - [Co-Clone](https://github.com/Sarvesh-Kannan/Co-Clone) - a local AI coding assistant that mimics the functionality of GitHub Copilot. It provides intelligent code completions and context-aware implementations using a local LLM (deepseek-coder:6.7b) running via Ollama.
 - [eca](https://github.com/editor-code-assistant/eca) - AI pair programming capabilities agnostic of editor
+- [ezragodev/modevc-radar-mcp](https://github.com/ezragodev/modevc-radar-mcp) - MIT-licensed MCP server providing structured VC directory lookups, SEC Form D/ADV queries, and LLM token cost calculators (`https://modevc.com/api/mcp`).
 
 ## Multi-Agent & Orchestration
 
