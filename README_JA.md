@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **612個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **613個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -329,6 +329,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - コーディングエージェントの実行をハーネスより下のレイヤーで記録し、オフラインでバイト単位に再現、または任意のチェックポイントから別のモデルへ分岐させるツール
 - [VibeFix](https://vibe-fixer.com/) - 公開済みのWebアプリを最初の顧客のようにスマホとPCで実際に使ってテストし、壊れている箇所を報告するAIエージェント。AIビルダーに貼り付ける修正プロンプトを提示し、修正後に本番アプリを再テストする。リモートMCPサーバー（https://vibe-fixer.com/mcp）としても利用可能
 - [Keybrum](https://keybrum.com) - Lovable、Bolt、Cursor、Replit、v0、Claude Codeで作られた公開済みアプリ向けの自動ペネトレーションテスト。未ログイン、新規ユーザー、さらに別ユーザーとしてデプロイ済みアプリを攻撃し、各修正をコーディングエージェント向けに記述する。
+- [Ironheights](https://github.com/Frank-Masciopinto/ironheights) - Claude Code、Codex、Cursor、OpenClaw、MCPクライアント向けのAIエージェントスキル（SKILL.mdと同梱スクリプト）をインストール前に検査する、オープンソースでローカル完結のスキャナー。プロンプトインジェクション、認証情報の読み取り、リモート実行インストール、永続化をファイル・行単位で報告する。CLI、MCPサーバー、GitHub Actionとして動作。ルールベースのため、平易な文章による攻撃の多くは検出できない。
 
 ## MCPサーバー & 統合
 
