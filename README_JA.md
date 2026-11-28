@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **612個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
+AI駆動開発のためのツール、フレームワーク、リソースの厳選されたリスト。現在 **613個のツール** を掲載し、AIによる開発ワークフローを強化します。[AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/)からインスピレーションを得ています.
 
 ## 目次
 
@@ -100,6 +100,7 @@ AI駆動開発のためのツール、フレームワーク、リソースの厳
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - Claude CodeやGemini CLIなどのエージェント型コーディングツールの機能をローカルモデルやOpenRouterなどの制御されたAPIに提供するローカルファーストCLIコーディングエージェント
 - [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLIはCopilotコーディングエージェントの力を直接ターミナルにもたらします
 - [VT Code](https://github.com/vinhnx/vtcode) - tree-sitterとast-grepによるセマンティックコード理解を搭載し、エージェントの制御を完全に構成可能なRustベースのターミナルコーディングエージェント
+- [Open Max](https://github.com/Max17190/open-max) - プロンプトキャッシュに最適化された、Rust製の高速で自己拡張可能なターミナルコーディングエージェントハーネス。エージェントが新しいツールやスキルをファイルとして作成し、次のステップで呼び出せる。OpenAI互換、Anthropic、ローカルモデルに対応。MIT。
 - [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - 関数型のEffect-TSベースのAIコーディングアシスタントCLIで、マルチプロバイダーをサポート
 - [claude-sessions](https://github.com/kyupid/claude-sessions) - ターミナルで実行中のすべてのClaude Codeセッションを監視
 - [resume-cli](https://github.com/inevolin/resume-cli) - Claude Code、Codex、GitHub Copilot間でAIコーディングセッションを再開するCLI。最近のセッションを一覧表示し、3つのツールのいずれかで続行可能

@@ -8,7 +8,7 @@
 
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
 
-A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **612 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
+A curated list of awesome AI-Driven development tools, frameworks, and resources. Currently featuring **613 tools** to enhance your AI-powered development workflow. Inspired by [AI駆動開発(AI-Driven Development)](https://www.ai-driven.dev/).
 
 ## Contents
 
@@ -100,6 +100,7 @@ AI coding assistants and agents that work directly in your terminal or command l
 - [Nanocoder](https://github.com/Nano-Collective/nanocoder) - A local-first CLI coding agent that brings the power of agentic coding tools like Claude Code and Gemini CLI to local models or controlled APIs like OpenRouter.
 - [GitHub Copilot CLI (Public Preview)](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.
 - [VT Code](https://github.com/vinhnx/vtcode) - a Rust-based terminal coding agent with semantic code understanding powered by tree-sitter and ast-grep, and fully configurable for steering the Agent.
+- [Open Max](https://github.com/Max17190/open-max) - A high-performance, self-extensible terminal coding agent harness in Rust, optimized for prompt caching. Lets the agent write new tools and skills as files and call them on its next step. Works with any OpenAI-compatible, Anthropic, or local model. MIT.
 - [Cliq - Effect-TS AI Assistant](https://github.com/kpritam/cliq/) - A functional, Effect-TS-based AI coding assistant CLI with multi-provider support.
 - [claude-sessions](https://github.com/kyupid/claude-sessions) - Monitor all running Claude Code sessions in your terminal.
 - [resume-cli](https://github.com/inevolin/resume-cli) - CLI for resuming AI coding sessions across Claude Code, Codex, and GitHub Copilot. Aggregates recent sessions in one place so you can pick one and continue in any of the three tools.
